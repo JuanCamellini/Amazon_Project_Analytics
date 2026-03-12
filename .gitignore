@@ -1,2 +1,4 @@
 .env
 data/api_raw/
+data/raw/
+.env
