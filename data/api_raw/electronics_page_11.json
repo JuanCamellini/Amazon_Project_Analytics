@@ -1,0 +1,1936 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13,
+    "credits_remaining": 87,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "type": "search",
+    "amazon_domain": "amazon.com",
+    "search_term": "best electronics",
+    "page": "11"
+  },
+  "request_metadata": {
+    "created_at": "2026-03-12T19:45:56.383Z",
+    "processed_at": "2026-03-12T19:46:06.394Z",
+    "total_time_taken": 10.01,
+    "amazon_url": "https://www.amazon.com/s/?k=best+electronics&ref=nb_sb_noss_2&page=11"
+  },
+  "search_results": [
+    {
+      "position": 1,
+      "title": "[1200 ANSI & Audio by dbx-tv] Alvar Projector with WiFi 6 and Bluetooth, 30W Speakers, Built in NetfIix App & DoIby Audio Outdoor Proyector, Auto Focus & Keystone Native 1080P Smart Projector, Black",
+      "asin": "B0D8BCJ1PV",
+      "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo0Mjk0MzA3MTUyNzUyNTc0OjE3NzMzNDQ3NTg6c3BfYXRmX25leHQ6MzAxMTE3MjczMDgzODAyOjowOjo&url=%2FAlvar-Projector-Bluetooth-Certified-Keystone%2Fdp%2FB0D8BCJ1PV%2Fref%3Dsr_1_161_sspa%3Fdib%3DeyJ2IjoiMSJ9.ieF59V82WCRGBMod0-U7a3YvPcdFWy67byBXFBSSKMG9AWwHd1V6_1w3GZ31FObMP71bqgpjWzuc988vcXD8blt0RKt9lM4H_C-03EqdoZf830qHbqlkvykf1ZdLTNZAUiJ2jjg5CjrQRgBquzs4gsEzG7G2tmMGd5jRHpcLufhh_7wprLbmiwkgcb-0fyfg9Pz0c_4fs4kr8nu4FmM7T6nutiB3fDvtU3hKV-6FGdU.JqezCdnQgSyoyKNIggwOD9dJJX17Pf9u1JAViAvy4M8%26dib_tag%3Dse%26keywords%3Dbest%2Belectronics%26qid%3D1773344758%26sr%3D8-161-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGZfbmV4dA%26psc%3D1",
+      "recent_sales": "50+ bought in past month",
+      "availability": {
+        "raw": null
+      },
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/812XMk8bv8L._AC_UY218_.jpg",
+      "is_prime": false,
+      "is_amazon_fresh": false,
+      "is_whole_foods_market": false,
+      "rating": 4.4,
+      "ratings_total": 491,
+      "sponsored": true,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 169.99,
+          "currency": "USD",
+          "raw": "$169.99",
+          "name": "Primary",
+          "is_primary": true,
+          "list_price": "$246.49",
+          "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo0Mjk0MzA3MTUyNzUyNTc0OjE3NzMzNDQ3NTg6c3BfYXRmX25leHQ6MzAxMTE3MjczMDgzODAyOjowOjo&url=%2FAlvar-Projector-Bluetooth-Certified-Keystone%2Fdp%2FB0D8BCJ1PV%2Fref%3Dsr_1_161_sspa%3Fdib%3DeyJ2IjoiMSJ9.ieF59V82WCRGBMod0-U7a3YvPcdFWy67byBXFBSSKMG9AWwHd1V6_1w3GZ31FObMP71bqgpjWzuc988vcXD8blt0RKt9lM4H_C-03EqdoZf830qHbqlkvykf1ZdLTNZAUiJ2jjg5CjrQRgBquzs4gsEzG7G2tmMGd5jRHpcLufhh_7wprLbmiwkgcb-0fyfg9Pz0c_4fs4kr8nu4FmM7T6nutiB3fDvtU3hKV-6FGdU.JqezCdnQgSyoyKNIggwOD9dJJX17Pf9u1JAViAvy4M8%26dib_tag%3Dse%26keywords%3Dbest%2Belectronics%26qid%3D1773344758%26sr%3D8-161-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGZfbmV4dA%26psc%3D1"
+        },
+        {
+          "symbol": "$",
+          "value": 246.49,
+          "currency": "USD",
+          "raw": "$246.49",
+          "name": "Original",
+          "is_rrp": true,
+          "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo0Mjk0MzA3MTUyNzUyNTc0OjE3NzMzNDQ3NTg6c3BfYXRmX25leHQ6MzAxMTE3MjczMDgzODAyOjowOjo&url=%2FAlvar-Projector-Bluetooth-Certified-Keystone%2Fdp%2FB0D8BCJ1PV%2Fref%3Dsr_1_161_sspa%3Fdib%3DeyJ2IjoiMSJ9.ieF59V82WCRGBMod0-U7a3YvPcdFWy67byBXFBSSKMG9AWwHd1V6_1w3GZ31FObMP71bqgpjWzuc988vcXD8blt0RKt9lM4H_C-03EqdoZf830qHbqlkvykf1ZdLTNZAUiJ2jjg5CjrQRgBquzs4gsEzG7G2tmMGd5jRHpcLufhh_7wprLbmiwkgcb-0fyfg9Pz0c_4fs4kr8nu4FmM7T6nutiB3fDvtU3hKV-6FGdU.JqezCdnQgSyoyKNIggwOD9dJJX17Pf9u1JAViAvy4M8%26dib_tag%3Dse%26keywords%3Dbest%2Belectronics%26qid%3D1773344758%26sr%3D8-161-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGZfbmV4dA%26psc%3D1",
+          "asin": "B0D8BCJ1PV"
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 169.99,
+        "currency": "USD",
+        "raw": "$169.99",
+        "name": "Primary",
+        "is_primary": true,
+        "list_price": "$246.49",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo0Mjk0MzA3MTUyNzUyNTc0OjE3NzMzNDQ3NTg6c3BfYXRmX25leHQ6MzAxMTE3MjczMDgzODAyOjowOjo&url=%2FAlvar-Projector-Bluetooth-Certified-Keystone%2Fdp%2FB0D8BCJ1PV%2Fref%3Dsr_1_161_sspa%3Fdib%3DeyJ2IjoiMSJ9.ieF59V82WCRGBMod0-U7a3YvPcdFWy67byBXFBSSKMG9AWwHd1V6_1w3GZ31FObMP71bqgpjWzuc988vcXD8blt0RKt9lM4H_C-03EqdoZf830qHbqlkvykf1ZdLTNZAUiJ2jjg5CjrQRgBquzs4gsEzG7G2tmMGd5jRHpcLufhh_7wprLbmiwkgcb-0fyfg9Pz0c_4fs4kr8nu4FmM7T6nutiB3fDvtU3hKV-6FGdU.JqezCdnQgSyoyKNIggwOD9dJJX17Pf9u1JAViAvy4M8%26dib_tag%3Dse%26keywords%3Dbest%2Belectronics%26qid%3D1773344758%26sr%3D8-161-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGZfbmV4dA%26psc%3D1"
+      },
+      "delivery": {
+        "tagline": "FREE delivery Tue, Mar 17 Or fastest delivery Mon, Mar 16",
+        "price": {
+          "raw": "$169.99",
+          "symbol": "$",
+          "value": 169.99,
+          "currency": "USD",
+          "is_free": false
+        }
+      }
+    },
+    {
+      "position": 2,
+      "title": "HP 26A Black Toner Cartridge Printers | Works with LaserJet Pro M402 Series; LaserJet Pro MFP M426 Series | CF226A",
+      "asin": "B015H31W60",
+      "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo0Mjk0MzA3MTUyNzUyNTc0OjE3NzMzNDQ3NTg6c3BfYXRmX25leHQ6MjAwMDM1NTM2MzA4Nzk4OjowOjo&url=%2FHP-CF226A-Black-Cartridge-LaserJet%2Fdp%2FB015H31W60%2Fref%3Dsr_1_162_sspa%3Fdib%3DeyJ2IjoiMSJ9.ieF59V82WCRGBMod0-U7a3YvPcdFWy67byBXFBSSKMG9AWwHd1V6_1w3GZ31FObMP71bqgpjWzuc988vcXD8blt0RKt9lM4H_C-03EqdoZf830qHbqlkvykf1ZdLTNZAUiJ2jjg5CjrQRgBquzs4gsEzG7G2tmMGd5jRHpcLufhh_7wprLbmiwkgcb-0fyfg9Pz0c_4fs4kr8nu4FmM7T6nutiB3fDvtU3hKV-6FGdU.JqezCdnQgSyoyKNIggwOD9dJJX17Pf9u1JAViAvy4M8%26dib_tag%3Dse%26keywords%3Dbest%2Belectronics%26qid%3D1773344758%26sr%3D8-162-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGZfbmV4dA%26psc%3D1",
+      "recent_sales": "2K+ bought in past month",
+      "availability": {
+        "raw": null
+      },
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/71J5gQJfqTL._AC_UY218_.jpg",
+      "is_prime": false,
+      "is_amazon_fresh": false,
+      "is_whole_foods_market": false,
+      "rating": 4.6,
+      "ratings_total": 2006,
+      "sponsored": true,
+      "delivery": {
+        "tagline": "FREE delivery Tue, Mar 17 Or fastest delivery Mon, Mar 16"
+      }
+    },
+    {
+      "position": 3,
+      "title": "Compressed Air Duster, New Upgrade 300000RPM Electric Air Duster, Powerful Replace Compressed Air Can - No Canned Air, Jet Dry Blower Portable Air Blower for Computer Clean, Keyboard, Home. (Black)",
+      "asin": "B0CZ9HD4K7",
+      "link": "https://www.amazon.com/Compressed-150000RPM-Electric-Powerful-Replace/dp/B0CZ9HD4K7/ref=sr_1_163?dib=eyJ2IjoiMSJ9.ieF59V82WCRGBMod0-U7a3YvPcdFWy67byBXFBSSKMG9AWwHd1V6_1w3GZ31FObMP71bqgpjWzuc988vcXD8blt0RKt9lM4H_C-03EqdoZf830qHbqlkvykf1ZdLTNZAUiJ2jjg5CjrQRgBquzs4gsEzG7G2tmMGd5jRHpcLufhh_7wprLbmiwkgcb-0fyfg9Pz0c_4fs4kr8nu4FmM7T6nutiB3fDvtU3hKV-6FGdU.JqezCdnQgSyoyKNIggwOD9dJJX17Pf9u1JAViAvy4M8&dib_tag=se&keywords=best+electronics&qid=1773344758&sr=8-163",
+      "recent_sales": "100+ bought in past month",
+      "availability": {
+        "raw": null
+      },
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/71vCmMgbibL._AC_UY218_.jpg",
+      "is_prime": false,
+      "is_amazon_fresh": false,
+      "is_whole_foods_market": false,
+      "rating": 4.3,
+      "ratings_total": 740,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 37.89,
+          "currency": "USD",
+          "raw": "$37.89",
+          "asin": "B0CZ9HD4K7",
+          "link": "https://www.amazon.com/Compressed-150000RPM-Electric-Powerful-Replace/dp/B0CZ9HD4K7/ref=sr_1_163?dib=eyJ2IjoiMSJ9.ieF59V82WCRGBMod0-U7a3YvPcdFWy67byBXFBSSKMG9AWwHd1V6_1w3GZ31FObMP71bqgpjWzuc988vcXD8blt0RKt9lM4H_C-03EqdoZf830qHbqlkvykf1ZdLTNZAUiJ2jjg5CjrQRgBquzs4gsEzG7G2tmMGd5jRHpcLufhh_7wprLbmiwkgcb-0fyfg9Pz0c_4fs4kr8nu4FmM7T6nutiB3fDvtU3hKV-6FGdU.JqezCdnQgSyoyKNIggwOD9dJJX17Pf9u1JAViAvy4M8&dib_tag=se&keywords=best+electronics&qid=1773344758&sr=8-163"
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 37.89,
+        "currency": "USD",
+        "raw": "$37.89",
+        "asin": "B0CZ9HD4K7",
+        "link": "https://www.amazon.com/Compressed-150000RPM-Electric-Powerful-Replace/dp/B0CZ9HD4K7/ref=sr_1_163?dib=eyJ2IjoiMSJ9.ieF59V82WCRGBMod0-U7a3YvPcdFWy67byBXFBSSKMG9AWwHd1V6_1w3GZ31FObMP71bqgpjWzuc988vcXD8blt0RKt9lM4H_C-03EqdoZf830qHbqlkvykf1ZdLTNZAUiJ2jjg5CjrQRgBquzs4gsEzG7G2tmMGd5jRHpcLufhh_7wprLbmiwkgcb-0fyfg9Pz0c_4fs4kr8nu4FmM7T6nutiB3fDvtU3hKV-6FGdU.JqezCdnQgSyoyKNIggwOD9dJJX17Pf9u1JAViAvy4M8&dib_tag=se&keywords=best+electronics&qid=1773344758&sr=8-163"
+      },
+      "delivery": {
+        "tagline": "FREE delivery Thu, Mar 19",
+        "price": {
+          "raw": "$37.89",
+          "symbol": "$",
+          "value": 37.89,
+          "currency": "USD",
+          "is_free": false
+        }
+      }
+    },
+    {
+      "position": 4,
+      "title": "16\" Screen Magnifier for Mobile Phone,3D HD Cell Phone Magnifying Projector Screen Enlarger for Movies, Videos, and Gaming,Foldable Phone Stand with Screen Amplifier,Supports All Smartphones (Black)",
+      "asin": "B0CX1D7BYF",
+      "link": "https://www.amazon.com/Screen-Magnifier-Gaming-Foldable-Amplifier-Supports-Smartphones/dp/B0CX1D7BYF/ref=sr_1_164?dib=eyJ2IjoiMSJ9.ieF59V82WCRGBMod0-U7a3YvPcdFWy67byBXFBSSKMG9AWwHd1V6_1w3GZ31FObMP71bqgpjWzuc988vcXD8blt0RKt9lM4H_C-03EqdoZf830qHbqlkvykf1ZdLTNZAUiJ2jjg5CjrQRgBquzs4gsEzG7G2tmMGd5jRHpcLufhh_7wprLbmiwkgcb-0fyfg9Pz0c_4fs4kr8nu4FmM7T6nutiB3fDvtU3hKV-6FGdU.JqezCdnQgSyoyKNIggwOD9dJJX17Pf9u1JAViAvy4M8&dib_tag=se&keywords=best+electronics&qid=1773344758&sr=8-164",
+      "availability": {
+        "raw": null
+      },
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/71rACPuqdZL._AC_UY218_.jpg",
+      "is_prime": false,
+      "is_amazon_fresh": false,
+      "is_whole_foods_market": false,
+      "rating": 3.8,
+      "ratings_total": 179,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 29.99,
+          "currency": "USD",
+          "raw": "$29.99",
+          "asin": "B0CX1D7BYF",
+          "link": "https://www.amazon.com/Screen-Magnifier-Gaming-Foldable-Amplifier-Supports-Smartphones/dp/B0CX1D7BYF/ref=sr_1_164?dib=eyJ2IjoiMSJ9.ieF59V82WCRGBMod0-U7a3YvPcdFWy67byBXFBSSKMG9AWwHd1V6_1w3GZ31FObMP71bqgpjWzuc988vcXD8blt0RKt9lM4H_C-03EqdoZf830qHbqlkvykf1ZdLTNZAUiJ2jjg5CjrQRgBquzs4gsEzG7G2tmMGd5jRHpcLufhh_7wprLbmiwkgcb-0fyfg9Pz0c_4fs4kr8nu4FmM7T6nutiB3fDvtU3hKV-6FGdU.JqezCdnQgSyoyKNIggwOD9dJJX17Pf9u1JAViAvy4M8&dib_tag=se&keywords=best+electronics&qid=1773344758&sr=8-164"
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 29.99,
+        "currency": "USD",
+        "raw": "$29.99",
+        "asin": "B0CX1D7BYF",
+        "link": "https://www.amazon.com/Screen-Magnifier-Gaming-Foldable-Amplifier-Supports-Smartphones/dp/B0CX1D7BYF/ref=sr_1_164?dib=eyJ2IjoiMSJ9.ieF59V82WCRGBMod0-U7a3YvPcdFWy67byBXFBSSKMG9AWwHd1V6_1w3GZ31FObMP71bqgpjWzuc988vcXD8blt0RKt9lM4H_C-03EqdoZf830qHbqlkvykf1ZdLTNZAUiJ2jjg5CjrQRgBquzs4gsEzG7G2tmMGd5jRHpcLufhh_7wprLbmiwkgcb-0fyfg9Pz0c_4fs4kr8nu4FmM7T6nutiB3fDvtU3hKV-6FGdU.JqezCdnQgSyoyKNIggwOD9dJJX17Pf9u1JAViAvy4M8&dib_tag=se&keywords=best+electronics&qid=1773344758&sr=8-164"
+      },
+      "delivery": {
+        "tagline": "FREE delivery Tue, Mar 17 on $35 of items shipped by Amazon Or fastest delivery Mon, Mar 16",
+        "price": {
+          "raw": "$29.99",
+          "symbol": "$",
+          "value": 29.99,
+          "currency": "USD",
+          "is_free": false
+        }
+      }
+    },
+    {
+      "position": 5,
+      "title": "Luckies - Smartphone Projector Portable Projector For Home Cinema Mobile Phone Accessories Mini Projection & Pocket Projection Home Gadgets For Men Phone Brown",
+      "asin": "B00R661UOQ",
+      "link": "https://www.amazon.com/Smartphone-Projector-Portable-Phone-Brown/dp/B00R661UOQ/ref=sr_1_165?dib=eyJ2IjoiMSJ9.ieF59V82WCRGBMod0-U7a3YvPcdFWy67byBXFBSSKMG9AWwHd1V6_1w3GZ31FObMP71bqgpjWzuc988vcXD8blt0RKt9lM4H_C-03EqdoZf830qHbqlkvykf1ZdLTNZAUiJ2jjg5CjrQRgBquzs4gsEzG7G2tmMGd5jRHpcLufhh_7wprLbmiwkgcb-0fyfg9Pz0c_4fs4kr8nu4FmM7T6nutiB3fDvtU3hKV-6FGdU.JqezCdnQgSyoyKNIggwOD9dJJX17Pf9u1JAViAvy4M8&dib_tag=se&keywords=best+electronics&qid=1773344758&sr=8-165",
+      "availability": {
+        "raw": "Only 11 left in stock - order soon."
+      },
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/71FHEze6IzL._AC_UY218_.jpg",
+      "is_prime": false,
+      "is_amazon_fresh": false,
+      "is_whole_foods_market": false,
+      "rating": 2.6,
+      "ratings_total": 790,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 30,
+          "currency": "USD",
+          "raw": "$30.00",
+          "asin": "B00R661UOQ",
+          "link": "https://www.amazon.com/Smartphone-Projector-Portable-Phone-Brown/dp/B00R661UOQ/ref=sr_1_165?dib=eyJ2IjoiMSJ9.ieF59V82WCRGBMod0-U7a3YvPcdFWy67byBXFBSSKMG9AWwHd1V6_1w3GZ31FObMP71bqgpjWzuc988vcXD8blt0RKt9lM4H_C-03EqdoZf830qHbqlkvykf1ZdLTNZAUiJ2jjg5CjrQRgBquzs4gsEzG7G2tmMGd5jRHpcLufhh_7wprLbmiwkgcb-0fyfg9Pz0c_4fs4kr8nu4FmM7T6nutiB3fDvtU3hKV-6FGdU.JqezCdnQgSyoyKNIggwOD9dJJX17Pf9u1JAViAvy4M8&dib_tag=se&keywords=best+electronics&qid=1773344758&sr=8-165"
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 30,
+        "currency": "USD",
+        "raw": "$30.00",
+        "asin": "B00R661UOQ",
+        "link": "https://www.amazon.com/Smartphone-Projector-Portable-Phone-Brown/dp/B00R661UOQ/ref=sr_1_165?dib=eyJ2IjoiMSJ9.ieF59V82WCRGBMod0-U7a3YvPcdFWy67byBXFBSSKMG9AWwHd1V6_1w3GZ31FObMP71bqgpjWzuc988vcXD8blt0RKt9lM4H_C-03EqdoZf830qHbqlkvykf1ZdLTNZAUiJ2jjg5CjrQRgBquzs4gsEzG7G2tmMGd5jRHpcLufhh_7wprLbmiwkgcb-0fyfg9Pz0c_4fs4kr8nu4FmM7T6nutiB3fDvtU3hKV-6FGdU.JqezCdnQgSyoyKNIggwOD9dJJX17Pf9u1JAViAvy4M8&dib_tag=se&keywords=best+electronics&qid=1773344758&sr=8-165"
+      },
+      "delivery": {
+        "tagline": "FREE delivery Tue, Mar 17 on $35 of items shipped by Amazon",
+        "price": {
+          "raw": "$30.00",
+          "symbol": "$",
+          "value": 30,
+          "currency": "USD",
+          "is_free": false
+        }
+      }
+    },
+    {
+      "position": 6,
+      "title": "Wireless Earbuds with Bluetooth 5.3, Bass Stereo Sound, 48 Hours Playtime, Water Resistant, Hands-Free Calls",
+      "asin": "B0DH257B9X",
+      "link": "https://www.amazon.com/foxotin-Wireless-Bluetooth-Resistant-Hands-Free/dp/B0DH257B9X/ref=sr_1_166?dib=eyJ2IjoiMSJ9.ieF59V82WCRGBMod0-U7a3YvPcdFWy67byBXFBSSKMG9AWwHd1V6_1w3GZ31FObMP71bqgpjWzuc988vcXD8blt0RKt9lM4H_C-03EqdoZf830qHbqlkvykf1ZdLTNZAUiJ2jjg5CjrQRgBquzs4gsEzG7G2tmMGd5jRHpcLufhh_7wprLbmiwkgcb-0fyfg9Pz0c_4fs4kr8nu4FmM7T6nutiB3fDvtU3hKV-6FGdU.JqezCdnQgSyoyKNIggwOD9dJJX17Pf9u1JAViAvy4M8&dib_tag=se&keywords=best+electronics&qid=1773344758&sr=8-166",
+      "availability": {
+        "raw": null
+      },
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/61yi+5LhdKL._AC_UY218_.jpg",
+      "is_prime": false,
+      "is_amazon_fresh": false,
+      "is_whole_foods_market": false,
+      "rating": 3.7,
+      "ratings_total": 3,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 99.99,
+          "currency": "USD",
+          "raw": "$99.99",
+          "asin": "B0DH257B9X",
+          "link": "https://www.amazon.com/foxotin-Wireless-Bluetooth-Resistant-Hands-Free/dp/B0DH257B9X/ref=sr_1_166?dib=eyJ2IjoiMSJ9.ieF59V82WCRGBMod0-U7a3YvPcdFWy67byBXFBSSKMG9AWwHd1V6_1w3GZ31FObMP71bqgpjWzuc988vcXD8blt0RKt9lM4H_C-03EqdoZf830qHbqlkvykf1ZdLTNZAUiJ2jjg5CjrQRgBquzs4gsEzG7G2tmMGd5jRHpcLufhh_7wprLbmiwkgcb-0fyfg9Pz0c_4fs4kr8nu4FmM7T6nutiB3fDvtU3hKV-6FGdU.JqezCdnQgSyoyKNIggwOD9dJJX17Pf9u1JAViAvy4M8&dib_tag=se&keywords=best+electronics&qid=1773344758&sr=8-166"
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 99.99,
+        "currency": "USD",
+        "raw": "$99.99",
+        "asin": "B0DH257B9X",
+        "link": "https://www.amazon.com/foxotin-Wireless-Bluetooth-Resistant-Hands-Free/dp/B0DH257B9X/ref=sr_1_166?dib=eyJ2IjoiMSJ9.ieF59V82WCRGBMod0-U7a3YvPcdFWy67byBXFBSSKMG9AWwHd1V6_1w3GZ31FObMP71bqgpjWzuc988vcXD8blt0RKt9lM4H_C-03EqdoZf830qHbqlkvykf1ZdLTNZAUiJ2jjg5CjrQRgBquzs4gsEzG7G2tmMGd5jRHpcLufhh_7wprLbmiwkgcb-0fyfg9Pz0c_4fs4kr8nu4FmM7T6nutiB3fDvtU3hKV-6FGdU.JqezCdnQgSyoyKNIggwOD9dJJX17Pf9u1JAViAvy4M8&dib_tag=se&keywords=best+electronics&qid=1773344758&sr=8-166"
+      },
+      "delivery": {
+        "tagline": "FREE delivery Wed, Mar 18",
+        "price": {
+          "raw": "$99.99",
+          "symbol": "$",
+          "value": 99.99,
+          "currency": "USD",
+          "is_free": false
+        }
+      }
+    },
+    {
+      "position": 7,
+      "title": "Compound Trinocular Microscope, 40X-5000X Magnification, Research Grade Professional Microscope with USB Camera and Mechanical Stage, Microscope for Adults",
+      "asin": "B0C8TNQFMR",
+      "link": "https://www.amazon.com/Poothoh-trinocular-Microscope-Magnification-Mechanical/dp/B0C8TNQFMR/ref=sr_1_167?dib=eyJ2IjoiMSJ9.ieF59V82WCRGBMod0-U7a3YvPcdFWy67byBXFBSSKMG9AWwHd1V6_1w3GZ31FObMP71bqgpjWzuc988vcXD8blt0RKt9lM4H_C-03EqdoZf830qHbqlkvykf1ZdLTNZAUiJ2jjg5CjrQRgBquzs4gsEzG7G2tmMGd5jRHpcLufhh_7wprLbmiwkgcb-0fyfg9Pz0c_4fs4kr8nu4FmM7T6nutiB3fDvtU3hKV-6FGdU.JqezCdnQgSyoyKNIggwOD9dJJX17Pf9u1JAViAvy4M8&dib_tag=se&keywords=best+electronics&qid=1773344758&sr=8-167",
+      "availability": {
+        "raw": null
+      },
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/71MwCc1MshL._AC_UY218_.jpg",
+      "is_prime": false,
+      "is_amazon_fresh": false,
+      "is_whole_foods_market": false,
+      "rating": 4,
+      "ratings_total": 142,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 239.99,
+          "currency": "USD",
+          "raw": "$239.99",
+          "asin": "B0C8TNQFMR",
+          "link": "https://www.amazon.com/Poothoh-trinocular-Microscope-Magnification-Mechanical/dp/B0C8TNQFMR/ref=sr_1_167?dib=eyJ2IjoiMSJ9.ieF59V82WCRGBMod0-U7a3YvPcdFWy67byBXFBSSKMG9AWwHd1V6_1w3GZ31FObMP71bqgpjWzuc988vcXD8blt0RKt9lM4H_C-03EqdoZf830qHbqlkvykf1ZdLTNZAUiJ2jjg5CjrQRgBquzs4gsEzG7G2tmMGd5jRHpcLufhh_7wprLbmiwkgcb-0fyfg9Pz0c_4fs4kr8nu4FmM7T6nutiB3fDvtU3hKV-6FGdU.JqezCdnQgSyoyKNIggwOD9dJJX17Pf9u1JAViAvy4M8&dib_tag=se&keywords=best+electronics&qid=1773344758&sr=8-167"
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 239.99,
+        "currency": "USD",
+        "raw": "$239.99",
+        "asin": "B0C8TNQFMR",
+        "link": "https://www.amazon.com/Poothoh-trinocular-Microscope-Magnification-Mechanical/dp/B0C8TNQFMR/ref=sr_1_167?dib=eyJ2IjoiMSJ9.ieF59V82WCRGBMod0-U7a3YvPcdFWy67byBXFBSSKMG9AWwHd1V6_1w3GZ31FObMP71bqgpjWzuc988vcXD8blt0RKt9lM4H_C-03EqdoZf830qHbqlkvykf1ZdLTNZAUiJ2jjg5CjrQRgBquzs4gsEzG7G2tmMGd5jRHpcLufhh_7wprLbmiwkgcb-0fyfg9Pz0c_4fs4kr8nu4FmM7T6nutiB3fDvtU3hKV-6FGdU.JqezCdnQgSyoyKNIggwOD9dJJX17Pf9u1JAViAvy4M8&dib_tag=se&keywords=best+electronics&qid=1773344758&sr=8-167"
+      },
+      "delivery": {
+        "tagline": "FREE delivery Tue, Mar 17 Or fastest delivery Mon, Mar 16",
+        "price": {
+          "raw": "$239.99",
+          "symbol": "$",
+          "value": 239.99,
+          "currency": "USD",
+          "is_free": false
+        }
+      }
+    },
+    {
+      "position": 8,
+      "title": "Keyboard Cleaner Laptop Cleaning Kit - All in One Computer Tech Cleaning Brush, Multi-Function Pc Accessories with Airpod Cleaning Kit, Electronic Laptop Screen Cleaner for MacBook, iPhone, Gaming",
+      "asin": "B0CSSWLDYN",
+      "link": "https://www.amazon.com/CleaniKu-Keyboard-Cleaner-Laptop-Cleaning/dp/B0CSSWLDYN/ref=sr_1_168?dib=eyJ2IjoiMSJ9.ieF59V82WCRGBMod0-U7a3YvPcdFWy67byBXFBSSKMG9AWwHd1V6_1w3GZ31FObMP71bqgpjWzuc988vcXD8blt0RKt9lM4H_C-03EqdoZf830qHbqlkvykf1ZdLTNZAUiJ2jjg5CjrQRgBquzs4gsEzG7G2tmMGd5jRHpcLufhh_7wprLbmiwkgcb-0fyfg9Pz0c_4fs4kr8nu4FmM7T6nutiB3fDvtU3hKV-6FGdU.JqezCdnQgSyoyKNIggwOD9dJJX17Pf9u1JAViAvy4M8&dib_tag=se&keywords=best+electronics&qid=1773344758&sr=8-168",
+      "recent_sales": "500+ bought in past month",
+      "availability": {
+        "raw": null
+      },
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/71BXfqg2Q3L._AC_UY218_.jpg",
+      "is_prime": false,
+      "is_amazon_fresh": false,
+      "is_whole_foods_market": false,
+      "rating": 4.6,
+      "ratings_total": 686,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 9.99,
+          "currency": "USD",
+          "raw": "$9.99",
+          "name": "Primary",
+          "is_primary": true,
+          "list_price": "$11.99",
+          "asin": "B0CSSWLDYN",
+          "link": "https://www.amazon.com/CleaniKu-Keyboard-Cleaner-Laptop-Cleaning/dp/B0CSSWLDYN/ref=sr_1_168?dib=eyJ2IjoiMSJ9.ieF59V82WCRGBMod0-U7a3YvPcdFWy67byBXFBSSKMG9AWwHd1V6_1w3GZ31FObMP71bqgpjWzuc988vcXD8blt0RKt9lM4H_C-03EqdoZf830qHbqlkvykf1ZdLTNZAUiJ2jjg5CjrQRgBquzs4gsEzG7G2tmMGd5jRHpcLufhh_7wprLbmiwkgcb-0fyfg9Pz0c_4fs4kr8nu4FmM7T6nutiB3fDvtU3hKV-6FGdU.JqezCdnQgSyoyKNIggwOD9dJJX17Pf9u1JAViAvy4M8&dib_tag=se&keywords=best+electronics&qid=1773344758&sr=8-168"
+        },
+        {
+          "symbol": "$",
+          "value": 11.99,
+          "currency": "USD",
+          "raw": "$11.99",
+          "name": "Original",
+          "is_rrp": true,
+          "link": "https://www.amazon.com/CleaniKu-Keyboard-Cleaner-Laptop-Cleaning/dp/B0CSSWLDYN/ref=sr_1_168?dib=eyJ2IjoiMSJ9.ieF59V82WCRGBMod0-U7a3YvPcdFWy67byBXFBSSKMG9AWwHd1V6_1w3GZ31FObMP71bqgpjWzuc988vcXD8blt0RKt9lM4H_C-03EqdoZf830qHbqlkvykf1ZdLTNZAUiJ2jjg5CjrQRgBquzs4gsEzG7G2tmMGd5jRHpcLufhh_7wprLbmiwkgcb-0fyfg9Pz0c_4fs4kr8nu4FmM7T6nutiB3fDvtU3hKV-6FGdU.JqezCdnQgSyoyKNIggwOD9dJJX17Pf9u1JAViAvy4M8&dib_tag=se&keywords=best+electronics&qid=1773344758&sr=8-168",
+          "asin": "B0CSSWLDYN"
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 9.99,
+        "currency": "USD",
+        "raw": "$9.99",
+        "name": "Primary",
+        "is_primary": true,
+        "list_price": "$11.99",
+        "asin": "B0CSSWLDYN",
+        "link": "https://www.amazon.com/CleaniKu-Keyboard-Cleaner-Laptop-Cleaning/dp/B0CSSWLDYN/ref=sr_1_168?dib=eyJ2IjoiMSJ9.ieF59V82WCRGBMod0-U7a3YvPcdFWy67byBXFBSSKMG9AWwHd1V6_1w3GZ31FObMP71bqgpjWzuc988vcXD8blt0RKt9lM4H_C-03EqdoZf830qHbqlkvykf1ZdLTNZAUiJ2jjg5CjrQRgBquzs4gsEzG7G2tmMGd5jRHpcLufhh_7wprLbmiwkgcb-0fyfg9Pz0c_4fs4kr8nu4FmM7T6nutiB3fDvtU3hKV-6FGdU.JqezCdnQgSyoyKNIggwOD9dJJX17Pf9u1JAViAvy4M8&dib_tag=se&keywords=best+electronics&qid=1773344758&sr=8-168"
+      },
+      "delivery": {
+        "tagline": "FREE delivery Tue, Mar 17 on $35 of items shipped by Amazon Or fastest delivery Mon, Mar 16",
+        "price": {
+          "raw": "$9.99",
+          "symbol": "$",
+          "value": 9.99,
+          "currency": "USD",
+          "is_free": false
+        }
+      }
+    },
+    {
+      "position": 9,
+      "title": "RYR Wireless Gaming Headset BlaGreen",
+      "asin": "B0DWWJG8WG",
+      "link": "https://www.amazon.com/RYR-Wireless-Gaming-Headset-BlaGreen/dp/B0DWWJG8WG/ref=sr_1_169?dib=eyJ2IjoiMSJ9.ieF59V82WCRGBMod0-U7a3YvPcdFWy67byBXFBSSKMG9AWwHd1V6_1w3GZ31FObMP71bqgpjWzuc988vcXD8blt0RKt9lM4H_C-03EqdoZf830qHbqlkvykf1ZdLTNZAUiJ2jjg5CjrQRgBquzs4gsEzG7G2tmMGd5jRHpcLufhh_7wprLbmiwkgcb-0fyfg9Pz0c_4fs4kr8nu4FmM7T6nutiB3fDvtU3hKV-6FGdU.JqezCdnQgSyoyKNIggwOD9dJJX17Pf9u1JAViAvy4M8&dib_tag=se&keywords=best+electronics&qid=1773344758&sr=8-169",
+      "availability": {
+        "raw": null
+      },
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/61peUwkelUL._AC_UY218_.jpg",
+      "is_prime": false,
+      "is_amazon_fresh": false,
+      "is_whole_foods_market": false,
+      "rating": 3,
+      "ratings_total": 414
+    },
+    {
+      "position": 10,
+      "title": "LZ6 5 3 Wirreless Earphone BIIuetuoth 5.0 Neckband Headset Earbuds with Speaker Headphone Waterproof Sport Headset with Microphone New 2026 High for Reliable Electronic Component",
+      "asin": "B0GGHQ2PM8",
+      "link": "https://www.amazon.com/Wirreless-BIIuetuoth-Waterproof-Microphone-Electronic/dp/B0GGHQ2PM8/ref=sr_1_170?dib=eyJ2IjoiMSJ9.ieF59V82WCRGBMod0-U7a3YvPcdFWy67byBXFBSSKMG9AWwHd1V6_1w3GZ31FObMP71bqgpjWzuc988vcXD8blt0RKt9lM4H_C-03EqdoZf830qHbqlkvykf1ZdLTNZAUiJ2jjg5CjrQRgBquzs4gsEzG7G2tmMGd5jRHpcLufhh_7wprLbmiwkgcb-0fyfg9Pz0c_4fs4kr8nu4FmM7T6nutiB3fDvtU3hKV-6FGdU.JqezCdnQgSyoyKNIggwOD9dJJX17Pf9u1JAViAvy4M8&dib_tag=se&keywords=best+electronics&qid=1773344758&sr=8-170",
+      "availability": {
+        "raw": null
+      },
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/51Qm0zhfZRL._AC_UY218_.jpg",
+      "is_prime": false,
+      "is_amazon_fresh": false,
+      "is_whole_foods_market": false
+    },
+    {
+      "position": 11,
+      "title": "Turtlebox Ranger: Loud! Outdoor Portable Bluetooth 5.4 Speaker | Rugged, Waterproof, Ultra-Portable | Plays to 105db, Deep Bass, Shockproof, Unlimited Pairing for Full Stereo Experience, River Rock",
+      "asin": "B0F2JHDRK9",
+      "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo0Mjk0MzA3MTUyNzUyNTc0OjE3NzMzNDQ3NTg6c3BfbXRmOjMwMTE2MDE2MzExMTAwMjo6MDo6&url=%2FTurtlebox-Ranger-Waterproof-Ultra-Portable-Shockproof%2Fdp%2FB0F2JHDRK9%2Fref%3Dsr_1_171_sspa%3Fdib%3DeyJ2IjoiMSJ9.ieF59V82WCRGBMod0-U7a3YvPcdFWy67byBXFBSSKMG9AWwHd1V6_1w3GZ31FObMP71bqgpjWzuc988vcXD8blt0RKt9lM4H_C-03EqdoZf830qHbqlkvykf1ZdLTNZAUiJ2jjg5CjrQRgBquzs4gsEzG7G2tmMGd5jRHpcLufhh_7wprLbmiwkgcb-0fyfg9Pz0c_4fs4kr8nu4FmM7T6nutiB3fDvtU3hKV-6FGdU.JqezCdnQgSyoyKNIggwOD9dJJX17Pf9u1JAViAvy4M8%26dib_tag%3Dse%26keywords%3Dbest%2Belectronics%26qid%3D1773344758%26sr%3D8-171-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1",
+      "recent_sales": "400+ bought in past month",
+      "availability": {
+        "raw": null
+      },
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/61H8KeAXQPL._AC_UY218_.jpg",
+      "is_prime": false,
+      "is_amazon_fresh": false,
+      "is_whole_foods_market": false,
+      "rating": 4.6,
+      "ratings_total": 864,
+      "is_small_business": true,
+      "sponsored": true,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 250,
+          "currency": "USD",
+          "raw": "$250.00",
+          "asin": "B0F2JHDRK9",
+          "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo0Mjk0MzA3MTUyNzUyNTc0OjE3NzMzNDQ3NTg6c3BfbXRmOjMwMTE2MDE2MzExMTAwMjo6MDo6&url=%2FTurtlebox-Ranger-Waterproof-Ultra-Portable-Shockproof%2Fdp%2FB0F2JHDRK9%2Fref%3Dsr_1_171_sspa%3Fdib%3DeyJ2IjoiMSJ9.ieF59V82WCRGBMod0-U7a3YvPcdFWy67byBXFBSSKMG9AWwHd1V6_1w3GZ31FObMP71bqgpjWzuc988vcXD8blt0RKt9lM4H_C-03EqdoZf830qHbqlkvykf1ZdLTNZAUiJ2jjg5CjrQRgBquzs4gsEzG7G2tmMGd5jRHpcLufhh_7wprLbmiwkgcb-0fyfg9Pz0c_4fs4kr8nu4FmM7T6nutiB3fDvtU3hKV-6FGdU.JqezCdnQgSyoyKNIggwOD9dJJX17Pf9u1JAViAvy4M8%26dib_tag%3Dse%26keywords%3Dbest%2Belectronics%26qid%3D1773344758%26sr%3D8-171-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1"
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 250,
+        "currency": "USD",
+        "raw": "$250.00",
+        "asin": "B0F2JHDRK9",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo0Mjk0MzA3MTUyNzUyNTc0OjE3NzMzNDQ3NTg6c3BfbXRmOjMwMTE2MDE2MzExMTAwMjo6MDo6&url=%2FTurtlebox-Ranger-Waterproof-Ultra-Portable-Shockproof%2Fdp%2FB0F2JHDRK9%2Fref%3Dsr_1_171_sspa%3Fdib%3DeyJ2IjoiMSJ9.ieF59V82WCRGBMod0-U7a3YvPcdFWy67byBXFBSSKMG9AWwHd1V6_1w3GZ31FObMP71bqgpjWzuc988vcXD8blt0RKt9lM4H_C-03EqdoZf830qHbqlkvykf1ZdLTNZAUiJ2jjg5CjrQRgBquzs4gsEzG7G2tmMGd5jRHpcLufhh_7wprLbmiwkgcb-0fyfg9Pz0c_4fs4kr8nu4FmM7T6nutiB3fDvtU3hKV-6FGdU.JqezCdnQgSyoyKNIggwOD9dJJX17Pf9u1JAViAvy4M8%26dib_tag%3Dse%26keywords%3Dbest%2Belectronics%26qid%3D1773344758%26sr%3D8-171-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1"
+      },
+      "delivery": {
+        "tagline": "FREE delivery Wed, Mar 18",
+        "price": {
+          "raw": "$250.00",
+          "symbol": "$",
+          "value": 250,
+          "currency": "USD",
+          "is_free": false
+        }
+      }
+    },
+    {
+      "position": 12,
+      "title": "weBoost Home Complete | Powerful Multi-Carrier Cell Phone Signal Booster for 5G & 4G LTE | Simultaneous support for all U.S. Carriers - Verizon, AT&T, T-Mobile & more (model# 470145), DIY",
+      "asin": "B07RQVVVQG",
+      "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo0Mjk0MzA3MTUyNzUyNTc0OjE3NzMzNDQ3NTg6c3BfbXRmOjMwMTA3OTQyNDIzOTQwMjo6MDo6&url=%2FweBoost-Complete-470145-Signal-Booster%2Fdp%2FB07RQVVVQG%2Fref%3Dsr_1_172_sspa%3Fdib%3DeyJ2IjoiMSJ9.ieF59V82WCRGBMod0-U7a3YvPcdFWy67byBXFBSSKMG9AWwHd1V6_1w3GZ31FObMP71bqgpjWzuc988vcXD8blt0RKt9lM4H_C-03EqdoZf830qHbqlkvykf1ZdLTNZAUiJ2jjg5CjrQRgBquzs4gsEzG7G2tmMGd5jRHpcLufhh_7wprLbmiwkgcb-0fyfg9Pz0c_4fs4kr8nu4FmM7T6nutiB3fDvtU3hKV-6FGdU.JqezCdnQgSyoyKNIggwOD9dJJX17Pf9u1JAViAvy4M8%26dib_tag%3Dse%26keywords%3Dbest%2Belectronics%26qid%3D1773344758%26sr%3D8-172-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1",
+      "availability": {
+        "raw": null
+      },
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/71yaEHfZ+lS._AC_UY218_.jpg",
+      "is_prime": false,
+      "is_amazon_fresh": false,
+      "is_whole_foods_market": false,
+      "rating": 4.1,
+      "ratings_total": 3244,
+      "sponsored": true,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 999.99,
+          "currency": "USD",
+          "raw": "$999.99",
+          "asin": "B07RQVVVQG",
+          "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo0Mjk0MzA3MTUyNzUyNTc0OjE3NzMzNDQ3NTg6c3BfbXRmOjMwMTA3OTQyNDIzOTQwMjo6MDo6&url=%2FweBoost-Complete-470145-Signal-Booster%2Fdp%2FB07RQVVVQG%2Fref%3Dsr_1_172_sspa%3Fdib%3DeyJ2IjoiMSJ9.ieF59V82WCRGBMod0-U7a3YvPcdFWy67byBXFBSSKMG9AWwHd1V6_1w3GZ31FObMP71bqgpjWzuc988vcXD8blt0RKt9lM4H_C-03EqdoZf830qHbqlkvykf1ZdLTNZAUiJ2jjg5CjrQRgBquzs4gsEzG7G2tmMGd5jRHpcLufhh_7wprLbmiwkgcb-0fyfg9Pz0c_4fs4kr8nu4FmM7T6nutiB3fDvtU3hKV-6FGdU.JqezCdnQgSyoyKNIggwOD9dJJX17Pf9u1JAViAvy4M8%26dib_tag%3Dse%26keywords%3Dbest%2Belectronics%26qid%3D1773344758%26sr%3D8-172-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1"
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 999.99,
+        "currency": "USD",
+        "raw": "$999.99",
+        "asin": "B07RQVVVQG",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo0Mjk0MzA3MTUyNzUyNTc0OjE3NzMzNDQ3NTg6c3BfbXRmOjMwMTA3OTQyNDIzOTQwMjo6MDo6&url=%2FweBoost-Complete-470145-Signal-Booster%2Fdp%2FB07RQVVVQG%2Fref%3Dsr_1_172_sspa%3Fdib%3DeyJ2IjoiMSJ9.ieF59V82WCRGBMod0-U7a3YvPcdFWy67byBXFBSSKMG9AWwHd1V6_1w3GZ31FObMP71bqgpjWzuc988vcXD8blt0RKt9lM4H_C-03EqdoZf830qHbqlkvykf1ZdLTNZAUiJ2jjg5CjrQRgBquzs4gsEzG7G2tmMGd5jRHpcLufhh_7wprLbmiwkgcb-0fyfg9Pz0c_4fs4kr8nu4FmM7T6nutiB3fDvtU3hKV-6FGdU.JqezCdnQgSyoyKNIggwOD9dJJX17Pf9u1JAViAvy4M8%26dib_tag%3Dse%26keywords%3Dbest%2Belectronics%26qid%3D1773344758%26sr%3D8-172-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1"
+      },
+      "delivery": {
+        "tagline": "FREE delivery Tue, Mar 17 Or fastest delivery Mon, Mar 16",
+        "price": {
+          "raw": "$999.99",
+          "symbol": "$",
+          "value": 999.99,
+          "currency": "USD",
+          "is_free": false
+        }
+      }
+    },
+    {
+      "position": 13,
+      "title": "[1200 ANSI & Audio by dbx-tv] Alvar Projector with WiFi 6 and Bluetooth, 30W Speakers, Built in NetfIix App & DoIby Audio Outdoor Proyector, Auto Focus & Keystone Native 1080P Smart Projector, Black",
+      "asin": "B0D8BCJ1PV",
+      "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3OTg5Mjc4MzczNzY2ODQyOjE3NzMzNDQ3NTg6c3Bfc2VhcmNoX3RoZW1hdGljOjMwMTExNzI3MzA4MzgwMjo6MDo6&url=%2FAlvar-Projector-Bluetooth-Certified-Keystone%2Fdp%2FB0D8BCJ1PV%2Fref%3Dsxin_22_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.308aa03c-0361-4593-bee2-b785ca8775ab%253Aamzn1.sym.308aa03c-0361-4593-bee2-b785ca8775ab%26cv_ct_cx%3Dbest%2Belectronics%26keywords%3Dbest%2Belectronics%26pd_rd_i%3DB0D8BCJ1PV%26pd_rd_r%3D38d5cda7-7cab-4fe7-8a48-892bc1cf117a%26pd_rd_w%3DDXw9w%26pd_rd_wg%3DPx0pm%26pf_rd_p%3D308aa03c-0361-4593-bee2-b785ca8775ab%26pf_rd_r%3D4R89EEK1N915RSPYP7F6%26qid%3D1773344758%26sbo%3D9ZOMT9Jm0JH%252Ft%252BWi68iDSA%253D%253D%26sr%3D1-161-2b0dcb9c-4970-41e1-afd4-521d96ec266f-spons%26aref%3D1LmsrYFS04%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1&aref=1LmsrYFS04",
+      "recent_sales": "50+ bought in past month",
+      "availability": {
+        "raw": null
+      },
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/812XMk8bv8L._AC_UL320_.jpg",
+      "is_prime": false,
+      "is_amazon_fresh": false,
+      "is_whole_foods_market": false,
+      "rating": 4.4,
+      "ratings_total": 491,
+      "is_carousel": true,
+      "carousel": {
+        "title": "Recently bought and ratedSmall BusinessSustainability featuresSustainability features",
+        "sub_title": "4+ stars and rising in past 90 days50+ bought in past monthList Price: Exclusive Prime priceApr 30, 2025Apr 30, 20259K+ bought in past month400+ bought in past monthShop products from small business brands sold in Amazon’s store. Discover more about the small businesses partnering with Amazon and Amazon’s commitment to empowering them.300+ bought in past monthList Price: Exclusive Prime price2K+ bought in past monthList Price: Exclusive Prime price",
+        "sponsored": true,
+        "id": "loom-desktop-inline-slot_sptw-recently-rated-page2plus-t1",
+        "total_items": 5
+      },
+      "sponsored": true,
+      "below_use_fewer_words_banner": true,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 169.99,
+          "currency": "USD",
+          "raw": "$169.99",
+          "name": "Primary",
+          "is_primary": true,
+          "list_price": "$246.49",
+          "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3OTg5Mjc4MzczNzY2ODQyOjE3NzMzNDQ3NTg6c3Bfc2VhcmNoX3RoZW1hdGljOjMwMTExNzI3MzA4MzgwMjo6MDo6&url=%2FAlvar-Projector-Bluetooth-Certified-Keystone%2Fdp%2FB0D8BCJ1PV%2Fref%3Dsxin_22_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.308aa03c-0361-4593-bee2-b785ca8775ab%253Aamzn1.sym.308aa03c-0361-4593-bee2-b785ca8775ab%26cv_ct_cx%3Dbest%2Belectronics%26keywords%3Dbest%2Belectronics%26pd_rd_i%3DB0D8BCJ1PV%26pd_rd_r%3D38d5cda7-7cab-4fe7-8a48-892bc1cf117a%26pd_rd_w%3DDXw9w%26pd_rd_wg%3DPx0pm%26pf_rd_p%3D308aa03c-0361-4593-bee2-b785ca8775ab%26pf_rd_r%3D4R89EEK1N915RSPYP7F6%26qid%3D1773344758%26sbo%3D9ZOMT9Jm0JH%252Ft%252BWi68iDSA%253D%253D%26sr%3D1-161-2b0dcb9c-4970-41e1-afd4-521d96ec266f-spons%26aref%3D1LmsrYFS04%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1&aref=1LmsrYFS04"
+        },
+        {
+          "symbol": "$",
+          "value": 246.49,
+          "currency": "USD",
+          "raw": "$246.49",
+          "name": "Original",
+          "is_rrp": true,
+          "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3OTg5Mjc4MzczNzY2ODQyOjE3NzMzNDQ3NTg6c3Bfc2VhcmNoX3RoZW1hdGljOjMwMTExNzI3MzA4MzgwMjo6MDo6&url=%2FAlvar-Projector-Bluetooth-Certified-Keystone%2Fdp%2FB0D8BCJ1PV%2Fref%3Dsxin_22_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.308aa03c-0361-4593-bee2-b785ca8775ab%253Aamzn1.sym.308aa03c-0361-4593-bee2-b785ca8775ab%26cv_ct_cx%3Dbest%2Belectronics%26keywords%3Dbest%2Belectronics%26pd_rd_i%3DB0D8BCJ1PV%26pd_rd_r%3D38d5cda7-7cab-4fe7-8a48-892bc1cf117a%26pd_rd_w%3DDXw9w%26pd_rd_wg%3DPx0pm%26pf_rd_p%3D308aa03c-0361-4593-bee2-b785ca8775ab%26pf_rd_r%3D4R89EEK1N915RSPYP7F6%26qid%3D1773344758%26sbo%3D9ZOMT9Jm0JH%252Ft%252BWi68iDSA%253D%253D%26sr%3D1-161-2b0dcb9c-4970-41e1-afd4-521d96ec266f-spons%26aref%3D1LmsrYFS04%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1&aref=1LmsrYFS04",
+          "asin": "B0D8BCJ1PV"
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 169.99,
+        "currency": "USD",
+        "raw": "$169.99",
+        "name": "Primary",
+        "is_primary": true,
+        "list_price": "$246.49",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3OTg5Mjc4MzczNzY2ODQyOjE3NzMzNDQ3NTg6c3Bfc2VhcmNoX3RoZW1hdGljOjMwMTExNzI3MzA4MzgwMjo6MDo6&url=%2FAlvar-Projector-Bluetooth-Certified-Keystone%2Fdp%2FB0D8BCJ1PV%2Fref%3Dsxin_22_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.308aa03c-0361-4593-bee2-b785ca8775ab%253Aamzn1.sym.308aa03c-0361-4593-bee2-b785ca8775ab%26cv_ct_cx%3Dbest%2Belectronics%26keywords%3Dbest%2Belectronics%26pd_rd_i%3DB0D8BCJ1PV%26pd_rd_r%3D38d5cda7-7cab-4fe7-8a48-892bc1cf117a%26pd_rd_w%3DDXw9w%26pd_rd_wg%3DPx0pm%26pf_rd_p%3D308aa03c-0361-4593-bee2-b785ca8775ab%26pf_rd_r%3D4R89EEK1N915RSPYP7F6%26qid%3D1773344758%26sbo%3D9ZOMT9Jm0JH%252Ft%252BWi68iDSA%253D%253D%26sr%3D1-161-2b0dcb9c-4970-41e1-afd4-521d96ec266f-spons%26aref%3D1LmsrYFS04%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1&aref=1LmsrYFS04"
+      },
+      "delivery": {
+        "tagline": "FREE delivery Tue, Mar 17 Or fastest delivery Mon, Mar 16",
+        "price": {
+          "raw": "$169.99",
+          "symbol": "$",
+          "value": 169.99,
+          "currency": "USD",
+          "is_free": false
+        }
+      }
+    },
+    {
+      "position": 14,
+      "title": "Meta Quest 3S 128GB | VR Headset — Thirty-Three Percent More Memory — 2X Graphical Processing Power — Virtual Reality Without Wires — Access to 40+ Games with a 3-Month Trial of Meta Horizon+ Included",
+      "asin": "B0F2GYMC8H",
+      "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3OTg5Mjc4MzczNzY2ODQyOjE3NzMzNDQ3NTg6c3Bfc2VhcmNoX3RoZW1hdGljOjMwMDgwMzczMzczNDEwMjo6MTo6&url=%2FMeta-Quest-128GB-Cardboard-Exclusive-Oculus%2Fdp%2FB0F2GYMC8H%2Fref%3Dsxin_22_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.308aa03c-0361-4593-bee2-b785ca8775ab%253Aamzn1.sym.308aa03c-0361-4593-bee2-b785ca8775ab%26cv_ct_cx%3Dbest%2Belectronics%26keywords%3Dbest%2Belectronics%26pd_rd_i%3DB0F2GYMC8H%26pd_rd_r%3D38d5cda7-7cab-4fe7-8a48-892bc1cf117a%26pd_rd_w%3DDXw9w%26pd_rd_wg%3DPx0pm%26pf_rd_p%3D308aa03c-0361-4593-bee2-b785ca8775ab%26pf_rd_r%3D4R89EEK1N915RSPYP7F6%26qid%3D1773344758%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-162-2b0dcb9c-4970-41e1-afd4-521d96ec266f-spons%26aref%3DANkRP9AxsA%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1&aref=ANkRP9AxsA",
+      "recent_sales": "9K+ bought in past month",
+      "availability": {
+        "raw": null
+      },
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/61-SGpdmgRL._AC_UL320_.jpg",
+      "is_prime": false,
+      "is_amazon_fresh": false,
+      "is_whole_foods_market": false,
+      "rating": 4.6,
+      "ratings_total": 4244,
+      "is_carousel": true,
+      "carousel": {
+        "title": "Recently bought and ratedSmall BusinessSustainability featuresSustainability features",
+        "sub_title": "4+ stars and rising in past 90 days50+ bought in past monthList Price: Exclusive Prime priceApr 30, 2025Apr 30, 20259K+ bought in past month400+ bought in past monthShop products from small business brands sold in Amazon’s store. Discover more about the small businesses partnering with Amazon and Amazon’s commitment to empowering them.300+ bought in past monthList Price: Exclusive Prime price2K+ bought in past monthList Price: Exclusive Prime price",
+        "sponsored": true,
+        "id": "loom-desktop-inline-slot_sptw-recently-rated-page2plus-t1",
+        "total_items": 5
+      },
+      "sponsored": true,
+      "below_use_fewer_words_banner": true,
+      "delivery": {
+        "tagline": "FREE delivery Tue, Mar 17"
+      }
+    },
+    {
+      "position": 15,
+      "title": "Turtlebox Ranger: Loud! Outdoor Portable Bluetooth 5.4 Speaker | Rugged, Waterproof, Ultra-Portable | Plays to 105db, Deep Bass, Shockproof, Unlimited Pairing for Full Stereo Experience, River Rock",
+      "asin": "B0F2JHDRK9",
+      "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3OTg5Mjc4MzczNzY2ODQyOjE3NzMzNDQ3NTg6c3Bfc2VhcmNoX3RoZW1hdGljOjMwMTE2MDE2MzExMTAwMjo6Mjo6&url=%2FTurtlebox-Ranger-Waterproof-Ultra-Portable-Shockproof%2Fdp%2FB0F2JHDRK9%2Fref%3Dsxin_22_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.308aa03c-0361-4593-bee2-b785ca8775ab%253Aamzn1.sym.308aa03c-0361-4593-bee2-b785ca8775ab%26cv_ct_cx%3Dbest%2Belectronics%26keywords%3Dbest%2Belectronics%26pd_rd_i%3DB0F2JHDRK9%26pd_rd_r%3D38d5cda7-7cab-4fe7-8a48-892bc1cf117a%26pd_rd_w%3DDXw9w%26pd_rd_wg%3DPx0pm%26pf_rd_p%3D308aa03c-0361-4593-bee2-b785ca8775ab%26pf_rd_r%3D4R89EEK1N915RSPYP7F6%26qid%3D1773344758%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-163-2b0dcb9c-4970-41e1-afd4-521d96ec266f-spons%26aref%3D2Np1zMJjbb%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1&aref=2Np1zMJjbb",
+      "recent_sales": "400+ bought in past month",
+      "availability": {
+        "raw": null
+      },
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/61H8KeAXQPL._AC_UL320_.jpg",
+      "is_prime": false,
+      "is_amazon_fresh": false,
+      "is_whole_foods_market": false,
+      "rating": 4.6,
+      "ratings_total": 864,
+      "is_carousel": true,
+      "carousel": {
+        "title": "Recently bought and ratedSmall BusinessSustainability featuresSustainability features",
+        "sub_title": "4+ stars and rising in past 90 days50+ bought in past monthList Price: Exclusive Prime priceApr 30, 2025Apr 30, 20259K+ bought in past month400+ bought in past monthShop products from small business brands sold in Amazon’s store. Discover more about the small businesses partnering with Amazon and Amazon’s commitment to empowering them.300+ bought in past monthList Price: Exclusive Prime price2K+ bought in past monthList Price: Exclusive Prime price",
+        "sponsored": true,
+        "id": "loom-desktop-inline-slot_sptw-recently-rated-page2plus-t1",
+        "total_items": 5
+      },
+      "is_small_business": true,
+      "sponsored": true,
+      "below_use_fewer_words_banner": true,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 250,
+          "currency": "USD",
+          "raw": "$250.00",
+          "asin": "B0F2JHDRK9",
+          "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3OTg5Mjc4MzczNzY2ODQyOjE3NzMzNDQ3NTg6c3Bfc2VhcmNoX3RoZW1hdGljOjMwMTE2MDE2MzExMTAwMjo6Mjo6&url=%2FTurtlebox-Ranger-Waterproof-Ultra-Portable-Shockproof%2Fdp%2FB0F2JHDRK9%2Fref%3Dsxin_22_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.308aa03c-0361-4593-bee2-b785ca8775ab%253Aamzn1.sym.308aa03c-0361-4593-bee2-b785ca8775ab%26cv_ct_cx%3Dbest%2Belectronics%26keywords%3Dbest%2Belectronics%26pd_rd_i%3DB0F2JHDRK9%26pd_rd_r%3D38d5cda7-7cab-4fe7-8a48-892bc1cf117a%26pd_rd_w%3DDXw9w%26pd_rd_wg%3DPx0pm%26pf_rd_p%3D308aa03c-0361-4593-bee2-b785ca8775ab%26pf_rd_r%3D4R89EEK1N915RSPYP7F6%26qid%3D1773344758%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-163-2b0dcb9c-4970-41e1-afd4-521d96ec266f-spons%26aref%3D2Np1zMJjbb%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1&aref=2Np1zMJjbb"
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 250,
+        "currency": "USD",
+        "raw": "$250.00",
+        "asin": "B0F2JHDRK9",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3OTg5Mjc4MzczNzY2ODQyOjE3NzMzNDQ3NTg6c3Bfc2VhcmNoX3RoZW1hdGljOjMwMTE2MDE2MzExMTAwMjo6Mjo6&url=%2FTurtlebox-Ranger-Waterproof-Ultra-Portable-Shockproof%2Fdp%2FB0F2JHDRK9%2Fref%3Dsxin_22_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.308aa03c-0361-4593-bee2-b785ca8775ab%253Aamzn1.sym.308aa03c-0361-4593-bee2-b785ca8775ab%26cv_ct_cx%3Dbest%2Belectronics%26keywords%3Dbest%2Belectronics%26pd_rd_i%3DB0F2JHDRK9%26pd_rd_r%3D38d5cda7-7cab-4fe7-8a48-892bc1cf117a%26pd_rd_w%3DDXw9w%26pd_rd_wg%3DPx0pm%26pf_rd_p%3D308aa03c-0361-4593-bee2-b785ca8775ab%26pf_rd_r%3D4R89EEK1N915RSPYP7F6%26qid%3D1773344758%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-163-2b0dcb9c-4970-41e1-afd4-521d96ec266f-spons%26aref%3D2Np1zMJjbb%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1&aref=2Np1zMJjbb"
+      },
+      "delivery": {
+        "tagline": "FREE delivery Wed, Mar 18",
+        "price": {
+          "raw": "$250.00",
+          "symbol": "$",
+          "value": 250,
+          "currency": "USD",
+          "is_free": false
+        }
+      }
+    },
+    {
+      "position": 16,
+      "title": "64GB Uhale 15.6\" Digital Picture Frame, Large WiFi Electronic Photo Frames 1920 x 1080 IPS FHD Touch Screen, Share Photos and Videos Anywhere, Support SD/USB, Best Gifts for Parents and Grandparents",
+      "asin": "B0FKFT7W9Z",
+      "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3OTg5Mjc4MzczNzY2ODQyOjE3NzMzNDQ3NTg6c3Bfc2VhcmNoX3RoZW1hdGljOjMwMDkzOTA1OTc4NDIwMjo6Mzo6&url=%2FDigital-Picture-Electronic-Anywhere-Grandparents%2Fdp%2FB0FKFT7W9Z%2Fref%3Dsxin_22_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.308aa03c-0361-4593-bee2-b785ca8775ab%253Aamzn1.sym.308aa03c-0361-4593-bee2-b785ca8775ab%26cv_ct_cx%3Dbest%2Belectronics%26keywords%3Dbest%2Belectronics%26pd_rd_i%3DB0FKFT7W9Z%26pd_rd_r%3D38d5cda7-7cab-4fe7-8a48-892bc1cf117a%26pd_rd_w%3DDXw9w%26pd_rd_wg%3DPx0pm%26pf_rd_p%3D308aa03c-0361-4593-bee2-b785ca8775ab%26pf_rd_r%3D4R89EEK1N915RSPYP7F6%26qid%3D1773344758%26sbo%3D9ZOMT9Jm0JH%252Ft%252BWi68iDSA%253D%253D%26sr%3D1-164-2b0dcb9c-4970-41e1-afd4-521d96ec266f-spons%26aref%3DpJRJ1kQzYd%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1&aref=pJRJ1kQzYd",
+      "recent_sales": "300+ bought in past month",
+      "availability": {
+        "raw": null
+      },
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/81kqJtl4PzL._AC_UL320_.jpg",
+      "is_prime": false,
+      "is_amazon_fresh": false,
+      "is_whole_foods_market": false,
+      "rating": 4.5,
+      "ratings_total": 1186,
+      "is_carousel": true,
+      "carousel": {
+        "title": "Recently bought and ratedSmall BusinessSustainability featuresSustainability features",
+        "sub_title": "4+ stars and rising in past 90 days50+ bought in past monthList Price: Exclusive Prime priceApr 30, 2025Apr 30, 20259K+ bought in past month400+ bought in past monthShop products from small business brands sold in Amazon’s store. Discover more about the small businesses partnering with Amazon and Amazon’s commitment to empowering them.300+ bought in past monthList Price: Exclusive Prime price2K+ bought in past monthList Price: Exclusive Prime price",
+        "sponsored": true,
+        "id": "loom-desktop-inline-slot_sptw-recently-rated-page2plus-t1",
+        "total_items": 5
+      },
+      "sponsored": true,
+      "below_use_fewer_words_banner": true,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 99.99,
+          "currency": "USD",
+          "raw": "$99.99",
+          "name": "Primary",
+          "is_primary": true,
+          "list_price": "$109.99",
+          "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3OTg5Mjc4MzczNzY2ODQyOjE3NzMzNDQ3NTg6c3Bfc2VhcmNoX3RoZW1hdGljOjMwMDkzOTA1OTc4NDIwMjo6Mzo6&url=%2FDigital-Picture-Electronic-Anywhere-Grandparents%2Fdp%2FB0FKFT7W9Z%2Fref%3Dsxin_22_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.308aa03c-0361-4593-bee2-b785ca8775ab%253Aamzn1.sym.308aa03c-0361-4593-bee2-b785ca8775ab%26cv_ct_cx%3Dbest%2Belectronics%26keywords%3Dbest%2Belectronics%26pd_rd_i%3DB0FKFT7W9Z%26pd_rd_r%3D38d5cda7-7cab-4fe7-8a48-892bc1cf117a%26pd_rd_w%3DDXw9w%26pd_rd_wg%3DPx0pm%26pf_rd_p%3D308aa03c-0361-4593-bee2-b785ca8775ab%26pf_rd_r%3D4R89EEK1N915RSPYP7F6%26qid%3D1773344758%26sbo%3D9ZOMT9Jm0JH%252Ft%252BWi68iDSA%253D%253D%26sr%3D1-164-2b0dcb9c-4970-41e1-afd4-521d96ec266f-spons%26aref%3DpJRJ1kQzYd%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1&aref=pJRJ1kQzYd"
+        },
+        {
+          "symbol": "$",
+          "value": 109.99,
+          "currency": "USD",
+          "raw": "$109.99",
+          "name": "Original",
+          "is_rrp": true,
+          "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3OTg5Mjc4MzczNzY2ODQyOjE3NzMzNDQ3NTg6c3Bfc2VhcmNoX3RoZW1hdGljOjMwMDkzOTA1OTc4NDIwMjo6Mzo6&url=%2FDigital-Picture-Electronic-Anywhere-Grandparents%2Fdp%2FB0FKFT7W9Z%2Fref%3Dsxin_22_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.308aa03c-0361-4593-bee2-b785ca8775ab%253Aamzn1.sym.308aa03c-0361-4593-bee2-b785ca8775ab%26cv_ct_cx%3Dbest%2Belectronics%26keywords%3Dbest%2Belectronics%26pd_rd_i%3DB0FKFT7W9Z%26pd_rd_r%3D38d5cda7-7cab-4fe7-8a48-892bc1cf117a%26pd_rd_w%3DDXw9w%26pd_rd_wg%3DPx0pm%26pf_rd_p%3D308aa03c-0361-4593-bee2-b785ca8775ab%26pf_rd_r%3D4R89EEK1N915RSPYP7F6%26qid%3D1773344758%26sbo%3D9ZOMT9Jm0JH%252Ft%252BWi68iDSA%253D%253D%26sr%3D1-164-2b0dcb9c-4970-41e1-afd4-521d96ec266f-spons%26aref%3DpJRJ1kQzYd%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1&aref=pJRJ1kQzYd",
+          "asin": "B0FKFT7W9Z"
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 99.99,
+        "currency": "USD",
+        "raw": "$99.99",
+        "name": "Primary",
+        "is_primary": true,
+        "list_price": "$109.99",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3OTg5Mjc4MzczNzY2ODQyOjE3NzMzNDQ3NTg6c3Bfc2VhcmNoX3RoZW1hdGljOjMwMDkzOTA1OTc4NDIwMjo6Mzo6&url=%2FDigital-Picture-Electronic-Anywhere-Grandparents%2Fdp%2FB0FKFT7W9Z%2Fref%3Dsxin_22_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.308aa03c-0361-4593-bee2-b785ca8775ab%253Aamzn1.sym.308aa03c-0361-4593-bee2-b785ca8775ab%26cv_ct_cx%3Dbest%2Belectronics%26keywords%3Dbest%2Belectronics%26pd_rd_i%3DB0FKFT7W9Z%26pd_rd_r%3D38d5cda7-7cab-4fe7-8a48-892bc1cf117a%26pd_rd_w%3DDXw9w%26pd_rd_wg%3DPx0pm%26pf_rd_p%3D308aa03c-0361-4593-bee2-b785ca8775ab%26pf_rd_r%3D4R89EEK1N915RSPYP7F6%26qid%3D1773344758%26sbo%3D9ZOMT9Jm0JH%252Ft%252BWi68iDSA%253D%253D%26sr%3D1-164-2b0dcb9c-4970-41e1-afd4-521d96ec266f-spons%26aref%3DpJRJ1kQzYd%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1&aref=pJRJ1kQzYd"
+      },
+      "delivery": {
+        "tagline": "FREE delivery Tue, Mar 17 Or fastest delivery Mon, Mar 16",
+        "price": {
+          "raw": "$99.99",
+          "symbol": "$",
+          "value": 99.99,
+          "currency": "USD",
+          "is_free": false
+        }
+      }
+    },
+    {
+      "position": 17,
+      "title": "64GB 15.6\" Frameo Digital Picture Frame WiFi, Large Electronic Photo Frames 1920 x 1080 IPS FHD Touch Screen, Send Photos from Your Phone from Anywhere, Best Gifts for Parents and Grandparents",
+      "asin": "B0F8B93ZBM",
+      "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3OTg5Mjc4MzczNzY2ODQyOjE3NzMzNDQ3NTg6c3Bfc2VhcmNoX3RoZW1hdGljOjMwMDgyMjAwMjk2MzcwMjo6NDo6&url=%2FDigital-Picture-Electronic-Anywhere-Grandparents%2Fdp%2FB0F8B93ZBM%2Fref%3Dsxin_22_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.308aa03c-0361-4593-bee2-b785ca8775ab%253Aamzn1.sym.308aa03c-0361-4593-bee2-b785ca8775ab%26cv_ct_cx%3Dbest%2Belectronics%26keywords%3Dbest%2Belectronics%26pd_rd_i%3DB0F8B93ZBM%26pd_rd_r%3D38d5cda7-7cab-4fe7-8a48-892bc1cf117a%26pd_rd_w%3DDXw9w%26pd_rd_wg%3DPx0pm%26pf_rd_p%3D308aa03c-0361-4593-bee2-b785ca8775ab%26pf_rd_r%3D4R89EEK1N915RSPYP7F6%26qid%3D1773344758%26sbo%3D9ZOMT9Jm0JH%252Ft%252BWi68iDSA%253D%253D%26sr%3D1-165-2b0dcb9c-4970-41e1-afd4-521d96ec266f-spons%26aref%3DWXQBtMaHwY%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1&aref=WXQBtMaHwY",
+      "recent_sales": "2K+ bought in past month",
+      "availability": {
+        "raw": null
+      },
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/71WqsM-Og7L._AC_UL320_.jpg",
+      "is_prime": false,
+      "is_amazon_fresh": false,
+      "is_whole_foods_market": false,
+      "rating": 4.6,
+      "ratings_total": 1074,
+      "is_carousel": true,
+      "carousel": {
+        "title": "Recently bought and ratedSmall BusinessSustainability featuresSustainability features",
+        "sub_title": "4+ stars and rising in past 90 days50+ bought in past monthList Price: Exclusive Prime priceApr 30, 2025Apr 30, 20259K+ bought in past month400+ bought in past monthShop products from small business brands sold in Amazon’s store. Discover more about the small businesses partnering with Amazon and Amazon’s commitment to empowering them.300+ bought in past monthList Price: Exclusive Prime price2K+ bought in past monthList Price: Exclusive Prime price",
+        "sponsored": true,
+        "id": "loom-desktop-inline-slot_sptw-recently-rated-page2plus-t1",
+        "total_items": 5
+      },
+      "sponsored": true,
+      "below_use_fewer_words_banner": true,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 99.99,
+          "currency": "USD",
+          "raw": "$99.99",
+          "name": "Primary",
+          "is_primary": true,
+          "list_price": "$129.99",
+          "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3OTg5Mjc4MzczNzY2ODQyOjE3NzMzNDQ3NTg6c3Bfc2VhcmNoX3RoZW1hdGljOjMwMDgyMjAwMjk2MzcwMjo6NDo6&url=%2FDigital-Picture-Electronic-Anywhere-Grandparents%2Fdp%2FB0F8B93ZBM%2Fref%3Dsxin_22_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.308aa03c-0361-4593-bee2-b785ca8775ab%253Aamzn1.sym.308aa03c-0361-4593-bee2-b785ca8775ab%26cv_ct_cx%3Dbest%2Belectronics%26keywords%3Dbest%2Belectronics%26pd_rd_i%3DB0F8B93ZBM%26pd_rd_r%3D38d5cda7-7cab-4fe7-8a48-892bc1cf117a%26pd_rd_w%3DDXw9w%26pd_rd_wg%3DPx0pm%26pf_rd_p%3D308aa03c-0361-4593-bee2-b785ca8775ab%26pf_rd_r%3D4R89EEK1N915RSPYP7F6%26qid%3D1773344758%26sbo%3D9ZOMT9Jm0JH%252Ft%252BWi68iDSA%253D%253D%26sr%3D1-165-2b0dcb9c-4970-41e1-afd4-521d96ec266f-spons%26aref%3DWXQBtMaHwY%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1&aref=WXQBtMaHwY"
+        },
+        {
+          "symbol": "$",
+          "value": 129.99,
+          "currency": "USD",
+          "raw": "$129.99",
+          "name": "Original",
+          "is_rrp": true,
+          "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3OTg5Mjc4MzczNzY2ODQyOjE3NzMzNDQ3NTg6c3Bfc2VhcmNoX3RoZW1hdGljOjMwMDgyMjAwMjk2MzcwMjo6NDo6&url=%2FDigital-Picture-Electronic-Anywhere-Grandparents%2Fdp%2FB0F8B93ZBM%2Fref%3Dsxin_22_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.308aa03c-0361-4593-bee2-b785ca8775ab%253Aamzn1.sym.308aa03c-0361-4593-bee2-b785ca8775ab%26cv_ct_cx%3Dbest%2Belectronics%26keywords%3Dbest%2Belectronics%26pd_rd_i%3DB0F8B93ZBM%26pd_rd_r%3D38d5cda7-7cab-4fe7-8a48-892bc1cf117a%26pd_rd_w%3DDXw9w%26pd_rd_wg%3DPx0pm%26pf_rd_p%3D308aa03c-0361-4593-bee2-b785ca8775ab%26pf_rd_r%3D4R89EEK1N915RSPYP7F6%26qid%3D1773344758%26sbo%3D9ZOMT9Jm0JH%252Ft%252BWi68iDSA%253D%253D%26sr%3D1-165-2b0dcb9c-4970-41e1-afd4-521d96ec266f-spons%26aref%3DWXQBtMaHwY%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1&aref=WXQBtMaHwY",
+          "asin": "B0F8B93ZBM"
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 99.99,
+        "currency": "USD",
+        "raw": "$99.99",
+        "name": "Primary",
+        "is_primary": true,
+        "list_price": "$129.99",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3OTg5Mjc4MzczNzY2ODQyOjE3NzMzNDQ3NTg6c3Bfc2VhcmNoX3RoZW1hdGljOjMwMDgyMjAwMjk2MzcwMjo6NDo6&url=%2FDigital-Picture-Electronic-Anywhere-Grandparents%2Fdp%2FB0F8B93ZBM%2Fref%3Dsxin_22_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.308aa03c-0361-4593-bee2-b785ca8775ab%253Aamzn1.sym.308aa03c-0361-4593-bee2-b785ca8775ab%26cv_ct_cx%3Dbest%2Belectronics%26keywords%3Dbest%2Belectronics%26pd_rd_i%3DB0F8B93ZBM%26pd_rd_r%3D38d5cda7-7cab-4fe7-8a48-892bc1cf117a%26pd_rd_w%3DDXw9w%26pd_rd_wg%3DPx0pm%26pf_rd_p%3D308aa03c-0361-4593-bee2-b785ca8775ab%26pf_rd_r%3D4R89EEK1N915RSPYP7F6%26qid%3D1773344758%26sbo%3D9ZOMT9Jm0JH%252Ft%252BWi68iDSA%253D%253D%26sr%3D1-165-2b0dcb9c-4970-41e1-afd4-521d96ec266f-spons%26aref%3DWXQBtMaHwY%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1&aref=WXQBtMaHwY"
+      },
+      "delivery": {
+        "tagline": "FREE delivery Tue, Mar 17 Or fastest delivery Mon, Mar 16",
+        "price": {
+          "raw": "$99.99",
+          "symbol": "$",
+          "value": 99.99,
+          "currency": "USD",
+          "is_free": false
+        }
+      }
+    },
+    {
+      "position": 18,
+      "title": "Hagibis Switch Video Capture Card Portable Switch Dock for Nintendo Switch/iPhone 16 15 Pro Max Live Streaming Gaming USB 3.0 1080P 60Hz Video Recorder, Quest 3 with 4K HDMI(White MS2130 Chip)",
+      "asin": "B0C2P8KJKL",
+      "link": "https://www.amazon.com/Hagibis-Portable-Nintendo-Streaming-Recorder/dp/B0C2P8KJKL/ref=sr_1_173?dib=eyJ2IjoiMSJ9.ieF59V82WCRGBMod0-U7a3YvPcdFWy67byBXFBSSKMG9AWwHd1V6_1w3GZ31FObMP71bqgpjWzuc988vcXD8blt0RKt9lM4H_C-03EqdoZf830qHbqlkvykf1ZdLTNZAUiJ2jjg5CjrQRgBquzs4gsEzG7G2tmMGd5jRHpcLufhh_7wprLbmiwkgcb-0fyfg9Pz0c_4fs4kr8nu4FmM7T6nutiB3fDvtU3hKV-6FGdU.JqezCdnQgSyoyKNIggwOD9dJJX17Pf9u1JAViAvy4M8&dib_tag=se&keywords=best+electronics&qid=1773344758&sr=8-173",
+      "availability": {
+        "raw": null
+      },
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/41yHM8HBMzL._AC_UY218_.jpg",
+      "is_prime": false,
+      "is_amazon_fresh": false,
+      "is_whole_foods_market": false,
+      "rating": 3.5,
+      "ratings_total": 29,
+      "below_use_fewer_words_banner": true
+    },
+    {
+      "position": 19,
+      "title": "Electronic Organizer Travel Case, All-in-One Portable Cable Organizer Bag for Storage, Cord Organizer Tech Accessories for Cables, Chargers, Power Bank, Flash Drive, SD Card",
+      "asin": "B0FF4GB282",
+      "link": "https://www.amazon.com/Castura-Electronic-Organizer-Portable-Accessories/dp/B0FF4GB282/ref=sr_1_174?dib=eyJ2IjoiMSJ9.ieF59V82WCRGBMod0-U7a3YvPcdFWy67byBXFBSSKMG9AWwHd1V6_1w3GZ31FObMP71bqgpjWzuc988vcXD8blt0RKt9lM4H_C-03EqdoZf830qHbqlkvykf1ZdLTNZAUiJ2jjg5CjrQRgBquzs4gsEzG7G2tmMGd5jRHpcLufhh_7wprLbmiwkgcb-0fyfg9Pz0c_4fs4kr8nu4FmM7T6nutiB3fDvtU3hKV-6FGdU.JqezCdnQgSyoyKNIggwOD9dJJX17Pf9u1JAViAvy4M8&dib_tag=se&keywords=best+electronics&qid=1773344758&sr=8-174",
+      "recent_sales": "200+ bought in past month",
+      "availability": {
+        "raw": null
+      },
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/814BMBwIiZL._AC_UY218_.jpg",
+      "is_prime": false,
+      "is_amazon_fresh": false,
+      "is_whole_foods_market": false,
+      "rating": 4.4,
+      "ratings_total": 60,
+      "below_use_fewer_words_banner": true,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 6.99,
+          "currency": "USD",
+          "raw": "$6.99",
+          "asin": "B0FF4GB282",
+          "link": "https://www.amazon.com/Castura-Electronic-Organizer-Portable-Accessories/dp/B0FF4GB282/ref=sr_1_174?dib=eyJ2IjoiMSJ9.ieF59V82WCRGBMod0-U7a3YvPcdFWy67byBXFBSSKMG9AWwHd1V6_1w3GZ31FObMP71bqgpjWzuc988vcXD8blt0RKt9lM4H_C-03EqdoZf830qHbqlkvykf1ZdLTNZAUiJ2jjg5CjrQRgBquzs4gsEzG7G2tmMGd5jRHpcLufhh_7wprLbmiwkgcb-0fyfg9Pz0c_4fs4kr8nu4FmM7T6nutiB3fDvtU3hKV-6FGdU.JqezCdnQgSyoyKNIggwOD9dJJX17Pf9u1JAViAvy4M8&dib_tag=se&keywords=best+electronics&qid=1773344758&sr=8-174"
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 6.99,
+        "currency": "USD",
+        "raw": "$6.99",
+        "asin": "B0FF4GB282",
+        "link": "https://www.amazon.com/Castura-Electronic-Organizer-Portable-Accessories/dp/B0FF4GB282/ref=sr_1_174?dib=eyJ2IjoiMSJ9.ieF59V82WCRGBMod0-U7a3YvPcdFWy67byBXFBSSKMG9AWwHd1V6_1w3GZ31FObMP71bqgpjWzuc988vcXD8blt0RKt9lM4H_C-03EqdoZf830qHbqlkvykf1ZdLTNZAUiJ2jjg5CjrQRgBquzs4gsEzG7G2tmMGd5jRHpcLufhh_7wprLbmiwkgcb-0fyfg9Pz0c_4fs4kr8nu4FmM7T6nutiB3fDvtU3hKV-6FGdU.JqezCdnQgSyoyKNIggwOD9dJJX17Pf9u1JAViAvy4M8&dib_tag=se&keywords=best+electronics&qid=1773344758&sr=8-174"
+      },
+      "delivery": {
+        "tagline": "FREE delivery Tue, Mar 17 on $35 of items shipped by Amazon",
+        "price": {
+          "raw": "$6.99",
+          "symbol": "$",
+          "value": 6.99,
+          "currency": "USD",
+          "is_free": false
+        }
+      }
+    },
+    {
+      "position": 20,
+      "title": "Portable Bluetooth Headset Box Headset EVA Scratch-Proof Protection Box for Sony Edifier W820NB,Colorful",
+      "asin": "B0F846HL5Z",
+      "link": "https://www.amazon.com/Portable-Bluetooth-Scratch-Proof-Protection-Colorful/dp/B0F846HL5Z/ref=sr_1_175_hul_core?dib=eyJ2IjoiMSJ9.ieF59V82WCRGBMod0-U7a3YvPcdFWy67byBXFBSSKMG9AWwHd1V6_1w3GZ31FObMP71bqgpjWzuc988vcXD8blt0RKt9lM4H_C-03EqdoZf830qHbqlkvykf1ZdLTNZAUiJ2jjg5CjrQRgBquzs4gsEzG7G2tmMGd5jRHpcLufhh_7wprLbmiwkgcb-0fyfg9Pz0c_4fs4kr8nu4FmM7T6nutiB3fDvtU3hKV-6FGdU.JqezCdnQgSyoyKNIggwOD9dJJX17Pf9u1JAViAvy4M8&dib_tag=se&keywords=best+electronics&qid=1773344758&sr=8-175",
+      "availability": {
+        "raw": "Only 5 left in stock - order soon."
+      },
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/413WOyFozJL._AC_UY218_.jpg",
+      "coupon": {
+        "badge_text": "Extra 5% off",
+        "text": "on orders $50+"
+      },
+      "is_prime": false,
+      "is_amazon_fresh": false,
+      "is_whole_foods_market": false,
+      "rating": 1.5,
+      "ratings_total": 4,
+      "below_use_fewer_words_banner": true,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 14.84,
+          "currency": "USD",
+          "raw": "$14.84",
+          "list_price": "$50",
+          "asin": "B0F846HL5Z",
+          "link": "https://www.amazon.com/Portable-Bluetooth-Scratch-Proof-Protection-Colorful/dp/B0F846HL5Z/ref=sr_1_175_hul_core?dib=eyJ2IjoiMSJ9.ieF59V82WCRGBMod0-U7a3YvPcdFWy67byBXFBSSKMG9AWwHd1V6_1w3GZ31FObMP71bqgpjWzuc988vcXD8blt0RKt9lM4H_C-03EqdoZf830qHbqlkvykf1ZdLTNZAUiJ2jjg5CjrQRgBquzs4gsEzG7G2tmMGd5jRHpcLufhh_7wprLbmiwkgcb-0fyfg9Pz0c_4fs4kr8nu4FmM7T6nutiB3fDvtU3hKV-6FGdU.JqezCdnQgSyoyKNIggwOD9dJJX17Pf9u1JAViAvy4M8&dib_tag=se&keywords=best+electronics&qid=1773344758&sr=8-175"
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 14.84,
+        "currency": "USD",
+        "raw": "$14.84",
+        "list_price": "$50",
+        "asin": "B0F846HL5Z",
+        "link": "https://www.amazon.com/Portable-Bluetooth-Scratch-Proof-Protection-Colorful/dp/B0F846HL5Z/ref=sr_1_175_hul_core?dib=eyJ2IjoiMSJ9.ieF59V82WCRGBMod0-U7a3YvPcdFWy67byBXFBSSKMG9AWwHd1V6_1w3GZ31FObMP71bqgpjWzuc988vcXD8blt0RKt9lM4H_C-03EqdoZf830qHbqlkvykf1ZdLTNZAUiJ2jjg5CjrQRgBquzs4gsEzG7G2tmMGd5jRHpcLufhh_7wprLbmiwkgcb-0fyfg9Pz0c_4fs4kr8nu4FmM7T6nutiB3fDvtU3hKV-6FGdU.JqezCdnQgSyoyKNIggwOD9dJJX17Pf9u1JAViAvy4M8&dib_tag=se&keywords=best+electronics&qid=1773344758&sr=8-175"
+      },
+      "delivery": {
+        "tagline": "FREE delivery Mar 21 - 25 on $25 of eligible items",
+        "price": {
+          "raw": "$14.84",
+          "symbol": "$",
+          "value": 14.84,
+          "currency": "USD",
+          "is_free": false
+        }
+      }
+    },
+    {
+      "position": 21,
+      "title": "Outdoor Projector Screen with Stand - 120 inch Portable Projector Screens Indoor Outdoor Projector Screen 16:9 4K HD Outdoor Movie Screen with Carry Bag,Enioy Home Theater Projection Screen",
+      "asin": "B0DPMH4L31",
+      "link": "https://www.amazon.com/Outdoor-Projector-Screen-Stand-Projection/dp/B0DPMH4L31/ref=sr_1_176?dib=eyJ2IjoiMSJ9.ieF59V82WCRGBMod0-U7a3YvPcdFWy67byBXFBSSKMG9AWwHd1V6_1w3GZ31FObMP71bqgpjWzuc988vcXD8blt0RKt9lM4H_C-03EqdoZf830qHbqlkvykf1ZdLTNZAUiJ2jjg5CjrQRgBquzs4gsEzG7G2tmMGd5jRHpcLufhh_7wprLbmiwkgcb-0fyfg9Pz0c_4fs4kr8nu4FmM7T6nutiB3fDvtU3hKV-6FGdU.JqezCdnQgSyoyKNIggwOD9dJJX17Pf9u1JAViAvy4M8&dib_tag=se&keywords=best+electronics&qid=1773344758&sr=8-176",
+      "recent_sales": "300+ bought in past month",
+      "availability": {
+        "raw": null
+      },
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/71c-KrFLyEL._AC_UY218_.jpg",
+      "is_prime": false,
+      "is_amazon_fresh": false,
+      "is_whole_foods_market": false,
+      "rating": 4.6,
+      "ratings_total": 597,
+      "below_use_fewer_words_banner": true
+    },
+    {
+      "position": 22,
+      "title": "BIIuetuoth Earphone Fingerprint Touch BIIuetuoth 5.0 Earbuds Ergonomic Long Battreriy Life Waterproof Noise CanCeIIing for Sports New 2026 High for Reliable Electronic Component",
+      "asin": "B0GHNDVT5L",
+      "link": "https://www.amazon.com/BIIuetuoth-Fingerprint-Waterproof-CanCeIIing-Electronic/dp/B0GHNDVT5L/ref=sr_1_177?dib=eyJ2IjoiMSJ9.ieF59V82WCRGBMod0-U7a3YvPcdFWy67byBXFBSSKMG9AWwHd1V6_1w3GZ31FObMP71bqgpjWzuc988vcXD8blt0RKt9lM4H_C-03EqdoZf830qHbqlkvykf1ZdLTNZAUiJ2jjg5CjrQRgBquzs4gsEzG7G2tmMGd5jRHpcLufhh_7wprLbmiwkgcb-0fyfg9Pz0c_4fs4kr8nu4FmM7T6nutiB3fDvtU3hKV-6FGdU.JqezCdnQgSyoyKNIggwOD9dJJX17Pf9u1JAViAvy4M8&dib_tag=se&keywords=best+electronics&qid=1773344758&sr=8-177",
+      "availability": {
+        "raw": null
+      },
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/411Chf5cXzL._AC_UY218_.jpg",
+      "is_prime": false,
+      "is_amazon_fresh": false,
+      "is_whole_foods_market": false,
+      "below_use_fewer_words_banner": true
+    },
+    {
+      "position": 23,
+      "title": "Science Kits for Kids - STEM Kits for Kid, Electronics Exploration Kit, Over 440 Projects, 16 Circuit Parts, STEM Toy Educational Gifts for Kids Boys Girls Ages 3 4 5 6 7 8 9 10 11 12",
+      "asin": "B0F52H5D1P",
+      "link": "https://www.amazon.com/Science-Kits-Kids-Electronics-Exploration/dp/B0F52H5D1P/ref=sr_1_178?dib=eyJ2IjoiMSJ9.ieF59V82WCRGBMod0-U7a3YvPcdFWy67byBXFBSSKMG9AWwHd1V6_1w3GZ31FObMP71bqgpjWzuc988vcXD8blt0RKt9lM4H_C-03EqdoZf830qHbqlkvykf1ZdLTNZAUiJ2jjg5CjrQRgBquzs4gsEzG7G2tmMGd5jRHpcLufhh_7wprLbmiwkgcb-0fyfg9Pz0c_4fs4kr8nu4FmM7T6nutiB3fDvtU3hKV-6FGdU.JqezCdnQgSyoyKNIggwOD9dJJX17Pf9u1JAViAvy4M8&dib_tag=se&keywords=best+electronics&qid=1773344758&sr=8-178",
+      "recent_sales": "100+ bought in past month",
+      "availability": {
+        "raw": null
+      },
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/71LyRDb7V1L._AC_UY218_.jpg",
+      "is_prime": false,
+      "is_amazon_fresh": false,
+      "is_whole_foods_market": false,
+      "rating": 4.5,
+      "ratings_total": 74,
+      "below_use_fewer_words_banner": true,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 39.99,
+          "currency": "USD",
+          "raw": "$39.99",
+          "name": "Primary",
+          "is_primary": true,
+          "list_price": "$59.99",
+          "asin": "B0F52H5D1P",
+          "link": "https://www.amazon.com/Science-Kits-Kids-Electronics-Exploration/dp/B0F52H5D1P/ref=sr_1_178?dib=eyJ2IjoiMSJ9.ieF59V82WCRGBMod0-U7a3YvPcdFWy67byBXFBSSKMG9AWwHd1V6_1w3GZ31FObMP71bqgpjWzuc988vcXD8blt0RKt9lM4H_C-03EqdoZf830qHbqlkvykf1ZdLTNZAUiJ2jjg5CjrQRgBquzs4gsEzG7G2tmMGd5jRHpcLufhh_7wprLbmiwkgcb-0fyfg9Pz0c_4fs4kr8nu4FmM7T6nutiB3fDvtU3hKV-6FGdU.JqezCdnQgSyoyKNIggwOD9dJJX17Pf9u1JAViAvy4M8&dib_tag=se&keywords=best+electronics&qid=1773344758&sr=8-178"
+        },
+        {
+          "symbol": "$",
+          "value": 59.99,
+          "currency": "USD",
+          "raw": "$59.99",
+          "name": "Original",
+          "is_rrp": true,
+          "link": "https://www.amazon.com/Science-Kits-Kids-Electronics-Exploration/dp/B0F52H5D1P/ref=sr_1_178?dib=eyJ2IjoiMSJ9.ieF59V82WCRGBMod0-U7a3YvPcdFWy67byBXFBSSKMG9AWwHd1V6_1w3GZ31FObMP71bqgpjWzuc988vcXD8blt0RKt9lM4H_C-03EqdoZf830qHbqlkvykf1ZdLTNZAUiJ2jjg5CjrQRgBquzs4gsEzG7G2tmMGd5jRHpcLufhh_7wprLbmiwkgcb-0fyfg9Pz0c_4fs4kr8nu4FmM7T6nutiB3fDvtU3hKV-6FGdU.JqezCdnQgSyoyKNIggwOD9dJJX17Pf9u1JAViAvy4M8&dib_tag=se&keywords=best+electronics&qid=1773344758&sr=8-178",
+          "asin": "B0F52H5D1P"
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 39.99,
+        "currency": "USD",
+        "raw": "$39.99",
+        "name": "Primary",
+        "is_primary": true,
+        "list_price": "$59.99",
+        "asin": "B0F52H5D1P",
+        "link": "https://www.amazon.com/Science-Kits-Kids-Electronics-Exploration/dp/B0F52H5D1P/ref=sr_1_178?dib=eyJ2IjoiMSJ9.ieF59V82WCRGBMod0-U7a3YvPcdFWy67byBXFBSSKMG9AWwHd1V6_1w3GZ31FObMP71bqgpjWzuc988vcXD8blt0RKt9lM4H_C-03EqdoZf830qHbqlkvykf1ZdLTNZAUiJ2jjg5CjrQRgBquzs4gsEzG7G2tmMGd5jRHpcLufhh_7wprLbmiwkgcb-0fyfg9Pz0c_4fs4kr8nu4FmM7T6nutiB3fDvtU3hKV-6FGdU.JqezCdnQgSyoyKNIggwOD9dJJX17Pf9u1JAViAvy4M8&dib_tag=se&keywords=best+electronics&qid=1773344758&sr=8-178"
+      },
+      "delivery": {
+        "tagline": "FREE delivery Tue, Mar 17 Or fastest delivery Mon, Mar 16",
+        "price": {
+          "raw": "$39.99",
+          "symbol": "$",
+          "value": 39.99,
+          "currency": "USD",
+          "is_free": false
+        }
+      }
+    },
+    {
+      "position": 24,
+      "title": "3-Yr Elect Under $500 Audio/Video/Mobile/Photo/HTIB/Ereaders (DOP)",
+      "asin": "B006BJMK9S",
+      "link": "https://www.amazon.com/Elect-Under-500-Mobile-Ereaders/dp/B006BJMK9S/ref=sr_1_179?dib=eyJ2IjoiMSJ9.ieF59V82WCRGBMod0-U7a3YvPcdFWy67byBXFBSSKMG9AWwHd1V6_1w3GZ31FObMP71bqgpjWzuc988vcXD8blt0RKt9lM4H_C-03EqdoZf830qHbqlkvykf1ZdLTNZAUiJ2jjg5CjrQRgBquzs4gsEzG7G2tmMGd5jRHpcLufhh_7wprLbmiwkgcb-0fyfg9Pz0c_4fs4kr8nu4FmM7T6nutiB3fDvtU3hKV-6FGdU.JqezCdnQgSyoyKNIggwOD9dJJX17Pf9u1JAViAvy4M8&dib_tag=se&keywords=best+electronics&qid=1773344758&sr=8-179",
+      "availability": {
+        "raw": null
+      },
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/51oUUaLcErL._AC_UY218_.jpg",
+      "is_prime": false,
+      "is_amazon_fresh": false,
+      "is_whole_foods_market": false,
+      "below_use_fewer_words_banner": true,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 34.65,
+          "currency": "USD",
+          "raw": "$34.65",
+          "asin": "B006BJMK9S",
+          "link": "https://www.amazon.com/Elect-Under-500-Mobile-Ereaders/dp/B006BJMK9S/ref=sr_1_179?dib=eyJ2IjoiMSJ9.ieF59V82WCRGBMod0-U7a3YvPcdFWy67byBXFBSSKMG9AWwHd1V6_1w3GZ31FObMP71bqgpjWzuc988vcXD8blt0RKt9lM4H_C-03EqdoZf830qHbqlkvykf1ZdLTNZAUiJ2jjg5CjrQRgBquzs4gsEzG7G2tmMGd5jRHpcLufhh_7wprLbmiwkgcb-0fyfg9Pz0c_4fs4kr8nu4FmM7T6nutiB3fDvtU3hKV-6FGdU.JqezCdnQgSyoyKNIggwOD9dJJX17Pf9u1JAViAvy4M8&dib_tag=se&keywords=best+electronics&qid=1773344758&sr=8-179"
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 34.65,
+        "currency": "USD",
+        "raw": "$34.65",
+        "asin": "B006BJMK9S",
+        "link": "https://www.amazon.com/Elect-Under-500-Mobile-Ereaders/dp/B006BJMK9S/ref=sr_1_179?dib=eyJ2IjoiMSJ9.ieF59V82WCRGBMod0-U7a3YvPcdFWy67byBXFBSSKMG9AWwHd1V6_1w3GZ31FObMP71bqgpjWzuc988vcXD8blt0RKt9lM4H_C-03EqdoZf830qHbqlkvykf1ZdLTNZAUiJ2jjg5CjrQRgBquzs4gsEzG7G2tmMGd5jRHpcLufhh_7wprLbmiwkgcb-0fyfg9Pz0c_4fs4kr8nu4FmM7T6nutiB3fDvtU3hKV-6FGdU.JqezCdnQgSyoyKNIggwOD9dJJX17Pf9u1JAViAvy4M8&dib_tag=se&keywords=best+electronics&qid=1773344758&sr=8-179"
+      },
+      "delivery": {
+        "tagline": "$7.49 delivery Mar 18 - 23",
+        "price": {
+          "raw": "$34.65",
+          "symbol": "$",
+          "value": 34.65,
+          "currency": "USD",
+          "is_free": false
+        }
+      }
+    },
+    {
+      "position": 25,
+      "title": "8 Inches Black Reusable Cable Ties,Multi-purpose Adjustable Cord Straps, Cable Organizer,Cord Wrap and Hook Loop Cords Management,Adjustable Cord Ties for Organizing Home, Office, Data Centers,56 PCS",
+      "asin": "B0FJG6HJ1G",
+      "link": "https://www.amazon.com/Multi-purpose-Adjustable-Organizer-Management-Organizing/dp/B0FJG6HJ1G/ref=sr_1_180?dib=eyJ2IjoiMSJ9.ieF59V82WCRGBMod0-U7a3YvPcdFWy67byBXFBSSKMG9AWwHd1V6_1w3GZ31FObMP71bqgpjWzuc988vcXD8blt0RKt9lM4H_C-03EqdoZf830qHbqlkvykf1ZdLTNZAUiJ2jjg5CjrQRgBquzs4gsEzG7G2tmMGd5jRHpcLufhh_7wprLbmiwkgcb-0fyfg9Pz0c_4fs4kr8nu4FmM7T6nutiB3fDvtU3hKV-6FGdU.JqezCdnQgSyoyKNIggwOD9dJJX17Pf9u1JAViAvy4M8&dib_tag=se&keywords=best+electronics&qid=1773344758&sr=8-180",
+      "recent_sales": "400+ bought in past month",
+      "availability": {
+        "raw": null
+      },
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/71e7O82CJ2L._AC_UY218_.jpg",
+      "unit_price": "$0.11$0.11/count",
+      "is_prime": false,
+      "is_amazon_fresh": false,
+      "is_whole_foods_market": false,
+      "rating": 4.8,
+      "ratings_total": 158,
+      "below_use_fewer_words_banner": true,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 5.99,
+          "currency": "USD",
+          "raw": "$5.99",
+          "list_price": "$0.11",
+          "asin": "B0FJG6HJ1G",
+          "link": "https://www.amazon.com/Multi-purpose-Adjustable-Organizer-Management-Organizing/dp/B0FJG6HJ1G/ref=sr_1_180?dib=eyJ2IjoiMSJ9.ieF59V82WCRGBMod0-U7a3YvPcdFWy67byBXFBSSKMG9AWwHd1V6_1w3GZ31FObMP71bqgpjWzuc988vcXD8blt0RKt9lM4H_C-03EqdoZf830qHbqlkvykf1ZdLTNZAUiJ2jjg5CjrQRgBquzs4gsEzG7G2tmMGd5jRHpcLufhh_7wprLbmiwkgcb-0fyfg9Pz0c_4fs4kr8nu4FmM7T6nutiB3fDvtU3hKV-6FGdU.JqezCdnQgSyoyKNIggwOD9dJJX17Pf9u1JAViAvy4M8&dib_tag=se&keywords=best+electronics&qid=1773344758&sr=8-180"
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 5.99,
+        "currency": "USD",
+        "raw": "$5.99",
+        "list_price": "$0.11",
+        "asin": "B0FJG6HJ1G",
+        "link": "https://www.amazon.com/Multi-purpose-Adjustable-Organizer-Management-Organizing/dp/B0FJG6HJ1G/ref=sr_1_180?dib=eyJ2IjoiMSJ9.ieF59V82WCRGBMod0-U7a3YvPcdFWy67byBXFBSSKMG9AWwHd1V6_1w3GZ31FObMP71bqgpjWzuc988vcXD8blt0RKt9lM4H_C-03EqdoZf830qHbqlkvykf1ZdLTNZAUiJ2jjg5CjrQRgBquzs4gsEzG7G2tmMGd5jRHpcLufhh_7wprLbmiwkgcb-0fyfg9Pz0c_4fs4kr8nu4FmM7T6nutiB3fDvtU3hKV-6FGdU.JqezCdnQgSyoyKNIggwOD9dJJX17Pf9u1JAViAvy4M8&dib_tag=se&keywords=best+electronics&qid=1773344758&sr=8-180"
+      },
+      "delivery": {
+        "tagline": "FREE delivery Tue, Mar 17 on $35 of items shipped by Amazon Or fastest delivery Mon, Mar 16",
+        "price": {
+          "raw": "$5.99",
+          "symbol": "$",
+          "value": 5.99,
+          "currency": "USD",
+          "is_free": false
+        }
+      }
+    },
+    {
+      "position": 26,
+      "title": "Varta Longlife AA Batteries (100 Pack), Alkaline Double A Battery",
+      "asin": "B0CLYZP2Z8",
+      "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo0Mjk0MzA3MTUyNzUyNTc0OjE3NzMzNDQ3NTg6c3BfYnRmOjMwMTAwNDAxNzc5NzkwMjo6MDo6&url=%2FVARTA-Longlife-Batteries-Alkaline-Battery%2Fdp%2FB0CLYZP2Z8%2Fref%3Dsr_1_181_sspa%3Fdib%3DeyJ2IjoiMSJ9.ieF59V82WCRGBMod0-U7a3YvPcdFWy67byBXFBSSKMG9AWwHd1V6_1w3GZ31FObMP71bqgpjWzuc988vcXD8blt0RKt9lM4H_C-03EqdoZf830qHbqlkvykf1ZdLTNZAUiJ2jjg5CjrQRgBquzs4gsEzG7G2tmMGd5jRHpcLufhh_7wprLbmiwkgcb-0fyfg9Pz0c_4fs4kr8nu4FmM7T6nutiB3fDvtU3hKV-6FGdU.JqezCdnQgSyoyKNIggwOD9dJJX17Pf9u1JAViAvy4M8%26dib_tag%3Dse%26keywords%3Dbest%2Belectronics%26qid%3D1773344758%26sr%3D8-181-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1",
+      "recent_sales": "1K+ bought in past month",
+      "availability": {
+        "raw": null
+      },
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/810zF2Y0beL._AC_UY218_.jpg",
+      "unit_price": "$0.24$0.24/count",
+      "is_prime": false,
+      "is_amazon_fresh": false,
+      "is_whole_foods_market": false,
+      "rating": 4.6,
+      "ratings_total": 1178,
+      "sponsored": true,
+      "below_use_fewer_words_banner": true,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 23.99,
+          "currency": "USD",
+          "raw": "$23.99",
+          "list_price": "$0.24",
+          "asin": "B0CLYZP2Z8",
+          "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo0Mjk0MzA3MTUyNzUyNTc0OjE3NzMzNDQ3NTg6c3BfYnRmOjMwMTAwNDAxNzc5NzkwMjo6MDo6&url=%2FVARTA-Longlife-Batteries-Alkaline-Battery%2Fdp%2FB0CLYZP2Z8%2Fref%3Dsr_1_181_sspa%3Fdib%3DeyJ2IjoiMSJ9.ieF59V82WCRGBMod0-U7a3YvPcdFWy67byBXFBSSKMG9AWwHd1V6_1w3GZ31FObMP71bqgpjWzuc988vcXD8blt0RKt9lM4H_C-03EqdoZf830qHbqlkvykf1ZdLTNZAUiJ2jjg5CjrQRgBquzs4gsEzG7G2tmMGd5jRHpcLufhh_7wprLbmiwkgcb-0fyfg9Pz0c_4fs4kr8nu4FmM7T6nutiB3fDvtU3hKV-6FGdU.JqezCdnQgSyoyKNIggwOD9dJJX17Pf9u1JAViAvy4M8%26dib_tag%3Dse%26keywords%3Dbest%2Belectronics%26qid%3D1773344758%26sr%3D8-181-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1"
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 23.99,
+        "currency": "USD",
+        "raw": "$23.99",
+        "list_price": "$0.24",
+        "asin": "B0CLYZP2Z8",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo0Mjk0MzA3MTUyNzUyNTc0OjE3NzMzNDQ3NTg6c3BfYnRmOjMwMTAwNDAxNzc5NzkwMjo6MDo6&url=%2FVARTA-Longlife-Batteries-Alkaline-Battery%2Fdp%2FB0CLYZP2Z8%2Fref%3Dsr_1_181_sspa%3Fdib%3DeyJ2IjoiMSJ9.ieF59V82WCRGBMod0-U7a3YvPcdFWy67byBXFBSSKMG9AWwHd1V6_1w3GZ31FObMP71bqgpjWzuc988vcXD8blt0RKt9lM4H_C-03EqdoZf830qHbqlkvykf1ZdLTNZAUiJ2jjg5CjrQRgBquzs4gsEzG7G2tmMGd5jRHpcLufhh_7wprLbmiwkgcb-0fyfg9Pz0c_4fs4kr8nu4FmM7T6nutiB3fDvtU3hKV-6FGdU.JqezCdnQgSyoyKNIggwOD9dJJX17Pf9u1JAViAvy4M8%26dib_tag%3Dse%26keywords%3Dbest%2Belectronics%26qid%3D1773344758%26sr%3D8-181-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1"
+      },
+      "delivery": {
+        "tagline": "FREE delivery Tue, Mar 17 on $35 of items shipped by Amazon Or fastest delivery Mon, Mar 16",
+        "price": {
+          "raw": "$23.99",
+          "symbol": "$",
+          "value": 23.99,
+          "currency": "USD",
+          "is_free": false
+        }
+      }
+    },
+    {
+      "position": 27,
+      "title": "Meta Quest 3S 128GB | VR Headset — Thirty-Three Percent More Memory — 2X Graphical Processing Power — Virtual Reality Without Wires — Access to 40+ Games with a 3-Month Trial of Meta Horizon+ Included",
+      "asin": "B0F2GYMC8H",
+      "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo0Mjk0MzA3MTUyNzUyNTc0OjE3NzMzNDQ3NTg6c3BfYnRmOjMwMDgwMzczMzczNDEwMjo6MDo6&url=%2FMeta-Quest-128GB-Cardboard-Exclusive-Oculus%2Fdp%2FB0F2GYMC8H%2Fref%3Dsr_1_182_sspa%3Fdib%3DeyJ2IjoiMSJ9.ieF59V82WCRGBMod0-U7a3YvPcdFWy67byBXFBSSKMG9AWwHd1V6_1w3GZ31FObMP71bqgpjWzuc988vcXD8blt0RKt9lM4H_C-03EqdoZf830qHbqlkvykf1ZdLTNZAUiJ2jjg5CjrQRgBquzs4gsEzG7G2tmMGd5jRHpcLufhh_7wprLbmiwkgcb-0fyfg9Pz0c_4fs4kr8nu4FmM7T6nutiB3fDvtU3hKV-6FGdU.JqezCdnQgSyoyKNIggwOD9dJJX17Pf9u1JAViAvy4M8%26dib_tag%3Dse%26keywords%3Dbest%2Belectronics%26qid%3D1773344758%26sr%3D8-182-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1",
+      "recent_sales": "9K+ bought in past month",
+      "availability": {
+        "raw": null
+      },
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/61-SGpdmgRL._AC_UY218_.jpg",
+      "is_prime": false,
+      "is_amazon_fresh": false,
+      "is_whole_foods_market": false,
+      "rating": 4.6,
+      "ratings_total": 4244,
+      "sponsored": true,
+      "below_use_fewer_words_banner": true,
+      "delivery": {
+        "tagline": "FREE delivery Tue, Mar 17"
+      }
+    },
+    {
+      "position": 28,
+      "title": "[1200 ANSI & Audio by dbx-tv] Alvar Projector with WiFi 6 and Bluetooth, 30W Speakers, Built in NetfIix App & DoIby Audio Outdoor Proyector, Auto Focus & Keystone Native 1080P Smart Projector, Black",
+      "asin": "B0D8BCJ1PV",
+      "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NTIyNTA2NjU3NDIxNTU1OjE3NzMzNDQ3NTg6c3Bfc2VhcmNoX3RoZW1hdGljX2J0ZjozMDExMTcyNzMwODM4MDI6OjA6Og&url=%2FAlvar-Projector-Bluetooth-Certified-Keystone%2Fdp%2FB0D8BCJ1PV%2Fref%3Dsxbs_pa_sp_search_thematic_btf_sspa%3Fcontent-id%3Damzn1.sym.f987b8f8-b718-438b-869c-4899de40b55b%253Aamzn1.sym.f987b8f8-b718-438b-869c-4899de40b55b%26cv_ct_cx%3Dbest%2Belectronics%26keywords%3Dbest%2Belectronics%26pd_rd_i%3DB0D8BCJ1PV%26pd_rd_r%3D2ba646af-87b3-405f-bad2-14a27d595663%26pd_rd_w%3DkpOk1%26pd_rd_wg%3DH2BN2%26pf_rd_p%3Df987b8f8-b718-438b-869c-4899de40b55b%26pf_rd_r%3D4R89EEK1N915RSPYP7F6%26qid%3D1773344758%26sbo%3D9ZOMT9Jm0JH%252Ft%252BWi68iDSA%253D%253D%26sr%3D1-161-19848dd4-d197-4a53-a445-4045457584e9-spons%26aref%3D1LmsrYFS04%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWNfYnRm%26psc%3D1&aref=1LmsrYFS04",
+      "recent_sales": "50+ bought in past month",
+      "availability": {
+        "raw": null
+      },
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/812XMk8bv8L._AC_UL320_.jpg",
+      "is_prime": false,
+      "is_amazon_fresh": false,
+      "is_whole_foods_market": false,
+      "rating": 4.4,
+      "ratings_total": 491,
+      "is_carousel": true,
+      "carousel": {
+        "title": "Seen on social mediaSmall BusinessSmall Business",
+        "sponsored": true,
+        "id": "loom-desktop-bottom-slot_sptw-social-transits-t1",
+        "total_items": 5
+      },
+      "sponsored": true,
+      "below_use_fewer_words_banner": true,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 169.99,
+          "currency": "USD",
+          "raw": "$169.99",
+          "name": "Primary",
+          "is_primary": true,
+          "list_price": "$246.49",
+          "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NTIyNTA2NjU3NDIxNTU1OjE3NzMzNDQ3NTg6c3Bfc2VhcmNoX3RoZW1hdGljX2J0ZjozMDExMTcyNzMwODM4MDI6OjA6Og&url=%2FAlvar-Projector-Bluetooth-Certified-Keystone%2Fdp%2FB0D8BCJ1PV%2Fref%3Dsxbs_pa_sp_search_thematic_btf_sspa%3Fcontent-id%3Damzn1.sym.f987b8f8-b718-438b-869c-4899de40b55b%253Aamzn1.sym.f987b8f8-b718-438b-869c-4899de40b55b%26cv_ct_cx%3Dbest%2Belectronics%26keywords%3Dbest%2Belectronics%26pd_rd_i%3DB0D8BCJ1PV%26pd_rd_r%3D2ba646af-87b3-405f-bad2-14a27d595663%26pd_rd_w%3DkpOk1%26pd_rd_wg%3DH2BN2%26pf_rd_p%3Df987b8f8-b718-438b-869c-4899de40b55b%26pf_rd_r%3D4R89EEK1N915RSPYP7F6%26qid%3D1773344758%26sbo%3D9ZOMT9Jm0JH%252Ft%252BWi68iDSA%253D%253D%26sr%3D1-161-19848dd4-d197-4a53-a445-4045457584e9-spons%26aref%3D1LmsrYFS04%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWNfYnRm%26psc%3D1&aref=1LmsrYFS04"
+        },
+        {
+          "symbol": "$",
+          "value": 246.49,
+          "currency": "USD",
+          "raw": "$246.49",
+          "name": "Original",
+          "is_rrp": true,
+          "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NTIyNTA2NjU3NDIxNTU1OjE3NzMzNDQ3NTg6c3Bfc2VhcmNoX3RoZW1hdGljX2J0ZjozMDExMTcyNzMwODM4MDI6OjA6Og&url=%2FAlvar-Projector-Bluetooth-Certified-Keystone%2Fdp%2FB0D8BCJ1PV%2Fref%3Dsxbs_pa_sp_search_thematic_btf_sspa%3Fcontent-id%3Damzn1.sym.f987b8f8-b718-438b-869c-4899de40b55b%253Aamzn1.sym.f987b8f8-b718-438b-869c-4899de40b55b%26cv_ct_cx%3Dbest%2Belectronics%26keywords%3Dbest%2Belectronics%26pd_rd_i%3DB0D8BCJ1PV%26pd_rd_r%3D2ba646af-87b3-405f-bad2-14a27d595663%26pd_rd_w%3DkpOk1%26pd_rd_wg%3DH2BN2%26pf_rd_p%3Df987b8f8-b718-438b-869c-4899de40b55b%26pf_rd_r%3D4R89EEK1N915RSPYP7F6%26qid%3D1773344758%26sbo%3D9ZOMT9Jm0JH%252Ft%252BWi68iDSA%253D%253D%26sr%3D1-161-19848dd4-d197-4a53-a445-4045457584e9-spons%26aref%3D1LmsrYFS04%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWNfYnRm%26psc%3D1&aref=1LmsrYFS04",
+          "asin": "B0D8BCJ1PV"
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 169.99,
+        "currency": "USD",
+        "raw": "$169.99",
+        "name": "Primary",
+        "is_primary": true,
+        "list_price": "$246.49",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NTIyNTA2NjU3NDIxNTU1OjE3NzMzNDQ3NTg6c3Bfc2VhcmNoX3RoZW1hdGljX2J0ZjozMDExMTcyNzMwODM4MDI6OjA6Og&url=%2FAlvar-Projector-Bluetooth-Certified-Keystone%2Fdp%2FB0D8BCJ1PV%2Fref%3Dsxbs_pa_sp_search_thematic_btf_sspa%3Fcontent-id%3Damzn1.sym.f987b8f8-b718-438b-869c-4899de40b55b%253Aamzn1.sym.f987b8f8-b718-438b-869c-4899de40b55b%26cv_ct_cx%3Dbest%2Belectronics%26keywords%3Dbest%2Belectronics%26pd_rd_i%3DB0D8BCJ1PV%26pd_rd_r%3D2ba646af-87b3-405f-bad2-14a27d595663%26pd_rd_w%3DkpOk1%26pd_rd_wg%3DH2BN2%26pf_rd_p%3Df987b8f8-b718-438b-869c-4899de40b55b%26pf_rd_r%3D4R89EEK1N915RSPYP7F6%26qid%3D1773344758%26sbo%3D9ZOMT9Jm0JH%252Ft%252BWi68iDSA%253D%253D%26sr%3D1-161-19848dd4-d197-4a53-a445-4045457584e9-spons%26aref%3D1LmsrYFS04%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWNfYnRm%26psc%3D1&aref=1LmsrYFS04"
+      },
+      "delivery": {
+        "tagline": "FREE delivery Tue, Mar 17 Or fastest delivery Mon, Mar 16",
+        "price": {
+          "raw": "$169.99",
+          "symbol": "$",
+          "value": 169.99,
+          "currency": "USD",
+          "is_free": false
+        }
+      }
+    },
+    {
+      "position": 29,
+      "title": "LiCB 10 Pack CR2450 Battery 3V Lithium CR 2450",
+      "asin": "B0797QRD73",
+      "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NTIyNTA2NjU3NDIxNTU1OjE3NzMzNDQ3NTg6c3Bfc2VhcmNoX3RoZW1hdGljX2J0ZjoyMDAwMDYxNzc1MDM3MjE6OjE6Og&url=%2FLiCB-Pack-CR2450-Battery-Lithium%2Fdp%2FB0797QRD73%2Fref%3Dsxbs_pa_sp_search_thematic_btf_sspa%3Fcontent-id%3Damzn1.sym.f987b8f8-b718-438b-869c-4899de40b55b%253Aamzn1.sym.f987b8f8-b718-438b-869c-4899de40b55b%26cv_ct_cx%3Dbest%2Belectronics%26keywords%3Dbest%2Belectronics%26pd_rd_i%3DB0797QRD73%26pd_rd_r%3D2ba646af-87b3-405f-bad2-14a27d595663%26pd_rd_w%3DkpOk1%26pd_rd_wg%3DH2BN2%26pf_rd_p%3Df987b8f8-b718-438b-869c-4899de40b55b%26pf_rd_r%3D4R89EEK1N915RSPYP7F6%26qid%3D1773344758%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-162-19848dd4-d197-4a53-a445-4045457584e9-spons%26aref%3DJ7g5frNezb%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWNfYnRm%26psc%3D1&aref=J7g5frNezb",
+      "recent_sales": "6K+ bought in past month",
+      "availability": {
+        "raw": null
+      },
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/81z0Nu3HxlL._AC_UL320_.jpg",
+      "unit_price": "$0.90$0.90/count",
+      "is_prime": false,
+      "is_amazon_fresh": false,
+      "is_whole_foods_market": false,
+      "rating": 4.6,
+      "ratings_total": 24349,
+      "is_carousel": true,
+      "carousel": {
+        "title": "Seen on social mediaSmall BusinessSmall Business",
+        "sponsored": true,
+        "id": "loom-desktop-bottom-slot_sptw-social-transits-t1",
+        "total_items": 5
+      },
+      "sponsored": true,
+      "below_use_fewer_words_banner": true,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 8.99,
+          "currency": "USD",
+          "raw": "$8.99",
+          "list_price": "$0.90",
+          "asin": "B0797QRD73",
+          "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NTIyNTA2NjU3NDIxNTU1OjE3NzMzNDQ3NTg6c3Bfc2VhcmNoX3RoZW1hdGljX2J0ZjoyMDAwMDYxNzc1MDM3MjE6OjE6Og&url=%2FLiCB-Pack-CR2450-Battery-Lithium%2Fdp%2FB0797QRD73%2Fref%3Dsxbs_pa_sp_search_thematic_btf_sspa%3Fcontent-id%3Damzn1.sym.f987b8f8-b718-438b-869c-4899de40b55b%253Aamzn1.sym.f987b8f8-b718-438b-869c-4899de40b55b%26cv_ct_cx%3Dbest%2Belectronics%26keywords%3Dbest%2Belectronics%26pd_rd_i%3DB0797QRD73%26pd_rd_r%3D2ba646af-87b3-405f-bad2-14a27d595663%26pd_rd_w%3DkpOk1%26pd_rd_wg%3DH2BN2%26pf_rd_p%3Df987b8f8-b718-438b-869c-4899de40b55b%26pf_rd_r%3D4R89EEK1N915RSPYP7F6%26qid%3D1773344758%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-162-19848dd4-d197-4a53-a445-4045457584e9-spons%26aref%3DJ7g5frNezb%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWNfYnRm%26psc%3D1&aref=J7g5frNezb"
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 8.99,
+        "currency": "USD",
+        "raw": "$8.99",
+        "list_price": "$0.90",
+        "asin": "B0797QRD73",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NTIyNTA2NjU3NDIxNTU1OjE3NzMzNDQ3NTg6c3Bfc2VhcmNoX3RoZW1hdGljX2J0ZjoyMDAwMDYxNzc1MDM3MjE6OjE6Og&url=%2FLiCB-Pack-CR2450-Battery-Lithium%2Fdp%2FB0797QRD73%2Fref%3Dsxbs_pa_sp_search_thematic_btf_sspa%3Fcontent-id%3Damzn1.sym.f987b8f8-b718-438b-869c-4899de40b55b%253Aamzn1.sym.f987b8f8-b718-438b-869c-4899de40b55b%26cv_ct_cx%3Dbest%2Belectronics%26keywords%3Dbest%2Belectronics%26pd_rd_i%3DB0797QRD73%26pd_rd_r%3D2ba646af-87b3-405f-bad2-14a27d595663%26pd_rd_w%3DkpOk1%26pd_rd_wg%3DH2BN2%26pf_rd_p%3Df987b8f8-b718-438b-869c-4899de40b55b%26pf_rd_r%3D4R89EEK1N915RSPYP7F6%26qid%3D1773344758%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-162-19848dd4-d197-4a53-a445-4045457584e9-spons%26aref%3DJ7g5frNezb%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWNfYnRm%26psc%3D1&aref=J7g5frNezb"
+      },
+      "delivery": {
+        "tagline": "FREE delivery Tue, Mar 17 on $35 of items shipped by Amazon Or fastest delivery Mon, Mar 16",
+        "price": {
+          "raw": "$8.99",
+          "symbol": "$",
+          "value": 8.99,
+          "currency": "USD",
+          "is_free": false
+        }
+      }
+    },
+    {
+      "position": 30,
+      "title": "2-Pack Replacement Battery for Ring Doorbell - 7200mAh Rechargeable Camera Batteries with Charger Station for Ring Video Doorbell 2/3/3 Plus/4, Spotlight Cam, Stick Up Cam",
+      "asin": "B0D8VXLRC9",
+      "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NTIyNTA2NjU3NDIxNTU1OjE3NzMzNDQ3NTg6c3Bfc2VhcmNoX3RoZW1hdGljX2J0ZjozMDAzOTQ1ODY5MDIyMDI6OjI6Og&url=%2FLesaps-V4-V4-3-2%2Fdp%2FB0D8VXLRC9%2Fref%3Dsxbs_pa_sp_search_thematic_btf_sspa%3Fcontent-id%3Damzn1.sym.f987b8f8-b718-438b-869c-4899de40b55b%253Aamzn1.sym.f987b8f8-b718-438b-869c-4899de40b55b%26cv_ct_cx%3Dbest%2Belectronics%26keywords%3Dbest%2Belectronics%26pd_rd_i%3DB0D8VXLRC9%26pd_rd_r%3D2ba646af-87b3-405f-bad2-14a27d595663%26pd_rd_w%3DkpOk1%26pd_rd_wg%3DH2BN2%26pf_rd_p%3Df987b8f8-b718-438b-869c-4899de40b55b%26pf_rd_r%3D4R89EEK1N915RSPYP7F6%26qid%3D1773344758%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-163-19848dd4-d197-4a53-a445-4045457584e9-spons%26aref%3DWZGiB3f4Ct%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWNfYnRm%26psc%3D1&aref=WZGiB3f4Ct",
+      "recent_sales": "8K+ bought in past month",
+      "availability": {
+        "raw": null
+      },
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/61afLG2Wk4L._AC_UL320_.jpg",
+      "unit_price": "$14.85$14.85/count",
+      "is_prime": false,
+      "is_amazon_fresh": false,
+      "is_whole_foods_market": false,
+      "rating": 4.4,
+      "ratings_total": 2196,
+      "is_carousel": true,
+      "carousel": {
+        "title": "Seen on social mediaSmall BusinessSmall Business",
+        "sponsored": true,
+        "id": "loom-desktop-bottom-slot_sptw-social-transits-t1",
+        "total_items": 5
+      },
+      "sponsored": true,
+      "below_use_fewer_words_banner": true,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 29.69,
+          "currency": "USD",
+          "raw": "$29.69",
+          "name": "Primary",
+          "is_primary": true,
+          "list_price": "$14.85",
+          "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NTIyNTA2NjU3NDIxNTU1OjE3NzMzNDQ3NTg6c3Bfc2VhcmNoX3RoZW1hdGljX2J0ZjozMDAzOTQ1ODY5MDIyMDI6OjI6Og&url=%2FLesaps-V4-V4-3-2%2Fdp%2FB0D8VXLRC9%2Fref%3Dsxbs_pa_sp_search_thematic_btf_sspa%3Fcontent-id%3Damzn1.sym.f987b8f8-b718-438b-869c-4899de40b55b%253Aamzn1.sym.f987b8f8-b718-438b-869c-4899de40b55b%26cv_ct_cx%3Dbest%2Belectronics%26keywords%3Dbest%2Belectronics%26pd_rd_i%3DB0D8VXLRC9%26pd_rd_r%3D2ba646af-87b3-405f-bad2-14a27d595663%26pd_rd_w%3DkpOk1%26pd_rd_wg%3DH2BN2%26pf_rd_p%3Df987b8f8-b718-438b-869c-4899de40b55b%26pf_rd_r%3D4R89EEK1N915RSPYP7F6%26qid%3D1773344758%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-163-19848dd4-d197-4a53-a445-4045457584e9-spons%26aref%3DWZGiB3f4Ct%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWNfYnRm%26psc%3D1&aref=WZGiB3f4Ct"
+        },
+        {
+          "symbol": "$",
+          "value": 42.99,
+          "currency": "USD",
+          "raw": "$42.99",
+          "name": "Original",
+          "is_rrp": true,
+          "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NTIyNTA2NjU3NDIxNTU1OjE3NzMzNDQ3NTg6c3Bfc2VhcmNoX3RoZW1hdGljX2J0ZjozMDAzOTQ1ODY5MDIyMDI6OjI6Og&url=%2FLesaps-V4-V4-3-2%2Fdp%2FB0D8VXLRC9%2Fref%3Dsxbs_pa_sp_search_thematic_btf_sspa%3Fcontent-id%3Damzn1.sym.f987b8f8-b718-438b-869c-4899de40b55b%253Aamzn1.sym.f987b8f8-b718-438b-869c-4899de40b55b%26cv_ct_cx%3Dbest%2Belectronics%26keywords%3Dbest%2Belectronics%26pd_rd_i%3DB0D8VXLRC9%26pd_rd_r%3D2ba646af-87b3-405f-bad2-14a27d595663%26pd_rd_w%3DkpOk1%26pd_rd_wg%3DH2BN2%26pf_rd_p%3Df987b8f8-b718-438b-869c-4899de40b55b%26pf_rd_r%3D4R89EEK1N915RSPYP7F6%26qid%3D1773344758%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-163-19848dd4-d197-4a53-a445-4045457584e9-spons%26aref%3DWZGiB3f4Ct%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWNfYnRm%26psc%3D1&aref=WZGiB3f4Ct",
+          "asin": "B0D8VXLRC9"
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 29.69,
+        "currency": "USD",
+        "raw": "$29.69",
+        "name": "Primary",
+        "is_primary": true,
+        "list_price": "$14.85",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NTIyNTA2NjU3NDIxNTU1OjE3NzMzNDQ3NTg6c3Bfc2VhcmNoX3RoZW1hdGljX2J0ZjozMDAzOTQ1ODY5MDIyMDI6OjI6Og&url=%2FLesaps-V4-V4-3-2%2Fdp%2FB0D8VXLRC9%2Fref%3Dsxbs_pa_sp_search_thematic_btf_sspa%3Fcontent-id%3Damzn1.sym.f987b8f8-b718-438b-869c-4899de40b55b%253Aamzn1.sym.f987b8f8-b718-438b-869c-4899de40b55b%26cv_ct_cx%3Dbest%2Belectronics%26keywords%3Dbest%2Belectronics%26pd_rd_i%3DB0D8VXLRC9%26pd_rd_r%3D2ba646af-87b3-405f-bad2-14a27d595663%26pd_rd_w%3DkpOk1%26pd_rd_wg%3DH2BN2%26pf_rd_p%3Df987b8f8-b718-438b-869c-4899de40b55b%26pf_rd_r%3D4R89EEK1N915RSPYP7F6%26qid%3D1773344758%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-163-19848dd4-d197-4a53-a445-4045457584e9-spons%26aref%3DWZGiB3f4Ct%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWNfYnRm%26psc%3D1&aref=WZGiB3f4Ct"
+      },
+      "delivery": {
+        "tagline": "FREE delivery Tue, Mar 17 on $35 of items shipped by Amazon Or fastest delivery Mon, Mar 16",
+        "price": {
+          "raw": "$29.69",
+          "symbol": "$",
+          "value": 29.69,
+          "currency": "USD",
+          "is_free": false
+        }
+      }
+    },
+    {
+      "position": 31,
+      "title": "Lume Cube Studio Panel 2-Point Lighting Kit | Edge Lit LED Bicolor Light Panels 3200k - 5600k | Rechargeable Lithium Battery, Adjustable Color, Brightness, 70\" Stands, Wireless Remote Included",
+      "asin": "B0B9QY41T8",
+      "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NTIyNTA2NjU3NDIxNTU1OjE3NzMzNDQ3NTg6c3Bfc2VhcmNoX3RoZW1hdGljX2J0ZjozMDA0NTU0MDk1MTYyMDI6OjM6Og&url=%2FStudio-2-Point-Lighting-Bicolor-Panels%2Fdp%2FB0B9QY41T8%2Fref%3Dsxbs_pa_sp_search_thematic_btf_sspa%3Fcontent-id%3Damzn1.sym.f987b8f8-b718-438b-869c-4899de40b55b%253Aamzn1.sym.f987b8f8-b718-438b-869c-4899de40b55b%26cv_ct_cx%3Dbest%2Belectronics%26keywords%3Dbest%2Belectronics%26pd_rd_i%3DB0B9QY41T8%26pd_rd_r%3D2ba646af-87b3-405f-bad2-14a27d595663%26pd_rd_w%3DkpOk1%26pd_rd_wg%3DH2BN2%26pf_rd_p%3Df987b8f8-b718-438b-869c-4899de40b55b%26pf_rd_r%3D4R89EEK1N915RSPYP7F6%26qid%3D1773344758%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-164-19848dd4-d197-4a53-a445-4045457584e9-spons%26aref%3Dl8Au0x5P33%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWNfYnRm%26psc%3D1&aref=l8Au0x5P33",
+      "recent_sales": "100+ bought in past month",
+      "availability": {
+        "raw": null
+      },
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/71DMgGFQmGL._AC_UL320_.jpg",
+      "is_prime": false,
+      "is_amazon_fresh": false,
+      "is_whole_foods_market": false,
+      "rating": 4.5,
+      "ratings_total": 94,
+      "is_carousel": true,
+      "carousel": {
+        "title": "Seen on social mediaSmall BusinessSmall Business",
+        "sponsored": true,
+        "id": "loom-desktop-bottom-slot_sptw-social-transits-t1",
+        "total_items": 5
+      },
+      "is_small_business": true,
+      "sponsored": true,
+      "below_use_fewer_words_banner": true,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 349.99,
+          "currency": "USD",
+          "raw": "$349.99",
+          "asin": "B0B9QY41T8",
+          "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NTIyNTA2NjU3NDIxNTU1OjE3NzMzNDQ3NTg6c3Bfc2VhcmNoX3RoZW1hdGljX2J0ZjozMDA0NTU0MDk1MTYyMDI6OjM6Og&url=%2FStudio-2-Point-Lighting-Bicolor-Panels%2Fdp%2FB0B9QY41T8%2Fref%3Dsxbs_pa_sp_search_thematic_btf_sspa%3Fcontent-id%3Damzn1.sym.f987b8f8-b718-438b-869c-4899de40b55b%253Aamzn1.sym.f987b8f8-b718-438b-869c-4899de40b55b%26cv_ct_cx%3Dbest%2Belectronics%26keywords%3Dbest%2Belectronics%26pd_rd_i%3DB0B9QY41T8%26pd_rd_r%3D2ba646af-87b3-405f-bad2-14a27d595663%26pd_rd_w%3DkpOk1%26pd_rd_wg%3DH2BN2%26pf_rd_p%3Df987b8f8-b718-438b-869c-4899de40b55b%26pf_rd_r%3D4R89EEK1N915RSPYP7F6%26qid%3D1773344758%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-164-19848dd4-d197-4a53-a445-4045457584e9-spons%26aref%3Dl8Au0x5P33%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWNfYnRm%26psc%3D1&aref=l8Au0x5P33"
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 349.99,
+        "currency": "USD",
+        "raw": "$349.99",
+        "asin": "B0B9QY41T8",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NTIyNTA2NjU3NDIxNTU1OjE3NzMzNDQ3NTg6c3Bfc2VhcmNoX3RoZW1hdGljX2J0ZjozMDA0NTU0MDk1MTYyMDI6OjM6Og&url=%2FStudio-2-Point-Lighting-Bicolor-Panels%2Fdp%2FB0B9QY41T8%2Fref%3Dsxbs_pa_sp_search_thematic_btf_sspa%3Fcontent-id%3Damzn1.sym.f987b8f8-b718-438b-869c-4899de40b55b%253Aamzn1.sym.f987b8f8-b718-438b-869c-4899de40b55b%26cv_ct_cx%3Dbest%2Belectronics%26keywords%3Dbest%2Belectronics%26pd_rd_i%3DB0B9QY41T8%26pd_rd_r%3D2ba646af-87b3-405f-bad2-14a27d595663%26pd_rd_w%3DkpOk1%26pd_rd_wg%3DH2BN2%26pf_rd_p%3Df987b8f8-b718-438b-869c-4899de40b55b%26pf_rd_r%3D4R89EEK1N915RSPYP7F6%26qid%3D1773344758%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-164-19848dd4-d197-4a53-a445-4045457584e9-spons%26aref%3Dl8Au0x5P33%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWNfYnRm%26psc%3D1&aref=l8Au0x5P33"
+      },
+      "delivery": {
+        "tagline": "FREE delivery Tue, Mar 17 Or fastest delivery Mon, Mar 16",
+        "price": {
+          "raw": "$349.99",
+          "symbol": "$",
+          "value": 349.99,
+          "currency": "USD",
+          "is_free": false
+        }
+      }
+    },
+    {
+      "position": 32,
+      "title": "Turtlebox Ranger: Loud! Outdoor Portable Bluetooth 5.4 Speaker | Rugged, Waterproof, Ultra-Portable | Plays to 105db, Deep Bass, Shockproof, Unlimited Pairing for Full Stereo Experience, River Rock",
+      "asin": "B0F2JHDRK9",
+      "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NTIyNTA2NjU3NDIxNTU1OjE3NzMzNDQ3NTg6c3Bfc2VhcmNoX3RoZW1hdGljX2J0ZjozMDExNjAxNjMxMTEwMDI6OjQ6Og&url=%2FTurtlebox-Ranger-Waterproof-Ultra-Portable-Shockproof%2Fdp%2FB0F2JHDRK9%2Fref%3Dsxbs_pa_sp_search_thematic_btf_sspa%3Fcontent-id%3Damzn1.sym.f987b8f8-b718-438b-869c-4899de40b55b%253Aamzn1.sym.f987b8f8-b718-438b-869c-4899de40b55b%26cv_ct_cx%3Dbest%2Belectronics%26keywords%3Dbest%2Belectronics%26pd_rd_i%3DB0F2JHDRK9%26pd_rd_r%3D2ba646af-87b3-405f-bad2-14a27d595663%26pd_rd_w%3DkpOk1%26pd_rd_wg%3DH2BN2%26pf_rd_p%3Df987b8f8-b718-438b-869c-4899de40b55b%26pf_rd_r%3D4R89EEK1N915RSPYP7F6%26qid%3D1773344758%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-165-19848dd4-d197-4a53-a445-4045457584e9-spons%26aref%3D2Np1zMJjbb%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWNfYnRm%26psc%3D1&aref=2Np1zMJjbb",
+      "recent_sales": "400+ bought in past month",
+      "availability": {
+        "raw": null
+      },
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/61H8KeAXQPL._AC_UL320_.jpg",
+      "is_prime": false,
+      "is_amazon_fresh": false,
+      "is_whole_foods_market": false,
+      "rating": 4.6,
+      "ratings_total": 864,
+      "is_carousel": true,
+      "carousel": {
+        "title": "Seen on social mediaSmall BusinessSmall Business",
+        "sponsored": true,
+        "id": "loom-desktop-bottom-slot_sptw-social-transits-t1",
+        "total_items": 5
+      },
+      "is_small_business": true,
+      "sponsored": true,
+      "below_use_fewer_words_banner": true,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 250,
+          "currency": "USD",
+          "raw": "$250.00",
+          "asin": "B0F2JHDRK9",
+          "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NTIyNTA2NjU3NDIxNTU1OjE3NzMzNDQ3NTg6c3Bfc2VhcmNoX3RoZW1hdGljX2J0ZjozMDExNjAxNjMxMTEwMDI6OjQ6Og&url=%2FTurtlebox-Ranger-Waterproof-Ultra-Portable-Shockproof%2Fdp%2FB0F2JHDRK9%2Fref%3Dsxbs_pa_sp_search_thematic_btf_sspa%3Fcontent-id%3Damzn1.sym.f987b8f8-b718-438b-869c-4899de40b55b%253Aamzn1.sym.f987b8f8-b718-438b-869c-4899de40b55b%26cv_ct_cx%3Dbest%2Belectronics%26keywords%3Dbest%2Belectronics%26pd_rd_i%3DB0F2JHDRK9%26pd_rd_r%3D2ba646af-87b3-405f-bad2-14a27d595663%26pd_rd_w%3DkpOk1%26pd_rd_wg%3DH2BN2%26pf_rd_p%3Df987b8f8-b718-438b-869c-4899de40b55b%26pf_rd_r%3D4R89EEK1N915RSPYP7F6%26qid%3D1773344758%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-165-19848dd4-d197-4a53-a445-4045457584e9-spons%26aref%3D2Np1zMJjbb%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWNfYnRm%26psc%3D1&aref=2Np1zMJjbb"
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 250,
+        "currency": "USD",
+        "raw": "$250.00",
+        "asin": "B0F2JHDRK9",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NTIyNTA2NjU3NDIxNTU1OjE3NzMzNDQ3NTg6c3Bfc2VhcmNoX3RoZW1hdGljX2J0ZjozMDExNjAxNjMxMTEwMDI6OjQ6Og&url=%2FTurtlebox-Ranger-Waterproof-Ultra-Portable-Shockproof%2Fdp%2FB0F2JHDRK9%2Fref%3Dsxbs_pa_sp_search_thematic_btf_sspa%3Fcontent-id%3Damzn1.sym.f987b8f8-b718-438b-869c-4899de40b55b%253Aamzn1.sym.f987b8f8-b718-438b-869c-4899de40b55b%26cv_ct_cx%3Dbest%2Belectronics%26keywords%3Dbest%2Belectronics%26pd_rd_i%3DB0F2JHDRK9%26pd_rd_r%3D2ba646af-87b3-405f-bad2-14a27d595663%26pd_rd_w%3DkpOk1%26pd_rd_wg%3DH2BN2%26pf_rd_p%3Df987b8f8-b718-438b-869c-4899de40b55b%26pf_rd_r%3D4R89EEK1N915RSPYP7F6%26qid%3D1773344758%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-165-19848dd4-d197-4a53-a445-4045457584e9-spons%26aref%3D2Np1zMJjbb%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWNfYnRm%26psc%3D1&aref=2Np1zMJjbb"
+      },
+      "delivery": {
+        "tagline": "FREE delivery Wed, Mar 18",
+        "price": {
+          "raw": "$250.00",
+          "symbol": "$",
+          "value": 250,
+          "currency": "USD",
+          "is_free": false
+        }
+      }
+    }
+  ],
+  "search_information": {
+    "results_text_raw": "161-176 of 214 results for \"best electronics\"",
+    "results_begin": 161,
+    "results_end": 176,
+    "total_results": 214,
+    "search_term": "best electronics"
+  },
+  "category_information": {
+    "is_landing_page": false
+  },
+  "related_brands": [
+    {
+      "logo": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif",
+      "image": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif",
+      "title": "Buy Meta Quest. Get 2+ hours of battery life.Shop Meta Quest",
+      "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JMowYrQXoc6AUtftdvCpLa4AAAGc45WcTAEAAAH2AQBvbm9fdHhuX2JpZDMgICBvbm9fdHhuX2ltcDEgICAPwQLp/clv1c_ek-IBIHXErbWDn2nI4trJ16WpAySuUbudzgFcF3ym7iHAQky9i1uMQrbYwGBAfnoLYhozoB-WYOODE8BTsla_OJ0z3uM3jvGuFlvDLthvNRVDxvhzEQZay565-mclhJ3NeQNdpRLach_9j7zheNa2tbKwP2ck09amO6I93fLzoQETfOBUPHpRK-a4kKmdqCkvvDGwgvPGhnG2VypX8gDxC_Ki998Q9m_UA9ncXE1YNCafKBuBqVRytkFOaYCh8l84t52YXJBk8IqoeoRMpZ4vJYe_fP07gx__t9ysRcYvplV7LAzNkWcVmr7geq3vECyxk0wGkHQ9fO4aWjm8F6ICh87Ceism6Yjg3Iy4Dcvdul1N6Uk7XxSFCpX1qzLMZKeA51fehqzsH53Z7PUJ2jXGV9J9jd9PFejwT5xPLPVIUf3SDmFQZpLNMkaoKd30qwERFapPhClfk5MGluGbZPp4TjBnXpCbzcDhckt2YXAFFyQ9pRsdCuSYWBC6nKNsQzD-Hmwz8ZcSFxItWncrEr19wjRKQE5i1jPnZsjSgoa3Pi7pYSigqCBporsblIyKl5x54QnkP1DnuWI8DVbr1LETksqSVCFm9a73fomXcm27HzCYJqPHc-dnMW8NVi73-KA8Adn6rpv5ND4qSxmh4cUikheNUSRgskBqn2feONfnguCSBq-L6RjfChuut0M7QsJpQdA2CogprvyrVmJ0Ap3M-sm1eKJWYMkDCICjqEMZ9FuVacPh8aUvL1_gHYJ6_CoG-2tgdej9EyzZ0TnMX4-TN1khHYzQyYvs3KDJndlXvW7i56ELEjYGKLTA9MobgT9RPT9ads5n49dr_p-1pkHXb2Ay5hrdjmdojLP-KI_-vU9r54bjslCOUy_xyjAAvRLLmFi0CcwH8n_DkzOguV8c5wz5Z-65F9dTQYw0PrHDGGxkJUcaFD5hBXWVKstTOYfBsLI5fIjA3odQOHLHfQrvPNHMGIH1kkS_JwiKuvF6Kl8OlfcGSrnQ54u1Q4yFL6vb8UpE4A_ynhNXXN2IV8BJNA47Au-QMZQDT6uPqPWUVMBgJEo-4FW7FUbwKHNVpi157Gco8OQjDOY98v7odAJzQ-HjDgjSCmrthEsC743xoeF-svSxNrsPPVzeN3cy3qRXf6SY677u1bDu_7a-wifJYlQoNtPJc5DCuK7oispRsP5IRXoQOES0LxnSJ-CvfJ1aCRjh0UwcEmIJ3RnE1kb--qyeJJ5AhmJORTho3oWJk4WqaEvsDzO-uibofRleyyu4TNqrsjAMN12mUG9K1gPUCmzOKcOYtkuLn-SDuv3ANfVh8ZZX373WfnV2fJOUaAQTDXy6r7xndkdvFQ5T0l8Rdpi9tZNuUeT3biQHMrJ-vQYOYTKgbHSQb-rV0nBBOlkWwN_qo-mzKqlzLVpZ-JL7w1otcp4TKbDgApOmmxlY8_qxoS4B5SjfEcp_3uCEWoeBtmxR_gl86WBvucSAd5Ha0F6IWubvDgCLPwshefg9kz7iiw8NrE8b-Wnf8zicM8hMTh5PXOZ2y8TcknSGSwjwecYbBJgv5kLyGsZI-0700oZf--jQQYs-H4ghsS3fWY9A2Ao0Pkl5woSUyNfn5BiRMKzEUlHsLCcA36T9IEqW1Z50hV00yXWkDuGWPXV6YKi--b26YIWBWrAR6Y7DpXuGrkZ2LopWdpPC856oM9P7cvNEKiN3ujDDa2XoQ4/https://www.amazon.com/stores/page/E2AF84DB-42B2-450D-A49F-C01233C695FB/?_encoding=UTF8&store_ref=SB_A0358872TW5SAZWRSRSR-A08606611NBX20BTDS9G0&pd_rd_plhdr=t&aaxitk=d471a77f642a4145f0b71cce04f7e57c&hsa_cr_id=0&lp_asins=B0F2GYMC8H%2CB0CD1JTBSC&lp_query=best%20electronics&lp_slot=desktop-hsa-3psl&ref_=sbx_be_s_3psl_mbd_mb0_cta&pd_rd_w=wtMYl&content-id=amzn1.sym.7d5eb573-01e8-49db-b262-65baa247c724%3Aamzn1.sym.7d5eb573-01e8-49db-b262-65baa247c724&pf_rd_p=7d5eb573-01e8-49db-b262-65baa247c724&pf_rd_r=4R89EEK1N915RSPYP7F6&pd_rd_wg=p0H7p&pd_rd_r=d0134022-26f6-4b2e-aca1-9743c8efcc72",
+      "store_link": "https://www.amazon.com/stores/page/E2AF84DB-42B2-450D-A49F-C01233C695FB",
+      "store_id": "E2AF84DB-42B2-450D-A49F-C01233C695FB",
+      "store_name": "Meta Quest"
+    },
+    {
+      "logo": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif",
+      "image": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif",
+      "title": "The Pioneer of Open-Ear HeadphonesShop SHOKZ",
+      "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JCExuq2aSqCnAdDAHdJiytMAAAGc45WcTQEAAAH2AQBvbm9fdHhuX2JpZDMgICBvbm9fdHhuX2ltcDEgICDi7QGK/clv1c_ek-wBIHXFcbWDn2nI5drJ16WpAySuUaH-bikKEHCl69M4859YDEY50gufgginartrNFx44BJuL30XoD98OsiRvPxUBtfcIryagqgDlXFukgnTQnKrCHfN9Li8lh3qkhlv4knMd0zMN3yT_JmDdQ_OsMTgNyekvUqkgJyyyG8HG6fmusUM8veqgh8N4A2JWWZmEPlbgP-Gxrk-UxNrhhAcAtSr_U_i8QchgZIMtv9k6TBcMp1AeYQCXP2cI-dA4x5YnC65lhkLIMeKgKvMqSZTMJPQcr8l3c1hHyvgfHC1LJUoUrbZPTKLMsYEjo4FOX4AEXosd0pzJOWehMoH_KnHccQCwtqmGuR8WU1ifikEDCUkms1bBIT4zc0O6oFkFUBO8MEycN-T2iebqzKFcAVVGJ5apJZ2M58tzCFXoKnLDdJUrp_IzYJHbqKS8ERTN0H2YJ9JAm9vm24szauJrpuZbK7L9Q3j6Vx04EPME0nOOm7zKmRhoqkj-4R3ZiSw8dJSEBtxlUeiu0UxJ-nUIjaCu81cBFC_KzJ50A3hrT77_afveLePXRQHYuYIFD6ABFw2ZBZxD9RTNfTvUUKAXkDAg52iaXk7p0-tc4fbWGSwdkJ_oep1Nm_PwlDSixCpJ0QQHzfHSKMT76-Py1AhC-tJDzAs-N0lEZsZBqy49iBybE71fuLwzAO_jSBPWLRI6H-gzYSgTuiZaL284fe_WdMHm7fhSTDRwLeRulbZ6Vd8Fgfyg5U1DhwIiomMndJzpmyi-_nW8nYI6YAOlRp7GM8yOQf8B8raVcUj6xRJ7Fr6k9tP69FWvfWYKaCHz_h4lj1B-ETpWRjPGENtPvxoZSy51Af9ujwt8xZPMRDY9N58UZ6nnMq4SISVoRKG2-nGYbeEEHhx3aza8WSm6ia85mRV-k6uwp_iQL-dx8DKStZaMiJKAJHkjAKJDdbBf8tTs0F1cp0xKNZnfWS3z5RU-lVpE-Sv6zhYM_qyfX42FbHUNIxfmp3oWup51SG4QduZwsFHh4Gl9R7WwzEvCFHhnZoJVnQ5WRGU0NlmVpxaWft_HxS8aJttuRYbv0GqZz5KDRULV-5n0qK9Y0nYuSu86rcso7QuL0EHtPZ7My3Apt2SN5kJtiSUAcdzSRQCVLOwzIxWt0vHmmTCYG5glKfYlp4IcnuKmlETU1XVMcf4Q9g3kLHwW7n2TsJwyFuYC_N8g7LK4dXSAN24nJjpLble5tW7P5dxqwqL13VVtFks31cz0SWXevQra_yrHKQhJfmIgrdidY9U0tWrFKaV-_WwjsAZw9tBLJfd1LbKcJAa6SXZAyXb2bMeG_4kO54WLfmgbQqaXu6hDQwcIRWuBfammLAlK_Q2GeNreZgx57acthTvzfh-ieCMRYj1lRxmPRg7gnrpSQK7gUZdgPPVUa009s12n5INDzVmXC283LJGXCmJoChwOzmHyFCCiOYV-hNp5o38vT7pEqxNrW9NYxfhh4ExvsIUBp8Hc26AKA2zk0Mq2XWOtGXiAeQN_QvEuJirADgYnryBU1B1_9GLqnAgo41E0EmSCq5vf02N9GuEOqQFUu6BA0ZRKklyo9fV3TU1Fis-m0n9Il5iyTaUXnpiDhGG3c6qgBy-NQJdE8-MpUQOHt96g5oV64IDrTlffe0lp1GPIxvTt769wiRSOSL6BVeGL2c-9H9Hw9PCsYexcb5K-K9UEdq5fAXHOPK/https://www.amazon.com/stores/page/17D3E7AF-9B97-4D06-A691-03EC48E5DF5F/?_encoding=UTF8&store_ref=SB_A0092432C7HCX7WNKPKV-A01645039IYT4IMIB7LK&pd_rd_plhdr=t&aaxitk=c0b10236c428041940ea4c3793b50217&hsa_cr_id=0&lp_asins=B0D2HKCMBP%2CB0DWF69VGQ%2CB0DN11MTZ6&lp_query=best%20electronics&lp_slot=desktop-hsa-3psl&ref_=sbx_be_s_3psl_mbd_mb1_cta&pd_rd_w=wtMYl&content-id=amzn1.sym.7d5eb573-01e8-49db-b262-65baa247c724%3Aamzn1.sym.7d5eb573-01e8-49db-b262-65baa247c724&pf_rd_p=7d5eb573-01e8-49db-b262-65baa247c724&pf_rd_r=4R89EEK1N915RSPYP7F6&pd_rd_wg=p0H7p&pd_rd_r=d0134022-26f6-4b2e-aca1-9743c8efcc72",
+      "store_link": "https://www.amazon.com/stores/page/17D3E7AF-9B97-4D06-A691-03EC48E5DF5F",
+      "store_id": "17D3E7AF-9B97-4D06-A691-03EC48E5DF5F",
+      "store_name": "SHOKZ"
+    },
+    {
+      "logo": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif",
+      "image": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif",
+      "title": "Every Card Writes a Warmer Story with GoveeShop Govee",
+      "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JI7MWq0VE6cHOX4Jmy0E0Q4AAAGc45WcTgEAAAH2AQBvbm9fdHhuX2JpZDMgICBvbm9fdHhuX2ltcDEgICAALfd-/clv1c_ek-wBIHXFcbWDn2nI4trJ16WpAySuUaH-biNR17ym_FtFDsC7Waqwq2NsKfexf3UftJMa24fvhc3trnCoD-wmj-vE1SpVWHa8SgtwLBi7Ao-uguDghWApmLp5DkU5PEvHOUiu9vphgNxA6CwYGQGCtkTIN2dvmVqI-RzSDKe5mYvGOhzNGIiQUl4M3L3ppTFMMAHz7t738RK03_zomBYREYwF1f3zGQodCxutrtZCBJKdy77AchMx0PS25Yi6g25kOm_UDZN512PB89yW3t9WKBkW8EeyctPlQt9-yPkMBUzSGzzZnZVhn5hc6HmNrR2mdHYpltVmSniWzUcgxh1VPUV54JrgTsJgXIi6nYn2GfQOsudCr7Ko_bp_0F0LkTQC-ATte0ZO8m0GCTztJ3jQZjr29AjpNbjD-5g_JrK4q8hzxqOvSVSaQmuA7KCJLwM8OKTJAjE1GmbuelbGqk8QEEukgk7CTH4oXWzaFxKUmdAQziQaTyARCD7yNrnj3v0cidGCod8gO46b-G6_RVWKmUFlSyIAYG2SvizpkP1PFZHaWwUh7W3mcA77ULhnQmAx7mavflF3nKs_HLY7ZH5llyq7ssoRSO76hVw6ozFOQStgpDT1ARHmtNCILP6MYPMLaRYbcOXExlFVvbzn5g26zrzfmH9fVDYVENP0BB4AHRhu-xp26oS2GA-nx37Y-v8kDpx-Trcb1IjXKhwi7LCtEUlBjCta8Q0zB6tzJbu1dPJ0U8ffGIrKGxi4n8BIHPYQAkG_mWoZBP-6xbdxcSpzM4Sjny2ZxH1Mu_MJqnryr2ZK6TWzTizurbpgdHflRvuRP5zgkZERf7OisPLIMSBoMtWqwq6fPWW0BT1IefbqtvpNWAYSw8_SNXzuvUXa0Q3s5rMhCHCiJNfXhvucvXs81ihZfh9lF4XA2hZ6uG3DCMZ8_QpSYPQrIg7_awidDWT6k-xBSEVl3A4nmK8eZ07Q6wQ2N4k2JhE4Iy2XqbP-D1F3AfYKnIzEu0w_8h_yVtq6EIBXvjqqedtl1-s98ak1JxYwaTSFp-HB-WOVeXP7iJ4ML3jHKBGWUCvfOYufkavP_iwErKnhAocuF0KB9cjx8OpArZTXo5EISuNpasiD85aDaTgdO8WErgqNj9OEh7oI77TaF-wwGGE7_i1k1Mhkukb0tTyQBFyDf8WPByOf_sM6LE3OU27ULtyZNbkA69EmMPY7TTV5dHvfZbyeUFP8CkIDvDF3wW8afqmo_m7PuFoZ2mb2BJVNOcLeEC_pdoPWkvGTSq3Fs0PQYFG_zPD2Lyjr4rhmKFBrUdu5tPHUPe4EzzcM_pTO8VaxONMsyafjrdiBALsB5DnLaU-7u4cr3Wc4_zMW55Gch2koX39Sbmv1q7HdV1I2ZwYkrSR7dezkPNjhCe_-cOlOb3Wq5LJ8Y3vPbX6GHImKqrB3OfsWfwUM1xQe70BessqTxevqnFuWeOHqkHDuxRJL5ULpIomGLhLEmDj9hKWjNDqttQPnWq4GrYnY4wQOAzga0jgYhg4R98Fw6JzF-XJb9cF-I6ijZCxiJNJs36QLJGXsLkqlfuZn_u251luAbRWpr82f_gUCmXX4eayokevGQBliU844WABE966KBg_h8xxCQIHPD0E7YRF39mmKHNgw8LIWBp1dC43zQDzUhuPqSKL8LHIE26p8R2_48eH6eQ8kQXXIlEGJWufsvEUzxEIshwm/https://www.amazon.com/stores/page/955085B3-85CC-417B-AD85-4028F36EFEAB/?_encoding=UTF8&store_ref=SB_A047076738IO8X6GFXGO6-A0190279DQK0N0LNRQPC&pd_rd_plhdr=t&aaxitk=29a78a7e8226a0a1906e6e9e3a1933fb&hsa_cr_id=0&lp_asins=B0F3NZ12GL%2CB0CHS2BGHY%2CB0DX1WPB9J&lp_query=best%20electronics&lp_slot=desktop-hsa-3psl&ref_=sbx_be_s_3psl_mbd_mb2_cta&pd_rd_w=wtMYl&content-id=amzn1.sym.7d5eb573-01e8-49db-b262-65baa247c724%3Aamzn1.sym.7d5eb573-01e8-49db-b262-65baa247c724&pf_rd_p=7d5eb573-01e8-49db-b262-65baa247c724&pf_rd_r=4R89EEK1N915RSPYP7F6&pd_rd_wg=p0H7p&pd_rd_r=d0134022-26f6-4b2e-aca1-9743c8efcc72",
+      "store_link": "https://www.amazon.com/stores/page/955085B3-85CC-417B-AD85-4028F36EFEAB",
+      "store_id": "955085B3-85CC-417B-AD85-4028F36EFEAB",
+      "store_name": "Govee"
+    }
+  ],
+  "pagination": {
+    "current_page": 11,
+    "current_page_link": "https://www.amazon.com/s/?k=best+electronics&ref=nb_sb_noss_2&page=11",
+    "next_page_link": "https://www.amazon.com/s/?k=best+electronics&ref=nb_sb_noss_2&page=12",
+    "total_pages": 14
+  },
+  "refinements": {
+    "prime": [
+      {
+        "name": "Free Shipping by Amazon",
+        "value": "p_76/1249137011",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=p_76%3A1249137011&dc&qid=1773344758&rnid=1249135011&ref=sr_nr_p_76_1&ds=v1%3AkWFKvhAsJ1dRwvAvIvUvebWfO0EX3jCe%2FIVWabTxEwM",
+        "refinement_display_name": "Prime"
+      }
+    ],
+    "departments": [
+      {
+        "name": "Electronics",
+        "value": "n/172282",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=n%3A172282&dc&qid=1773344758&rnid=2941120011&ref=sr_nr_n_1&ds=v1%3AK99hxoYSX%2FrcIXKh4bfNafg7gqSqnYSCHjUuSCXgKzc",
+        "refinement_display_name": "Departments"
+      },
+      {
+        "name": "Camera & Photo",
+        "value": "n/502394",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=n%3A172282%2Cn%3A502394&dc&qid=1773344758&rnid=2941120011&ref=sr_nr_n_2&ds=v1%3AiyvHlQseh5%2BBFkgLHzM2DuKxeOooFljuf%2F251hXa9L0",
+        "refinement_display_name": "Departments"
+      },
+      {
+        "name": "Headphones, Earbuds & Accessories",
+        "value": "n/24046923011",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=n%3A172282%2Cn%3A24046923011&dc&qid=1773344758&rnid=2941120011&ref=sr_nr_n_3&ds=v1%3Af4T%2BHqq%2B2UL6j846kVdARk9Q9F7mH46XYvPtKV2R7t8",
+        "refinement_display_name": "Departments"
+      },
+      {
+        "name": "Video Projectors",
+        "value": "n/300334",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=n%3A172282%2Cn%3A300334&dc&qid=1773344758&rnid=2941120011&ref=sr_nr_n_4&ds=v1%3A97E4AizR37b5tq7fv8rnFJio%2B%2FOoNd7fHWuTZwoO2CY",
+        "refinement_display_name": "Departments"
+      },
+      {
+        "name": "Computers & Accessories",
+        "value": "n/541966",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=n%3A172282%2Cn%3A541966&dc&qid=1773344758&rnid=2941120011&ref=sr_nr_n_5&ds=v1%3AUsO1RRSt%2Bi3ZvtO10vbCSQJuEFWAS9%2B9TaPwh5K1Yno",
+        "refinement_display_name": "Departments"
+      },
+      {
+        "name": "Amazon Devices",
+        "value": "n/2102313011",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=n%3A2102313011&dc&qid=1773344758&rnid=2941120011&ref=sr_nr_n_6&ds=v1%3AFhL6AGnSNQ54FUgDnVOZpFg2hxxpLHOP1WkOhLZpzBE",
+        "refinement_display_name": "Departments"
+      },
+      {
+        "name": "Cell Phone Accessories",
+        "value": "n/2407755011",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=n%3A2407755011&dc&qid=1773344758&rnid=2941120011&ref=sr_nr_n_7&ds=v1%3AMNw4ewqyUlzhzpg%2B2obCQxs1rzi8EAaWWeqZ73YfR6M",
+        "refinement_display_name": "Departments"
+      },
+      {
+        "name": "Video Games",
+        "value": "n/468642",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=n%3A468642&dc&qid=1773344758&rnid=2941120011&ref=sr_nr_n_8&ds=v1%3A8V7HFe0Hd4mxqM3sg2%2BoZN1XWKdz0ZBmoLmro1Ju4hs",
+        "refinement_display_name": "Departments"
+      }
+    ],
+    "reviews": [
+      {
+        "name": "4 Stars",
+        "value": "p_72/1248879011",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=p_72%3A1248879011&dc&qid=1773344758&rnid=1248877011&ref=sr_nr_p_72_1&ds=v1%3AQObS75JbgWjzU3viONzlOxQt3rLTbGmyj%2Bp7n2CZELk",
+        "refinement_display_name": "Reviews"
+      }
+    ],
+    "eligible_for_free_shipping": [
+      {
+        "name": "Free Shipping by Amazon",
+        "value": "p_76/1249137011",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=p_76%3A1249137011&dc&qid=1773344758&rnid=1249135011&ref=sr_nr_p_76_1&ds=v1%3AkWFKvhAsJ1dRwvAvIvUvebWfO0EX3jCe%2FIVWabTxEwM",
+        "refinement_display_name": "Eligible for Free Shipping"
+      }
+    ],
+    "customer_reviews": [
+      {
+        "name": "4 Stars",
+        "value": "p_72/1248879011",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=p_72%3A1248879011&dc&qid=1773344758&rnid=1248877011&ref=sr_nr_p_72_1&ds=v1%3AQObS75JbgWjzU3viONzlOxQt3rLTbGmyj%2Bp7n2CZELk",
+        "refinement_display_name": "Customer Reviews"
+      }
+    ],
+    "deals_discounts": [
+      {
+        "name": "All Discounts",
+        "value": "p_n_deal_type/23566065011",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=p_n_deal_type%3A23566065011&dc&qid=1773344758&rnid=23566063011&ref=sr_nr_p_n_deal_type_1&ds=v1%3ANhBkc2HFMMSMUXI%2F5r%2Fk%2Bwr748UtzA6SazLgbvIqUq4",
+        "refinement_display_name": "Deals & Discounts"
+      },
+      {
+        "name": "Today's Deals",
+        "value": "p_n_deal_type/23566064011",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=p_n_deal_type%3A23566064011&dc&qid=1773344758&rnid=23566063011&ref=sr_nr_p_n_deal_type_2&ds=v1%3AJvVAHHksxOcQGDXp6lIxdjNvAU%2Fjx7pW6ZueEiEBACo",
+        "refinement_display_name": "Deals & Discounts"
+      }
+    ],
+    "condition": [
+      {
+        "name": "New",
+        "value": "p_n_condition-type/2224371011",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=p_n_condition-type%3A2224371011&dc&qid=1773344758&rnid=2224369011&ref=sr_nr_p_n_condition-type_1&ds=v1%3AtGT67FIVQrw9xdnhSz%2Bfsjwq06cNXf5wG4%2B4r2ETCjs",
+        "refinement_display_name": "Condition"
+      },
+      {
+        "name": "Used",
+        "value": "p_n_condition-type/2224373011",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=p_n_condition-type%3A2224373011&dc&qid=1773344758&rnid=2224369011&ref=sr_nr_p_n_condition-type_2&ds=v1%3AcN35WlV6G9wsm%2B1QGhYOZerF8pAjphrOltMqClGqHIM",
+        "refinement_display_name": "Condition"
+      }
+    ],
+    "seller": [
+      {
+        "name": "Amazon Resale",
+        "value": "p_6/A2L77EE7U53NWQ",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=p_6%3AA2L77EE7U53NWQ&dc&qid=1773344758&rnid=303116011&ref=sr_nr_p_6_1&ds=v1%3AbX3jZU77FgM7xgKAihfLSVCoeNSqxIPatDFRBVUulqo",
+        "refinement_display_name": "Seller"
+      },
+      {
+        "name": "Amazon.com",
+        "value": "p_6/ATVPDKIKX0DER",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=p_6%3AATVPDKIKX0DER&dc&qid=1773344758&rnid=303116011&ref=sr_nr_p_6_2&ds=v1%3A1M6qhrqlFDMWh0uWlLopI4KJybJVpT1vsUYks3nSaG8",
+        "refinement_display_name": "Seller"
+      },
+      {
+        "name": "Jay and Joy",
+        "value": "p_6/A24FNQ0XV24608",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=p_6%3AA24FNQ0XV24608&dc&qid=1773344758&rnid=303116011&ref=sr_nr_p_6_3&ds=v1%3A3Dl0OYzexOZaumaUEwoI3rmf7TKI2sGqjxY%2BiQLwmrE",
+        "refinement_display_name": "Seller"
+      },
+      {
+        "name": "Next1GenTech (Serial Numbers Recorded)",
+        "value": "p_6/A1S7V0POE6OL60",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=p_6%3AA1S7V0POE6OL60&dc&qid=1773344758&rnid=303116011&ref=sr_nr_p_6_4&ds=v1%3AUCEZCn48TOgOu4bEEwcw25riMv29E5KTuRGhH3XlLM0",
+        "refinement_display_name": "Seller"
+      },
+      {
+        "name": "Chartleader (Serial Numbers Recorded)",
+        "value": "p_6/A3E6OTNEE6C7PZ",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=p_6%3AA3E6OTNEE6C7PZ&dc&qid=1773344758&rnid=303116011&ref=sr_nr_p_6_5&ds=v1%3ASViVycN4GSDFreL%2F%2FcdjLQqSOAJ0Z51m8ckKHUN1fX0",
+        "refinement_display_name": "Seller"
+      },
+      {
+        "name": "Tek Star (SN Recorded)",
+        "value": "p_6/A13KUM7MUVO95H",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=p_6%3AA13KUM7MUVO95H&dc&qid=1773344758&rnid=303116011&ref=sr_nr_p_6_6&ds=v1%3Aa9DEpoSxrOawf%2FgLaNZvRdo8TB8GqLJ0YU8baMuVB9A",
+        "refinement_display_name": "Seller"
+      },
+      {
+        "name": "G Dreamer",
+        "value": "p_6/A10F2LH4RYXQAG",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=p_6%3AA10F2LH4RYXQAG&dc&qid=1773344758&rnid=303116011&ref=sr_nr_p_6_7&ds=v1%3Am0E5KGhatOfVtd5IgC70VrptjzBeiVGHJdUipbjhi8o",
+        "refinement_display_name": "Seller"
+      }
+    ],
+    "all_top_brands": [
+      {
+        "name": "Top Brands",
+        "value": "p_n_g-101014971069111/119653281011",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=p_n_g-101014971069111%3A119653281011&dc&qid=1773344758&rnid=119653280011&ref=sr_nr_p_n_g-101014971069111_1&ds=v1%3AZwhvLM2WboMf%2Fyy%2F32fbBbESU7PJ0QtqUh735YRJZWg",
+        "refinement_display_name": "All Top Brands"
+      }
+    ],
+    "premium_brands": [
+      {
+        "name": "Premium Brands",
+        "value": "p_n_g-101015887018111/204376014011",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=p_n_g-101015887018111%3A204376014011&dc&qid=1773344758&rnid=204376013011&ref=sr_nr_p_n_g-101015887018111_1&ds=v1%3Ad4f%2F80ilvxGwd1XRJ1wvZX1C1CqmrYQ5Bw1d5DjyOHY",
+        "refinement_display_name": "Premium Brands"
+      }
+    ],
+    "sustainability_features": [
+      {
+        "name": "Any Feature",
+        "value": "p_n_cpf_labels/121136630011",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=p_n_cpf_labels%3A121136630011&dc&qid=1773344758&rnid=116845681011&ref=sr_nr_p_n_cpf_labels_1&ds=v1%3Ak8WFbO1w5xqM2GgFPToGW9tqV4oy39EY7A8gwGFOkFE",
+        "refinement_display_name": "Sustainability Features"
+      },
+      {
+        "name": "Manufacturing Practices",
+        "value": "p_n_cpf_labels/116845690011",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=p_n_cpf_labels%3A116845690011&dc&qid=1773344758&rnid=116845681011&ref=sr_nr_p_n_cpf_labels_2&ds=v1%3AUBo%2BOxfy%2F77Bb7gsq28yU86fLyiwoTQEasws3vn3UUg",
+        "refinement_display_name": "Sustainability Features"
+      },
+      {
+        "name": "Recycled Materials",
+        "value": "p_n_cpf_labels/116845689011",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=p_n_cpf_labels%3A116845689011&dc&qid=1773344758&rnid=116845681011&ref=sr_nr_p_n_cpf_labels_3&ds=v1%3A1P3llEV7KHOLE1yV2J9GZ3WPWK36FlS4BAlysA5jr4o",
+        "refinement_display_name": "Sustainability Features"
+      },
+      {
+        "name": "Safer Chemicals",
+        "value": "p_n_cpf_labels/116845683011",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=p_n_cpf_labels%3A116845683011&dc&qid=1773344758&rnid=116845681011&ref=sr_nr_p_n_cpf_labels_4&ds=v1%3AoxmM26jaa45TrsMSWZON%2FmG273bbEX82QXVaRx3nwGk",
+        "refinement_display_name": "Sustainability Features"
+      },
+      {
+        "name": "Worker Wellbeing",
+        "value": "p_n_cpf_labels/116845686011",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=p_n_cpf_labels%3A116845686011&dc&qid=1773344758&rnid=116845681011&ref=sr_nr_p_n_cpf_labels_5&ds=v1%3AUiVDw5yjCF6aXCCDDFRZul81U%2B%2F6fhqCKq%2B%2B8gjh7Fc",
+        "refinement_display_name": "Sustainability Features"
+      }
+    ],
+    "department": [
+      {
+        "name": "Electronics",
+        "value": "n/172282",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=n%3A172282&dc&qid=1773344758&rnid=2941120011&ref=sr_nr_n_1&ds=v1%3AK99hxoYSX%2FrcIXKh4bfNafg7gqSqnYSCHjUuSCXgKzc",
+        "refinement_display_name": "Department"
+      },
+      {
+        "name": "Camera & Photo",
+        "value": "n/502394",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=n%3A172282%2Cn%3A502394&dc&qid=1773344758&rnid=2941120011&ref=sr_nr_n_2&ds=v1%3AiyvHlQseh5%2BBFkgLHzM2DuKxeOooFljuf%2F251hXa9L0",
+        "refinement_display_name": "Department"
+      },
+      {
+        "name": "Headphones, Earbuds & Accessories",
+        "value": "n/24046923011",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=n%3A172282%2Cn%3A24046923011&dc&qid=1773344758&rnid=2941120011&ref=sr_nr_n_3&ds=v1%3Af4T%2BHqq%2B2UL6j846kVdARk9Q9F7mH46XYvPtKV2R7t8",
+        "refinement_display_name": "Department"
+      },
+      {
+        "name": "Video Projectors",
+        "value": "n/300334",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=n%3A172282%2Cn%3A300334&dc&qid=1773344758&rnid=2941120011&ref=sr_nr_n_4&ds=v1%3A97E4AizR37b5tq7fv8rnFJio%2B%2FOoNd7fHWuTZwoO2CY",
+        "refinement_display_name": "Department"
+      },
+      {
+        "name": "Computers & Accessories",
+        "value": "n/541966",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=n%3A172282%2Cn%3A541966&dc&qid=1773344758&rnid=2941120011&ref=sr_nr_n_5&ds=v1%3AUsO1RRSt%2Bi3ZvtO10vbCSQJuEFWAS9%2B9TaPwh5K1Yno",
+        "refinement_display_name": "Department"
+      },
+      {
+        "name": "Amazon Devices",
+        "value": "n/2102313011",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=n%3A2102313011&dc&qid=1773344758&rnid=2941120011&ref=sr_nr_n_6&ds=v1%3AFhL6AGnSNQ54FUgDnVOZpFg2hxxpLHOP1WkOhLZpzBE",
+        "refinement_display_name": "Department"
+      },
+      {
+        "name": "Cell Phone Accessories",
+        "value": "n/2407755011",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=n%3A2407755011&dc&qid=1773344758&rnid=2941120011&ref=sr_nr_n_7&ds=v1%3AMNw4ewqyUlzhzpg%2B2obCQxs1rzi8EAaWWeqZ73YfR6M",
+        "refinement_display_name": "Department"
+      },
+      {
+        "name": "Video Games",
+        "value": "n/468642",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=n%3A468642&dc&qid=1773344758&rnid=2941120011&ref=sr_nr_n_8&ds=v1%3A8V7HFe0Hd4mxqM3sg2%2BoZN1XWKdz0ZBmoLmro1Ju4hs",
+        "refinement_display_name": "Department"
+      }
+    ]
+  }
+}
