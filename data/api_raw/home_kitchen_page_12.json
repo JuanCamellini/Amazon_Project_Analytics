@@ -1,0 +1,21 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 29,
+    "credits_remaining": 71,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "type": "search",
+    "amazon_domain": "amazon.com",
+    "search_term": "best home kitchen products",
+    "page": "12"
+  },
+  "request_metadata": {
+    "created_at": "2026-03-12T19:47:31.198Z",
+    "processed_at": "2026-03-12T19:47:33.475Z",
+    "total_time_taken": 2.28,
+    "amazon_url": "https://www.amazon.com/s/?k=best+home+kitchen+products&ref=nb_sb_noss_2&page=12"
+  },
+  "message": "No results found"
+}

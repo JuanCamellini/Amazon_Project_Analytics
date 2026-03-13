@@ -1,0 +1,1358 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 15,
+    "credits_remaining": 85,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "type": "search",
+    "amazon_domain": "amazon.com",
+    "search_term": "best electronics",
+    "page": "13"
+  },
+  "request_metadata": {
+    "created_at": "2026-03-12T19:46:12.089Z",
+    "processed_at": "2026-03-12T19:46:15.079Z",
+    "total_time_taken": 2.99,
+    "amazon_url": "https://www.amazon.com/s/?k=best+electronics&ref=nb_sb_noss_2&page=13"
+  },
+  "search_results": [
+    {
+      "position": 1,
+      "title": "BENGOO Pro Gaming Headset for PS4 PS5 PC Xbox One Controller, Noise Cancelling Over Ear Headphones with Mic, LED Light, Bass Surround, Soft Memory Earmuffs for Laptop Mac - White",
+      "asin": "B08ZCQWGTG",
+      "link": "https://www.amazon.com/BENGOO-Controller-Cancelling-Headphones-Surround/dp/B08ZCQWGTG/ref=sr_1_193?dib=eyJ2IjoiMSJ9.m27gWMcvpnGoLkLwvzIx6vHzdQWVmgU4vWawKEniOjzVZ-Q5k3W2uBysDD1noQtGGx3-MSpnpWX8pUXE73_uhuCi45MJz0QViI-6pz-bqGsxQvHVCVKn4HSdzQy_LjRTUOHocXPd5k6fHTR46mKyMt04xg-4WxW6-aXkbuo2r1PtXA9LF2NRId1KPmHPhh6wZbGBlJ50nwONg_Tqd8gzHbwaLzSD1_axN6bVTU054eU.WfxM-zyZ9PiLDs_-u8nAyVdjbge3c3Pk6gf2B2tx3nE&dib_tag=se&keywords=best+electronics&qid=1773344773&sr=8-193",
+      "recent_sales": "100+ bought in past month",
+      "availability": {
+        "raw": null
+      },
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/61R6Fk-HeIS._AC_UY218_.jpg",
+      "is_prime": false,
+      "is_amazon_fresh": false,
+      "is_whole_foods_market": false,
+      "rating": 4.3,
+      "ratings_total": 121205,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 27.54,
+          "currency": "USD",
+          "raw": "$27.54",
+          "name": "Primary",
+          "is_primary": true,
+          "list_price": "$33.99",
+          "asin": "B08ZCQWGTG",
+          "link": "https://www.amazon.com/BENGOO-Controller-Cancelling-Headphones-Surround/dp/B08ZCQWGTG/ref=sr_1_193?dib=eyJ2IjoiMSJ9.m27gWMcvpnGoLkLwvzIx6vHzdQWVmgU4vWawKEniOjzVZ-Q5k3W2uBysDD1noQtGGx3-MSpnpWX8pUXE73_uhuCi45MJz0QViI-6pz-bqGsxQvHVCVKn4HSdzQy_LjRTUOHocXPd5k6fHTR46mKyMt04xg-4WxW6-aXkbuo2r1PtXA9LF2NRId1KPmHPhh6wZbGBlJ50nwONg_Tqd8gzHbwaLzSD1_axN6bVTU054eU.WfxM-zyZ9PiLDs_-u8nAyVdjbge3c3Pk6gf2B2tx3nE&dib_tag=se&keywords=best+electronics&qid=1773344773&sr=8-193"
+        },
+        {
+          "symbol": "$",
+          "value": 33.99,
+          "currency": "USD",
+          "raw": "$33.99",
+          "name": "Original",
+          "is_rrp": true,
+          "link": "https://www.amazon.com/BENGOO-Controller-Cancelling-Headphones-Surround/dp/B08ZCQWGTG/ref=sr_1_193?dib=eyJ2IjoiMSJ9.m27gWMcvpnGoLkLwvzIx6vHzdQWVmgU4vWawKEniOjzVZ-Q5k3W2uBysDD1noQtGGx3-MSpnpWX8pUXE73_uhuCi45MJz0QViI-6pz-bqGsxQvHVCVKn4HSdzQy_LjRTUOHocXPd5k6fHTR46mKyMt04xg-4WxW6-aXkbuo2r1PtXA9LF2NRId1KPmHPhh6wZbGBlJ50nwONg_Tqd8gzHbwaLzSD1_axN6bVTU054eU.WfxM-zyZ9PiLDs_-u8nAyVdjbge3c3Pk6gf2B2tx3nE&dib_tag=se&keywords=best+electronics&qid=1773344773&sr=8-193",
+          "asin": "B08ZCQWGTG"
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 27.54,
+        "currency": "USD",
+        "raw": "$27.54",
+        "name": "Primary",
+        "is_primary": true,
+        "list_price": "$33.99",
+        "asin": "B08ZCQWGTG",
+        "link": "https://www.amazon.com/BENGOO-Controller-Cancelling-Headphones-Surround/dp/B08ZCQWGTG/ref=sr_1_193?dib=eyJ2IjoiMSJ9.m27gWMcvpnGoLkLwvzIx6vHzdQWVmgU4vWawKEniOjzVZ-Q5k3W2uBysDD1noQtGGx3-MSpnpWX8pUXE73_uhuCi45MJz0QViI-6pz-bqGsxQvHVCVKn4HSdzQy_LjRTUOHocXPd5k6fHTR46mKyMt04xg-4WxW6-aXkbuo2r1PtXA9LF2NRId1KPmHPhh6wZbGBlJ50nwONg_Tqd8gzHbwaLzSD1_axN6bVTU054eU.WfxM-zyZ9PiLDs_-u8nAyVdjbge3c3Pk6gf2B2tx3nE&dib_tag=se&keywords=best+electronics&qid=1773344773&sr=8-193"
+      },
+      "delivery": {
+        "tagline": "FREE delivery Tue, Mar 17 on $35 of items shipped by Amazon Or fastest delivery Mon, Mar 16",
+        "price": {
+          "raw": "$27.54",
+          "symbol": "$",
+          "value": 27.54,
+          "currency": "USD",
+          "is_free": false
+        }
+      }
+    },
+    {
+      "position": 2,
+      "title": "KMF-1 Guitar Pedal, 77 Effects Guitar Multi Effects Pedal with 50 Preset, 42 Drum Rhythm, 18 Amp/Cab, Upgraded Color Screen, Aux In, Guitar Tuner Looper Expression Wah Volume Distortion Pedal",
+      "asin": "B0DNMMGDLV",
+      "link": "https://www.amazon.com/Flatsons-KMF-1-Electric-Processor-Distortion/dp/B0DNMMGDLV/ref=sr_1_194?dib=eyJ2IjoiMSJ9.m27gWMcvpnGoLkLwvzIx6vHzdQWVmgU4vWawKEniOjzVZ-Q5k3W2uBysDD1noQtGGx3-MSpnpWX8pUXE73_uhuCi45MJz0QViI-6pz-bqGsxQvHVCVKn4HSdzQy_LjRTUOHocXPd5k6fHTR46mKyMt04xg-4WxW6-aXkbuo2r1PtXA9LF2NRId1KPmHPhh6wZbGBlJ50nwONg_Tqd8gzHbwaLzSD1_axN6bVTU054eU.WfxM-zyZ9PiLDs_-u8nAyVdjbge3c3Pk6gf2B2tx3nE&dib_tag=se&keywords=best+electronics&qid=1773344773&sr=8-194",
+      "recent_sales": "400+ bought in past month",
+      "availability": {
+        "raw": null
+      },
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/71WzG6Nz94L._AC_UY218_.jpg",
+      "is_prime": false,
+      "is_amazon_fresh": false,
+      "is_whole_foods_market": false,
+      "rating": 4.4,
+      "ratings_total": 289,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 109.99,
+          "currency": "USD",
+          "raw": "$109.99",
+          "asin": "B0DNMMGDLV",
+          "link": "https://www.amazon.com/Flatsons-KMF-1-Electric-Processor-Distortion/dp/B0DNMMGDLV/ref=sr_1_194?dib=eyJ2IjoiMSJ9.m27gWMcvpnGoLkLwvzIx6vHzdQWVmgU4vWawKEniOjzVZ-Q5k3W2uBysDD1noQtGGx3-MSpnpWX8pUXE73_uhuCi45MJz0QViI-6pz-bqGsxQvHVCVKn4HSdzQy_LjRTUOHocXPd5k6fHTR46mKyMt04xg-4WxW6-aXkbuo2r1PtXA9LF2NRId1KPmHPhh6wZbGBlJ50nwONg_Tqd8gzHbwaLzSD1_axN6bVTU054eU.WfxM-zyZ9PiLDs_-u8nAyVdjbge3c3Pk6gf2B2tx3nE&dib_tag=se&keywords=best+electronics&qid=1773344773&sr=8-194"
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 109.99,
+        "currency": "USD",
+        "raw": "$109.99",
+        "asin": "B0DNMMGDLV",
+        "link": "https://www.amazon.com/Flatsons-KMF-1-Electric-Processor-Distortion/dp/B0DNMMGDLV/ref=sr_1_194?dib=eyJ2IjoiMSJ9.m27gWMcvpnGoLkLwvzIx6vHzdQWVmgU4vWawKEniOjzVZ-Q5k3W2uBysDD1noQtGGx3-MSpnpWX8pUXE73_uhuCi45MJz0QViI-6pz-bqGsxQvHVCVKn4HSdzQy_LjRTUOHocXPd5k6fHTR46mKyMt04xg-4WxW6-aXkbuo2r1PtXA9LF2NRId1KPmHPhh6wZbGBlJ50nwONg_Tqd8gzHbwaLzSD1_axN6bVTU054eU.WfxM-zyZ9PiLDs_-u8nAyVdjbge3c3Pk6gf2B2tx3nE&dib_tag=se&keywords=best+electronics&qid=1773344773&sr=8-194"
+      },
+      "delivery": {
+        "tagline": "FREE delivery Tue, Mar 17 Or fastest delivery Mon, Mar 16",
+        "price": {
+          "raw": "$109.99",
+          "symbol": "$",
+          "value": 109.99,
+          "currency": "USD",
+          "is_free": false
+        }
+      }
+    },
+    {
+      "position": 3,
+      "title": "S30 Gaming Headset with Microphone,198g Lightweight Design, Wired Gaming Headphones for Xbox, Xbox Series X|S, PS5, PS4, Switch, PC, Noise Cancelling Mic, Soft Earmuffs (Black)",
+      "asin": "B0DBLHVGV7",
+      "link": "https://www.amazon.com/WIRWTRU-S30-Microphone-Lightweight-Headphones/dp/B0DBLHVGV7/ref=sr_1_195?dib=eyJ2IjoiMSJ9.m27gWMcvpnGoLkLwvzIx6vHzdQWVmgU4vWawKEniOjzVZ-Q5k3W2uBysDD1noQtGGx3-MSpnpWX8pUXE73_uhuCi45MJz0QViI-6pz-bqGsxQvHVCVKn4HSdzQy_LjRTUOHocXPd5k6fHTR46mKyMt04xg-4WxW6-aXkbuo2r1PtXA9LF2NRId1KPmHPhh6wZbGBlJ50nwONg_Tqd8gzHbwaLzSD1_axN6bVTU054eU.WfxM-zyZ9PiLDs_-u8nAyVdjbge3c3Pk6gf2B2tx3nE&dib_tag=se&keywords=best+electronics&qid=1773344773&sr=8-195",
+      "recent_sales": "2K+ bought in past month",
+      "availability": {
+        "raw": null
+      },
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/61aogecaK-L._AC_UY218_.jpg",
+      "is_prime": false,
+      "is_amazon_fresh": false,
+      "is_whole_foods_market": false,
+      "rating": 4.2,
+      "ratings_total": 1388,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 19.99,
+          "currency": "USD",
+          "raw": "$19.99",
+          "asin": "B0DBLHVGV7",
+          "link": "https://www.amazon.com/WIRWTRU-S30-Microphone-Lightweight-Headphones/dp/B0DBLHVGV7/ref=sr_1_195?dib=eyJ2IjoiMSJ9.m27gWMcvpnGoLkLwvzIx6vHzdQWVmgU4vWawKEniOjzVZ-Q5k3W2uBysDD1noQtGGx3-MSpnpWX8pUXE73_uhuCi45MJz0QViI-6pz-bqGsxQvHVCVKn4HSdzQy_LjRTUOHocXPd5k6fHTR46mKyMt04xg-4WxW6-aXkbuo2r1PtXA9LF2NRId1KPmHPhh6wZbGBlJ50nwONg_Tqd8gzHbwaLzSD1_axN6bVTU054eU.WfxM-zyZ9PiLDs_-u8nAyVdjbge3c3Pk6gf2B2tx3nE&dib_tag=se&keywords=best+electronics&qid=1773344773&sr=8-195"
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 19.99,
+        "currency": "USD",
+        "raw": "$19.99",
+        "asin": "B0DBLHVGV7",
+        "link": "https://www.amazon.com/WIRWTRU-S30-Microphone-Lightweight-Headphones/dp/B0DBLHVGV7/ref=sr_1_195?dib=eyJ2IjoiMSJ9.m27gWMcvpnGoLkLwvzIx6vHzdQWVmgU4vWawKEniOjzVZ-Q5k3W2uBysDD1noQtGGx3-MSpnpWX8pUXE73_uhuCi45MJz0QViI-6pz-bqGsxQvHVCVKn4HSdzQy_LjRTUOHocXPd5k6fHTR46mKyMt04xg-4WxW6-aXkbuo2r1PtXA9LF2NRId1KPmHPhh6wZbGBlJ50nwONg_Tqd8gzHbwaLzSD1_axN6bVTU054eU.WfxM-zyZ9PiLDs_-u8nAyVdjbge3c3Pk6gf2B2tx3nE&dib_tag=se&keywords=best+electronics&qid=1773344773&sr=8-195"
+      },
+      "delivery": {
+        "tagline": "FREE delivery Tue, Mar 17 on $35 of items shipped by Amazon Or fastest delivery Mon, Mar 16",
+        "price": {
+          "raw": "$19.99",
+          "symbol": "$",
+          "value": 19.99,
+          "currency": "USD",
+          "is_free": false
+        }
+      }
+    },
+    {
+      "position": 4,
+      "title": "ACR ResQFlare Electronic Distress E-Flare and Flag, USCG Approved Replacement for Pyrotechnic Flares - ACR 3966",
+      "asin": "B08FBJJBQ5",
+      "link": "https://www.amazon.com/ResQFlare-Electronic-Distress-Replacement-Pyrotechnic/dp/B08FBJJBQ5/ref=sr_1_196?dib=eyJ2IjoiMSJ9.m27gWMcvpnGoLkLwvzIx6vHzdQWVmgU4vWawKEniOjzVZ-Q5k3W2uBysDD1noQtGGx3-MSpnpWX8pUXE73_uhuCi45MJz0QViI-6pz-bqGsxQvHVCVKn4HSdzQy_LjRTUOHocXPd5k6fHTR46mKyMt04xg-4WxW6-aXkbuo2r1PtXA9LF2NRId1KPmHPhh6wZbGBlJ50nwONg_Tqd8gzHbwaLzSD1_axN6bVTU054eU.WfxM-zyZ9PiLDs_-u8nAyVdjbge3c3Pk6gf2B2tx3nE&dib_tag=se&keywords=best+electronics&qid=1773344773&sr=8-196",
+      "recent_sales": "200+ bought in past month",
+      "availability": {
+        "raw": null
+      },
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/61Vb+iZgYVL._AC_UY218_.jpg",
+      "is_prime": false,
+      "is_amazon_fresh": false,
+      "is_whole_foods_market": false,
+      "rating": 4.7,
+      "ratings_total": 694,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 79.95,
+          "currency": "USD",
+          "raw": "$79.95",
+          "asin": "B08FBJJBQ5",
+          "link": "https://www.amazon.com/ResQFlare-Electronic-Distress-Replacement-Pyrotechnic/dp/B08FBJJBQ5/ref=sr_1_196?dib=eyJ2IjoiMSJ9.m27gWMcvpnGoLkLwvzIx6vHzdQWVmgU4vWawKEniOjzVZ-Q5k3W2uBysDD1noQtGGx3-MSpnpWX8pUXE73_uhuCi45MJz0QViI-6pz-bqGsxQvHVCVKn4HSdzQy_LjRTUOHocXPd5k6fHTR46mKyMt04xg-4WxW6-aXkbuo2r1PtXA9LF2NRId1KPmHPhh6wZbGBlJ50nwONg_Tqd8gzHbwaLzSD1_axN6bVTU054eU.WfxM-zyZ9PiLDs_-u8nAyVdjbge3c3Pk6gf2B2tx3nE&dib_tag=se&keywords=best+electronics&qid=1773344773&sr=8-196"
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 79.95,
+        "currency": "USD",
+        "raw": "$79.95",
+        "asin": "B08FBJJBQ5",
+        "link": "https://www.amazon.com/ResQFlare-Electronic-Distress-Replacement-Pyrotechnic/dp/B08FBJJBQ5/ref=sr_1_196?dib=eyJ2IjoiMSJ9.m27gWMcvpnGoLkLwvzIx6vHzdQWVmgU4vWawKEniOjzVZ-Q5k3W2uBysDD1noQtGGx3-MSpnpWX8pUXE73_uhuCi45MJz0QViI-6pz-bqGsxQvHVCVKn4HSdzQy_LjRTUOHocXPd5k6fHTR46mKyMt04xg-4WxW6-aXkbuo2r1PtXA9LF2NRId1KPmHPhh6wZbGBlJ50nwONg_Tqd8gzHbwaLzSD1_axN6bVTU054eU.WfxM-zyZ9PiLDs_-u8nAyVdjbge3c3Pk6gf2B2tx3nE&dib_tag=se&keywords=best+electronics&qid=1773344773&sr=8-196"
+      },
+      "delivery": {
+        "tagline": "FREE delivery Tue, Mar 17 Or fastest delivery Mon, Mar 16",
+        "price": {
+          "raw": "$79.95",
+          "symbol": "$",
+          "value": 79.95,
+          "currency": "USD",
+          "is_free": false
+        }
+      }
+    },
+    {
+      "position": 5,
+      "title": "ASURION 3 Year Portable Electronic Accident Protection Plan ($900 - $999.99)",
+      "asin": "B08F811YS8",
+      "link": "https://www.amazon.com/ASURION-Portable-Electronic-Protection-900-999-99/dp/B08F811YS8/ref=sr_1_197?dib=eyJ2IjoiMSJ9.m27gWMcvpnGoLkLwvzIx6vHzdQWVmgU4vWawKEniOjzVZ-Q5k3W2uBysDD1noQtGGx3-MSpnpWX8pUXE73_uhuCi45MJz0QViI-6pz-bqGsxQvHVCVKn4HSdzQy_LjRTUOHocXPd5k6fHTR46mKyMt04xg-4WxW6-aXkbuo2r1PtXA9LF2NRId1KPmHPhh6wZbGBlJ50nwONg_Tqd8gzHbwaLzSD1_axN6bVTU054eU.WfxM-zyZ9PiLDs_-u8nAyVdjbge3c3Pk6gf2B2tx3nE&dib_tag=se&keywords=best+electronics&qid=1773344773&sr=8-197",
+      "availability": {
+        "raw": null
+      },
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/41xG8Yh0rlL._AC_UY218_.jpg",
+      "is_prime": false,
+      "is_amazon_fresh": false,
+      "is_whole_foods_market": false,
+      "rating": 3.8,
+      "ratings_total": 67,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 99.99,
+          "currency": "USD",
+          "raw": "$99.99",
+          "asin": "B08F811YS8",
+          "link": "https://www.amazon.com/ASURION-Portable-Electronic-Protection-900-999-99/dp/B08F811YS8/ref=sr_1_197?dib=eyJ2IjoiMSJ9.m27gWMcvpnGoLkLwvzIx6vHzdQWVmgU4vWawKEniOjzVZ-Q5k3W2uBysDD1noQtGGx3-MSpnpWX8pUXE73_uhuCi45MJz0QViI-6pz-bqGsxQvHVCVKn4HSdzQy_LjRTUOHocXPd5k6fHTR46mKyMt04xg-4WxW6-aXkbuo2r1PtXA9LF2NRId1KPmHPhh6wZbGBlJ50nwONg_Tqd8gzHbwaLzSD1_axN6bVTU054eU.WfxM-zyZ9PiLDs_-u8nAyVdjbge3c3Pk6gf2B2tx3nE&dib_tag=se&keywords=best+electronics&qid=1773344773&sr=8-197"
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 99.99,
+        "currency": "USD",
+        "raw": "$99.99",
+        "asin": "B08F811YS8",
+        "link": "https://www.amazon.com/ASURION-Portable-Electronic-Protection-900-999-99/dp/B08F811YS8/ref=sr_1_197?dib=eyJ2IjoiMSJ9.m27gWMcvpnGoLkLwvzIx6vHzdQWVmgU4vWawKEniOjzVZ-Q5k3W2uBysDD1noQtGGx3-MSpnpWX8pUXE73_uhuCi45MJz0QViI-6pz-bqGsxQvHVCVKn4HSdzQy_LjRTUOHocXPd5k6fHTR46mKyMt04xg-4WxW6-aXkbuo2r1PtXA9LF2NRId1KPmHPhh6wZbGBlJ50nwONg_Tqd8gzHbwaLzSD1_axN6bVTU054eU.WfxM-zyZ9PiLDs_-u8nAyVdjbge3c3Pk6gf2B2tx3nE&dib_tag=se&keywords=best+electronics&qid=1773344773&sr=8-197"
+      },
+      "delivery": {
+        "tagline": "FREE delivery Mar 16 - 17",
+        "price": {
+          "raw": "$99.99",
+          "symbol": "$",
+          "value": 99.99,
+          "currency": "USD",
+          "is_free": false
+        }
+      }
+    },
+    {
+      "position": 6,
+      "title": "ASURION 3 Year Portable Electronic Accident Protection Plan ($100 - $124.99)",
+      "asin": "B08JMHSWQL",
+      "link": "https://www.amazon.com/ASURION-Portable-Electronic-Protection-100-124-99/dp/B08JMHSWQL/ref=sr_1_198?dib=eyJ2IjoiMSJ9.m27gWMcvpnGoLkLwvzIx6vHzdQWVmgU4vWawKEniOjzVZ-Q5k3W2uBysDD1noQtGGx3-MSpnpWX8pUXE73_uhuCi45MJz0QViI-6pz-bqGsxQvHVCVKn4HSdzQy_LjRTUOHocXPd5k6fHTR46mKyMt04xg-4WxW6-aXkbuo2r1PtXA9LF2NRId1KPmHPhh6wZbGBlJ50nwONg_Tqd8gzHbwaLzSD1_axN6bVTU054eU.WfxM-zyZ9PiLDs_-u8nAyVdjbge3c3Pk6gf2B2tx3nE&dib_tag=se&keywords=best+electronics&qid=1773344773&sr=8-198",
+      "availability": {
+        "raw": null
+      },
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/41xG8Yh0rlL._AC_UY218_.jpg",
+      "is_prime": false,
+      "is_amazon_fresh": false,
+      "is_whole_foods_market": false,
+      "rating": 4.4,
+      "ratings_total": 6173,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 21.99,
+          "currency": "USD",
+          "raw": "$21.99",
+          "asin": "B08JMHSWQL",
+          "link": "https://www.amazon.com/ASURION-Portable-Electronic-Protection-100-124-99/dp/B08JMHSWQL/ref=sr_1_198?dib=eyJ2IjoiMSJ9.m27gWMcvpnGoLkLwvzIx6vHzdQWVmgU4vWawKEniOjzVZ-Q5k3W2uBysDD1noQtGGx3-MSpnpWX8pUXE73_uhuCi45MJz0QViI-6pz-bqGsxQvHVCVKn4HSdzQy_LjRTUOHocXPd5k6fHTR46mKyMt04xg-4WxW6-aXkbuo2r1PtXA9LF2NRId1KPmHPhh6wZbGBlJ50nwONg_Tqd8gzHbwaLzSD1_axN6bVTU054eU.WfxM-zyZ9PiLDs_-u8nAyVdjbge3c3Pk6gf2B2tx3nE&dib_tag=se&keywords=best+electronics&qid=1773344773&sr=8-198"
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 21.99,
+        "currency": "USD",
+        "raw": "$21.99",
+        "asin": "B08JMHSWQL",
+        "link": "https://www.amazon.com/ASURION-Portable-Electronic-Protection-100-124-99/dp/B08JMHSWQL/ref=sr_1_198?dib=eyJ2IjoiMSJ9.m27gWMcvpnGoLkLwvzIx6vHzdQWVmgU4vWawKEniOjzVZ-Q5k3W2uBysDD1noQtGGx3-MSpnpWX8pUXE73_uhuCi45MJz0QViI-6pz-bqGsxQvHVCVKn4HSdzQy_LjRTUOHocXPd5k6fHTR46mKyMt04xg-4WxW6-aXkbuo2r1PtXA9LF2NRId1KPmHPhh6wZbGBlJ50nwONg_Tqd8gzHbwaLzSD1_axN6bVTU054eU.WfxM-zyZ9PiLDs_-u8nAyVdjbge3c3Pk6gf2B2tx3nE&dib_tag=se&keywords=best+electronics&qid=1773344773&sr=8-198"
+      },
+      "delivery": {
+        "tagline": "FREE delivery Mar 16 - 17",
+        "price": {
+          "raw": "$21.99",
+          "symbol": "$",
+          "value": 21.99,
+          "currency": "USD",
+          "is_free": false
+        }
+      }
+    },
+    {
+      "position": 7,
+      "title": "EKSA USB Gaming Headset for PC, Computer Headphones with Detachable Noise Cancelling Microphone, 7.1 Surround Sound, 50MM Driver, Wired Headset with Mic for PS4/PS5, Xbox One, Laptop, Work",
+      "asin": "B0CHFLHHQH",
+      "link": "https://www.amazon.com/EKSA-Headphones-Detachable-Cancelling-Microphone/dp/B0CHFLHHQH/ref=sr_1_199?dib=eyJ2IjoiMSJ9.m27gWMcvpnGoLkLwvzIx6vHzdQWVmgU4vWawKEniOjzVZ-Q5k3W2uBysDD1noQtGGx3-MSpnpWX8pUXE73_uhuCi45MJz0QViI-6pz-bqGsxQvHVCVKn4HSdzQy_LjRTUOHocXPd5k6fHTR46mKyMt04xg-4WxW6-aXkbuo2r1PtXA9LF2NRId1KPmHPhh6wZbGBlJ50nwONg_Tqd8gzHbwaLzSD1_axN6bVTU054eU.WfxM-zyZ9PiLDs_-u8nAyVdjbge3c3Pk6gf2B2tx3nE&dib_tag=se&keywords=best+electronics&qid=1773344773&sr=8-199",
+      "recent_sales": "50+ bought in past month",
+      "availability": {
+        "raw": null
+      },
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/71cL9bOGGWL._AC_UY218_.jpg",
+      "is_prime": false,
+      "is_amazon_fresh": false,
+      "is_whole_foods_market": false,
+      "rating": 4.4,
+      "ratings_total": 133,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 55.99,
+          "currency": "USD",
+          "raw": "$55.99",
+          "asin": "B0CHFLHHQH",
+          "link": "https://www.amazon.com/EKSA-Headphones-Detachable-Cancelling-Microphone/dp/B0CHFLHHQH/ref=sr_1_199?dib=eyJ2IjoiMSJ9.m27gWMcvpnGoLkLwvzIx6vHzdQWVmgU4vWawKEniOjzVZ-Q5k3W2uBysDD1noQtGGx3-MSpnpWX8pUXE73_uhuCi45MJz0QViI-6pz-bqGsxQvHVCVKn4HSdzQy_LjRTUOHocXPd5k6fHTR46mKyMt04xg-4WxW6-aXkbuo2r1PtXA9LF2NRId1KPmHPhh6wZbGBlJ50nwONg_Tqd8gzHbwaLzSD1_axN6bVTU054eU.WfxM-zyZ9PiLDs_-u8nAyVdjbge3c3Pk6gf2B2tx3nE&dib_tag=se&keywords=best+electronics&qid=1773344773&sr=8-199"
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 55.99,
+        "currency": "USD",
+        "raw": "$55.99",
+        "asin": "B0CHFLHHQH",
+        "link": "https://www.amazon.com/EKSA-Headphones-Detachable-Cancelling-Microphone/dp/B0CHFLHHQH/ref=sr_1_199?dib=eyJ2IjoiMSJ9.m27gWMcvpnGoLkLwvzIx6vHzdQWVmgU4vWawKEniOjzVZ-Q5k3W2uBysDD1noQtGGx3-MSpnpWX8pUXE73_uhuCi45MJz0QViI-6pz-bqGsxQvHVCVKn4HSdzQy_LjRTUOHocXPd5k6fHTR46mKyMt04xg-4WxW6-aXkbuo2r1PtXA9LF2NRId1KPmHPhh6wZbGBlJ50nwONg_Tqd8gzHbwaLzSD1_axN6bVTU054eU.WfxM-zyZ9PiLDs_-u8nAyVdjbge3c3Pk6gf2B2tx3nE&dib_tag=se&keywords=best+electronics&qid=1773344773&sr=8-199"
+      },
+      "delivery": {
+        "tagline": "FREE delivery Tue, Mar 17 Or fastest delivery Mon, Mar 16",
+        "price": {
+          "raw": "$55.99",
+          "symbol": "$",
+          "value": 55.99,
+          "currency": "USD",
+          "is_free": false
+        }
+      }
+    },
+    {
+      "position": 8,
+      "title": "ASURION 3 Year Portable Electronic Accident Protection Plan ($1000 - $1249.99)",
+      "asin": "B08F81F7RH",
+      "link": "https://www.amazon.com/ASURION-Portable-Electronic-Protection-1000-1249-99/dp/B08F81F7RH/ref=sr_1_200?dib=eyJ2IjoiMSJ9.m27gWMcvpnGoLkLwvzIx6vHzdQWVmgU4vWawKEniOjzVZ-Q5k3W2uBysDD1noQtGGx3-MSpnpWX8pUXE73_uhuCi45MJz0QViI-6pz-bqGsxQvHVCVKn4HSdzQy_LjRTUOHocXPd5k6fHTR46mKyMt04xg-4WxW6-aXkbuo2r1PtXA9LF2NRId1KPmHPhh6wZbGBlJ50nwONg_Tqd8gzHbwaLzSD1_axN6bVTU054eU.WfxM-zyZ9PiLDs_-u8nAyVdjbge3c3Pk6gf2B2tx3nE&dib_tag=se&keywords=best+electronics&qid=1773344773&sr=8-200",
+      "availability": {
+        "raw": null
+      },
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/41xG8Yh0rlL._AC_UY218_.jpg",
+      "is_prime": false,
+      "is_amazon_fresh": false,
+      "is_whole_foods_market": false,
+      "rating": 4.1,
+      "ratings_total": 103,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 119.99,
+          "currency": "USD",
+          "raw": "$119.99",
+          "asin": "B08F81F7RH",
+          "link": "https://www.amazon.com/ASURION-Portable-Electronic-Protection-1000-1249-99/dp/B08F81F7RH/ref=sr_1_200?dib=eyJ2IjoiMSJ9.m27gWMcvpnGoLkLwvzIx6vHzdQWVmgU4vWawKEniOjzVZ-Q5k3W2uBysDD1noQtGGx3-MSpnpWX8pUXE73_uhuCi45MJz0QViI-6pz-bqGsxQvHVCVKn4HSdzQy_LjRTUOHocXPd5k6fHTR46mKyMt04xg-4WxW6-aXkbuo2r1PtXA9LF2NRId1KPmHPhh6wZbGBlJ50nwONg_Tqd8gzHbwaLzSD1_axN6bVTU054eU.WfxM-zyZ9PiLDs_-u8nAyVdjbge3c3Pk6gf2B2tx3nE&dib_tag=se&keywords=best+electronics&qid=1773344773&sr=8-200"
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 119.99,
+        "currency": "USD",
+        "raw": "$119.99",
+        "asin": "B08F81F7RH",
+        "link": "https://www.amazon.com/ASURION-Portable-Electronic-Protection-1000-1249-99/dp/B08F81F7RH/ref=sr_1_200?dib=eyJ2IjoiMSJ9.m27gWMcvpnGoLkLwvzIx6vHzdQWVmgU4vWawKEniOjzVZ-Q5k3W2uBysDD1noQtGGx3-MSpnpWX8pUXE73_uhuCi45MJz0QViI-6pz-bqGsxQvHVCVKn4HSdzQy_LjRTUOHocXPd5k6fHTR46mKyMt04xg-4WxW6-aXkbuo2r1PtXA9LF2NRId1KPmHPhh6wZbGBlJ50nwONg_Tqd8gzHbwaLzSD1_axN6bVTU054eU.WfxM-zyZ9PiLDs_-u8nAyVdjbge3c3Pk6gf2B2tx3nE&dib_tag=se&keywords=best+electronics&qid=1773344773&sr=8-200"
+      },
+      "delivery": {
+        "tagline": "FREE delivery Mar 16 - 17",
+        "price": {
+          "raw": "$119.99",
+          "symbol": "$",
+          "value": 119.99,
+          "currency": "USD",
+          "is_free": false
+        }
+      }
+    },
+    {
+      "position": 9,
+      "title": "Sirius Signal C-1003 SOS LED Distress Signal - Electronic Flare Replacement, USCG Approved, Includes Daytime Flag & Whistle",
+      "asin": "B081GHJ9XC",
+      "link": "https://www.amazon.com/Sirius-Electronic-Distress-Daytime-Whistle/dp/B081GHJ9XC/ref=sr_1_201?dib=eyJ2IjoiMSJ9.m27gWMcvpnGoLkLwvzIx6vHzdQWVmgU4vWawKEniOjzVZ-Q5k3W2uBysDD1noQtGGx3-MSpnpWX8pUXE73_uhuCi45MJz0QViI-6pz-bqGsxQvHVCVKn4HSdzQy_LjRTUOHocXPd5k6fHTR46mKyMt04xg-4WxW6-aXkbuo2r1PtXA9LF2NRId1KPmHPhh6wZbGBlJ50nwONg_Tqd8gzHbwaLzSD1_axN6bVTU054eU.WfxM-zyZ9PiLDs_-u8nAyVdjbge3c3Pk6gf2B2tx3nE&dib_tag=se&keywords=best+electronics&qid=1773344773&sr=8-201",
+      "recent_sales": "600+ bought in past month",
+      "availability": {
+        "raw": null
+      },
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/71ahJzH0K6L._AC_UY218_.jpg",
+      "is_prime": false,
+      "is_amazon_fresh": false,
+      "is_whole_foods_market": false,
+      "rating": 4.7,
+      "ratings_total": 2999,
+      "is_small_business": true,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 69.99,
+          "currency": "USD",
+          "raw": "$69.99",
+          "asin": "B081GHJ9XC",
+          "link": "https://www.amazon.com/Sirius-Electronic-Distress-Daytime-Whistle/dp/B081GHJ9XC/ref=sr_1_201?dib=eyJ2IjoiMSJ9.m27gWMcvpnGoLkLwvzIx6vHzdQWVmgU4vWawKEniOjzVZ-Q5k3W2uBysDD1noQtGGx3-MSpnpWX8pUXE73_uhuCi45MJz0QViI-6pz-bqGsxQvHVCVKn4HSdzQy_LjRTUOHocXPd5k6fHTR46mKyMt04xg-4WxW6-aXkbuo2r1PtXA9LF2NRId1KPmHPhh6wZbGBlJ50nwONg_Tqd8gzHbwaLzSD1_axN6bVTU054eU.WfxM-zyZ9PiLDs_-u8nAyVdjbge3c3Pk6gf2B2tx3nE&dib_tag=se&keywords=best+electronics&qid=1773344773&sr=8-201"
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 69.99,
+        "currency": "USD",
+        "raw": "$69.99",
+        "asin": "B081GHJ9XC",
+        "link": "https://www.amazon.com/Sirius-Electronic-Distress-Daytime-Whistle/dp/B081GHJ9XC/ref=sr_1_201?dib=eyJ2IjoiMSJ9.m27gWMcvpnGoLkLwvzIx6vHzdQWVmgU4vWawKEniOjzVZ-Q5k3W2uBysDD1noQtGGx3-MSpnpWX8pUXE73_uhuCi45MJz0QViI-6pz-bqGsxQvHVCVKn4HSdzQy_LjRTUOHocXPd5k6fHTR46mKyMt04xg-4WxW6-aXkbuo2r1PtXA9LF2NRId1KPmHPhh6wZbGBlJ50nwONg_Tqd8gzHbwaLzSD1_axN6bVTU054eU.WfxM-zyZ9PiLDs_-u8nAyVdjbge3c3Pk6gf2B2tx3nE&dib_tag=se&keywords=best+electronics&qid=1773344773&sr=8-201"
+      },
+      "delivery": {
+        "tagline": "FREE delivery Tue, Mar 17 Or fastest delivery Mon, Mar 16",
+        "price": {
+          "raw": "$69.99",
+          "symbol": "$",
+          "value": 69.99,
+          "currency": "USD",
+          "is_free": false
+        }
+      }
+    },
+    {
+      "position": 10,
+      "title": "SCHLAGE FE595 CAM 622 Acc Keypad Entry with Flex Electronic Lock, Matte Black",
+      "asin": "B089HZLB2K",
+      "link": "https://www.amazon.com/Schlage-FE595-CAM-622-Electronic/dp/B089HZLB2K/ref=sr_1_202?dib=eyJ2IjoiMSJ9.m27gWMcvpnGoLkLwvzIx6vHzdQWVmgU4vWawKEniOjzVZ-Q5k3W2uBysDD1noQtGGx3-MSpnpWX8pUXE73_uhuCi45MJz0QViI-6pz-bqGsxQvHVCVKn4HSdzQy_LjRTUOHocXPd5k6fHTR46mKyMt04xg-4WxW6-aXkbuo2r1PtXA9LF2NRId1KPmHPhh6wZbGBlJ50nwONg_Tqd8gzHbwaLzSD1_axN6bVTU054eU.WfxM-zyZ9PiLDs_-u8nAyVdjbge3c3Pk6gf2B2tx3nE&dib_tag=se&keywords=best+electronics&qid=1773344773&sr=8-202",
+      "recent_sales": "500+ bought in past month",
+      "availability": {
+        "raw": null
+      },
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/61RdTAGVMpL._AC_UY218_.jpg",
+      "is_prime": false,
+      "is_amazon_fresh": false,
+      "is_whole_foods_market": false,
+      "rating": 4.5,
+      "ratings_total": 6543,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 119.99,
+          "currency": "USD",
+          "raw": "$119.99",
+          "name": "Primary",
+          "is_primary": true,
+          "list_price": "$144.99",
+          "asin": "B089HZLB2K",
+          "link": "https://www.amazon.com/Schlage-FE595-CAM-622-Electronic/dp/B089HZLB2K/ref=sr_1_202?dib=eyJ2IjoiMSJ9.m27gWMcvpnGoLkLwvzIx6vHzdQWVmgU4vWawKEniOjzVZ-Q5k3W2uBysDD1noQtGGx3-MSpnpWX8pUXE73_uhuCi45MJz0QViI-6pz-bqGsxQvHVCVKn4HSdzQy_LjRTUOHocXPd5k6fHTR46mKyMt04xg-4WxW6-aXkbuo2r1PtXA9LF2NRId1KPmHPhh6wZbGBlJ50nwONg_Tqd8gzHbwaLzSD1_axN6bVTU054eU.WfxM-zyZ9PiLDs_-u8nAyVdjbge3c3Pk6gf2B2tx3nE&dib_tag=se&keywords=best+electronics&qid=1773344773&sr=8-202"
+        },
+        {
+          "symbol": "$",
+          "value": 144.99,
+          "currency": "USD",
+          "raw": "$144.99",
+          "name": "Original",
+          "is_rrp": true,
+          "link": "https://www.amazon.com/Schlage-FE595-CAM-622-Electronic/dp/B089HZLB2K/ref=sr_1_202?dib=eyJ2IjoiMSJ9.m27gWMcvpnGoLkLwvzIx6vHzdQWVmgU4vWawKEniOjzVZ-Q5k3W2uBysDD1noQtGGx3-MSpnpWX8pUXE73_uhuCi45MJz0QViI-6pz-bqGsxQvHVCVKn4HSdzQy_LjRTUOHocXPd5k6fHTR46mKyMt04xg-4WxW6-aXkbuo2r1PtXA9LF2NRId1KPmHPhh6wZbGBlJ50nwONg_Tqd8gzHbwaLzSD1_axN6bVTU054eU.WfxM-zyZ9PiLDs_-u8nAyVdjbge3c3Pk6gf2B2tx3nE&dib_tag=se&keywords=best+electronics&qid=1773344773&sr=8-202",
+          "asin": "B089HZLB2K"
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 119.99,
+        "currency": "USD",
+        "raw": "$119.99",
+        "name": "Primary",
+        "is_primary": true,
+        "list_price": "$144.99",
+        "asin": "B089HZLB2K",
+        "link": "https://www.amazon.com/Schlage-FE595-CAM-622-Electronic/dp/B089HZLB2K/ref=sr_1_202?dib=eyJ2IjoiMSJ9.m27gWMcvpnGoLkLwvzIx6vHzdQWVmgU4vWawKEniOjzVZ-Q5k3W2uBysDD1noQtGGx3-MSpnpWX8pUXE73_uhuCi45MJz0QViI-6pz-bqGsxQvHVCVKn4HSdzQy_LjRTUOHocXPd5k6fHTR46mKyMt04xg-4WxW6-aXkbuo2r1PtXA9LF2NRId1KPmHPhh6wZbGBlJ50nwONg_Tqd8gzHbwaLzSD1_axN6bVTU054eU.WfxM-zyZ9PiLDs_-u8nAyVdjbge3c3Pk6gf2B2tx3nE&dib_tag=se&keywords=best+electronics&qid=1773344773&sr=8-202"
+      },
+      "delivery": {
+        "tagline": "FREE delivery Tue, Mar 17 Or fastest delivery Mon, Mar 16",
+        "price": {
+          "raw": "$119.99",
+          "symbol": "$",
+          "value": 119.99,
+          "currency": "USD",
+          "is_free": false
+        }
+      }
+    },
+    {
+      "position": 11,
+      "title": "Kwikset SmartCode 270 Keyless Entry Electronic Touchpad Deadbolt Door Lock with Auto-Lock, Custom User Codes, Advanced Security in Matte Black Contemporary",
+      "asin": "B0CC6JFS4C",
+      "link": "https://www.amazon.com/Kwikset-SmartCode-Electronic-Contemporary-Touchpad/dp/B0CC6JFS4C/ref=sr_1_203?dib=eyJ2IjoiMSJ9.m27gWMcvpnGoLkLwvzIx6vHzdQWVmgU4vWawKEniOjzVZ-Q5k3W2uBysDD1noQtGGx3-MSpnpWX8pUXE73_uhuCi45MJz0QViI-6pz-bqGsxQvHVCVKn4HSdzQy_LjRTUOHocXPd5k6fHTR46mKyMt04xg-4WxW6-aXkbuo2r1PtXA9LF2NRId1KPmHPhh6wZbGBlJ50nwONg_Tqd8gzHbwaLzSD1_axN6bVTU054eU.WfxM-zyZ9PiLDs_-u8nAyVdjbge3c3Pk6gf2B2tx3nE&dib_tag=se&keywords=best+electronics&qid=1773344773&sr=8-203",
+      "recent_sales": "500+ bought in past month",
+      "availability": {
+        "raw": null
+      },
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/71UNFqD4KlL._AC_UY218_.jpg",
+      "is_prime": false,
+      "is_amazon_fresh": false,
+      "is_whole_foods_market": false,
+      "rating": 4.4,
+      "ratings_total": 422,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 120.99,
+          "currency": "USD",
+          "raw": "$120.99",
+          "name": "Primary",
+          "is_primary": true,
+          "list_price": "$128.00",
+          "asin": "B0CC6JFS4C",
+          "link": "https://www.amazon.com/Kwikset-SmartCode-Electronic-Contemporary-Touchpad/dp/B0CC6JFS4C/ref=sr_1_203?dib=eyJ2IjoiMSJ9.m27gWMcvpnGoLkLwvzIx6vHzdQWVmgU4vWawKEniOjzVZ-Q5k3W2uBysDD1noQtGGx3-MSpnpWX8pUXE73_uhuCi45MJz0QViI-6pz-bqGsxQvHVCVKn4HSdzQy_LjRTUOHocXPd5k6fHTR46mKyMt04xg-4WxW6-aXkbuo2r1PtXA9LF2NRId1KPmHPhh6wZbGBlJ50nwONg_Tqd8gzHbwaLzSD1_axN6bVTU054eU.WfxM-zyZ9PiLDs_-u8nAyVdjbge3c3Pk6gf2B2tx3nE&dib_tag=se&keywords=best+electronics&qid=1773344773&sr=8-203"
+        },
+        {
+          "symbol": "$",
+          "value": 128,
+          "currency": "USD",
+          "raw": "$128.00",
+          "name": "Original",
+          "is_rrp": true,
+          "link": "https://www.amazon.com/Kwikset-SmartCode-Electronic-Contemporary-Touchpad/dp/B0CC6JFS4C/ref=sr_1_203?dib=eyJ2IjoiMSJ9.m27gWMcvpnGoLkLwvzIx6vHzdQWVmgU4vWawKEniOjzVZ-Q5k3W2uBysDD1noQtGGx3-MSpnpWX8pUXE73_uhuCi45MJz0QViI-6pz-bqGsxQvHVCVKn4HSdzQy_LjRTUOHocXPd5k6fHTR46mKyMt04xg-4WxW6-aXkbuo2r1PtXA9LF2NRId1KPmHPhh6wZbGBlJ50nwONg_Tqd8gzHbwaLzSD1_axN6bVTU054eU.WfxM-zyZ9PiLDs_-u8nAyVdjbge3c3Pk6gf2B2tx3nE&dib_tag=se&keywords=best+electronics&qid=1773344773&sr=8-203",
+          "asin": "B0CC6JFS4C"
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 120.99,
+        "currency": "USD",
+        "raw": "$120.99",
+        "name": "Primary",
+        "is_primary": true,
+        "list_price": "$128.00",
+        "asin": "B0CC6JFS4C",
+        "link": "https://www.amazon.com/Kwikset-SmartCode-Electronic-Contemporary-Touchpad/dp/B0CC6JFS4C/ref=sr_1_203?dib=eyJ2IjoiMSJ9.m27gWMcvpnGoLkLwvzIx6vHzdQWVmgU4vWawKEniOjzVZ-Q5k3W2uBysDD1noQtGGx3-MSpnpWX8pUXE73_uhuCi45MJz0QViI-6pz-bqGsxQvHVCVKn4HSdzQy_LjRTUOHocXPd5k6fHTR46mKyMt04xg-4WxW6-aXkbuo2r1PtXA9LF2NRId1KPmHPhh6wZbGBlJ50nwONg_Tqd8gzHbwaLzSD1_axN6bVTU054eU.WfxM-zyZ9PiLDs_-u8nAyVdjbge3c3Pk6gf2B2tx3nE&dib_tag=se&keywords=best+electronics&qid=1773344773&sr=8-203"
+      },
+      "delivery": {
+        "tagline": "FREE delivery Tue, Mar 17 Or fastest delivery Mon, Mar 16",
+        "price": {
+          "raw": "$120.99",
+          "symbol": "$",
+          "value": 120.99,
+          "currency": "USD",
+          "is_free": false
+        }
+      }
+    },
+    {
+      "position": 12,
+      "title": "BT10 EPB Emergency Release Tool,Over-Current Protection, Dual-Channel Forward/Reverse Control for Electronic Parking Brake Release and Reset",
+      "asin": "B0FM75QBLQ",
+      "link": "https://www.amazon.com/LINXINO-BT10-Over-Current-Protection-Dual-Channel/dp/B0FM75QBLQ/ref=sr_1_204?dib=eyJ2IjoiMSJ9.m27gWMcvpnGoLkLwvzIx6vHzdQWVmgU4vWawKEniOjzVZ-Q5k3W2uBysDD1noQtGGx3-MSpnpWX8pUXE73_uhuCi45MJz0QViI-6pz-bqGsxQvHVCVKn4HSdzQy_LjRTUOHocXPd5k6fHTR46mKyMt04xg-4WxW6-aXkbuo2r1PtXA9LF2NRId1KPmHPhh6wZbGBlJ50nwONg_Tqd8gzHbwaLzSD1_axN6bVTU054eU.WfxM-zyZ9PiLDs_-u8nAyVdjbge3c3Pk6gf2B2tx3nE&dib_tag=se&keywords=best+electronics&qid=1773344773&sr=8-204",
+      "recent_sales": "100+ bought in past month",
+      "availability": {
+        "raw": null
+      },
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/61BrceGJA-L._AC_UY218_.jpg",
+      "is_prime": false,
+      "is_amazon_fresh": false,
+      "is_whole_foods_market": false,
+      "rating": 4.3,
+      "ratings_total": 43,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 44.99,
+          "currency": "USD",
+          "raw": "$44.99",
+          "asin": "B0FM75QBLQ",
+          "link": "https://www.amazon.com/LINXINO-BT10-Over-Current-Protection-Dual-Channel/dp/B0FM75QBLQ/ref=sr_1_204?dib=eyJ2IjoiMSJ9.m27gWMcvpnGoLkLwvzIx6vHzdQWVmgU4vWawKEniOjzVZ-Q5k3W2uBysDD1noQtGGx3-MSpnpWX8pUXE73_uhuCi45MJz0QViI-6pz-bqGsxQvHVCVKn4HSdzQy_LjRTUOHocXPd5k6fHTR46mKyMt04xg-4WxW6-aXkbuo2r1PtXA9LF2NRId1KPmHPhh6wZbGBlJ50nwONg_Tqd8gzHbwaLzSD1_axN6bVTU054eU.WfxM-zyZ9PiLDs_-u8nAyVdjbge3c3Pk6gf2B2tx3nE&dib_tag=se&keywords=best+electronics&qid=1773344773&sr=8-204"
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 44.99,
+        "currency": "USD",
+        "raw": "$44.99",
+        "asin": "B0FM75QBLQ",
+        "link": "https://www.amazon.com/LINXINO-BT10-Over-Current-Protection-Dual-Channel/dp/B0FM75QBLQ/ref=sr_1_204?dib=eyJ2IjoiMSJ9.m27gWMcvpnGoLkLwvzIx6vHzdQWVmgU4vWawKEniOjzVZ-Q5k3W2uBysDD1noQtGGx3-MSpnpWX8pUXE73_uhuCi45MJz0QViI-6pz-bqGsxQvHVCVKn4HSdzQy_LjRTUOHocXPd5k6fHTR46mKyMt04xg-4WxW6-aXkbuo2r1PtXA9LF2NRId1KPmHPhh6wZbGBlJ50nwONg_Tqd8gzHbwaLzSD1_axN6bVTU054eU.WfxM-zyZ9PiLDs_-u8nAyVdjbge3c3Pk6gf2B2tx3nE&dib_tag=se&keywords=best+electronics&qid=1773344773&sr=8-204"
+      },
+      "delivery": {
+        "tagline": "FREE delivery Tue, Mar 17 Or fastest delivery Mon, Mar 16",
+        "price": {
+          "raw": "$44.99",
+          "symbol": "$",
+          "value": 44.99,
+          "currency": "USD",
+          "is_free": false
+        }
+      }
+    },
+    {
+      "position": 13,
+      "title": "ASURION 3 Year Portable Electronic Accident Protection Plan ($2000 - $2999.99)",
+      "asin": "B08F7Z457K",
+      "link": "https://www.amazon.com/ASURION-Portable-Electronic-Protection-2000-2999-99/dp/B08F7Z457K/ref=sr_1_205?dib=eyJ2IjoiMSJ9.m27gWMcvpnGoLkLwvzIx6vHzdQWVmgU4vWawKEniOjzVZ-Q5k3W2uBysDD1noQtGGx3-MSpnpWX8pUXE73_uhuCi45MJz0QViI-6pz-bqGsxQvHVCVKn4HSdzQy_LjRTUOHocXPd5k6fHTR46mKyMt04xg-4WxW6-aXkbuo2r1PtXA9LF2NRId1KPmHPhh6wZbGBlJ50nwONg_Tqd8gzHbwaLzSD1_axN6bVTU054eU.WfxM-zyZ9PiLDs_-u8nAyVdjbge3c3Pk6gf2B2tx3nE&dib_tag=se&keywords=best+electronics&qid=1773344773&sr=8-205",
+      "availability": {
+        "raw": null
+      },
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/41xG8Yh0rlL._AC_UY218_.jpg",
+      "is_prime": false,
+      "is_amazon_fresh": false,
+      "is_whole_foods_market": false,
+      "rating": 4.4,
+      "ratings_total": 29,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 169.99,
+          "currency": "USD",
+          "raw": "$169.99",
+          "asin": "B08F7Z457K",
+          "link": "https://www.amazon.com/ASURION-Portable-Electronic-Protection-2000-2999-99/dp/B08F7Z457K/ref=sr_1_205?dib=eyJ2IjoiMSJ9.m27gWMcvpnGoLkLwvzIx6vHzdQWVmgU4vWawKEniOjzVZ-Q5k3W2uBysDD1noQtGGx3-MSpnpWX8pUXE73_uhuCi45MJz0QViI-6pz-bqGsxQvHVCVKn4HSdzQy_LjRTUOHocXPd5k6fHTR46mKyMt04xg-4WxW6-aXkbuo2r1PtXA9LF2NRId1KPmHPhh6wZbGBlJ50nwONg_Tqd8gzHbwaLzSD1_axN6bVTU054eU.WfxM-zyZ9PiLDs_-u8nAyVdjbge3c3Pk6gf2B2tx3nE&dib_tag=se&keywords=best+electronics&qid=1773344773&sr=8-205"
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 169.99,
+        "currency": "USD",
+        "raw": "$169.99",
+        "asin": "B08F7Z457K",
+        "link": "https://www.amazon.com/ASURION-Portable-Electronic-Protection-2000-2999-99/dp/B08F7Z457K/ref=sr_1_205?dib=eyJ2IjoiMSJ9.m27gWMcvpnGoLkLwvzIx6vHzdQWVmgU4vWawKEniOjzVZ-Q5k3W2uBysDD1noQtGGx3-MSpnpWX8pUXE73_uhuCi45MJz0QViI-6pz-bqGsxQvHVCVKn4HSdzQy_LjRTUOHocXPd5k6fHTR46mKyMt04xg-4WxW6-aXkbuo2r1PtXA9LF2NRId1KPmHPhh6wZbGBlJ50nwONg_Tqd8gzHbwaLzSD1_axN6bVTU054eU.WfxM-zyZ9PiLDs_-u8nAyVdjbge3c3Pk6gf2B2tx3nE&dib_tag=se&keywords=best+electronics&qid=1773344773&sr=8-205"
+      },
+      "delivery": {
+        "tagline": "FREE delivery Mar 16 - 17",
+        "price": {
+          "raw": "$169.99",
+          "symbol": "$",
+          "value": 169.99,
+          "currency": "USD",
+          "is_free": false
+        }
+      }
+    },
+    {
+      "position": 14,
+      "title": "ASURION 3 Year Portable Electronic Accident Protection Plan ($1500 - $1999.99)",
+      "asin": "B08F7ZYTV2",
+      "link": "https://www.amazon.com/ASURION-Portable-Electronic-Protection-1500-1999-99/dp/B08F7ZYTV2/ref=sr_1_206?dib=eyJ2IjoiMSJ9.m27gWMcvpnGoLkLwvzIx6vHzdQWVmgU4vWawKEniOjzVZ-Q5k3W2uBysDD1noQtGGx3-MSpnpWX8pUXE73_uhuCi45MJz0QViI-6pz-bqGsxQvHVCVKn4HSdzQy_LjRTUOHocXPd5k6fHTR46mKyMt04xg-4WxW6-aXkbuo2r1PtXA9LF2NRId1KPmHPhh6wZbGBlJ50nwONg_Tqd8gzHbwaLzSD1_axN6bVTU054eU.WfxM-zyZ9PiLDs_-u8nAyVdjbge3c3Pk6gf2B2tx3nE&dib_tag=se&keywords=best+electronics&qid=1773344773&sr=8-206",
+      "availability": {
+        "raw": null
+      },
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/41xG8Yh0rlL._AC_UY218_.jpg",
+      "is_prime": false,
+      "is_amazon_fresh": false,
+      "is_whole_foods_market": false,
+      "rating": 3.9,
+      "ratings_total": 37,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 159.99,
+          "currency": "USD",
+          "raw": "$159.99",
+          "asin": "B08F7ZYTV2",
+          "link": "https://www.amazon.com/ASURION-Portable-Electronic-Protection-1500-1999-99/dp/B08F7ZYTV2/ref=sr_1_206?dib=eyJ2IjoiMSJ9.m27gWMcvpnGoLkLwvzIx6vHzdQWVmgU4vWawKEniOjzVZ-Q5k3W2uBysDD1noQtGGx3-MSpnpWX8pUXE73_uhuCi45MJz0QViI-6pz-bqGsxQvHVCVKn4HSdzQy_LjRTUOHocXPd5k6fHTR46mKyMt04xg-4WxW6-aXkbuo2r1PtXA9LF2NRId1KPmHPhh6wZbGBlJ50nwONg_Tqd8gzHbwaLzSD1_axN6bVTU054eU.WfxM-zyZ9PiLDs_-u8nAyVdjbge3c3Pk6gf2B2tx3nE&dib_tag=se&keywords=best+electronics&qid=1773344773&sr=8-206"
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 159.99,
+        "currency": "USD",
+        "raw": "$159.99",
+        "asin": "B08F7ZYTV2",
+        "link": "https://www.amazon.com/ASURION-Portable-Electronic-Protection-1500-1999-99/dp/B08F7ZYTV2/ref=sr_1_206?dib=eyJ2IjoiMSJ9.m27gWMcvpnGoLkLwvzIx6vHzdQWVmgU4vWawKEniOjzVZ-Q5k3W2uBysDD1noQtGGx3-MSpnpWX8pUXE73_uhuCi45MJz0QViI-6pz-bqGsxQvHVCVKn4HSdzQy_LjRTUOHocXPd5k6fHTR46mKyMt04xg-4WxW6-aXkbuo2r1PtXA9LF2NRId1KPmHPhh6wZbGBlJ50nwONg_Tqd8gzHbwaLzSD1_axN6bVTU054eU.WfxM-zyZ9PiLDs_-u8nAyVdjbge3c3Pk6gf2B2tx3nE&dib_tag=se&keywords=best+electronics&qid=1773344773&sr=8-206"
+      },
+      "delivery": {
+        "tagline": "FREE delivery Mar 16 - 17",
+        "price": {
+          "raw": "$159.99",
+          "symbol": "$",
+          "value": 159.99,
+          "currency": "USD",
+          "is_free": false
+        }
+      }
+    },
+    {
+      "position": 15,
+      "title": "Peltor Sport Tactical 100 Electronic Hearing Protector, Ear Protection, NRR 22 dB, Ideal for the Range, Shooting and Hunting, TAC100-OTH",
+      "asin": "B00NAG4WX2",
+      "link": "https://www.amazon.com/Peltor-Tactical-Electronic-Protector-Protection/dp/B00NAG4WX2/ref=sr_1_207?dib=eyJ2IjoiMSJ9.m27gWMcvpnGoLkLwvzIx6vHzdQWVmgU4vWawKEniOjzVZ-Q5k3W2uBysDD1noQtGGx3-MSpnpWX8pUXE73_uhuCi45MJz0QViI-6pz-bqGsxQvHVCVKn4HSdzQy_LjRTUOHocXPd5k6fHTR46mKyMt04xg-4WxW6-aXkbuo2r1PtXA9LF2NRId1KPmHPhh6wZbGBlJ50nwONg_Tqd8gzHbwaLzSD1_axN6bVTU054eU.WfxM-zyZ9PiLDs_-u8nAyVdjbge3c3Pk6gf2B2tx3nE&dib_tag=se&keywords=best+electronics&qid=1773344773&sr=8-207",
+      "recent_sales": "300+ bought in past month",
+      "availability": {
+        "raw": null
+      },
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/71DD4xGYd2L._AC_UY218_.jpg",
+      "is_prime": false,
+      "is_amazon_fresh": false,
+      "is_whole_foods_market": false,
+      "rating": 4.6,
+      "ratings_total": 3842,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 72.21,
+          "currency": "USD",
+          "raw": "$72.21",
+          "name": "Primary",
+          "is_primary": true,
+          "list_price": "$82.83",
+          "asin": "B00NAG4WX2",
+          "link": "https://www.amazon.com/Peltor-Tactical-Electronic-Protector-Protection/dp/B00NAG4WX2/ref=sr_1_207?dib=eyJ2IjoiMSJ9.m27gWMcvpnGoLkLwvzIx6vHzdQWVmgU4vWawKEniOjzVZ-Q5k3W2uBysDD1noQtGGx3-MSpnpWX8pUXE73_uhuCi45MJz0QViI-6pz-bqGsxQvHVCVKn4HSdzQy_LjRTUOHocXPd5k6fHTR46mKyMt04xg-4WxW6-aXkbuo2r1PtXA9LF2NRId1KPmHPhh6wZbGBlJ50nwONg_Tqd8gzHbwaLzSD1_axN6bVTU054eU.WfxM-zyZ9PiLDs_-u8nAyVdjbge3c3Pk6gf2B2tx3nE&dib_tag=se&keywords=best+electronics&qid=1773344773&sr=8-207"
+        },
+        {
+          "symbol": "$",
+          "value": 82.83,
+          "currency": "USD",
+          "raw": "$82.83",
+          "name": "Original",
+          "is_rrp": true,
+          "link": "https://www.amazon.com/Peltor-Tactical-Electronic-Protector-Protection/dp/B00NAG4WX2/ref=sr_1_207?dib=eyJ2IjoiMSJ9.m27gWMcvpnGoLkLwvzIx6vHzdQWVmgU4vWawKEniOjzVZ-Q5k3W2uBysDD1noQtGGx3-MSpnpWX8pUXE73_uhuCi45MJz0QViI-6pz-bqGsxQvHVCVKn4HSdzQy_LjRTUOHocXPd5k6fHTR46mKyMt04xg-4WxW6-aXkbuo2r1PtXA9LF2NRId1KPmHPhh6wZbGBlJ50nwONg_Tqd8gzHbwaLzSD1_axN6bVTU054eU.WfxM-zyZ9PiLDs_-u8nAyVdjbge3c3Pk6gf2B2tx3nE&dib_tag=se&keywords=best+electronics&qid=1773344773&sr=8-207",
+          "asin": "B00NAG4WX2"
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 72.21,
+        "currency": "USD",
+        "raw": "$72.21",
+        "name": "Primary",
+        "is_primary": true,
+        "list_price": "$82.83",
+        "asin": "B00NAG4WX2",
+        "link": "https://www.amazon.com/Peltor-Tactical-Electronic-Protector-Protection/dp/B00NAG4WX2/ref=sr_1_207?dib=eyJ2IjoiMSJ9.m27gWMcvpnGoLkLwvzIx6vHzdQWVmgU4vWawKEniOjzVZ-Q5k3W2uBysDD1noQtGGx3-MSpnpWX8pUXE73_uhuCi45MJz0QViI-6pz-bqGsxQvHVCVKn4HSdzQy_LjRTUOHocXPd5k6fHTR46mKyMt04xg-4WxW6-aXkbuo2r1PtXA9LF2NRId1KPmHPhh6wZbGBlJ50nwONg_Tqd8gzHbwaLzSD1_axN6bVTU054eU.WfxM-zyZ9PiLDs_-u8nAyVdjbge3c3Pk6gf2B2tx3nE&dib_tag=se&keywords=best+electronics&qid=1773344773&sr=8-207"
+      },
+      "delivery": {
+        "tagline": "FREE delivery Tue, Mar 17 Or fastest delivery Mon, Mar 16",
+        "price": {
+          "raw": "$72.21",
+          "symbol": "$",
+          "value": 72.21,
+          "currency": "USD",
+          "is_free": false
+        }
+      }
+    },
+    {
+      "position": 16,
+      "title": "Ernie Ball Hybrid Slinky Nickel Wound Electric Guitar Strings 3-pack, 9-46 Gauge (P03222)",
+      "asin": "B001NIC5DI",
+      "link": "https://www.amazon.com/Ernie-Ball-Hybrid-Slinky-Nickel/dp/B001NIC5DI/ref=sr_1_208?dib=eyJ2IjoiMSJ9.m27gWMcvpnGoLkLwvzIx6vHzdQWVmgU4vWawKEniOjzVZ-Q5k3W2uBysDD1noQtGGx3-MSpnpWX8pUXE73_uhuCi45MJz0QViI-6pz-bqGsxQvHVCVKn4HSdzQy_LjRTUOHocXPd5k6fHTR46mKyMt04xg-4WxW6-aXkbuo2r1PtXA9LF2NRId1KPmHPhh6wZbGBlJ50nwONg_Tqd8gzHbwaLzSD1_axN6bVTU054eU.WfxM-zyZ9PiLDs_-u8nAyVdjbge3c3Pk6gf2B2tx3nE&dib_tag=se&keywords=best+electronics&qid=1773344773&sr=8-208",
+      "recent_sales": "400+ bought in past month",
+      "availability": {
+        "raw": null
+      },
+      "categories": [
+        {
+          "name": "All Departments",
+          "id": "aps"
+        }
+      ],
+      "image": "https://m.media-amazon.com/images/I/81iKKrBdPRL._AC_UY218_.jpg",
+      "is_prime": false,
+      "is_amazon_fresh": false,
+      "is_whole_foods_market": false,
+      "rating": 4.8,
+      "ratings_total": 7745,
+      "prices": [
+        {
+          "symbol": "$",
+          "value": 19.49,
+          "currency": "USD",
+          "raw": "$19.49",
+          "asin": "B001NIC5DI",
+          "link": "https://www.amazon.com/Ernie-Ball-Hybrid-Slinky-Nickel/dp/B001NIC5DI/ref=sr_1_208?dib=eyJ2IjoiMSJ9.m27gWMcvpnGoLkLwvzIx6vHzdQWVmgU4vWawKEniOjzVZ-Q5k3W2uBysDD1noQtGGx3-MSpnpWX8pUXE73_uhuCi45MJz0QViI-6pz-bqGsxQvHVCVKn4HSdzQy_LjRTUOHocXPd5k6fHTR46mKyMt04xg-4WxW6-aXkbuo2r1PtXA9LF2NRId1KPmHPhh6wZbGBlJ50nwONg_Tqd8gzHbwaLzSD1_axN6bVTU054eU.WfxM-zyZ9PiLDs_-u8nAyVdjbge3c3Pk6gf2B2tx3nE&dib_tag=se&keywords=best+electronics&qid=1773344773&sr=8-208"
+        }
+      ],
+      "price": {
+        "symbol": "$",
+        "value": 19.49,
+        "currency": "USD",
+        "raw": "$19.49",
+        "asin": "B001NIC5DI",
+        "link": "https://www.amazon.com/Ernie-Ball-Hybrid-Slinky-Nickel/dp/B001NIC5DI/ref=sr_1_208?dib=eyJ2IjoiMSJ9.m27gWMcvpnGoLkLwvzIx6vHzdQWVmgU4vWawKEniOjzVZ-Q5k3W2uBysDD1noQtGGx3-MSpnpWX8pUXE73_uhuCi45MJz0QViI-6pz-bqGsxQvHVCVKn4HSdzQy_LjRTUOHocXPd5k6fHTR46mKyMt04xg-4WxW6-aXkbuo2r1PtXA9LF2NRId1KPmHPhh6wZbGBlJ50nwONg_Tqd8gzHbwaLzSD1_axN6bVTU054eU.WfxM-zyZ9PiLDs_-u8nAyVdjbge3c3Pk6gf2B2tx3nE&dib_tag=se&keywords=best+electronics&qid=1773344773&sr=8-208"
+      },
+      "delivery": {
+        "tagline": "FREE delivery Tue, Mar 17 on $35 of items shipped by Amazon Or fastest delivery Mon, Mar 16",
+        "price": {
+          "raw": "$19.49",
+          "symbol": "$",
+          "value": 19.49,
+          "currency": "USD",
+          "is_free": false
+        }
+      }
+    }
+  ],
+  "search_information": {
+    "results_text_raw": "193-208 of over 100,000 results for \"best electronics\"",
+    "results_begin": 193,
+    "results_end": 208,
+    "total_results": 100000,
+    "search_term": "best electronics"
+  },
+  "category_information": {
+    "is_landing_page": false
+  },
+  "pagination": {
+    "current_page": 13,
+    "current_page_link": "https://www.amazon.com/s/?k=best+electronics&ref=nb_sb_noss_2&page=13",
+    "next_page_link": "https://www.amazon.com/s/?k=best+electronics&ref=nb_sb_noss_2&page=14",
+    "total_pages": 20
+  },
+  "refinements": {
+    "prime": [
+      {
+        "name": "Free Shipping by Amazon",
+        "value": "p_76/1249137011",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=p_76%3A1249137011&dc&qid=1773344773&rnid=1249135011&ref=sr_nr_p_76_1&ds=v1%3AhRoR5T94os0GxcL1Z08YE19vhsVXpEeo%2FjiiSZg3VVs",
+        "refinement_display_name": "Prime"
+      }
+    ],
+    "delivery": [
+      {
+        "name": "Get It by Tomorrow",
+        "value": "p_90/8308921011",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=p_90%3A8308921011&dc&qid=1773344773&rnid=8308919011&ref=sr_nr_p_90_1&ds=v1%3AJwChPEykLkSSFTCQvNH%2BS0OZnAnWCTwknJhj768qk0A",
+        "refinement_display_name": "Delivery"
+      }
+    ],
+    "departments": [
+      {
+        "name": "Electronics",
+        "value": "n/172282",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=n%3A172282&dc&qid=1773344773&rnid=2941120011&ref=sr_nr_n_1&ds=v1%3AVarI19dHpCgr8XJGBrbeZ5%2BA%2FGbJ7bK0Z01Aqupy%2Fhc",
+        "refinement_display_name": "Departments"
+      },
+      {
+        "name": "Camera & Photo",
+        "value": "n/502394",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=n%3A172282%2Cn%3A502394&dc&qid=1773344773&rnid=2941120011&ref=sr_nr_n_2&ds=v1%3AbSKcQo9jMlU3S6t%2Fdw4i93tHGNFFcEjOlL4RGbCYZbY",
+        "refinement_display_name": "Departments"
+      },
+      {
+        "name": "Headphones, Earbuds & Accessories",
+        "value": "n/24046923011",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=n%3A172282%2Cn%3A24046923011&dc&qid=1773344773&rnid=2941120011&ref=sr_nr_n_3&ds=v1%3AgRx0giKQhcu88zMND5Oc1c5eUjCuoRn%2BiTPnu93yPEA",
+        "refinement_display_name": "Departments"
+      },
+      {
+        "name": "Video Projectors",
+        "value": "n/300334",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=n%3A172282%2Cn%3A300334&dc&qid=1773344773&rnid=2941120011&ref=sr_nr_n_4&ds=v1%3AB2ggHktC4z4R79fHwSaFb9DGM%2BxsAA1fe0JIX%2FoJ%2FcE",
+        "refinement_display_name": "Departments"
+      },
+      {
+        "name": "Computers & Accessories",
+        "value": "n/541966",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=n%3A172282%2Cn%3A541966&dc&qid=1773344773&rnid=2941120011&ref=sr_nr_n_5&ds=v1%3AVk%2B2m24bIQuhCi9cvcSIiOOins9Z5hzqqHn0c368PK8",
+        "refinement_display_name": "Departments"
+      },
+      {
+        "name": "Amazon Devices",
+        "value": "n/2102313011",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=n%3A2102313011&dc&qid=1773344773&rnid=2941120011&ref=sr_nr_n_6&ds=v1%3ACnYXm84I9npppJrCd6fC7pJ4JK6%2Fu4ERKcBaVcycMA0",
+        "refinement_display_name": "Departments"
+      },
+      {
+        "name": "Cell Phone Accessories",
+        "value": "n/2407755011",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=n%3A2407755011&dc&qid=1773344773&rnid=2941120011&ref=sr_nr_n_7&ds=v1%3AAg19qaXXR5bIvXpgtD3r2klNKZ%2BNzRlQCYZJjlqnUt0",
+        "refinement_display_name": "Departments"
+      },
+      {
+        "name": "Video Games",
+        "value": "n/468642",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=n%3A468642&dc&qid=1773344773&rnid=2941120011&ref=sr_nr_n_8&ds=v1%3AOBkSETwADD4rh%2BxeZ0bW931QDstTfc0cFAc3MkfGRqQ",
+        "refinement_display_name": "Departments"
+      }
+    ],
+    "reviews": [
+      {
+        "name": "4 Stars",
+        "value": "p_72/1248879011",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=p_72%3A1248879011&dc&qid=1773344773&rnid=1248877011&ref=sr_nr_p_72_1&ds=v1%3A8Wx0AiayMicFCNNolsLly2Z%2Bf6OD0dxleGmLV4dWweo",
+        "refinement_display_name": "Reviews"
+      }
+    ],
+    "brand": [
+      {
+        "name": "Ring",
+        "value": "p_123/200611",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=p_123%3A200611&dc&qid=1773344773&rnid=85457740011&ref=sr_nr_p_123_1&ds=v1%3AHFWFnx5LdLphj0KcEsDJbkvIjg2PwjAHUZuryVLaDZ0",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "Fujifilm",
+        "value": "p_123/233550",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=p_123%3A233550&dc&qid=1773344773&rnid=85457740011&ref=sr_nr_p_123_2&ds=v1%3A%2BIN1bk2K7n%2BMK9xo37q0gJJ1xklw47yuIk2PChncX0g",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "Canon",
+        "value": "p_123/359121",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=p_123%3A359121&dc&qid=1773344773&rnid=85457740011&ref=sr_nr_p_123_3&ds=v1%3AD41spiGXBHeEEkPHS6sTFGdvXwcUOxdTZJV5zlLDQEU",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "DJI",
+        "value": "p_123/28133",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=p_123%3A28133&dc&qid=1773344773&rnid=85457740011&ref=sr_nr_p_123_4&ds=v1%3A0M5IP34Cx8aRqTvvbuMql6fgfnu3LgkEmJIEie0YGiE",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "KODAK",
+        "value": "p_123/255891",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=p_123%3A255891&dc&qid=1773344773&rnid=85457740011&ref=sr_nr_p_123_5&ds=v1%3A5SeuXMe%2FYuyoHxBry5xZTVicsMliRhXNwZhZyuc%2BZqc",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "Sony",
+        "value": "p_123/237204",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=p_123%3A237204&dc&qid=1773344773&rnid=85457740011&ref=sr_nr_p_123_6&ds=v1%3AnukTzZaRPFr1DDuwuapIlLUO6iv0nj93iZLrn67EuyQ",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "Blink",
+        "value": "p_123/211074",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=p_123%3A211074&dc&qid=1773344773&rnid=85457740011&ref=sr_nr_p_123_7&ds=v1%3Am5JuMQnwWF1xF84gLtS955TrPoIEtwjoM37R0N6MJAA",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "WYZE",
+        "value": "p_123/574663",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=p_123%3A574663&dc&qid=1773344773&rnid=85457740011&ref=sr_nr_p_123_8&ds=v1%3Az%2B88YoiKQ2ptAW6RqNqlBsGTVAgClSRxHW62eUHRUuw",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "Amazon",
+        "value": "p_123/323125",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=p_123%3A323125&dc&qid=1773344773&rnid=85457740011&ref=sr_nr_p_123_9&ds=v1%3A73WTZOEjpT22V9el5WVv0IKq4TRcVvVneWg%2B4rv9BYY",
+        "refinement_display_name": "Brand"
+      }
+    ],
+    "eligible_for_free_shipping": [
+      {
+        "name": "Free Shipping by Amazon",
+        "value": "p_76/1249137011",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=p_76%3A1249137011&dc&qid=1773344773&rnid=1249135011&ref=sr_nr_p_76_1&ds=v1%3AhRoR5T94os0GxcL1Z08YE19vhsVXpEeo%2FjiiSZg3VVs",
+        "refinement_display_name": "Eligible for Free Shipping"
+      }
+    ],
+    "delivery_day": [
+      {
+        "name": "Get It by Tomorrow",
+        "value": "p_90/8308921011",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=p_90%3A8308921011&dc&qid=1773344773&rnid=8308919011&ref=sr_nr_p_90_1&ds=v1%3AJwChPEykLkSSFTCQvNH%2BS0OZnAnWCTwknJhj768qk0A",
+        "refinement_display_name": "Delivery Day"
+      }
+    ],
+    "customer_reviews": [
+      {
+        "name": "4 Stars",
+        "value": "p_72/1248879011",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=p_72%3A1248879011&dc&qid=1773344773&rnid=1248877011&ref=sr_nr_p_72_1&ds=v1%3A8Wx0AiayMicFCNNolsLly2Z%2Bf6OD0dxleGmLV4dWweo",
+        "refinement_display_name": "Customer Reviews"
+      }
+    ],
+    "deals_discounts": [
+      {
+        "name": "All Discounts",
+        "value": "p_n_deal_type/23566065011",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=p_n_deal_type%3A23566065011&dc&qid=1773344773&rnid=23566063011&ref=sr_nr_p_n_deal_type_1&ds=v1%3AxMwU0gKaJBQUCDs5qSKFSksyEK4wwwc9DMkOGc8FEpY",
+        "refinement_display_name": "Deals & Discounts"
+      },
+      {
+        "name": "Today's Deals",
+        "value": "p_n_deal_type/23566064011",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=p_n_deal_type%3A23566064011&dc&qid=1773344773&rnid=23566063011&ref=sr_nr_p_n_deal_type_2&ds=v1%3ATrjLLZSYQ6mq230LtV%2FNl6LkInrRdhICozUW9h%2Fiwhw",
+        "refinement_display_name": "Deals & Discounts"
+      }
+    ],
+    "condition": [
+      {
+        "name": "New",
+        "value": "p_n_condition-type/2224371011",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=p_n_condition-type%3A2224371011&dc&qid=1773344773&rnid=2224369011&ref=sr_nr_p_n_condition-type_1&ds=v1%3Aygsg6HTA%2BXt2tUSSILLF%2F2xBzOLpQ3Jgy0u8P%2BFINkw",
+        "refinement_display_name": "Condition"
+      },
+      {
+        "name": "Renewed",
+        "value": "p_n_condition-type/16907720011",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=p_n_condition-type%3A16907720011&dc&qid=1773344773&rnid=2224369011&ref=sr_nr_p_n_condition-type_2&ds=v1%3AMxFVNG%2FIi3hsmy21Tsk6rp077XgJ%2Brqz8eNdihXksDE",
+        "refinement_display_name": "Condition"
+      },
+      {
+        "name": "Used",
+        "value": "p_n_condition-type/2224373011",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=p_n_condition-type%3A2224373011&dc&qid=1773344773&rnid=2224369011&ref=sr_nr_p_n_condition-type_3&ds=v1%3AviLJCgVCYod%2B3dULJIhi1OP0LKEMB539cf0D%2B0HRhSM",
+        "refinement_display_name": "Condition"
+      }
+    ],
+    "brands": [
+      {
+        "name": "Ring",
+        "value": "p_123/200611",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=p_123%3A200611&dc&qid=1773344773&rnid=85457740011&ref=sr_nr_p_123_1&ds=v1%3AHFWFnx5LdLphj0KcEsDJbkvIjg2PwjAHUZuryVLaDZ0",
+        "refinement_display_name": "Brands"
+      },
+      {
+        "name": "Fujifilm",
+        "value": "p_123/233550",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=p_123%3A233550&dc&qid=1773344773&rnid=85457740011&ref=sr_nr_p_123_2&ds=v1%3A%2BIN1bk2K7n%2BMK9xo37q0gJJ1xklw47yuIk2PChncX0g",
+        "refinement_display_name": "Brands"
+      },
+      {
+        "name": "Canon",
+        "value": "p_123/359121",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=p_123%3A359121&dc&qid=1773344773&rnid=85457740011&ref=sr_nr_p_123_3&ds=v1%3AD41spiGXBHeEEkPHS6sTFGdvXwcUOxdTZJV5zlLDQEU",
+        "refinement_display_name": "Brands"
+      },
+      {
+        "name": "DJI",
+        "value": "p_123/28133",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=p_123%3A28133&dc&qid=1773344773&rnid=85457740011&ref=sr_nr_p_123_4&ds=v1%3A0M5IP34Cx8aRqTvvbuMql6fgfnu3LgkEmJIEie0YGiE",
+        "refinement_display_name": "Brands"
+      },
+      {
+        "name": "KODAK",
+        "value": "p_123/255891",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=p_123%3A255891&dc&qid=1773344773&rnid=85457740011&ref=sr_nr_p_123_5&ds=v1%3A5SeuXMe%2FYuyoHxBry5xZTVicsMliRhXNwZhZyuc%2BZqc",
+        "refinement_display_name": "Brands"
+      },
+      {
+        "name": "Sony",
+        "value": "p_123/237204",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=p_123%3A237204&dc&qid=1773344773&rnid=85457740011&ref=sr_nr_p_123_6&ds=v1%3AnukTzZaRPFr1DDuwuapIlLUO6iv0nj93iZLrn67EuyQ",
+        "refinement_display_name": "Brands"
+      },
+      {
+        "name": "Blink",
+        "value": "p_123/211074",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=p_123%3A211074&dc&qid=1773344773&rnid=85457740011&ref=sr_nr_p_123_7&ds=v1%3Am5JuMQnwWF1xF84gLtS955TrPoIEtwjoM37R0N6MJAA",
+        "refinement_display_name": "Brands"
+      },
+      {
+        "name": "WYZE",
+        "value": "p_123/574663",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=p_123%3A574663&dc&qid=1773344773&rnid=85457740011&ref=sr_nr_p_123_8&ds=v1%3Az%2B88YoiKQ2ptAW6RqNqlBsGTVAgClSRxHW62eUHRUuw",
+        "refinement_display_name": "Brands"
+      },
+      {
+        "name": "Amazon",
+        "value": "p_123/323125",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=p_123%3A323125&dc&qid=1773344773&rnid=85457740011&ref=sr_nr_p_123_9&ds=v1%3A73WTZOEjpT22V9el5WVv0IKq4TRcVvVneWg%2B4rv9BYY",
+        "refinement_display_name": "Brands"
+      }
+    ],
+    "seller": [
+      {
+        "name": "Amazon.com",
+        "value": "p_6/ATVPDKIKX0DER",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=p_6%3AATVPDKIKX0DER&dc&qid=1773344773&rnid=303116011&ref=sr_nr_p_6_1&ds=v1%3AnT%2FrJKdQds3sCPrsBMuDMcMhTu%2BdVsjmq8ROA8LjUSY",
+        "refinement_display_name": "Seller"
+      },
+      {
+        "name": "Amazon Resale",
+        "value": "p_6/A2L77EE7U53NWQ",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=p_6%3AA2L77EE7U53NWQ&dc&qid=1773344773&rnid=303116011&ref=sr_nr_p_6_2&ds=v1%3A39f3a6TCYGpKEmoRH4atD7JjEMo6crvj5oQ0mWkf6Rs",
+        "refinement_display_name": "Seller"
+      },
+      {
+        "name": "Triplenet Pricing INC",
+        "value": "p_6/AAZRLVTNON75Z",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=p_6%3AAAZRLVTNON75Z&dc&qid=1773344773&rnid=303116011&ref=sr_nr_p_6_3&ds=v1%3AF6kTBJKkbCV3wuRmrSTs63u8zu%2F2RKuc6DCZiJT5GME",
+        "refinement_display_name": "Seller"
+      },
+      {
+        "name": "The Factory Depot",
+        "value": "p_6/A29PHU0KPCGV8S",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=p_6%3AA29PHU0KPCGV8S&dc&qid=1773344773&rnid=303116011&ref=sr_nr_p_6_4&ds=v1%3Anad0yRyUShL7Qnwm3ILELRvGiDSyIJEabGDjqpDguhg",
+        "refinement_display_name": "Seller"
+      },
+      {
+        "name": "IPC-STORE✅",
+        "value": "p_6/A284PRV19Y1MTF",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=p_6%3AA284PRV19Y1MTF&dc&qid=1773344773&rnid=303116011&ref=sr_nr_p_6_5&ds=v1%3APC1TtWVvgXmK7R3P%2FQk3E%2FEjqFCkTrOEgv2oTXfikIM",
+        "refinement_display_name": "Seller"
+      },
+      {
+        "name": "Adorama",
+        "value": "p_6/A17MC6HOH9AVE6",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=p_6%3AA17MC6HOH9AVE6&dc&qid=1773344773&rnid=303116011&ref=sr_nr_p_6_6&ds=v1%3Ao%2FT6lTgUKfJt%2FIpYaMv3lKwJQBKS5cMJP2z0WTdn1lE",
+        "refinement_display_name": "Seller"
+      },
+      {
+        "name": "SpaceBound",
+        "value": "p_6/A1XBPHGHAXLHDG",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=p_6%3AA1XBPHGHAXLHDG&dc&qid=1773344773&rnid=303116011&ref=sr_nr_p_6_7&ds=v1%3Aij14BgMOm8Jz9NBarkkXHyceG%2FRUCVPlGhQv9KDCvU4",
+        "refinement_display_name": "Seller"
+      }
+    ],
+    "from_our_brands": [
+      {
+        "name": "Amazon Brands",
+        "value": "p_n_g-1001321510111/24677333011",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=p_n_g-1001321510111%3A24677333011&dc&qid=1773344773&rnid=21180941011&ref=sr_nr_p_n_g-1001321510111_1&ds=v1%3AV95p371OpF99m5mUzPF7VrRDO4IhSaeaRNnOpF1Rg3w",
+        "refinement_display_name": "From Our Brands"
+      }
+    ],
+    "all_top_brands": [
+      {
+        "name": "Top Brands",
+        "value": "p_n_g-101014971069111/119653281011",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=p_n_g-101014971069111%3A119653281011&dc&qid=1773344773&rnid=119653280011&ref=sr_nr_p_n_g-101014971069111_1&ds=v1%3AvUVyzgmd95b3cBE8ZamqvG%2FF85nSpqfuZE4yXftjsSk",
+        "refinement_display_name": "All Top Brands"
+      }
+    ],
+    "customizable_products": [
+      {
+        "name": "Customizable",
+        "value": "p_n_customizable_template_name/16031489011",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=p_n_customizable_template_name%3A16031489011&dc&qid=1773344773&rnid=16031488011&ref=sr_nr_p_n_customizable_template_name_1&ds=v1%3AaKjjqILXg0OERO96xTLOGWI4VpmcNpkaYMRmWf6Y9AE",
+        "refinement_display_name": "Customizable Products"
+      }
+    ],
+    "amazon_certified": [
+      {
+        "name": "Auto Replenishment",
+        "value": "p_n_amazon_certified/16741514011",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=p_n_amazon_certified%3A16741514011&dc&qid=1773344773&rnid=16741512011&ref=sr_nr_p_n_amazon_certified_1&ds=v1%3AUfhvrwypk%2BeIRZ5KW3gxC%2BmRpGHfO438UD2CRqs72Rg",
+        "refinement_display_name": "Amazon Certified"
+      },
+      {
+        "name": "Works with Alexa",
+        "value": "p_n_amazon_certified/16741513011",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=p_n_amazon_certified%3A16741513011&dc&qid=1773344773&rnid=16741512011&ref=sr_nr_p_n_amazon_certified_2&ds=v1%3Ak%2BuDSF6uCVsKELJ0C2AA1rOJv0RUKbuIhW6VBlKOAa0",
+        "refinement_display_name": "Amazon Certified"
+      }
+    ],
+    "premium_brands": [
+      {
+        "name": "Premium Brands",
+        "value": "p_n_g-101015887018111/204376014011",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=p_n_g-101015887018111%3A204376014011&dc&qid=1773344773&rnid=204376013011&ref=sr_nr_p_n_g-101015887018111_1&ds=v1%3Av%2FOjCrDEcCvSsKT1ogoNC4m5u3Ey101Zz5tpPwGXkIQ",
+        "refinement_display_name": "Premium Brands"
+      }
+    ],
+    "sustainability_features": [
+      {
+        "name": "Any Feature",
+        "value": "p_n_cpf_labels/121136630011",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=p_n_cpf_labels%3A121136630011&dc&qid=1773344773&rnid=116845681011&ref=sr_nr_p_n_cpf_labels_1&ds=v1%3AjJms59r%2BK30zVJ12OUj%2BZ0XefPtUTEhshpJOWEI3o%2FQ",
+        "refinement_display_name": "Sustainability Features"
+      },
+      {
+        "name": "Carbon Impact",
+        "value": "p_n_cpf_labels/116845688011",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=p_n_cpf_labels%3A116845688011&dc&qid=1773344773&rnid=116845681011&ref=sr_nr_p_n_cpf_labels_2&ds=v1%3AW%2BRAfbGUxb89Yv1xiqntzzmWTjClgY2FtrooYN8XkYg",
+        "refinement_display_name": "Sustainability Features"
+      },
+      {
+        "name": "Energy Efficiency",
+        "value": "p_n_cpf_labels/116845685011",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=p_n_cpf_labels%3A116845685011&dc&qid=1773344773&rnid=116845681011&ref=sr_nr_p_n_cpf_labels_3&ds=v1%3ADWu7pXUdK8BUnUKHTn65f20lZZYYuqC%2F62QM7T%2FPHmw",
+        "refinement_display_name": "Sustainability Features"
+      },
+      {
+        "name": "Manufacturing Practices",
+        "value": "p_n_cpf_labels/116845690011",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=p_n_cpf_labels%3A116845690011&dc&qid=1773344773&rnid=116845681011&ref=sr_nr_p_n_cpf_labels_4&ds=v1%3AcYIRO2%2BXcqT8S9rTDN6J5VjKxEWBIvA9%2BPVN%2B1oWtB8",
+        "refinement_display_name": "Sustainability Features"
+      },
+      {
+        "name": "Packaging Efficiency",
+        "value": "p_n_cpf_labels/116845682011",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=p_n_cpf_labels%3A116845682011&dc&qid=1773344773&rnid=116845681011&ref=sr_nr_p_n_cpf_labels_5&ds=v1%3AN7mpNtyPvkHg2RtCBtb8nk3MB2JqSJme5ve6K%2BmGsF4",
+        "refinement_display_name": "Sustainability Features"
+      },
+      {
+        "name": "Recycled Materials",
+        "value": "p_n_cpf_labels/116845689011",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=p_n_cpf_labels%3A116845689011&dc&qid=1773344773&rnid=116845681011&ref=sr_nr_p_n_cpf_labels_6&ds=v1%3ALSBKztyVEUlxwnz1e%2F1bHwQClvvX3ANyuoqOoitqIQU",
+        "refinement_display_name": "Sustainability Features"
+      },
+      {
+        "name": "Safer Chemicals",
+        "value": "p_n_cpf_labels/116845683011",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=p_n_cpf_labels%3A116845683011&dc&qid=1773344773&rnid=116845681011&ref=sr_nr_p_n_cpf_labels_7&ds=v1%3AqBLYWRv3qQ0Yx9YnAVVdiF2WBZq%2B%2BGrjF08LTbLeWio",
+        "refinement_display_name": "Sustainability Features"
+      },
+      {
+        "name": "Worker Wellbeing",
+        "value": "p_n_cpf_labels/116845686011",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=p_n_cpf_labels%3A116845686011&dc&qid=1773344773&rnid=116845681011&ref=sr_nr_p_n_cpf_labels_8&ds=v1%3Au5k4M21lS%2F3PyfziW7lTGz%2B%2Fg0b3AfgyNi7r8k0g9Uk",
+        "refinement_display_name": "Sustainability Features"
+      }
+    ],
+    "department": [
+      {
+        "name": "Electronics",
+        "value": "n/172282",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=n%3A172282&dc&qid=1773344773&rnid=2941120011&ref=sr_nr_n_1&ds=v1%3AVarI19dHpCgr8XJGBrbeZ5%2BA%2FGbJ7bK0Z01Aqupy%2Fhc",
+        "refinement_display_name": "Department"
+      },
+      {
+        "name": "Camera & Photo",
+        "value": "n/502394",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=n%3A172282%2Cn%3A502394&dc&qid=1773344773&rnid=2941120011&ref=sr_nr_n_2&ds=v1%3AbSKcQo9jMlU3S6t%2Fdw4i93tHGNFFcEjOlL4RGbCYZbY",
+        "refinement_display_name": "Department"
+      },
+      {
+        "name": "Headphones, Earbuds & Accessories",
+        "value": "n/24046923011",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=n%3A172282%2Cn%3A24046923011&dc&qid=1773344773&rnid=2941120011&ref=sr_nr_n_3&ds=v1%3AgRx0giKQhcu88zMND5Oc1c5eUjCuoRn%2BiTPnu93yPEA",
+        "refinement_display_name": "Department"
+      },
+      {
+        "name": "Video Projectors",
+        "value": "n/300334",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=n%3A172282%2Cn%3A300334&dc&qid=1773344773&rnid=2941120011&ref=sr_nr_n_4&ds=v1%3AB2ggHktC4z4R79fHwSaFb9DGM%2BxsAA1fe0JIX%2FoJ%2FcE",
+        "refinement_display_name": "Department"
+      },
+      {
+        "name": "Computers & Accessories",
+        "value": "n/541966",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=n%3A172282%2Cn%3A541966&dc&qid=1773344773&rnid=2941120011&ref=sr_nr_n_5&ds=v1%3AVk%2B2m24bIQuhCi9cvcSIiOOins9Z5hzqqHn0c368PK8",
+        "refinement_display_name": "Department"
+      },
+      {
+        "name": "Amazon Devices",
+        "value": "n/2102313011",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=n%3A2102313011&dc&qid=1773344773&rnid=2941120011&ref=sr_nr_n_6&ds=v1%3ACnYXm84I9npppJrCd6fC7pJ4JK6%2Fu4ERKcBaVcycMA0",
+        "refinement_display_name": "Department"
+      },
+      {
+        "name": "Cell Phone Accessories",
+        "value": "n/2407755011",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=n%3A2407755011&dc&qid=1773344773&rnid=2941120011&ref=sr_nr_n_7&ds=v1%3AAg19qaXXR5bIvXpgtD3r2klNKZ%2BNzRlQCYZJjlqnUt0",
+        "refinement_display_name": "Department"
+      },
+      {
+        "name": "Video Games",
+        "value": "n/468642",
+        "link": "https://www.amazon.com/s?k=best+electronics&rh=n%3A468642&dc&qid=1773344773&rnid=2941120011&ref=sr_nr_n_8&ds=v1%3AOBkSETwADD4rh%2BxeZ0bW931QDstTfc0cFAc3MkfGRqQ",
+        "refinement_display_name": "Department"
+      }
+    ]
+  },
+  "video_blocks": [
+    {
+      "video_link": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/01439e32-e7cd-454f-9b4d-4dc990886c3b.mp4/productVideoOptimized.mp4",
+      "thumbnail_link": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/01439e32-e7cd-454f-9b4d-4dc990886c3b.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG",
+      "campaign_id": "200063252788171",
+      "advertiser_id": "21352852515",
+      "has_audio": true,
+      "products": [
+        {
+          "asin": "B0F2JHSGCJ",
+          "link": "https://www.amazon.com/dp/B0F2JHSGCJ",
+          "title": "Turtlebox Ranger: Loud! Outdoor Portable Bluetooth 5.4 Speaker | Rugged, Waterproof, Ultra-Portable | Plays to 105db, Deep Bass, Shockproof, Unlimited Pairing for Full Stereo Experience, Tan",
+          "rating": 4.5,
+          "ratings_total": 864,
+          "price": {
+            "value": 250,
+            "currency": "USD",
+            "symbol": "$",
+            "raw": "250"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 44,
+    "credits_remaining": 56,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "type": "search",
+    "amazon_domain": "amazon.com",
+    "search_term": "best beauty personal care",
+    "page": "12"
+  },
+  "request_metadata": {
+    "created_at": "2026-03-12T19:48:55.755Z",
+    "processed_at": "2026-03-12T19:48:58.623Z",
+    "total_time_taken": 2.87,
+    "amazon_url": "https://www.amazon.com/s/?k=best+beauty+personal+care&ref=nb_sb_noss_2&page=12"
+  },
+  "message": "No results found"
+}
