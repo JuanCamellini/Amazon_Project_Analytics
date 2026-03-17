@@ -1,0 +1,405 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 17,
+    "credits_remaining": 83,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "type": "product",
+    "asin": "B0CQMRKRV5",
+    "amazon_domain": "amazon.com"
+  },
+  "request_metadata": {
+    "created_at": "2026-03-17T15:38:42.157Z",
+    "processed_at": "2026-03-17T15:38:47.284Z",
+    "total_time_taken": 5.13,
+    "amazon_url": "https://www.amazon.com/dp/B0CQMRKRV5?th=1&psc=1"
+  },
+  "product": {
+    "title": "Amazon Fire TV Stick HD (newest model), free and live TV, Alexa Voice Remote, smart home controls, HD streaming",
+    "search_alias": {
+      "title": "Electronics",
+      "value": "search-alias=electronics"
+    },
+    "keywords": "Amazon Fire TV Stick HD (newest model), free and live TV, Alexa Voice Remote, smart home controls, HD streaming",
+    "keywords_list": [
+      "Amazon Fire TV Stick HD (newest model)",
+      "free and live TV",
+      "Alexa Voice Remote",
+      "smart home controls",
+      "HD streaming"
+    ],
+    "is_collection": false,
+    "asin": "B0CQMRKRV5",
+    "link": "https://www.amazon.com/amazon-fire-tv-stick-hd/dp/B0CQMRKRV5",
+    "brand": "Amazon",
+    "sell_on_amazon": false,
+    "proposition_65_warning": false,
+    "has_size_guide": true,
+    "add_on_item": {
+      "is_add_on_item": true
+    },
+    "categories": [
+      {
+        "name": "Electronics"
+      }
+    ],
+    "sub_title": {
+      "text": "Brand: Amazon",
+      "link": "https://www.amazon.com/Amazon/b/ref=bl_dp_s_web_20784502011?ie=UTF8&node=20784502011&field-lbr_brands_browse-bin=Amazon"
+    },
+    "amazons_choice": {
+      "link": "https://www.amazon.com/amazon-fire-tv-stick-hd/dp/B0CQMRKRV5",
+      "badge_text": "Amazon's  Choice"
+    },
+    "marketplace_id": "ATVPDKIKX0DER",
+    "rating": 4.7,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 83,
+        "count": 50972
+      },
+      "four_star": {
+        "percentage": 10,
+        "count": 6141
+      },
+      "three_star": {
+        "percentage": 3,
+        "count": 1842
+      },
+      "two_star": {
+        "percentage": 1,
+        "count": 614
+      },
+      "one_star": {
+        "percentage": 3,
+        "count": 1842
+      }
+    },
+    "ratings_total": 61412,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/61pvHU+76pL.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/61pvHU+76pL._AC_SL1500_.jpg",
+        "variant": "LEFT"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81IWCEpZ4iL._AC_SL1500_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/718XTVkdOIL._AC_SL1500_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71m+gGx8mdL._AC_SL1500_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71rsUYF5XhL._AC_SL1500_.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71TPC5Va2qL._AC_SL1500_.jpg",
+        "variant": "PT05"
+      }
+    ],
+    "images_count": 6,
+    "images_flat": "https://m.media-amazon.com/images/I/61pvHU+76pL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81IWCEpZ4iL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/718XTVkdOIL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71m+gGx8mdL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71rsUYF5XhL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71TPC5Va2qL._AC_SL1500_.jpg",
+    "is_bundle": false,
+    "feature_bullets": [
+      "Stream in Full HD - Enjoy fast, affordable streaming that’s made for HD TVs, and control it all with the Alexa Voice Remote.",
+      "Great for first-time streaming - Streaming has never been easier with access to over 400,000 free movies and TV episodes from ad-supported streaming apps like Prime Video, Tubi, Pluto TV, and more.",
+      "Press and ask Alexa - Use your voice to easily search and launch shows across multiple apps.",
+      "Endless entertainment - Stream more than 1.8 million movies and TV episodes from Netflix, Prime Video, Disney+, Peacock, and more, plus listen to millions of songs. Subscription fees may apply. App buttons may vary.",
+      "Take it anywhere - Connect to any TV's HDMI port to access your entertainment apps and enjoy them on the go.",
+      "Watch live - Get live TV, news, and sports with subscriptions to SLING TV, YouTube TV, and others.",
+      "Play your favorite songs - Listen on Amazon Music, Spotify, Pandora, and others. Subscription fees may apply.",
+      "Control your compatible smart home - Ask Alexa to check weather, dim the lights, view live camera feeds, stream music, and more."
+    ],
+    "feature_bullets_count": 8,
+    "feature_bullets_flat": "Control your compatible smart home - Ask Alexa to check weather, dim the lights, view live camera feeds, stream music, and more. Play your favorite songs - Listen on Amazon Music, Spotify, Pandora, and others. Subscription fees may apply. Watch live - Get live TV, news, and sports with subscriptions to SLING TV, YouTube TV, and others. Take it anywhere - Connect to any TV's HDMI port to access your entertainment apps and enjoy them on the go. Endless entertainment - Stream more than 1.8 million movies and TV episodes from Netflix, Prime Video, Disney+, Peacock, and more, plus listen to millions of songs. Subscription fees may apply. App buttons may vary. Press and ask Alexa - Use your voice to easily search and launch shows across multiple apps. Great for first-time streaming - Streaming has never been easier with access to over 400,000 free movies and TV episodes from ad-supported streaming apps like Prime Video, Tubi, Pluto TV, and more. Stream in Full HD - Enjoy fast, affordable streaming that’s made for HD TVs, and control it all with the Alexa Voice Remote.",
+    "top_reviews": [
+      {
+        "id": "R36N3FN8IB5SPG",
+        "title": "Small but mighty: solid performance and free TV",
+        "body": "I have been using the Amazon Fire TV Stick HD (latest model) for 10 months, and I can say it has been an excellent purchase. The setup was quick and easy, and the remote with Alexa makes navigating between apps like Netflix, Prime Video, and others very convenient. I love being able to watch live TV for free, yes, free, one of those things you think no longer exists 😅 and also control my smart home devices from the same remote. It's super convenient to have everything in one place. The HD picture quality remains sharp, and the performance is smooth. It just takes a little time to connect when you turn it on, but once it's ready, everything works seamlessly. After these months, it still works like the first day, and considering all its features and good price, it's definitely worth it.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on February 11, 2026"
+        },
+        "profile": {
+          "name": "Arniel"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 10,
+        "link": "https://www.amazon.com/gp/customer-reviews/R36N3FN8IB5SPG/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R2IYVLVL185C82",
+        "title": "Fantastic Streaming Stick — Easy to Use & Great Value!",
+        "body": "The Amazon Fire TV Stick HD (newest model) has been an awesome upgrade for my TV setup! It’s fast, user‑friendly, and packed with features that make streaming so much more enjoyable — all at a great price.🔥 Smooth Streaming: Movies, shows, and live TV play quickly and smoothly in HD. I haven’t experienced lag, even with higher‑quality streams.📺 Free & Live TV Options: I love having access to free channels and live TV right from the home screen — it’s perfect for casual viewing without needing a separate cable subscription.🎤 Alexa Voice Remote: The Alexa remote is super convenient! Just press the voice button to search for apps, shows, or even control smart home devices. It feels intuitive and saves so much time.📱 Easy Setup: Plug it into your TV’s HDMI port, connect to Wi‑Fi, and you’re ready to go in minutes. Even if you’re not tech‑savvy, it’s incredibly straightforward.📦 Apps Galore: All my favorite apps are here — Netflix, Prime Video, Disney+, Hulu, YouTube, and more. It’s like having everything in one place.Overall, the newest Fire TV Stick HD delivers excellent performance and tons of entertainment options without breaking the bank. Highly recommend if you want a simple, powerful way to stream your favorite content! 🔥📺✨",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on December 18, 2025"
+        },
+        "profile": {
+          "name": "Sincerely Sherrell"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 17,
+        "link": "https://www.amazon.com/gp/customer-reviews/R2IYVLVL185C82/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R3UYGQUY8FH1EH",
+        "title": "Really upgrades your viewing",
+        "body": "This works so great.  Allows me to use my older tv to enjoy  all my streaming channels.  Easy to use and easy to install",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on March 5, 2026"
+        },
+        "profile": {
+          "name": "Pat P"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 2,
+        "link": "https://www.amazon.com/gp/customer-reviews/R3UYGQUY8FH1EH/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R21AJT911AC0KJ",
+        "title": "good price and quality",
+        "body": "I highly recommend it; it has excellent quality and is quick to program for the TV, which improves the channel's quality. It's an excellent option for anyone who needs it.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on March 10, 2026"
+        },
+        "profile": {
+          "name": "Naylan"
+        },
+        "verified_purchase": true,
+        "link": "https://www.amazon.com/gp/customer-reviews/R21AJT911AC0KJ/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R21PYX13K8W62A",
+        "title": "Fire Stick works for us!",
+        "body": "We like our Fire TV sticks. This new one came with some more irritating options when setting it up, IMO. I just want a straight-forward, few click, set-up. I think the price is very, very reasonable especially when they are on sale. The Fire sticks work well for us even with our slow internet at times. There are a lot of apps available and I think the picture quality is there. I would say that historically we get a number of years out of these and then they fill up and even when you clean up the app storage, they tend to get so \"laggy\" that they are unusable at some point. I am not familiar with other streaming devices at all, so I am not sure if that is an \"across the board\" thing or not. Overall, I think they are a good buy and we are comfortable with the ease of use of the Fire Sticks.",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in the United States on December 22, 2025"
+        },
+        "profile": {
+          "name": "R. Lindey"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 16,
+        "link": "https://www.amazon.com/gp/customer-reviews/R21PYX13K8W62A/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R3O1OGU457P4I5",
+        "title": "Works great!",
+        "body": "Got this to replace my old fire stick, it's about 6 years old and was barely working, and if it did it was slow as all get out. This one booted up immediately, and I am able to select my apps instantly and everything comes in crystal clear so I am absolutely thrilled! Setup was a breeze, considering I already have fire sticks in my home I just selected to use my existing accounts, maybe had to download some of my streaming apps but other than that it was perfect! Also love that this one has the buttons that take you instantly to Netflix, youtube, disney, etc!",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on February 3, 2026"
+        },
+        "profile": {
+          "name": "Amanda G"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 3,
+        "link": "https://www.amazon.com/gp/customer-reviews/R3O1OGU457P4I5/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R11I10WSYL32E0",
+        "title": "Great product and easy to install",
+        "body": "Love love love this product. It was a great price and so easy to install.And I have had no problems with it.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on March 1, 2026"
+        },
+        "profile": {
+          "name": "Synthia Rose"
+        },
+        "verified_purchase": true,
+        "helpful_votes": null,
+        "link": "https://www.amazon.com/gp/customer-reviews/R11I10WSYL32E0/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R53H65T441F1B",
+        "title": "Turned My “Dumb” TV Into a Smart TV in 5 Minutes — Worth Every Penny",
+        "body": "I can’t believe I waited this long to get a Fire TV Stick. Setup took less than 5 minutes, and suddenly my old TV feels brand new.The speed is impressive—apps load fast, streaming is smooth, and I haven’t had a single freeze or crash. The remote alone is worth it. Being able to say “Alexa, play Yellowstone” and having it pop right up feels like magic.Why I love it:• 📺 All streaming apps in one place – Netflix, Prime Video, Hulu, Disney+, YouTube, etc.• ⚡ Fast and responsive – No lag when switching apps• 🎙️ Voice remote with Alexa – Way easier than typing• 🧳 Perfect for travel – Works great in hotels and Airbnbs• 🔌 Simple plug-and-play setup – No tech skills neededPicture quality is excellent (especially in 4K), and it automatically adjusts to your TV. I also love that it keeps everything organized so I’m not bouncing between apps trying to remember where a show is streaming.Best use cases:✔️ Upgrading an older TV✔️ Bedroom or guest room✔️ Travel & vacation rentals✔️ Cord-cuttersFor the price, this is one of the best tech purchases I’ve made. If you’re frustrated with slow smart TVs or clunky interfaces, the Fire TV Stick fixes all of it instantly.Highly recommend — I’d buy it again without hesitation. 👍",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on December 18, 2025"
+        },
+        "profile": {
+          "name": "Chris L"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 21,
+        "link": "https://www.amazon.com/gp/customer-reviews/R53H65T441F1B/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      }
+    ],
+    "buybox_winner": {
+      "maximum_order_quantity": {
+        "value": 2,
+        "hard_maximum": false
+      },
+      "price_only_available_in_cart": false,
+      "trade_in_and_save": true,
+      "return_policy": {
+        "duration_days": 30,
+        "type": "refund/replacement",
+        "seller": "Amazon"
+      },
+      "is_prime": true,
+      "is_prime_exclusive_deal": false,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "In Stock",
+        "dispatch_days": 1
+      },
+      "fulfillment": {
+        "type": "p1",
+        "standard_delivery": {
+          "date": "Sunday, March 22",
+          "name": "FREE"
+        },
+        "fastest_delivery": {
+          "date": "Thursday, March 19",
+          "name": "Or Prime members get FREE delivery Thursday, March 19. Order within 13 hrs 21 mins. Join Prime"
+        },
+        "is_sold_by_amazon": true,
+        "amazon_seller": {
+          "name": "Amazon"
+        },
+        "is_fulfilled_by_amazon": true,
+        "is_fulfilled_by_third_party": false,
+        "is_sold_by_third_party": false
+      },
+      "price": {
+        "symbol": "$",
+        "value": 34.99,
+        "currency": "USD",
+        "raw": "$34.99"
+      },
+      "shipping": {
+        "raw": "FREE"
+      }
+    },
+    "specifications": [
+      {
+        "name": "Size",
+        "value": "3.4” x 1.2” x 0.5” (86 x 30 x 13 mm)"
+      },
+      {
+        "name": "Weight",
+        "value": "1.1 oz (32.0 g)"
+      },
+      {
+        "name": "Processor",
+        "value": "Quad-core 1.7 GHz"
+      },
+      {
+        "name": "Storage",
+        "value": "8 GB internal"
+      },
+      {
+        "name": "Wifi",
+        "value": "Dual-band, dual-antenna wifi (MIMO) for faster streaming and fewer dropped connections than standard wifi. Supports 802.11a/b/g/n/ac wifi networks."
+      },
+      {
+        "name": "Bluetooth",
+        "value": "Bluetooth 5.0 and Bluetooth Low Energy. Pair with compatible Bluetooth speakers, headphones, video game controllers, and more."
+      },
+      {
+        "name": "Voice support",
+        "value": "Yes, with Alexa Voice Remote (included) or the free Fire TV app (available for download on Fire OS, Android, and iOS)."
+      },
+      {
+        "name": "IR device control with included Alexa Voice Remote",
+        "value": "The included Alexa Voice Remote can control Fire TV Stick and certain functions (such as power and volume) on a wide range of compatible IR-enabled devices, including TVs, soundbars, and A/V receivers. Note: Certain functions may not be available on some IR-enabled devices."
+      },
+      {
+        "name": "Cloud storage",
+        "value": "Free cloud storage for digital content purchased from Amazon."
+      },
+      {
+        "name": "Ports",
+        "value": "HDMI output, micro-USB for power only."
+      },
+      {
+        "name": "Audio support",
+        "value": "HDMI pass-through of Dolby-encoded audio (AC-3 and E-AC-3)."
+      },
+      {
+        "name": "Video content formats supported",
+        "value": "HDR10, HDR10+, HLG, H.265, H.264, Vp9"
+      },
+      {
+        "name": "Output resolution supported",
+        "value": "1080p and 720p up to 60 fps"
+      },
+      {
+        "name": "System requirements",
+        "value": "High-definition television with available HDMI input, internet connection via wifi, a power outlet."
+      },
+      {
+        "name": "TV compatibility",
+        "value": "High-definition TVs with HDMI capable of 1080p or 720p at 60/50Hz."
+      },
+      {
+        "name": "Warranty and service",
+        "value": "90-day Limited Warranty and service included. Optional 2-Year and 3-Year Extended Warranty available for U.S. customers sold separately. Use of Fire TV is subject to the terms found here."
+      },
+      {
+        "name": "Content availability",
+        "value": "Certain apps and services are subject to change or withdrawal at any time, may not be available in all areas and languages, and may require separate subscriptions."
+      },
+      {
+        "name": "Accessibility features",
+        "value": "VoiceView screen reader enables access to the vast majority of Fire TV features for users who are blind or visually impaired. Screen magnifier enables viewers to zoom in and out, and pan around the screen. Text Banner consolidates onscreen text into a compact, customizable banner that appears on the screen. Watch videos and TV shows with closed captioning displayed. Use Audio Description for verbal descriptions of what is happening on the screen, including physical actions, facial expressions and scene changes. Captions and audio descriptions are not available for all content. You can also listen to Fire TV with compatible Bluetooth headphones. Learn more about accessibility for Fire TV."
+      },
+      {
+        "name": "Included in the box",
+        "value": "Fire TV Stick HD, Alexa Voice Remote, power cable and power adapter, HDMI extender, 2 AAA batteries, Quick Start Guide."
+      },
+      {
+        "name": "Software Security Updates",
+        "value": "Learn more about these software security updates. If you already own a Fire TV, visit Manage Your Content and Devices for information specific to your device."
+      },
+      {
+        "name": "Size",
+        "value": "38.68 mm x 141.3 mm x 17.6 mm"
+      },
+      {
+        "name": "Weight",
+        "value": "45g (without batteries)"
+      },
+      {
+        "name": "Batteries",
+        "value": "2 AAA (included)"
+      },
+      {
+        "name": "Technology",
+        "value": "Bluetooth"
+      },
+      {
+        "name": "Compatibility",
+        "value": "Fire TV Stick 4K (1st Gen and later), Fire TV Stick 4K Max (1st Gen and later), Fire TV Stick (3rd Gen), Fire TV Stick HD"
+      }
+    ],
+    "specifications_flat": "Compatibility: Fire TV Stick 4K (1st Gen and later), Fire TV Stick 4K Max (1st Gen and later), Fire TV Stick (3rd Gen), Fire TV Stick HD. Technology: Bluetooth. Batteries: 2 AAA (included). Weight: 45g (without batteries). Size: 38.68 mm x 141.3 mm x 17.6 mm. Software Security Updates: Learn more about these software security updates. If you already own a Fire TV, visit Manage Your Content and Devices for information specific to your device. Included in the box: Fire TV Stick HD, Alexa Voice Remote, power cable and power adapter, HDMI extender, 2 AAA batteries, Quick Start Guide. Accessibility features: VoiceView screen reader enables access to the vast majority of Fire TV features for users who are blind or visually impaired. Screen magnifier enables viewers to zoom in and out, and pan around the screen. Text Banner consolidates onscreen text into a compact, customizable banner that appears on the screen. Watch videos and TV shows with closed captioning displayed. Use Audio Description for verbal descriptions of what is happening on the screen, including physical actions, facial expressions and scene changes. Captions and audio descriptions are not available for all content. You can also listen to Fire TV with compatible Bluetooth headphones. Learn more about accessibility for Fire TV. Content availability: Certain apps and services are subject to change or withdrawal at any time, may not be available in all areas and languages, and may require separate subscriptions. Warranty and service: 90-day Limited Warranty and service included. Optional 2-Year and 3-Year Extended Warranty available for U.S. customers sold separately. Use of Fire TV is subject to the terms found here. TV compatibility: High-definition TVs with HDMI capable of 1080p or 720p at 60/50Hz. System requirements: High-definition television with available HDMI input, internet connection via wifi, a power outlet. Output resolution supported: 1080p and 720p up to 60 fps. Video content formats supported: HDR10, HDR10+, HLG, H.265, H.264, Vp9. Audio support: HDMI pass-through of Dolby-encoded audio (AC-3 and E-AC-3). Ports: HDMI output, micro-USB for power only. Cloud storage: Free cloud storage for digital content purchased from Amazon. IR device control with included Alexa Voice Remote: The included Alexa Voice Remote can control Fire TV Stick and certain functions (such as power and volume) on a wide range of compatible IR-enabled devices, including TVs, soundbars, and A/V receivers. Note: Certain functions may not be available on some IR-enabled devices. Voice support: Yes, with Alexa Voice Remote (included) or the free Fire TV app (available for download on Fire OS, Android, and iOS). Bluetooth: Bluetooth 5.0 and Bluetooth Low Energy. Pair with compatible Bluetooth speakers, headphones, video game controllers, and more. Wifi: Dual-band, dual-antenna wifi (MIMO) for faster streaming and fewer dropped connections than standard wifi. Supports 802.11a/b/g/n/ac wifi networks. Storage: 8 GB internal. Processor: Quad-core 1.7 GHz. Weight: 1.1 oz (32.0 g). Size: 3.4” x 1.2” x 0.5” (86 x 30 x 13 mm).",
+    "recent_sales": "10K+ bought in past month",
+    "gift_guide_badge": {
+      "badge_text": "10K+ bought in past month"
+    }
+  }
+}

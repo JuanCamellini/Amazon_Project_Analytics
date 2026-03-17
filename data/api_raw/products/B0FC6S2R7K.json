@@ -1,0 +1,916 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 20,
+    "credits_remaining": 80,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "type": "product",
+    "asin": "B0FC6S2R7K",
+    "amazon_domain": "amazon.com"
+  },
+  "request_metadata": {
+    "created_at": "2026-03-17T15:39:22.932Z",
+    "processed_at": "2026-03-17T15:39:30.617Z",
+    "total_time_taken": 7.68,
+    "amazon_url": "https://www.amazon.com/dp/B0FC6S2R7K?th=1&psc=1"
+  },
+  "product": {
+    "title": "4K+4K Dash Cam Front and Rear, Free 128GB Card Included, 5.8GHz WiFi Dash Camera for Cars, Built-in GPS, G-Sensor, 170°Wide Angle, 3\" IPS Screen, 24H Parking Mode, Support 512GB Max",
+    "search_alias": {
+      "title": "All Departments",
+      "value": "search-alias=aps"
+    },
+    "keywords": "4K+4K Dash Cam Front and Rear, Free 128GB Card Included, 5.8GHz WiFi Dash Camera for Cars, Built-in GPS, G-Sensor, 170°Wide Angle, 3\" IPS Screen, 24H Parking Mode, Support 512GB Max",
+    "keywords_list": [
+      "4K+4K Dash Cam Front and Rear",
+      "Free 128GB Card Included",
+      "5.8GHz WiFi Dash Camera for Cars",
+      "Built-in GPS",
+      "G-Sensor",
+      "170°Wide Angle",
+      "3\" IPS Screen",
+      "24H Parking Mode",
+      "Support 512GB Max"
+    ],
+    "is_collection": false,
+    "asin": "B0FC6S2R7K",
+    "parent_asin": "B0FC6S2R7K",
+    "link": "https://www.amazon.com/TERUNSOUl-Included-G-Sensor-170%C2%B0Wide-Parking/dp/B0FC6S2R7K",
+    "brand": "TERUNSOUl",
+    "protection_plans": [
+      {
+        "name": "2-Year Protection Plan",
+        "duration_months": 24,
+        "price": {
+          "value": "15.99",
+          "billing_type": "one_time"
+        }
+      },
+      {
+        "name": "3-Year Protection Plan",
+        "duration_months": 36,
+        "price": {
+          "value": "21.99",
+          "billing_type": "one_time"
+        }
+      },
+      {
+        "name": "NEW Complete Protect",
+        "description": "One plan covers all eligible past and future purchases",
+        "price": {
+          "value": "16.99",
+          "billing_type": "monthly"
+        }
+      }
+    ],
+    "sell_on_amazon": false,
+    "proposition_65_warning": false,
+    "has_size_guide": true,
+    "add_on_item": {
+      "is_add_on_item": true
+    },
+    "categories": [
+      {
+        "name": "All Departments"
+      },
+      {
+        "name": "Electronics",
+        "link": "https://www.amazon.com/electronics-store/b/ref=dp_bc_1?ie=UTF8&node=172282",
+        "category_id": "172282"
+      },
+      {
+        "name": "Car & Vehicle Electronics",
+        "link": "https://www.amazon.com/Vehicle-Electronics/b/ref=dp_bc_2?ie=UTF8&node=3248684011",
+        "category_id": "3248684011"
+      },
+      {
+        "name": "Car Electronics",
+        "link": "https://www.amazon.com/Car-Electronics/b/ref=dp_bc_3?ie=UTF8&node=1077068",
+        "category_id": "1077068"
+      },
+      {
+        "name": "Car Video",
+        "link": "https://www.amazon.com/Car-Video-Audio-Electronics/b/ref=dp_bc_4?ie=UTF8&node=10980521",
+        "category_id": "10980521"
+      },
+      {
+        "name": "On-Dash Cameras",
+        "link": "https://www.amazon.com/Car-On-Dash-Mounted-Video/b/ref=dp_bc_5?ie=UTF8&node=3248689011",
+        "category_id": "3248689011"
+      }
+    ],
+    "categories_flat": "All Departments > Electronics > Car & Vehicle Electronics > Car Electronics > Car Video > On-Dash Cameras",
+    "sub_title": {
+      "text": "Visit the TERUNSOUl Store",
+      "link": "https://www.amazon.com/stores/HOME/page/5B692166-D76E-4D98-9B31-1D49CF4D5BEF?lp_asin=B0FC6S2R7K&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto"
+    },
+    "amazons_choice": {
+      "link": "https://www.amazon.com/TERUNSOUl-Included-G-Sensor-170%C2%B0Wide-Parking/dp/B0FC6S2R7K",
+      "badge_text": "Amazon's  Choice"
+    },
+    "marketplace_id": "ATVPDKIKX0DER",
+    "rating": 4.8,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 93,
+        "count": 4357
+      },
+      "four_star": {
+        "percentage": 4,
+        "count": 187
+      },
+      "three_star": {
+        "percentage": 1,
+        "count": 47
+      },
+      "two_star": {
+        "percentage": 0,
+        "count": 0
+      },
+      "one_star": {
+        "percentage": 2,
+        "count": 94
+      }
+    },
+    "ratings_total": 4685,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/81oa74mGntL.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/717iQTjs7bL._AC_SL1500_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/714HHFCWKQL._AC_SL1500_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71WpsP15vOL._AC_SL1500_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71xgMBAjNBL._AC_SL1500_.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71MB5fi5RgL._AC_SL1500_.jpg",
+        "variant": "PT05"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71U7RU+9DHL._AC_SL1500_.jpg",
+        "variant": "PT06"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71espl-+M4L._AC_SL1500_.jpg",
+        "variant": "PT07"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71wg1IHYU2L._AC_SL1500_.jpg",
+        "variant": "PT08"
+      }
+    ],
+    "images_count": 8,
+    "images_flat": "https://m.media-amazon.com/images/I/717iQTjs7bL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/714HHFCWKQL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71WpsP15vOL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71xgMBAjNBL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71MB5fi5RgL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71U7RU+9DHL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71espl-+M4L._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71wg1IHYU2L._AC_SL1500_.jpg",
+    "videos_count": 7,
+    "videos_additional": [
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.04104a5cb7dc4836ab9123364a88a9da",
+        "product_asin": "B0FC6S2R7K",
+        "parent_asin": "B0FC6S2R7K",
+        "title": "What do you get, Super Easy install with quick directions!",
+        "profile_image_url": "https://m.media-amazon.com/images/I/710eUJEpLfL._CR0,0,580,580_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/influencer-2e04324e",
+        "public_name": "✅The Thompson Five | Dynamic Duo True Reviews",
+        "vendor_code": "influencer-2e04324e:shop",
+        "vendor_name": "✅The Thompson Five | Dynamic Duo True Reviews",
+        "vendor_tracking_id": "onamzbetha00c-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/918eJ0wB6-L._CR2,0,1276,720_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/918eJ0wB6-L.png",
+        "video_image_width": "1280",
+        "video_image_height": "720",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/cf98d011-ffb7-4a0a-8040-ac5784e1d355/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/7b939074-884e-4650-9609-2d53a1aa205a/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/7b939074-884e-4650-9609-2d53a1aa205a/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "2:52",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/05e6d32c-088a-480e-b49a-1815c0f0001d.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0dc131dc06804714a010a14ef0b9c7b4",
+        "product_asin": "B0FC6S2R7K",
+        "parent_asin": "B0FC6S2R7K",
+        "title": "Excellent value for the money!",
+        "profile_image_url": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SL34_.png",
+        "profile_link": "/gp/profile/amzn1.account.AH57BLJ5LK4XGJQFZJJB4SD6INBA",
+        "public_name": "Michele",
+        "vendor_code": "AOD60",
+        "vendor_name": "Michele",
+        "video_image_url": "https://m.media-amazon.com/images/I/715dyypmnWL._CR4,0,2552,1440_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/715dyypmnWL.jpg",
+        "video_image_width": "2560",
+        "video_image_height": "1440",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/70b0420d-b20f-445b-b1ec-2a0a2dc85de1/embedded.cc.default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c95baa7f-e953-4699-83d3-9baf386b0be4/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c95baa7f-e953-4699-83d3-9baf386b0be4/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:38",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/4b697208-ac36-4c54-9c2d-8df27235ecda.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0ae5c56c426e40f79891ce4fe78e26a9",
+        "product_asin": "B0FC6S2R7K",
+        "parent_asin": "B0FC6S2R7K",
+        "title": "Fantastic 2 Camera System!!!",
+        "profile_image_url": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SL34_.png",
+        "profile_link": "/gp/profile/amzn1.account.AHNTLDO3644SU5JU4ADOY3GXVSAA",
+        "public_name": "Snakeman40",
+        "vendor_code": "AOD60",
+        "vendor_name": "Snakeman40",
+        "video_image_url": "https://m.media-amazon.com/images/I/51YNZ9rIPhL._CR0,0,1080,609_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/51YNZ9rIPhL.jpg",
+        "video_image_width": "1080",
+        "video_image_height": "1920",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f97fbe0d-511f-4bc3-827b-7521b2ab11e6/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/bde762d4-c960-41a6-80c3-f15bfb35bba6/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/bde762d4-c960-41a6-80c3-f15bfb35bba6/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:34",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/bd73b6a1-ba19-4a8b-99ef-5b99207430cd.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0e34542c37aa4f56831d1e2428e3c8ac",
+        "product_asin": "B0FC6S2R7K",
+        "parent_asin": "B0FC6S2R7K",
+        "title": "Excellent Dual 4K Dash Cam – Great Image Quality and Smart Features!",
+        "profile_image_url": "https://m.media-amazon.com/images/S/amazon-avatars-global/457a04b8-25f6-4028-b71e-d9e62bc60593._CR0%2C0%2C400%2C400_UX460_._SL34_.jpg",
+        "profile_link": "/gp/profile/amzn1.account.AE42EBMBWZ5FJRPXDKQD7A3OX4JA",
+        "public_name": "Aleksandra Filkina",
+        "vendor_code": "AOD60",
+        "vendor_name": "Aleksandra Filkina",
+        "video_image_url": "https://m.media-amazon.com/images/I/51kGSuLyQeL._CR0,0,1080,609_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/51kGSuLyQeL.jpg",
+        "video_image_width": "1080",
+        "video_image_height": "1920",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3d769d7a-99af-4acc-a0a6-26cfe88216b7/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/9495468b-13e2-431c-a41d-e4ff7890ecd0/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/9495468b-13e2-431c-a41d-e4ff7890ecd0/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:11",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/4431ee8f-08ca-4c81-9ce8-cd6809deaea4.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.02e6eebac7f5435c8fc41fe4ecd05795",
+        "product_asin": "B0FC6S2R7K",
+        "parent_asin": "B0FC6S2R7K",
+        "related_products": "B0DZN7LS4V,B0DF7BW4GV,B0FW5CL1C6",
+        "title": "Dash cam front and rear",
+        "profile_image_url": "https://m.media-amazon.com/images/I/B14sHauy9GL._CR0,0,3024,3024_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/flawlesspawsltd",
+        "public_name": "Alex Sargent",
+        "vendor_code": "flawlesspawsltd:shop",
+        "vendor_name": "Alex Sargent",
+        "vendor_tracking_id": "onamzale0c644-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/51kemsIcjKL._CR1,0,638,360_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/51kemsIcjKL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "360",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f8c0bb64-95d6-4cbb-a4fe-06084d069958/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/eb3fe62d-23fc-4845-9d2b-22b4425d1c1f/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/eb3fe62d-23fc-4845-9d2b-22b4425d1c1f/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "3:56",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/e1defa01-9fb2-41d7-8029-921848de5106.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.07084b14e21b487680dedcc282821e55",
+        "product_asin": "B0FC6S2R7K",
+        "parent_asin": "B0FC6S2R7K",
+        "related_products": "B0F8NJMBYY",
+        "title": "How good is night footage on this dash camera?",
+        "profile_image_url": "https://m.media-amazon.com/images/I/816wPEOqFUL._CR0,0,1536,1536_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/spiderobsessed",
+        "public_name": "Niklas' Shop Corner",
+        "vendor_code": "spiderobsessed:shop",
+        "vendor_name": "Niklas' Shop Corner",
+        "vendor_tracking_id": "onamzniklasgr-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/41Kk28urXkL._CR3,0,634,358_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/41Kk28urXkL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "358",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/8dc70bb6-f4ea-4b6c-bcdf-97b402beb9a3/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/5de5b359-b84b-4293-bdbb-a4a5d744e655/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/5de5b359-b84b-4293-bdbb-a4a5d744e655/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:45",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/83bb9997-2c3b-4027-9f24-9fa26eaa66dc.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.03e915b5b4c94d01ab4f47af67832477",
+        "product_asin": "B0FC6S2R7K",
+        "parent_asin": "B0FC6S2R7K",
+        "title": "Don’t look further, get this one",
+        "profile_image_url": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SL34_.png",
+        "profile_link": "/gp/profile/amzn1.account.AHKSXRTGOXFVLAJLW5WNN4DXO53A",
+        "public_name": "Mariana",
+        "vendor_code": "AOD60",
+        "vendor_name": "Mariana",
+        "video_image_url": "https://m.media-amazon.com/images/I/41KnigAtcPL._CR2,0,1276,720_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/41KnigAtcPL.jpg",
+        "video_image_width": "1280",
+        "video_image_height": "720",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/6f801d4a-4fb9-43e6-bc0b-f9087bb16675/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3bbdd1de-72d8-4e40-b93c-2e87296ee062/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3bbdd1de-72d8-4e40-b93c-2e87296ee062/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:30",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/0a1bb57c-bc98-4b40-85fd-de883fd8a253.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0fe649b6d8d44fd7b469572769ec0444",
+        "product_asin": "B0FC6S2R7K",
+        "parent_asin": "B0FC6S2R7K",
+        "title": "Most excellent",
+        "profile_image_url": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SL34_.png",
+        "profile_link": "/gp/profile/amzn1.account.AFRIVTOREX5HGILSTWTJFKKJYPNA",
+        "public_name": "Placeholder",
+        "vendor_code": "AOD60",
+        "vendor_name": "Placeholder",
+        "video_image_url": "https://m.media-amazon.com/images/I/41WfUsk9nQL._CR0,0,360,203_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/41WfUsk9nQL.jpg",
+        "video_image_width": "360",
+        "video_image_height": "480",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/fe36b5e5-52ad-4e50-8f9f-89bc6a92edec/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2b453c52-2fd4-45e7-adb6-4975acdf7e44/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2b453c52-2fd4-45e7-adb6-4975acdf7e44/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:11",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/66eadc44-ada2-497c-8203-57cb2da15f52.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.06220621837d4ca6990d652cd4663ab5",
+        "product_asin": "B0FC6S2R7K",
+        "parent_asin": "B0FC6S2R7K",
+        "title": "Unboxing Terunsoul 4K HD Dual Dash Cam",
+        "profile_image_url": "https://m.media-amazon.com/images/I/91Hhu-UkMoL._CR0,0,2327,2328_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/delraybeachkiteboarding",
+        "public_name": "tom leeman",
+        "vendor_code": "delraybeachkiteboarding:shop",
+        "vendor_name": "tom leeman",
+        "vendor_tracking_id": "onamztomleema-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/91ImpqMtg6L._CR6,0,946,534_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/91ImpqMtg6L.png",
+        "video_image_width": "958",
+        "video_image_height": "534",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/b4650b67-2dd4-4e4d-a1ae-ebf61dc0bb4e/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/67a9cf46-40e6-45c8-aa2e-b40a43d6c2cb/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/67a9cf46-40e6-45c8-aa2e-b40a43d6c2cb/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "5:16",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/286f63f9-d1de-43a2-9755-4029426ae07c.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0a1b2820f0944e0a9e43c0a793caa0cc",
+        "product_asin": "B0FC6S2R7K",
+        "parent_asin": "B0FC6S2R7K",
+        "title": "TESTING TERUNSOUl 4K+4K Dash Cam Front and Rear",
+        "profile_image_url": "https://images-na.ssl-images-amazon.com/images/S/influencer-profile-image-prod/logo/leontruong_1680271079463_original._FMjpg_._SL34_.jpeg",
+        "profile_link": "/shop/leontruong",
+        "public_name": "Tech By Leon",
+        "vendor_code": "leontruong:shop",
+        "vendor_name": "Tech By Leon",
+        "vendor_tracking_id": "onamzleontruo-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/91I1z9EwnWL._CR0,0,1013,572_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/91I1z9EwnWL.png",
+        "video_image_width": "1013",
+        "video_image_height": "572",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/4a4eb8a0-3a2c-4ea9-98ec-1d5862fb9840/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/eecd3b11-3f01-465a-ac03-6e1592504987/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/eecd3b11-3f01-465a-ac03-6e1592504987/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "5:50",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/bc0938ce-a2cd-4c2b-b78e-2dc402af50bd.vtt"
+      }
+    ],
+    "is_bundle": false,
+    "feature_bullets": [
+      "Ultra HD 4K Front + 4K Rear Recording: The Terunsoul dash cam supports dual-channel simultaneous recording, capturing both front and rear footage. Both cameras record in 3840×2160P, ensuring clear footage of the road ahead and behind. The front camera features a 170° ultra-wide-angle lens, providing full coverage of six-lane roads and capturing more road details with this 4K dash cam",
+      "Loop Recording & G-Sensor: The dash cam front and rear comes with a pre-installed 128GB memory card, ready to record instantly. Loop recording ensures continuous footage, while the G-sensor automatically locks collision videos to prevent overwriting. Support for up to 512GB memory card. A lock button on the dash camera also allows manual one-touch locking of emergency videos",
+      "Super Starlight Night Vision: Enhanced WDR and sharper night vision technology deliver vibrant colors and clear details even in challenging lighting conditions. The front camera features an F1.5 large aperture and the rear camera an F1.8 large aperture, allowing more light into the lens for brighter, clearer footage in low-light environments, ideal for accident evidence",
+      "Ultra-Fast 5.8GHz WiFi & Free Wireless App Control: The dash camera for cars features dual-band 5.8GHz and 2.4GHz WiFi, allowing you to instantly view and manage recordings on iOS or Android devices via the Terunsoul App. Easily download recorded videos/photos to your phone at high speed, and share them on social media, with friends, family, or insurance companies.You can also remotely manage camera settings and update firmware wirelessly through the Terunsoul App",
+      "Car Camera with GPS: The dashcam front and rear camera comes with built-in GPS which enables you to view real-time live speed and compass on the 3” IPS wide camera screen.It records precise driving routes, locations, and speed directly onto the video. You can track routes via the app using Wi-Fi or review videos with GPS data on Windows or Mac using the free GPS Player, providing additional evidence when needed",
+      "24-Hour Parking Monitoring: Protect your vehicle with time-lapse recording and G-sensor detection to monitor potential damage or theft. The car dash cam supports time-lapse video mode, recording continuously for 24 hours at a low frame rate and low power consumption, capturing one frame per second. When the vehicle is parked, any collision event will automatically trigger recording and lock the video. Please note: A separate hardwire kit is required for parking mode",
+      "Easy Installation & 18-Month Warranty: Installation is simple and user-friendly, making it easy for anyone to set up. Terunsoul also provides an 18-month warranty and 24/7 customer support. Our aftersales team is always ready to assist with any questions, giving you peace of mind while driving",
+      "Note: We provide a car charger (cigarette lighter) power cable. If you need a power cable for other ports, it must be purchased separately.Our dash cam requires a 5V/3A power supply. USB-A to Type-C power cable: ASIN B0FQ9QKXLF",
+      "Note: When installing, please make sure not to interfere with the normal deployment and operation of the airbag."
+    ],
+    "feature_bullets_count": 9,
+    "feature_bullets_flat": "Note: When installing, please make sure not to interfere with the normal deployment and operation of the airbag. Note: We provide a car charger (cigarette lighter) power cable. If you need a power cable for other ports, it must be purchased separately.Our dash cam requires a 5V/3A power supply. USB-A to Type-C power cable: ASIN B0FQ9QKXLF. Easy Installation & 18-Month Warranty: Installation is simple and user-friendly, making it easy for anyone to set up. Terunsoul also provides an 18-month warranty and 24/7 customer support. Our aftersales team is always ready to assist with any questions, giving you peace of mind while driving. 24-Hour Parking Monitoring: Protect your vehicle with time-lapse recording and G-sensor detection to monitor potential damage or theft. The car dash cam supports time-lapse video mode, recording continuously for 24 hours at a low frame rate and low power consumption, capturing one frame per second. When the vehicle is parked, any collision event will automatically trigger recording and lock the video. Please note: A separate hardwire kit is required for parking mode. Car Camera with GPS: The dashcam front and rear camera comes with built-in GPS which enables you to view real-time live speed and compass on the 3” IPS wide camera screen.It records precise driving routes, locations, and speed directly onto the video. You can track routes via the app using Wi-Fi or review videos with GPS data on Windows or Mac using the free GPS Player, providing additional evidence when needed. Ultra-Fast 5.8GHz WiFi & Free Wireless App Control: The dash camera for cars features dual-band 5.8GHz and 2.4GHz WiFi, allowing you to instantly view and manage recordings on iOS or Android devices via the Terunsoul App. Easily download recorded videos/photos to your phone at high speed, and share them on social media, with friends, family, or insurance companies.You can also remotely manage camera settings and update firmware wirelessly through the Terunsoul App. Super Starlight Night Vision: Enhanced WDR and sharper night vision technology deliver vibrant colors and clear details even in challenging lighting conditions. The front camera features an F1.5 large aperture and the rear camera an F1.8 large aperture, allowing more light into the lens for brighter, clearer footage in low-light environments, ideal for accident evidence. Loop Recording & G-Sensor: The dash cam front and rear comes with a pre-installed 128GB memory card, ready to record instantly. Loop recording ensures continuous footage, while the G-sensor automatically locks collision videos to prevent overwriting. Support for up to 512GB memory card. A lock button on the dash camera also allows manual one-touch locking of emergency videos. Ultra HD 4K Front + 4K Rear Recording: The Terunsoul dash cam supports dual-channel simultaneous recording, capturing both front and rear footage. Both cameras record in 3840×2160P, ensuring clear footage of the road ahead and behind. The front camera features a 170° ultra-wide-angle lens, providing full coverage of six-lane roads and capturing more road details with this 4K dash cam.",
+    "top_reviews": [
+      {
+        "id": "R2TTF2TPJE3P14",
+        "title": "The very best Dashcam I've ever owned!",
+        "body": "I am super pleased with this dash cam. The video quality is extremely clear both during the day and at nighttime as well. The 4K quality certainly makes the difference. Installation was  quick and straightforward. The smaller design doesn’t block my view while driving.Quality wise, this dash cam feels well-built, reliable, and is an excellent value for the price. I would highly recommend it to anyone looking for an easy-to-install and operate camera for their vehicle. That App interface seems to work quite well making it super easy to download videos and photos.  The included memory card and the rear camera is a nice touch to this product. I already feel more secure knowing that I have reliable footage in case anything happens.I definitely recommend this dash cam!!! Just get it, you won’t be disappointed.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on March 9, 2026"
+        },
+        "profile": {
+          "name": "Dale G."
+        },
+        "verified_purchase": true,
+        "helpful_votes": 14,
+        "link": "https://www.amazon.com/gp/customer-reviews/R2TTF2TPJE3P14/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R3PD68YD1CZ5PI",
+        "title": "Amazing product",
+        "body": "The TERUNSOUL 4K+4K Dash Cam delivers outstanding video clarity with true 4K resolution on both the front and rear cameras, capturing every detail on the road. Setup was quick and easy, and the included 128GB card is a fantastic bonus that saves time and money. The 5.8GHz WiFi connection is fast and reliable, making video downloads smooth and hassle-free. I appreciate the wide-angle coverage and crisp nighttime recording quality. Overall, it’s a dependable, high-value dash cam that offers premium features at a great price.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on March 3, 2026"
+        },
+        "profile": {
+          "name": "Analia Palau"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 15,
+        "link": "https://www.amazon.com/gp/customer-reviews/R3PD68YD1CZ5PI/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R5GZUTYAXSZE4",
+        "title": "Excellent Quality & Great Value for the Price!",
+        "body": "I’m extremely impressed with this dash cam. The video quality is crystal clear, both during the day and at night. The front and rear cameras capture a wide view of the road, and the details (like license plates) are much easier to read than I expected for this price range.Installation was straightforward and didn’t take long. The app connection was simple, and I like being able to review footage directly from my phone. The GPS feature is also a nice bonus because it records speed and location data.The build quality feels solid, and the unit looks clean and discreet on the windshield. Loop recording works seamlessly, and I feel much more secure knowing I have reliable footage in case anything happens.Overall, this is an excellent value for the money. I would definitely recommend it to anyone looking for a dependable front and rear dash cam without spending a fortune.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on March 2, 2026"
+        },
+        "profile": {
+          "name": "Andre William"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 11,
+        "link": "https://www.amazon.com/gp/customer-reviews/R5GZUTYAXSZE4/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R39QHCVVW9BKWV",
+        "title": "Excellent dash cam at an Affordable price!",
+        "body": "I purchased this dash cam for my new 2026 Acura RDX. The item arrived safely packaged in a sleek, well-designed box. The instructions were clear and easy to follow. This was my first time purchasing and installing a dash cam, so I watched several YouTube videos beforehand, which I highly recommend for first-time users.I took some time to find the best location for the front camera and ultimately mounted it behind the rearview mirror, mostly out of sight. I also purchased the 24/7 parking kit. Connecting the three wires took some trial and error, but I was eventually able to get everything working properly.Installation:I attempted to hide the rear camera wiring, but the tailgate window panel on my RDX does not provide enough space and is not easily detachable. For the front camera, the black housing next to the rearview mirror sits extremely close to the windshield, leaving very limited space to conceal the wires.Functionality:The camera can be tilted up and down, but it does not swivel left or right. I’m not sure if many dash cams at this price point offer that feature anyway.The dash cam records both audio and video. The 4K resolution delivers very clear and sharp footage, and the audio recording makes the videos easier to understand. Audio recording can be toggled on or off by pressing and holding the down button for two seconds. The built-in speaker provides voice prompts when pressing the corresponding buttons, which is very convenient.You can easily switch between camera views—front only, rear only, or both front and rear on the same screen—by pressing the up or down arrow buttons. There are many additional features explained on a small rigid instruction sheet, which I keep in my vehicle’s glove compartment for reference.Overall:This dash cam is an excellent product, especially considering its affordable price. I’m very satisfied with the purchase.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on February 2, 2026"
+        },
+        "profile": {
+          "name": "Steven Yang"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 61,
+        "link": "https://www.amazon.com/gp/customer-reviews/R39QHCVVW9BKWV/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R3D72GNVSG7TE4",
+        "title": "Great Dashcam",
+        "body": "Very Satisfied with the product.  Easy to use and install. Love the built in Wifi and GPS, doesn't block my view and camera's captures all the angles.  Screen is bright and video quality is clear both during the day and at night. Great price!",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on March 9, 2026"
+        },
+        "profile": {
+          "name": "Stacey M."
+        },
+        "verified_purchase": true,
+        "helpful_votes": null,
+        "link": "https://www.amazon.com/gp/customer-reviews/R3D72GNVSG7TE4/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R3K74CIR8ZQ0B2",
+        "title": "Clear view and piece of mind",
+        "body": "This 4K dash cam is excellent. The video quality is very clear both in the front and rear cameras, making it easy to see details while driving or reviewing footage. Installation was straightforward and the camera works reliably every time I use my car.I really like having the added peace of mind knowing everything on the road is being recorded with such clarity. Overall, it’s a great dash cam and I would definitely recommend it to anyone looking for a high-quality front and rear camera system.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on March 9, 2026"
+        },
+        "profile": {
+          "name": "Alejandro"
+        },
+        "verified_purchase": true,
+        "helpful_votes": null,
+        "link": "https://www.amazon.com/gp/customer-reviews/R3K74CIR8ZQ0B2/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R1SHKM685CMA3E",
+        "title": "Great value, nice product!",
+        "body": "This was easy to install (minus a little difficulty getting the cable behind trim, which was my vehicle, not the cable’s fault). Clear images during the day and night. Great product for the price (value)! Nice that it came with a memory card and connecting it to the app was easy! Easy to save recordings from the app to your mobile device also without even needing to pull the memory card out.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on March 10, 2026"
+        },
+        "profile": {
+          "name": "Cori Ferguson"
+        },
+        "verified_purchase": true,
+        "link": "https://www.amazon.com/gp/customer-reviews/R1SHKM685CMA3E/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      }
+    ],
+    "bestsellers_rank": [
+      {
+        "rank": 135,
+        "category": "Electronics",
+        "link": "https://www.amazon.com/gp/bestsellers/electronics/ref=pd_zg_ts_electronics"
+      },
+      {
+        "rank": 1,
+        "category": "Car On-Dash Mounted Cameras",
+        "link": "https://www.amazon.com/gp/bestsellers/electronics/3248689011/ref=pd_zg_hrsr_electronics"
+      }
+    ],
+    "a_plus_content": {
+      "has_a_plus_content": true,
+      "has_brand_story": true,
+      "brand_story": {
+        "hero_image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3545a152-7b99-4642-9760-064f9f4d4b57.__CR0,0,1464,625_PT0_SX1464_V1___.jpg",
+        "images": [
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3545a152-7b99-4642-9760-064f9f4d4b57.__CR0,0,1464,625_PT0_SX1464_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ac7ce1f8-785b-4a6e-abd0-c8413b8e5a5b.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ef42362e-e94b-4fc1-8bf9-3569723ef6e8.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/01e63efe-e7d7-4e83-8a0a-13c36ab69a11.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2329b3cd-a942-4bd6-b6d1-a19d8a6b5b2d.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5910743c-b75f-4d26-a9ea-ef838512fc01.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/81f02230-60e6-49e4-9bab-2687d7e3e123.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/be9fb21f-c35d-4705-9c30-419d1f6c151d.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/970812a7-edde-461e-9ab0-8245a4022dd3.__CR0,0,362,453_PT0_SX362_V1___.jpg"
+        ]
+      },
+      "all_images": [
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3545a152-7b99-4642-9760-064f9f4d4b57.__CR0,0,1464,625_PT0_SX1464_V1___.jpg",
+          "name": "dash cam front and rear"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ac7ce1f8-785b-4a6e-abd0-c8413b8e5a5b.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+          "name": "dash cam"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ef42362e-e94b-4fc1-8bf9-3569723ef6e8.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+          "name": "dash cam front and rear"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/01e63efe-e7d7-4e83-8a0a-13c36ab69a11.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+          "name": "dash cam front and rear"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2329b3cd-a942-4bd6-b6d1-a19d8a6b5b2d.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+          "name": "dash cam front and rear"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5910743c-b75f-4d26-a9ea-ef838512fc01.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+          "name": "Dash Cam Front and Rear"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/81f02230-60e6-49e4-9bab-2687d7e3e123.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+          "name": "dash cam front and rear"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/be9fb21f-c35d-4705-9c30-419d1f6c151d.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+          "name": "dash cam front and rear"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/970812a7-edde-461e-9ab0-8245a4022dd3.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+          "name": "dash cam front and rear"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8bd79e5d-966f-40af-bb32-d6e144d5d860.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "dash cam"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/55ecde0c-07ff-449d-a3f1-293ffd9ccf6f.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "dash cam"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6dca9825-92ce-4a06-b4e7-5ab93d074b6b.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "dash cam"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/39b6e458-e442-4c90-96cc-2ee817000425.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "Dash cam"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f4ac2dc6-d996-4e06-b001-41f8cdbd5bd7.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "dash cam"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e040b3cf-13f7-4dd6-8933-54aa96d1c47a.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "dash cam"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5f5ca919-8fb1-4606-8032-4d461082c2dc.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "dash cam"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ad3b9170-7111-4f78-8508-e9639289d074.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "dash cam"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e89d0855-246d-4797-afd8-e4d3cb003ea4.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "dash cam"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5eda55c9-e850-4c00-8023-455afcb17c33.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "Dash cam"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/dbdf0da2-47fa-4ec7-bacd-831f66a61ce6.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "dash cam"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/daa71f30-7ae2-4938-94f7-8b0f955cb962.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "dash cam"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5ff8104f-e9a6-4149-bf1f-11e280599af8.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "dash cam"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/24b0177d-363e-4d23-b450-12020acd6415.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "dash cam"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/cf7dcbc6-4acb-42ee-8487-e843b6c23ea6.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "dash cam"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1f2e67df-6be7-4b81-9d6b-f14ea8f93fdb.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "dash cam"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/51VLodiqdjL.__AC_SR200,225___.jpg",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/27b87da2-d628-44ef-8bb8-d87c0c302efa.__AC_SR200,225___.jpg",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/51ZMkPjC3UL.__AC_SR200,225___.jpg",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/198396f7-cd76-4902-ae94-45dc905f8748.__AC_SR200,225___.jpg",
+          "name": ""
+        }
+      ],
+      "third_party": false
+    },
+    "buybox_winner": {
+      "maximum_order_quantity": {
+        "value": 50,
+        "hard_maximum": true
+      },
+      "price_only_available_in_cart": false,
+      "new_offers_count": 2,
+      "new_offers_from": {
+        "raw": "New"
+      },
+      "trade_in_and_save": true,
+      "protection_plans": [
+        {
+          "name": "2-Year Protection Plan",
+          "duration_months": 24,
+          "price": {
+            "value": "15.99",
+            "billing_type": "one_time",
+            "currency": "USD"
+          }
+        },
+        {
+          "name": "3-Year Protection Plan",
+          "duration_months": 36,
+          "price": {
+            "value": "21.99",
+            "billing_type": "one_time",
+            "currency": "USD"
+          }
+        },
+        {
+          "name": "NEW Complete Protect",
+          "description": "One plan covers all eligible past and future purchases",
+          "price": {
+            "value": "16.99",
+            "billing_type": "monthly",
+            "currency": "USD"
+          }
+        }
+      ],
+      "return_policy": {
+        "duration_days": 30,
+        "type": "refund/replacement"
+      },
+      "is_prime": true,
+      "is_prime_exclusive_deal": false,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "In Stock",
+        "dispatch_days": 1
+      },
+      "fulfillment": {
+        "type": "p2",
+        "standard_delivery": {
+          "date": "Sunday, March 22",
+          "name": "FREE"
+        },
+        "fastest_delivery": {
+          "date": "Friday, March 20",
+          "name": "Or Prime members get FREE delivery Friday, March 20. Order within 13 hrs 20 mins. Join Prime"
+        },
+        "is_sold_by_amazon": false,
+        "is_fulfilled_by_amazon": true,
+        "is_fulfilled_by_third_party": false,
+        "is_sold_by_third_party": true,
+        "third_party_seller": {
+          "name": "Ren-US",
+          "link": "https://www.amazon.com/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2ZGFOQPA5X0M6&asin=B0FC6S2R7K&ref_=dp_merchant_link&isAmazonFulfilled=1",
+          "id": "A2ZGFOQPA5X0M6"
+        }
+      },
+      "price": {
+        "symbol": "$",
+        "value": 109.99,
+        "currency": "USD",
+        "raw": "$109.99"
+      },
+      "rrp": {
+        "symbol": "$",
+        "value": 183,
+        "currency": "USD",
+        "raw": "$183.00"
+      },
+      "shipping": {
+        "raw": "FREE"
+      }
+    },
+    "specifications": [
+      {
+        "name": "Product Dimensions",
+        "value": "1.46 x 3.4 x 1.97 inches"
+      },
+      {
+        "name": "Item Weight",
+        "value": "1.94 pounds"
+      },
+      {
+        "name": "ASIN",
+        "value": "B0FC6S2R7K"
+      },
+      {
+        "name": "Item model number",
+        "value": "D016"
+      },
+      {
+        "name": "Customer Reviews",
+        "value": "4.8    4.8 out of 5 stars         (4,685)           4.8 out of 5 stars"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "#135 in Electronics (See Top 100 in Electronics) #1 in Car On-Dash Mounted Cameras"
+      },
+      {
+        "name": "Connectivity technologies",
+        "value": "Wi-Fi"
+      },
+      {
+        "name": "Special features",
+        "value": "4K FRONT + 4K REAR, Free 128GB Memory Card Included, Up To 512GB External Storage Support, Built-In GPS for GEO Tagging, Live Speed, Built-In WiFi, App Control(TERUNSOUl APP for iOS & Android), OTA (Over The Air) Firmware Updates, G-Sensor, Automatic Incident Detection, Parking Monitor, Night Vision, Built-In Speaker, Loop Recording, Built-In 3\" IPS Display, Cutting-edge Tech for Higher Heat/Cold and Longer Product Life"
+      },
+      {
+        "name": "Other display features",
+        "value": "Automotive Parts and Accessories"
+      },
+      {
+        "name": "Color",
+        "value": "Black"
+      },
+      {
+        "name": "Whats in the box",
+        "value": "21ft Rear Cam Extension Cable, 11ft USB-C Fast Car Charger, 4K Dash Cam Front, 4K Rear Camera, GPS Suction Cup Mount, TERUNSOUl 128GB memory Card, User Manual, Quick Start Guide, 5x Cable Clips, Wire Trim Tool, Electrostatic Films, Cleaning Pads"
+      },
+      {
+        "name": "Manufacturer",
+        "value": "TERUNSOUl"
+      },
+      {
+        "name": "Date First Available",
+        "value": "August 18, 2025"
+      },
+      {
+        "name": "Brand",
+        "value": "TERUNSOUl"
+      },
+      {
+        "name": "Model Name",
+        "value": "D016"
+      },
+      {
+        "name": "Vehicle Service Type",
+        "value": "All, Car, Truck"
+      },
+      {
+        "name": "Connectivity Technology",
+        "value": "Wi-Fi"
+      },
+      {
+        "name": "Special Feature",
+        "value": "4K FRONT + 4K REAR, Free 128GB Memory Card Included, Up To 512GB External Storage Support, Built-In GPS for GEO Tagging, Live Speed, Built-In WiFi, App Control(TERUNSOUl APP for iOS & Android), OTA (Over The Air) Firmware Updates, G-Sensor, Automatic Incident Detection, Parking Monitor, Night Vision, Built-In Speaker, Loop Recording, Built-In 3\" IPS Display, Cutting-edge Tech for Higher Heat/Cold and Longer Product Life See more"
+      },
+      {
+        "name": "Video Capture Resolution",
+        "value": "4K FRONT, 4K REAR"
+      },
+      {
+        "name": "Included Components",
+        "value": "21ft Rear Cam Extension Cable, 11ft USB-C Fast Car Charger, 4K Dash Cam Front, 4K Rear Camera, GPS Suction Cup Mount, TERUNSOUl 128GB memory Card, User Manual, Quick Start Guide, 5x Cable Clips, Wire Trim Tool, Electrostatic Films, Cleaning Pads See more"
+      },
+      {
+        "name": "Mounting Type",
+        "value": "Windshield Mount"
+      },
+      {
+        "name": "Field Of View",
+        "value": "170 Degrees"
+      }
+    ],
+    "specifications_flat": "Field Of View: 170 Degrees. Mounting Type: Windshield Mount. Included Components: 21ft Rear Cam Extension Cable, 11ft USB-C Fast Car Charger, 4K Dash Cam Front, 4K Rear Camera, GPS Suction Cup Mount, TERUNSOUl 128GB memory Card, User Manual, Quick Start Guide, 5x Cable Clips, Wire Trim Tool, Electrostatic Films, Cleaning Pads See more. Video Capture Resolution: 4K FRONT, 4K REAR. Special Feature: 4K FRONT + 4K REAR, Free 128GB Memory Card Included, Up To 512GB External Storage Support, Built-In GPS for GEO Tagging, Live Speed, Built-In WiFi, App Control(TERUNSOUl APP for iOS & Android), OTA (Over The Air) Firmware Updates, G-Sensor, Automatic Incident Detection, Parking Monitor, Night Vision, Built-In Speaker, Loop Recording, Built-In 3\" IPS Display, Cutting-edge Tech for Higher Heat/Cold and Longer Product Life See more. Connectivity Technology: Wi-Fi. Vehicle Service Type: All, Car, Truck. Model Name: D016. Brand: TERUNSOUl. Date First Available: August 18, 2025. Manufacturer: TERUNSOUl. Whats in the box: 21ft Rear Cam Extension Cable, 11ft USB-C Fast Car Charger, 4K Dash Cam Front, 4K Rear Camera, GPS Suction Cup Mount, TERUNSOUl 128GB memory Card, User Manual, Quick Start Guide, 5x Cable Clips, Wire Trim Tool, Electrostatic Films, Cleaning Pads. Color: Black. Other display features: Automotive Parts and Accessories. Special features: 4K FRONT + 4K REAR, Free 128GB Memory Card Included, Up To 512GB External Storage Support, Built-In GPS for GEO Tagging, Live Speed, Built-In WiFi, App Control(TERUNSOUl APP for iOS & Android), OTA (Over The Air) Firmware Updates, G-Sensor, Automatic Incident Detection, Parking Monitor, Night Vision, Built-In Speaker, Loop Recording, Built-In 3\" IPS Display, Cutting-edge Tech for Higher Heat/Cold and Longer Product Life. Connectivity technologies: Wi-Fi. Best Sellers Rank: #135 in Electronics (See Top 100 in Electronics) #1 in Car On-Dash Mounted Cameras. Customer Reviews: 4.8    4.8 out of 5 stars         (4,685)           4.8 out of 5 stars. Item model number: D016. ASIN: B0FC6S2R7K. Item Weight: 1.94 pounds. Product Dimensions: 1.46 x 3.4 x 1.97 inches.",
+    "recent_sales": "10K+ bought in past month",
+    "gift_guide_badge": {
+      "badge_text": "10K+ bought in past month"
+    },
+    "color": "Black",
+    "manufacturer": "TERUNSOUl",
+    "weight": "1.94 pounds",
+    "first_available": {
+      "raw": "August 18, 2025",
+      "utc": "2025-08-18T00:00:00.000Z"
+    },
+    "dimensions": "1.46 x 3.4 x 1.97 inches",
+    "model_number": "D016",
+    "bestsellers_rank_flat": "Category: Electronics | Rank: 135, Category: Car On-Dash Mounted Cameras | Rank: 1",
+    "whats_in_the_box": [
+      "4K Dash Cam Front, 4K Rear Camera",
+      "TERUNSOUl 128GB memory Card",
+      "GPS Suction Cup Mount",
+      "21ft Rear Cam Extension Cable, 11ft USB-C Fast Car Charger",
+      "User Manual, Quick Start Guide, 5x Cable Clips, Wire Trim Tool, Electrostatic Films, Cleaning Pads"
+    ]
+  },
+  "climate_pledge_friendly": {
+    "certifications": [
+      {
+        "name": "Sustainability features  Recycled materials  Safer chemicals  Worker well-being",
+        "image": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+      },
+      {
+        "name": "Sustainability features",
+        "image": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+      },
+      {
+        "name": "Sustainability features",
+        "image": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+      },
+      {
+        "name": "Sustainability features"
+      },
+      {
+        "name": "Recycled materials  Safer chemicals  Worker well-being",
+        "image": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+      },
+      {
+        "name": "Recycled materials"
+      },
+      {
+        "name": "Safer chemicals"
+      },
+      {
+        "name": "Worker well-being"
+      }
+    ]
+  },
+  "brand_store": {
+    "id": "5B692166-D76E-4D98-9B31-1D49CF4D5BEF",
+    "link": "https://www.amazon.com/stores/HOME/page/5B692166-D76E-4D98-9B31-1D49CF4D5BEF"
+  }
+}

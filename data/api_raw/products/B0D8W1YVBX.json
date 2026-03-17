@@ -1,0 +1,1130 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 2,
+    "credits_remaining": 98,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "type": "product",
+    "asin": "B0D8W1YVBX",
+    "amazon_domain": "amazon.com"
+  },
+  "request_metadata": {
+    "created_at": "2026-03-17T15:35:23.752Z",
+    "processed_at": "2026-03-17T15:35:30.535Z",
+    "total_time_taken": 6.78,
+    "amazon_url": "https://www.amazon.com/dp/B0D8W1YVBX?th=1&psc=1"
+  },
+  "product": {
+    "title": "EQQUALBERRY Vitamin Illuminating Serum | Niacinamide 4% + Brightening Vitamin C Face Serum with Hyaluronic Acid & Vitamin E | Dark Spot, Uneven Tone Care | Korean Skincare, 1.01 fl.oz Acerola Vitamin C Serum",
+    "search_alias": {
+      "title": "Beauty & Personal Care",
+      "value": "search-alias=beauty"
+    },
+    "title_excluding_variant_name": "EQQUALBERRY Vitamin Illuminating Serum | Niacinamide 4% + Brightening Vitamin C Face Serum with Hyaluronic Acid & Vitamin E | Dark Spot, Uneven Tone Care | Korean Skincare, 1.01 fl.oz",
+    "keywords": "EQQUALBERRY Vitamin Illuminating Serum | Niacinamide 4% + Brightening Vitamin C Face Serum with Hyaluronic Acid & Vitamin E | Dark Spot, Uneven Tone Care | Korean Skincare, 1.01 fl.oz Acerola Vitamin C Serum",
+    "keywords_list": [
+      "EQQUALBERRY Vitamin Illuminating Serum | Niacinamide 4% + Brightening Vitamin C Face Serum with Hyaluronic Acid & Vitamin E | Dark Spot",
+      "Uneven Tone Care | Korean Skincare",
+      "1.01 fl.oz Acerola Vitamin C Serum"
+    ],
+    "is_collection": false,
+    "asin": "B0D8W1YVBX",
+    "parent_asin": "B0GPVVZS91",
+    "link": "https://www.amazon.com/EQQUALBERRY-Vitamin-Illuminating-Serum-Brightening/dp/B0D8W1YVBX",
+    "brand": "EQQUALBERRY",
+    "sell_on_amazon": false,
+    "variants": [
+      {
+        "asin": "B0D8W2W8C2",
+        "title": "Plumping Bakuchiol Serum",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0D8W2W8C2?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Plumping Bakuchiol Serum"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/61kYGm6bLYL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/61kYGm6bLYL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0FGQ27SFL",
+        "title": "Soothing Hyaltoin Serum",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0FGQ27SFL?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Soothing Hyaltoin Serum"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/61wVFrPwAaL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/61wVFrPwAaL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0FGQ2G8MB",
+        "title": "Vegan PDRN Serum",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0FGQ2G8MB?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Vegan PDRN Serum"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/61eg73zDhuL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/61eg73zDhuL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0D8W1YVBX",
+        "title": "Acerola Vitamin C Serum",
+        "is_current_product": true,
+        "link": "https://www.amazon.com/dp/B0D8W1YVBX?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Acerola Vitamin C Serum"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/614vlOIc8YL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/614vlOIc8YL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0FGQ3J31K",
+        "title": "NAD+ Peptide Serum",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0FGQ3J31K?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "NAD+ Peptide Serum"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/61r4soAaZcL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/61r4soAaZcL._SL1500_.jpg"
+          }
+        ]
+      }
+    ],
+    "variant_asins_flat": "B0D8W2W8C2,B0FGQ27SFL,B0FGQ2G8MB,B0D8W1YVBX,B0FGQ3J31K",
+    "proposition_65_warning": false,
+    "has_size_guide": true,
+    "add_on_item": {
+      "is_add_on_item": true
+    },
+    "categories": [
+      {
+        "name": "Beauty & Personal Care",
+        "link": "https://www.amazon.com/Beauty-Makeup-Skin-Hair-Products/b/ref=dp_bc_1?ie=UTF8&node=3760911",
+        "category_id": "3760911"
+      },
+      {
+        "name": "Skin Care",
+        "link": "https://www.amazon.com/Skin-Body-Face-Products/b/ref=dp_bc_2?ie=UTF8&node=11060451",
+        "category_id": "11060451"
+      },
+      {
+        "name": "Face",
+        "link": "https://www.amazon.com/Face-Skin-Care-Lotion-Products/b/ref=dp_bc_3?ie=UTF8&node=11060711",
+        "category_id": "11060711"
+      },
+      {
+        "name": "Treatments & Masks",
+        "link": "https://www.amazon.com/Facial-Treatments-Masks/b/ref=dp_bc_4?ie=UTF8&node=11062031",
+        "category_id": "11062031"
+      },
+      {
+        "name": "Serums",
+        "link": "https://www.amazon.com/Facial-Serums/b/ref=dp_bc_5?ie=UTF8&node=7792528011",
+        "category_id": "7792528011"
+      }
+    ],
+    "categories_flat": "Beauty & Personal Care > Skin Care > Face > Treatments & Masks > Serums",
+    "sub_title": {
+      "text": "Visit the EQQUALBERRY Store",
+      "link": "https://www.amazon.com/stores/EQQUALBERRY/page/ACB77B95-8FED-4CE7-BB3D-5F4989C724E7?lp_asin=B0D8W1YVBX&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto"
+    },
+    "amazons_choice": {
+      "link": "https://www.amazon.com/EQQUALBERRY-Vitamin-Illuminating-Serum-Brightening/dp/B0D8W1YVBX",
+      "badge_text": "Amazon's  Choice"
+    },
+    "marketplace_id": "ATVPDKIKX0DER",
+    "rating": 4.4,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 74,
+        "count": 6180
+      },
+      "four_star": {
+        "percentage": 9,
+        "count": 752
+      },
+      "three_star": {
+        "percentage": 7,
+        "count": 585
+      },
+      "two_star": {
+        "percentage": 3,
+        "count": 251
+      },
+      "one_star": {
+        "percentage": 7,
+        "count": 585
+      }
+    },
+    "ratings_total": 8351,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/614vlOIc8YL.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/71DguQxEgBL._SL1500_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61SfukLoJmL._SL1500_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71BmMnxG3wL._SL1500_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71VSvStetFL._SL1500_.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/712lz4T+6QL._SL1500_.jpg",
+        "variant": "PT05"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71IBfMRKibL._SL1500_.jpg",
+        "variant": "PT06"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61jXqc6sB0L._SL1500_.jpg",
+        "variant": "PT07"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71cACm1XcFL._SL1500_.jpg",
+        "variant": "PT08"
+      }
+    ],
+    "images_count": 8,
+    "images_flat": "https://m.media-amazon.com/images/I/71DguQxEgBL._SL1500_.jpg,https://m.media-amazon.com/images/I/61SfukLoJmL._SL1500_.jpg,https://m.media-amazon.com/images/I/71BmMnxG3wL._SL1500_.jpg,https://m.media-amazon.com/images/I/71VSvStetFL._SL1500_.jpg,https://m.media-amazon.com/images/I/712lz4T+6QL._SL1500_.jpg,https://m.media-amazon.com/images/I/71IBfMRKibL._SL1500_.jpg,https://m.media-amazon.com/images/I/61jXqc6sB0L._SL1500_.jpg,https://m.media-amazon.com/images/I/71cACm1XcFL._SL1500_.jpg",
+    "videos_count": 7,
+    "videos_additional": [
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0c2d5e04ee5b46039aa0062b109ef7ad",
+        "product_asin": "B0D8W1YVBX",
+        "parent_asin": "B0GPVVZS91",
+        "related_products": "B0D8W1YVBX",
+        "title": "I just tried this serum and I love it",
+        "profile_image_url": "https://m.media-amazon.com/images/I/81rhrB1cxeL._CR0,0,1761,1761_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/mary_naulita",
+        "public_name": "María Naula",
+        "vendor_code": "mary_naulita:shop",
+        "vendor_name": "María Naula",
+        "vendor_tracking_id": "onamzmar081c7-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/518JDpXwYVL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/518JDpXwYVL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "363",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/bd1662b7-d433-4427-bf7a-1e5c3b08852b/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/34aa6e20-c6f1-42aa-bf16-c954ed528561/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/34aa6e20-c6f1-42aa-bf16-c954ed528561/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:28",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/d5bb78a5-c9ac-4f6b-8f10-8f69737a82d2.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.07fcfcaafe64478fb702616146340409",
+        "product_asin": "B0D8W1YVBX",
+        "parent_asin": "B0GPVVZS91",
+        "related_products": "B0D8W1YVBX",
+        "title": "This serum is the best",
+        "profile_image_url": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SL34_.png",
+        "profile_link": "/gp/profile/amzn1.account.AEYFVIUSNUTOGRQPWHJISWUC4ABA",
+        "public_name": "Evelyn",
+        "vendor_code": "AOD60",
+        "vendor_name": "Evelyn",
+        "video_image_url": "https://m.media-amazon.com/images/I/71Iu3SQ+z7L._CR0,0,2160,1219_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/71Iu3SQ+z7L.jpg",
+        "video_image_width": "2160",
+        "video_image_height": "3840",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/6a10c7cd-870e-4b0b-b89d-6495b8deb657/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/964b0870-a423-45e1-97ce-b6ef67ab14ec/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/964b0870-a423-45e1-97ce-b6ef67ab14ec/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:30"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.07200f1edbf64091a09a6c1a11316181",
+        "product_asin": "B0D8W1YVBX",
+        "parent_asin": "B0GPVVZS91",
+        "related_products": "B0D8W1YVBX",
+        "title": "It clarifies incredibly, leaving your skin soft and hydrated",
+        "profile_image_url": "https://m.media-amazon.com/images/I/71wA1YZCtrL._CR0,0,1265,1265_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/eleidapaola",
+        "public_name": "Eleidacastro",
+        "vendor_code": "eleidapaola:shop",
+        "vendor_name": "Eleidacastro",
+        "vendor_tracking_id": "onamzeleidaca-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/61rmXxA5YZL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61rmXxA5YZL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1169",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/17545d13-a096-4a3e-b9bb-caf74f845609/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/5939d474-5caf-4927-8315-187f72a9ef1b/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/5939d474-5caf-4927-8315-187f72a9ef1b/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:53",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/1eedf7ce-bc63-4ec3-8d8c-f2eb57a4f14c.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.070e64783f414853b0dfff4fd54c433e",
+        "product_asin": "B0D8W1YVBX",
+        "parent_asin": "B0GPVVZS91",
+        "related_products": "B0FGQ2G8MB,B0FGQ27SFL,B0D8W1YVBX",
+        "title": "Comparison of these Korean skincare serum!",
+        "profile_image_url": "https://m.media-amazon.com/images/I/B1Gq1Z6yYuL._CR0,371,1773,1773_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/blossomdailyfinds",
+        "public_name": "Blossom K Ryniejski",
+        "vendor_code": "blossomdailyfinds:shop",
+        "vendor_name": "Blossom K Ryniejski",
+        "vendor_tracking_id": "onamzkayaka04-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/A1IvQ+UZLVL._CR0,0,1080,609_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/A1IvQ+UZLVL.png",
+        "video_image_width": "1080",
+        "video_image_height": "1920",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/fddbfbc5-c770-41ac-b1b0-7289eefe8977/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/42d06215-db40-4fc6-a02e-327562d50bae/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/42d06215-db40-4fc6-a02e-327562d50bae/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:34",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/4e8cac48-ebdc-47c3-9cc6-806ee32a11aa.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.090d5dad357a4e0cb7b920b631ae5a45",
+        "product_asin": "B0D8W1YVBX",
+        "parent_asin": "B0GPVVZS91",
+        "related_products": "B0D8W1YVBX",
+        "title": "Eqqualberry vitamin a must have",
+        "profile_image_url": "https://m.media-amazon.com/images/I/A1HyqVczHbL._CR0,0,2320,2320_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/dianapalacios27",
+        "public_name": "Diana’s Trendy Amazon Finds",
+        "vendor_code": "dianapalacios27:shop",
+        "vendor_name": "Diana’s Trendy Amazon Finds",
+        "vendor_tracking_id": "onamzdian0ea3-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/51PF6nD4t7L._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/51PF6nD4t7L.jpg",
+        "video_image_width": "640",
+        "video_image_height": "743",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/eb203c17-9199-4550-8bca-46bf55b309da/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/477807a0-5e2c-4c3c-8a48-c28031af7e1e/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/477807a0-5e2c-4c3c-8a48-c28031af7e1e/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:18",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/6d8467c9-2c61-4454-aa80-531267565478.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0637c496e2bb479ea4cc0a3664afab95",
+        "product_asin": "B0D8W1YVBX",
+        "parent_asin": "B0GPVVZS91",
+        "related_products": "B0D8W1YVBX",
+        "title": "All active ingredients, no water",
+        "profile_image_url": "https://m.media-amazon.com/images/I/51+MWNoGh8L._CR0,0,500,500_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/influencer-4c65e5e9",
+        "public_name": "TheQueendomPicks",
+        "vendor_code": "influencer-4c65e5e9:shop",
+        "vendor_name": "TheQueendomPicks",
+        "vendor_tracking_id": "onamznelofara-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/51xCR8bOkVL._CR1,0,638,360_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/51xCR8bOkVL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "360",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/47f066bd-8ee6-4dca-99aa-4ed6dba5a75a/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/9d3f57e3-a179-4efc-b9d7-893ff134750e/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/9d3f57e3-a179-4efc-b9d7-893ff134750e/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:10",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/3632e231-b117-4139-ae3a-d00f2cf02b8f.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0aac9a070d674208911030b3b07b3221",
+        "product_asin": "B0D8W1YVBX",
+        "parent_asin": "B0GPVVZS91",
+        "related_products": "B0D8W1YVBX",
+        "title": "eqqalberry korean beauty illuminating serum so good",
+        "profile_image_url": "https://m.media-amazon.com/images/I/81wi66dcHHL._CR0,0,1250,1250_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/denisecrew",
+        "public_name": "DENiSE CREW.",
+        "vendor_code": "denisecrew:shop",
+        "vendor_name": "DENiSE CREW.",
+        "vendor_tracking_id": "onamzdeniscre-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/A12l-XpTCmL._CR0,0,640,361_SR342,193_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/A12l-XpTCmL.png",
+        "video_image_width": "640",
+        "video_image_height": "1135",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e7011486-baca-4d14-8db4-b301139ea103/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/cb9a54e8-40df-4e2f-bd86-f9093b4f5117/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/cb9a54e8-40df-4e2f-bd86-f9093b4f5117/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:54",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/92c1089a-f8bf-4f40-8904-15ecf04591b6.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0950abad53b04c39ad12c6fc3c5568cf",
+        "product_asin": "B0D8W1YVBX",
+        "parent_asin": "B0GPVVZS91",
+        "related_products": "B0D8W1YVBX",
+        "title": "Belleza e luminada piel",
+        "profile_image_url": "https://m.media-amazon.com/images/S/amazon-avatars-global/c21cf3d2-7458-4e00-9c8f-815726bbe4f5._CR0%2C0%2C500%2C500_SX460_._SL34_.jpeg",
+        "profile_link": "/gp/profile/amzn1.account.AG6KLRHZXLACK7IQY2PTGS5OPZAA",
+        "public_name": "MORELA MARCIAL",
+        "vendor_code": "UGCOCP",
+        "vendor_name": "MORELA MARCIAL",
+        "video_image_url": "https://m.media-amazon.com/images/I/614LhOxBmKL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/614LhOxBmKL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1137",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/37c45259-6ea3-42b2-97e2-5bbf89bd0cbd/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/29b2629e-65ba-46f0-a7da-c5d2acc039e8/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/29b2629e-65ba-46f0-a7da-c5d2acc039e8/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:43",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/b685efd1-5260-4cea-bb4b-40f7bf401346.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.069ba84a70ca4ae3a392309ab9ea92ea",
+        "product_asin": "B0D8W1YVBX",
+        "parent_asin": "B0GPVVZS91",
+        "related_products": "B0FGQ3J31K",
+        "title": "Eqqualberry NAD+ peptide",
+        "profile_image_url": "https://m.media-amazon.com/images/I/A1HfXJyjeiL._CR0,0,3334,3333_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/marinfluencer",
+        "public_name": "Mariana Reyes",
+        "vendor_code": "marinfluencer:shop",
+        "vendor_name": "Mariana Reyes",
+        "vendor_tracking_id": "onamzmar0913d-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/61gGc0KFh+L._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61gGc0KFh+L.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1137",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/88c4ceb3-bd6b-4af3-83d7-934a676d30ce/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/48ecc3b7-b8ec-4f3d-8cea-2c9b3871fd74/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/48ecc3b7-b8ec-4f3d-8cea-2c9b3871fd74/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:39",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/e5aec7e0-87d7-4fd2-bf37-d785482c0cc0.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.057fa010e6dd469abb6fb1c3c7131594",
+        "product_asin": "B0D8W1YVBX",
+        "parent_asin": "B0GPVVZS91",
+        "related_products": "B0DYJG9KZ4,B0D8W1YVBX,B0DLWLLHFK",
+        "title": "Love this Vitamin rich combo!",
+        "profile_image_url": "https://m.media-amazon.com/images/I/61U6+yc9usL._CR0,0,564,564_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/its.reel.pearl",
+        "public_name": "PARUL",
+        "vendor_code": "its.reel.pearl:shop",
+        "vendor_name": "PARUL",
+        "vendor_tracking_id": "onamzparul06b-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/81ivPFtLTyL._CR0,0,1080,609_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/81ivPFtLTyL.jpg",
+        "video_image_width": "1080",
+        "video_image_height": "1920",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/1f985671-c8b9-4fd3-8227-0ec7dcc1f6f1/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/26b3bc27-95da-43bb-b23c-fd8b92aae52d/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/26b3bc27-95da-43bb-b23c-fd8b92aae52d/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:30",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/bd2a1c5b-4929-420f-8f65-71781349135a.vtt"
+      }
+    ],
+    "is_bundle": false,
+    "feature_bullets": [
+      "NATURAL VITAMIN C RADIANCE : VITAQUEEN Acerola 40% delivers a dewy infusion, toning skin, restoring glow, and boosting health for radiant, glass-like skin – hello, glow-up!",
+      "TRIPLE BEAUTY REMEDY : Niacinamide 4% + Arbutin 2% swoop in to visibly improve the look of spots, help skin look clearer and even for a flawless complexion.",
+      "ANTI-AGING & SKIN VIBRANCE SOLUTION: Vitamin E, Ferulic Acid & Tranexamic Acid enhance radiance, reduce wrinkles, and support a youthful, smooth texture.",
+      "DEEP MOISTURE & BARRIER REPAIR : 5 ceramides + 8 hyaluronic acids lock in hydration, strengthen your barrier, and leave skin soft, supple – perfect for people with sensitive skin too!",
+      "LIGHTWEIGHT, NON-STICKY SELF CARE : EWG Green Grade, silicone/paraben-free drops formula absorbs fast, perfect for neck, face, body application.",
+      "EWG VERIFIED: Every ingredient is carefully selected to meet the highest standards for purity and safety."
+    ],
+    "feature_bullets_count": 6,
+    "feature_bullets_flat": "EWG VERIFIED: Every ingredient is carefully selected to meet the highest standards for purity and safety. LIGHTWEIGHT, NON-STICKY SELF CARE : EWG Green Grade, silicone/paraben-free drops formula absorbs fast, perfect for neck, face, body application. DEEP MOISTURE & BARRIER REPAIR : 5 ceramides + 8 hyaluronic acids lock in hydration, strengthen your barrier, and leave skin soft, supple – perfect for people with sensitive skin too!. ANTI-AGING & SKIN VIBRANCE SOLUTION: Vitamin E, Ferulic Acid & Tranexamic Acid enhance radiance, reduce wrinkles, and support a youthful, smooth texture. TRIPLE BEAUTY REMEDY : Niacinamide 4% + Arbutin 2% swoop in to visibly improve the look of spots, help skin look clearer and even for a flawless complexion. NATURAL VITAMIN C RADIANCE : VITAQUEEN Acerola 40% delivers a dewy infusion, toning skin, restoring glow, and boosting health for radiant, glass-like skin – hello, glow-up!.",
+    "top_reviews": [
+      {
+        "id": "R39LQI7P2SIQLF",
+        "title": "Great product",
+        "body": "I’m starting to see a difference in my skin, looks brighter and more even. The serum feels gentle, no itching or dryness. It absorbs well and works great when followed with a moisturizer. So far, I’m really happy with the results",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on March 12, 2026"
+        },
+        "profile": {
+          "name": "Layret"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 5,
+        "link": "https://www.amazon.com/gp/customer-reviews/R39LQI7P2SIQLF/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R1PNR2ZDE08YJ0",
+        "title": "All around great Serum!!!!!",
+        "body": "I absolutely love this product! When I first received it, I thought something was wrong because I was expecting a smooth, solid serum. Then I realized it’s supposed to have the little particles in it and everything was perfectly fine.This has been a total game changer for my skin. It’s incredibly effective!  I’ve noticed my face looks brighter, more even, and healthier overall. It also provides great hydration without feeling heavy or greasy. My skin feels soft, refreshed, and moisturized after using it.There’s no smell at all, which I really appreciate. I honestly have nothing bad to say about it and will definitely continue to buy. I’m actually excited to try the purple one next!Highly recommend!",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on February 16, 2026"
+        },
+        "profile": {
+          "name": "Lena & Star"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 100,
+        "link": "https://www.amazon.com/gp/customer-reviews/R1PNR2ZDE08YJ0/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R24ACA7NOIZTGC",
+        "title": "Good product! Smells great",
+        "body": "Love this stuff. Makes my skin feel good. Gives a nice glow and seems to be working well. The consistency is thick but not too much. It blends in very well and sneaks great too.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on March 10, 2026"
+        },
+        "profile": {
+          "name": "Sarah Barrett"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 5,
+        "link": "https://www.amazon.com/gp/customer-reviews/R24ACA7NOIZTGC/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R291MDNPH7M7NP",
+        "title": "excellent",
+        "body": "My wife asked me to buy her this product, and I've noticed that her face is brighter and smoother. She's very happy with the change she's noticed in her skin. It doesn't irritate the skin, helps with wrinkles, and the bottle is a good size. The product is very effective. This product maintains its quality.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on March 11, 2026"
+        },
+        "profile": {
+          "name": "vicente perez"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 13,
+        "link": "https://www.amazon.com/gp/customer-reviews/R291MDNPH7M7NP/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R2J862V4QZZS6I",
+        "title": "Good difference in a weeks use",
+        "body": "I’ve been using this face serum for about a week and a half now, and I can already see a good difference in my skin. My face looks more fresh, smooth, and a little brighter. It feels very light on the skin and absorbs quickly. I’m really happy with the results so far and will definitely keep using it.",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in the United States on March 12, 2026"
+        },
+        "profile": {
+          "name": "Iramnaz Shaikh"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 15,
+        "link": "https://www.amazon.com/gp/customer-reviews/R2J862V4QZZS6I/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R2JYLGIJ50B8U6",
+        "title": "Brightening Without Irritation",
+        "body": "I’ve been using the EOQUALBERRY Vitamin Illuminating Serum for a few weeks now, and I’m really happy with it. The texture is lightweight and absorbs quickly without feeling sticky or greasy.I like that it combines niacinamide and vitamin C. My skin looks a little brighter and more even, and it feels smoother overall. I haven’t experienced any irritation, which is important for me.It layers well with moisturizer and sunscreen, so it fits easily into my daily routine. A small amount goes a long way.Overall, a great serum if you’re looking for something gentle that still gives visible results. Value for the money",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on February 24, 2026"
+        },
+        "profile": {
+          "name": "Ervey Gonzalez"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 33,
+        "link": "https://www.amazon.com/gp/customer-reviews/R2JYLGIJ50B8U6/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R2WYUJRFHBNO41",
+        "title": "Subtle and Slow Results",
+        "body": "I've been using this serum for a little while now and have just about finished the bottle. I like that it's a very gentle, non-irritating formula. It doesn't have a scent and it absorbs into my skin really quickly without leaving a sticky feel. I've been applying it consistently to see how it handles discoloration, especially on my elbows.The serum does brighten and lighten dark spots, but I've noticed it happens very slowly. It isn't nearly as dramatic as the results shown in the advertisements. You really have to stay on top of using it every day to see any progress. While I think it works fine for general brightening, I was hoping for something with a bit more strength for tougher areas like my dark elbows. Based on the campaign ads and social media hype, I expected much stronger results in brightening and softening.It's a nice product to use because of how well it sinks in, but it just didn't give me the level of results I was looking for. Since I want something more powerful for lightening, I probably won't repurchase this one anytime soon. I'm going to keep trying different products until I find something that works a bit faster on those stubborn spots.",
+        "rating": 3,
+        "date": {
+          "raw": "Reviewed in the United States on February 19, 2026"
+        },
+        "profile": {
+          "name": "Emmie B."
+        },
+        "verified_purchase": true,
+        "helpful_votes": 181,
+        "link": "https://www.amazon.com/gp/customer-reviews/R2WYUJRFHBNO41/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R19CDLYNCKBDB5",
+        "title": "This serum really works ❣️",
+        "body": "Wow 🤩 read the reviews and thought this sounds too good to be true but I stand corrected it really does work.  My face looks and feels great!  I have some dark spots around my eyes and lips and has now even out.  My face looks refreshed and with this glow.  I can honestly say I love this product ❣️While carrying my cat the other day he got spooked and scratched my forearm looked pretty scratched so I decided to put the serum on and wow by next day the scratches were gone!!!These stuff really do work!  I used it in the morning and at night after bathing or after washing my face.  I love the way my face feels and glows after I put it on.I used to wear a foundation to cover my uneven tones since using this serum not anymore.  My face looks so even and great, I don’t have to anymore ❣️If you’re thinking about trying it, think no more these stuff really works !  I love it and plan to use it going forward ❣️",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on March 3, 2026"
+        },
+        "profile": {
+          "name": "Sandra Z"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 19,
+        "link": "https://www.amazon.com/gp/customer-reviews/R19CDLYNCKBDB5/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R15BVCIY3E3VM5",
+        "title": "K",
+        "body": "Amazing product and very fast delivery thank you",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Australia on January 22, 2026"
+        },
+        "profile": {
+          "name": "sarah Hanna"
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "R1FM45BXQUPNC6",
+        "body": "Producto muy efectivo, a los 3 días de usarlo ya noté mejora. Cumple exactamente lo que promete. Deja un acabado sedoso y lo mejor, es inodoro.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Spain on January 12, 2026"
+        },
+        "profile": {
+          "name": "beatrice duodu"
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "R1IGS39CEGNTZ5",
+        "body": "كتير كويس",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in Sweden on February 19, 2026"
+        },
+        "profile": {
+          "name": "Baydaa Nezami✨✨✨✨"
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "R1V39TPZ79BFIJ",
+        "body": "Le doy un 10/10.Si aclara, reduce la piel, no reseca.Totalmente lo volvería a comprar.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Mexico on January 26, 2026"
+        },
+        "profile": {
+          "name": "Grettell Castillo"
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "R25XOFGRZYCSJA",
+        "title": "Remove acne’s scars",
+        "body": "I highly recommend this product",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United Arab Emirates on February 10, 2026"
+        },
+        "profile": {
+          "name": "Sabrine rose Diva"
+        },
+        "verified_purchase": true
+      }
+    ],
+    "bestsellers_rank": [
+      {
+        "rank": 22,
+        "category": "Beauty & Personal Care",
+        "link": "https://www.amazon.com/gp/bestsellers/beauty/ref=pd_zg_ts_beauty"
+      },
+      {
+        "rank": 2,
+        "category": "Facial Serums",
+        "link": "https://www.amazon.com/gp/bestsellers/beauty/7792528011/ref=pd_zg_hrsr_beauty"
+      }
+    ],
+    "a_plus_content": {
+      "has_a_plus_content": true,
+      "has_brand_story": true,
+      "brand_story": {
+        "hero_image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/70268036-afe2-4ef4-b921-f528f302cf8c.__CR0,0,1464,625_PT0_SX1464_V1___.jpg",
+        "brand_store": {
+          "link": "/stores/page/102C345D-131C-45F7-B461-65D21070F042",
+          "id": "102C345D-131C-45F7-B461-65D21070F042"
+        },
+        "images": [
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/70268036-afe2-4ef4-b921-f528f302cf8c.__CR0,0,1464,625_PT0_SX1464_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/20fe2083-99cf-4b9a-90ad-af28c602dbd7.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/15c87c41-9548-43b6-a7a0-a67638443979.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6bbd2b55-3d48-4863-a5c9-6010ef8110fa.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2a94ea88-0159-4c07-a827-85bcb3efe28b.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/42cb6a93-b405-4147-841f-9492c4826a5c.__CR0,0,362,453_PT0_SX362_V1___.jpg"
+        ]
+      },
+      "all_images": [
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/214ab117-e58e-4ce7-951e-4ce779a1aeae.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+          "name": "eqqualberry, equalberry, vitamin, vitamin c, serum, illuminating, k-beauty, skincare, korean beauty"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/41b69151-2011-4a7a-aafc-e5fbb01d46da.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "eqqualberry, equalberry, vitamin, vitamin c, serum, illuminating, k-beauty, skincare, korean beauty"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6fc00d3e-7a0d-4210-97fd-fe55de47bb9b.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "eqqualberry, equalberry, vitamin, vitamin c, serum, illuminating, k-beauty, skincare, korean beauty"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4ae2b645-1412-4494-a89a-de55627f9998.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "eqqualberry, equalberry, vitamin, vitamin c, serum, illuminating, k-beauty, skincare, korean beauty"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0cd04bab-8223-4b2b-ab4b-6e07de6bfcdc.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "eqqualberry, equalberry, vitamin, vitamin c, serum, illuminating, k-beauty, skincare, korean beauty"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/849ef4bf-c604-4859-9c36-39295dd72fc1.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "eqqualberry, equalberry, vitamin, vitamin c, serum, illuminating, k-beauty, skincare, korean beauty"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a22418ad-8d1d-4bbc-bc8e-385ef9fc880e.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "eqqualberry, equalberry, vitamin, vitamin c, serum, illuminating, k-beauty, skincare, korean beauty"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4ad2fe10-8495-41f3-ac13-07f43635749a.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "eqqualberry, equalberry, vitamin, vitamin c, serum, illuminating, k-beauty, skincare, korean beauty"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c8d5138a-a0f1-4a31-8fb0-0713dba82175.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "eqqualberry, equalberry, vitamin, vitamin c, serum, illuminating, k-beauty, skincare, korean beauty"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2a0faa51-79f4-4002-9b2d-f3b70e50d340.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+          "name": "eqqualberry, equalberry, vitamin, vitamin c, serum, illuminating, k-beauty, skincare, korean beauty"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c93e1a6c-0f1a-432a-a23a-a8311568ecfc.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "eqqualberry, equalberry, vitamin, vitamin c, serum, illuminating, k-beauty, skincare, korean beauty"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/752b7295-17bd-4957-aeb8-4dea04dd5b05.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "eqqualberry, equalberry, vitamin, vitamin c, serum, illuminating, k-beauty, skincare, korean beauty"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e82e890d-97e8-4dee-8d33-728c396de106.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "eqqualberry, equalberry, vitamin, vitamin c, serum, illuminating, k-beauty, skincare, korean beauty"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0a7d1d10-d880-407d-8cad-b00a3655f70a.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "eqqualberry, equalberry, vitamin, vitamin c, serum, illuminating, k-beauty, skincare, korean beauty"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/cea8fe33-a7f1-4c14-840a-e247b74b1b19.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "eqqualberry, equalberry, vitamin, vitamin c, serum, illuminating, k-beauty, skincare, korean beauty"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5b57e2af-cbf3-468c-b156-fc2b322cbbd9.__AC_SR200,225___.jpg",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/cbd50ae3-a67a-46d9-92ac-ffaf4b55ceee.__AC_SR200,225___.jpg",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ae3cfcd9-2c1b-409f-8bfd-25608ee89243.__AC_SR200,225___.jpg",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7a7a0c76-f100-4533-aa62-46c1c58bb1e1.__CR83,0,1333,1500_PT0_SX200_V1___.png",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/41rfifhmznL.__AC_SR200,225___.jpg",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/70268036-afe2-4ef4-b921-f528f302cf8c.__CR0,0,1464,625_PT0_SX1464_V1___.jpg",
+          "name": "background"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/20fe2083-99cf-4b9a-90ad-af28c602dbd7.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+          "name": "brand story"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/15c87c41-9548-43b6-a7a0-a67638443979.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+          "name": "smoothie serums"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c960c06d-6574-4a49-9fa3-c1eb0bf0fa8a.__AC_SR166,182___.jpg",
+          "name": "EQQUALBERRY NAD+ Peptide Boosting Smoothie Serum – Anti-Aging Korean Skin Care with 5 Ceramides &amp;..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6131607e-77bb-4d98-89bc-adf959a8d457.__AC_SR166,182___.jpg",
+          "name": "EQQUALBERRY Aloe PDRN Calming Smoothie Serum – Soothing Korean Skin Care for Sensitive Skin, Cica..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/01da0247-10a9-4492-a9e4-7afd3eae6fa8.__AC_SR166,182___.jpg",
+          "name": "EQQUALBERRY Hyaltoin Flooding Smoothie Serum – Deep Hydrating Korean Skin Care with 11 Hyaluronic..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7eacb7ab-e7f6-43a4-a1d2-35cedcb59c99.__AC_SR166,182___.jpg",
+          "name": "EQQUALBERRY NAD+ Peptide Boosting Smoothie Serum – Anti-Aging Korean Skin Care with 5 Ceramides &amp;..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6bbd2b55-3d48-4863-a5c9-6010ef8110fa.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+          "name": "glow filter"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5b57e2af-cbf3-468c-b156-fc2b322cbbd9.__AC_SR166,182___.jpg",
+          "name": "EQQUALBERRY Vitamin Illuminating Serum – Brightening Vitamin C Serum with Niacinamide | Strengthe..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2a2e7b45-3154-43ed-8877-7847560a60af.__AC_SR166,182___.jpg",
+          "name": "EQQUALBERRY Radiance Boosting Duo – Vitamin Illuminating Serum &amp; Collagen Glow Up Gel Toner Pads ..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/92c44e66-4630-44ca-82ab-2c007e5fd69e.__AC_SR166,182___.jpg",
+          "name": "EQQUALBERRY Radiance Boosting Duo – Vitamin Illuminating Serum &amp; Collagen Glow Up Mask | Niacinam..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2a94ea88-0159-4c07-a827-85bcb3efe28b.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+          "name": "deep cera"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e3ff435d-65e3-4e7b-bf27-a5158d9f8590.__AC_SR166,182___.jpg",
+          "name": "EQQUALBERRY Bakuchiol Plumping Face Serum - Retinol Natural Alternative for Sensitive Skin, with ..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f179718d-d7ab-4c4d-ab5a-c949a27143ed.__AC_SR166,182___.jpg",
+          "name": "EQQUALBERRY Bakuchiol Duo – Serum &amp; Capsule Cream Set for Firming, Smoothing &amp; Hydrating | Gentle..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ba06e982-3498-4517-85f7-801e5ba06311.__AC_SR166,182___.jpg",
+          "name": "EQQUALBERRY Firming &amp; Pore Care Duo – Bakuchiol Plumping Serum &amp; Collagen Pore-Tight Up Mask | Re..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/89b3283f-1dc0-431d-9640-9ed7ae58c4d0.__AC_SR166,182___.jpg",
+          "name": "Bakuchiol Plumping Capsule Cream – Retinol Alternative Moisturizer for Firming and Pore Care with..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/42cb6a93-b405-4147-841f-9492c4826a5c.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+          "name": "swimming pool"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/72038dd8-dad8-40a5-8f7b-93fcd4052aa4.__AC_SR166,182___.jpg",
+          "name": "EQQUALBERRY Swimming Pool Toner - Korean Toner for Daily Exfoliating &amp; Deep Hydration with Natura..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/614bd547-0fe8-4e03-bef7-ea7d53ee91ba.__AC_SR166,182___.jpg",
+          "name": "EQQUALBERRY Swimming Pool Toner Pads - Dual-Textured Facial Toner Pads for Pore Care and Gentle E..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b0b73630-3cec-4ae9-aa6b-9a0bc4d8c31d.__AC_SR166,182___.jpg",
+          "name": "EQQUALBERRY Swimming Pool Ampoule - Hyaluronic Acid Serum for Glass Skin | Deep Hydration and Soo..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/79700190-ed45-4415-bfb5-37c1c1f574b4.__AC_SR166,182___.jpg",
+          "name": "EQQUALBERRY Swimming Pool Toner &amp; Ampoule Set – Hydrating &amp; Soothing Duo for All Skin Types | Kor..."
+        }
+      ],
+      "third_party": false
+    },
+    "buybox_winner": {
+      "maximum_order_quantity": {
+        "value": 30,
+        "hard_maximum": true
+      },
+      "subscribe_and_save": {
+        "base_discount_percentage": 10,
+        "tiered_discount_percentage": 15,
+        "delivery_message": "Save 10% now and up to 15% on repeat deliveries.  No fees Cancel anytime",
+        "default_delivery": "1 month (Most common)",
+        "base_price": {
+          "value": 17.99,
+          "currency": "USD",
+          "symbol": "$",
+          "raw": "17.99"
+        },
+        "tiered_price": {
+          "value": 16.99,
+          "currency": "USD",
+          "symbol": "$",
+          "raw": "16.99"
+        }
+      },
+      "price_only_available_in_cart": false,
+      "new_offers_count": 3,
+      "new_offers_from": {
+        "raw": "New"
+      },
+      "trade_in_and_save": true,
+      "return_policy": {
+        "duration_days": 30,
+        "type": "refund/replacement"
+      },
+      "is_prime": true,
+      "is_prime_exclusive_deal": false,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "In Stock",
+        "dispatch_days": 1
+      },
+      "fulfillment": {
+        "type": "p2",
+        "standard_delivery": {
+          "date": "Sunday, March 22",
+          "name": "FREE"
+        },
+        "fastest_delivery": {
+          "date": "Thursday, March 19",
+          "name": "Or Prime members get FREE delivery Thursday, March 19. Order within 13 hrs 24 mins. Join Prime"
+        },
+        "is_sold_by_amazon": false,
+        "is_fulfilled_by_amazon": true,
+        "is_fulfilled_by_third_party": false,
+        "is_sold_by_third_party": true,
+        "third_party_seller": {
+          "name": "boosterskorea"
+        }
+      },
+      "price": {
+        "symbol": "$",
+        "value": 19.99,
+        "currency": "USD",
+        "raw": "$19.99"
+      },
+      "rrp": {
+        "symbol": "$",
+        "value": 24.99,
+        "currency": "USD",
+        "raw": "$24.99"
+      },
+      "unit_price": {
+        "symbol": "$",
+        "value": 19.79,
+        "currency": "USD",
+        "raw": "$19.79 / fluid ounce"
+      },
+      "shipping": {
+        "raw": "FREE"
+      }
+    },
+    "specifications": [
+      {
+        "name": "Product Dimensions",
+        "value": "2.13 x 1.38 x 3.94 inches; 1 ounces"
+      },
+      {
+        "name": "Manufacturer",
+        "value": "boosters"
+      },
+      {
+        "name": "ASIN",
+        "value": "B0D8W1YVBX"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "See Top 100 in Beauty & Personal Care"
+      },
+      {
+        "name": "Skin Type",
+        "value": "Sensitive, Combination, Dry, Oily"
+      },
+      {
+        "name": "Product Benefits",
+        "value": "Brightening"
+      },
+      {
+        "name": "Target Use Body Part",
+        "value": "Face"
+      },
+      {
+        "name": "Scent Name",
+        "value": "Unscented"
+      },
+      {
+        "name": "Special Ingredients",
+        "value": "Acerola(Vitamin C), Arbutin, Ceramides, Niacinamide, Vitamin E"
+      },
+      {
+        "name": "Item Form",
+        "value": "Drop"
+      },
+      {
+        "name": "Brand Name",
+        "value": "EQQUALBERRY"
+      },
+      {
+        "name": "Number of Items",
+        "value": "1"
+      },
+      {
+        "name": "Manufacturer Part Number",
+        "value": "EQQ-DC-VTM"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "#22 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #2 in Facial Serums"
+      },
+      {
+        "name": "Customer Reviews",
+        "value": "4.4    4.4 out of 5 stars         (8,351)           4.4 out of 5 stars"
+      },
+      {
+        "name": "Item Weight",
+        "value": "1 Ounces"
+      },
+      {
+        "name": "Item Volume",
+        "value": "1.01 Fluid Ounces"
+      },
+      {
+        "name": "Unit Count",
+        "value": "1.01 Fluid Ounces"
+      },
+      {
+        "name": "Material Features",
+        "value": "Antioxidant, Fragrance Free, Plant-Based"
+      },
+      {
+        "name": "Active Ingredients",
+        "value": "hyaluronic_acid"
+      },
+      {
+        "name": "Material Type Free",
+        "value": "Artificial Color Free, Mineral Oil Free, Paraben Free, Silicone Free, Steroid Free"
+      },
+      {
+        "name": "Recommended Uses For Product",
+        "value": "Brightening, Dark Spots"
+      }
+    ],
+    "specifications_flat": "Recommended Uses For Product: Brightening, Dark Spots. Material Type Free: Artificial Color Free, Mineral Oil Free, Paraben Free, Silicone Free, Steroid Free. Active Ingredients: hyaluronic_acid. Material Features: Antioxidant, Fragrance Free, Plant-Based. Unit Count: 1.01 Fluid Ounces. Item Volume: 1.01 Fluid Ounces. Item Weight: 1 Ounces. Customer Reviews: 4.4    4.4 out of 5 stars         (8,351)           4.4 out of 5 stars. Best Sellers Rank: #22 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #2 in Facial Serums. Manufacturer Part Number: EQQ-DC-VTM. Number of Items: 1. Brand Name: EQQUALBERRY. Item Form: Drop. Special Ingredients: Acerola(Vitamin C), Arbutin, Ceramides, Niacinamide, Vitamin E. Scent Name: Unscented. Target Use Body Part: Face. Product Benefits: Brightening. Skin Type: Sensitive, Combination, Dry, Oily. Best Sellers Rank: See Top 100 in Beauty & Personal Care. ASIN: B0D8W1YVBX. Manufacturer: boosters. Product Dimensions: 2.13 x 1.38 x 3.94 inches; 1 ounces.",
+    "recent_sales": "100K+ bought in past month",
+    "gift_guide_badge": {
+      "badge_text": "100K+ bought in past month"
+    },
+    "ingredients": [
+      "For External use only. Avoid contact with eyes. If any adverse reaction occurs",
+      "stop using the product. Inform your doctor if your condition persists.Dark Spots. BrighteningMalpighia Glabra (Acerola) Fruit Water",
+      "Water",
+      "Butylene Glycol",
+      "Glycerin",
+      "Cetyl Ethylhexanoate",
+      "Niacinamide",
+      "1",
+      "2-Hexanediol",
+      "Arbutin",
+      "Hydrogenated Lecithin",
+      "Pentaerythrityl Tetrabehenate",
+      "Diethoxyethyl Succinate",
+      "Betaine",
+      "Ceramide NP",
+      "Hydroxyethyl Urea",
+      "Caprylic/Capric Triglyceride",
+      "Melia Azadirachta Leaf Extract",
+      "Cetearyl Alcohol",
+      "Squalane",
+      "Melia Azadirachta Flower Extract",
+      "Panthenol",
+      "Curcuma Longa (Turmeric) Root Extract",
+      "Tocopherol",
+      "Carbomer",
+      "Butyrospermum Parkii (Shea) Butter",
+      "Tromethamine",
+      "Xanthan Gum",
+      "Allantoin",
+      "Ethylhexylglycerin",
+      "2",
+      "3-Butanediol",
+      "Ocimum Sanctum Leaf Extract",
+      "Disodium EDTA",
+      "Sodium Hyaluronate",
+      "Sodium Carboxymethyl Beta-Glucan",
+      "Corallina Officinalis Extract",
+      "Malpighia Glabra (Acerola) Fruit Extract",
+      "Glyceryl Stearate",
+      "Hydrolyzed Hyaluronic Acid",
+      "Hydrolyzed Sodium Hyaluronate",
+      "Hyaluronic Acid",
+      "Hydroxypropyltrimonium Hyaluronate",
+      "Potassium Hyaluronate",
+      "Rubus Fruticosus (Blackberry) Fruit Extract",
+      "Vaccinium Macrocarpon (Cranberry) Fruit Extract",
+      "Vaccinium Angustifolium (Blueberry) Fruit Extract",
+      "Rubus Idaeus (Raspberry) Fruit Extract",
+      "Sambucus Nigra Fruit Extract",
+      "Ceramide NS",
+      "Ceramide AS",
+      "Ceramide AP",
+      "Cholesterol",
+      "Ferulic Acid",
+      "Glutathione",
+      "Tranexamic Acid",
+      "Adenosine",
+      "3-O-Ethyl Ascorbic Acid",
+      "Pentylene Glycol",
+      "Sodium Hyaluronate Crosspolymer",
+      "Sodium Acetylated Hyaluronate",
+      "Ceramide EOPEvery morning and evening after cleansing and toning. Apply an appropriate amount. Spread it evenly over the face. Gently pat for absorption."
+    ],
+    "ingredients_flat": "For External use only. Avoid contact with eyes. If any adverse reaction occurs, stop using the product. Inform your doctor if your condition persists.Dark Spots. BrighteningMalpighia Glabra (Acerola) Fruit Water, Water, Butylene Glycol, Glycerin, Cetyl Ethylhexanoate, Niacinamide, 1, 2-Hexanediol, Arbutin, Hydrogenated Lecithin, Pentaerythrityl Tetrabehenate, Diethoxyethyl Succinate, Betaine, Ceramide NP, Hydroxyethyl Urea, Caprylic/Capric Triglyceride, Melia Azadirachta Leaf Extract, Cetearyl Alcohol, Squalane, Melia Azadirachta Flower Extract, Panthenol, Curcuma Longa (Turmeric) Root Extract, Tocopherol, Carbomer, Butyrospermum Parkii (Shea) Butter, Tromethamine, Xanthan Gum, Allantoin, Ethylhexylglycerin, 2, 3-Butanediol, Ocimum Sanctum Leaf Extract, Disodium EDTA, Sodium Hyaluronate, Sodium Carboxymethyl Beta-Glucan, Corallina Officinalis Extract, Malpighia Glabra (Acerola) Fruit Extract, Glyceryl Stearate, Hydrolyzed Hyaluronic Acid, Hydrolyzed Sodium Hyaluronate, Hyaluronic Acid, Hydroxypropyltrimonium Hyaluronate, Potassium Hyaluronate, Rubus Fruticosus (Blackberry) Fruit Extract, Vaccinium Macrocarpon (Cranberry) Fruit Extract, Vaccinium Angustifolium (Blueberry) Fruit Extract, Rubus Idaeus (Raspberry) Fruit Extract, Sambucus Nigra Fruit Extract, Ceramide NS, Ceramide AS, Ceramide AP, Cholesterol, Ferulic Acid, Glutathione, Tranexamic Acid, Adenosine, 3-O-Ethyl Ascorbic Acid, Pentylene Glycol, Sodium Hyaluronate Crosspolymer, Sodium Acetylated Hyaluronate, Ceramide EOPEvery morning and evening after cleansing and toning. Apply an appropriate amount. Spread it evenly over the face. Gently pat for absorption.",
+    "material": "Artificial Color Free, Mineral Oil Free, Paraben Free, Silicone Free, Steroid Free",
+    "manufacturer": "boosters",
+    "weight": "1 Ounces",
+    "item_volume": "1.01 Fluid Ounces",
+    "dimensions": "2.13 x 1.38 x 3.94 inches; 1 ounces",
+    "model_number": "EQQ-DC-VTM",
+    "bestsellers_rank_flat": "Category: Beauty & Personal Care | Rank: 22, Category: Facial Serums | Rank: 2"
+  },
+  "brand_store": {
+    "id": "ACB77B95-8FED-4CE7-BB3D-5F4989C724E7",
+    "link": "https://www.amazon.com/stores/EQQUALBERRY/page/ACB77B95-8FED-4CE7-BB3D-5F4989C724E7"
+  }
+}

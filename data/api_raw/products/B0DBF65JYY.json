@@ -1,0 +1,1022 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 6,
+    "credits_remaining": 94,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "type": "product",
+    "asin": "B0DBF65JYY",
+    "amazon_domain": "amazon.com"
+  },
+  "request_metadata": {
+    "created_at": "2026-03-17T15:36:09.365Z",
+    "processed_at": "2026-03-17T15:36:16.028Z",
+    "total_time_taken": 6.66,
+    "amazon_url": "https://www.amazon.com/dp/B0DBF65JYY?th=1&psc=1"
+  },
+  "product": {
+    "title": "medicube PDRN Pink Peptide Serum with Salmon DNA | Pink Glow Serum with Peptides & Niacinamide for Hydration & Firm-Looking Skin | Uneven Tone Care | Korean Skincare, 1.01 fl. Oz Salmon DNA PDRN",
+    "search_alias": {
+      "title": "Beauty & Personal Care",
+      "value": "search-alias=beauty"
+    },
+    "title_excluding_variant_name": "medicube PDRN Pink Peptide Serum with Salmon DNA | Pink Glow Serum with Peptides & Niacinamide for Hydration & Firm-Looking Skin | Uneven Tone Care | Korean Skincare, 1.01 fl. Oz",
+    "keywords": "medicube PDRN Pink Peptide Serum with Salmon DNA | Pink Glow Serum with Peptides & Niacinamide for Hydration & Firm-Looking Skin | Uneven Tone Care | Korean Skincare, 1.01 fl. Oz Salmon DNA PDRN",
+    "keywords_list": [
+      "medicube PDRN Pink Peptide Serum with Salmon DNA | Pink Glow Serum with Peptides & Niacinamide for Hydration & Firm-Looking Skin | Uneven Tone Care | Korean Skincare",
+      "1.01 fl. Oz Salmon DNA PDRN"
+    ],
+    "is_collection": false,
+    "asin": "B0DBF65JYY",
+    "parent_asin": "B0GGPLCV9T",
+    "link": "https://www.amazon.com/medicube-Niacinamide-Hydrating-Moisturizing-Skincare/dp/B0DBF65JYY",
+    "brand": "medicube",
+    "sell_on_amazon": false,
+    "variants": [
+      {
+        "asin": "B0DBF65JYY",
+        "title": "Salmon DNA PDRN",
+        "is_current_product": true,
+        "link": "https://www.amazon.com/dp/B0DBF65JYY?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Pattern Name",
+            "value": "Salmon DNA PDRN"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/615DOoCI6xL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/615DOoCI6xL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0DCJ7952P",
+        "title": "Rose PDRN (Vegan)",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0DCJ7952P?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Pattern Name",
+            "value": "Rose PDRN (Vegan)"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/61OewnOw5jL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/61OewnOw5jL._SL1500_.jpg"
+          }
+        ]
+      }
+    ],
+    "variant_asins_flat": "B0DBF65JYY,B0DCJ7952P",
+    "proposition_65_warning": false,
+    "has_size_guide": true,
+    "add_on_item": {
+      "is_add_on_item": true
+    },
+    "categories": [
+      {
+        "name": "Beauty & Personal Care",
+        "link": "https://www.amazon.com/Beauty-Makeup-Skin-Hair-Products/b/ref=dp_bc_1?ie=UTF8&node=3760911",
+        "category_id": "3760911"
+      },
+      {
+        "name": "Skin Care",
+        "link": "https://www.amazon.com/Skin-Body-Face-Products/b/ref=dp_bc_2?ie=UTF8&node=11060451",
+        "category_id": "11060451"
+      },
+      {
+        "name": "Face",
+        "link": "https://www.amazon.com/Face-Skin-Care-Lotion-Products/b/ref=dp_bc_3?ie=UTF8&node=11060711",
+        "category_id": "11060711"
+      },
+      {
+        "name": "Treatments & Masks",
+        "link": "https://www.amazon.com/Facial-Treatments-Masks/b/ref=dp_bc_4?ie=UTF8&node=11062031",
+        "category_id": "11062031"
+      },
+      {
+        "name": "Serums",
+        "link": "https://www.amazon.com/Facial-Serums/b/ref=dp_bc_5?ie=UTF8&node=7792528011",
+        "category_id": "7792528011"
+      }
+    ],
+    "categories_flat": "Beauty & Personal Care > Skin Care > Face > Treatments & Masks > Serums",
+    "sub_title": {
+      "text": "Visit the medicube Store",
+      "link": "https://www.amazon.com/stores/medicube/page/92053863-0802-48FF-BAAD-7918CF4EC806?lp_asin=B0DBF65JYY&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto"
+    },
+    "amazons_choice": {
+      "link": "https://www.amazon.com/medicube-Niacinamide-Hydrating-Moisturizing-Skincare/dp/B0DBF65JYY",
+      "badge_text": "Amazon's  Choice"
+    },
+    "marketplace_id": "ATVPDKIKX0DER",
+    "rating": 4.6,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 82,
+        "count": 8734
+      },
+      "four_star": {
+        "percentage": 10,
+        "count": 1065
+      },
+      "three_star": {
+        "percentage": 4,
+        "count": 426
+      },
+      "two_star": {
+        "percentage": 1,
+        "count": 107
+      },
+      "one_star": {
+        "percentage": 3,
+        "count": 320
+      }
+    },
+    "ratings_total": 10651,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/615DOoCI6xL.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/71FLxfgp2YL._SL1500_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71GAXRVpezL._SL1500_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/713sUOTFUfL._SL1500_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71uq1fXSehL._SL1500_.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71rw-Q7llXL._SL1500_.jpg",
+        "variant": "PT05"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71g2sV-dvcL._SL1500_.jpg",
+        "variant": "PT06"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71UNnMF3-fL._SL1500_.jpg",
+        "variant": "PT07"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/7148spVNrOL._SL1500_.jpg",
+        "variant": "PT08"
+      }
+    ],
+    "images_count": 8,
+    "images_flat": "https://m.media-amazon.com/images/I/71FLxfgp2YL._SL1500_.jpg,https://m.media-amazon.com/images/I/71GAXRVpezL._SL1500_.jpg,https://m.media-amazon.com/images/I/713sUOTFUfL._SL1500_.jpg,https://m.media-amazon.com/images/I/71uq1fXSehL._SL1500_.jpg,https://m.media-amazon.com/images/I/71rw-Q7llXL._SL1500_.jpg,https://m.media-amazon.com/images/I/71g2sV-dvcL._SL1500_.jpg,https://m.media-amazon.com/images/I/71UNnMF3-fL._SL1500_.jpg,https://m.media-amazon.com/images/I/7148spVNrOL._SL1500_.jpg",
+    "videos_count": 7,
+    "videos_additional": [
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.07b65961fe5d4186bd7c04fc94ecfccd",
+        "product_asin": "B0DBF65JYY",
+        "parent_asin": "B0GGPLCV9T",
+        "related_products": "B0D4RPLMPD,B0CG1H8YRS,B0DBF65JYY,B091NJQ29P",
+        "title": "Rutina de Skincare en Invierno",
+        "profile_image_url": "https://m.media-amazon.com/images/S/amazon-avatars-global/199a7d14-e527-4a5b-8f09-86266a2358f1._CR0%2C0%2C500%2C500_SX460_._SL34_.jpeg",
+        "profile_link": "/gp/profile/amzn1.account.AFXB6X3TXYPSLGJRLXN57CNYYZ3Q",
+        "public_name": "Genesis Soriano",
+        "vendor_code": "UGCOCP",
+        "vendor_name": "Genesis Soriano",
+        "video_image_url": "https://m.media-amazon.com/images/I/61xkB0+cUqL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61xkB0+cUqL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1137",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f0fb1e13-bcae-45a5-917b-fed59b8c635f/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/5cd6a495-e6e2-40c4-bc61-997487cc25c6/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/5cd6a495-e6e2-40c4-bc61-997487cc25c6/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:31"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0a7299f5cbe8411385c889d2e46be092",
+        "product_asin": "B0DBF65JYY",
+        "parent_asin": "B0GGPLCV9T",
+        "related_products": "B0DBF65JYY,B0DCJ7952P",
+        "title": "Love this for my skin!",
+        "profile_image_url": "https://m.media-amazon.com/images/I/A1QT1iofC6L._CR0,0,3024,3024_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/camelot.delight",
+        "public_name": "Camelot Delight",
+        "vendor_code": "camelot.delight:shop",
+        "vendor_name": "Camelot Delight",
+        "vendor_tracking_id": "onamznancjb0f-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/61bsj02Z8KL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61bsj02Z8KL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1137",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/07e528cd-1c6c-4c8a-aa37-eeb97bf03701/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/9eae0e7a-140b-47fa-a08f-7842872b4109/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/9eae0e7a-140b-47fa-a08f-7842872b4109/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:48",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/0bcceb81-c090-4040-812d-8e24f77aeb32.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.03bc38cd2e424a2ab6452f6929674123",
+        "product_asin": "B0DBF65JYY",
+        "parent_asin": "B0GGPLCV9T",
+        "related_products": "B0DBF65JYY,B0FPPKK2Z5,B0BPXT3GBN,B0DNDYDG2Y,B0CH421FB8",
+        "title": "Medicube triple collagen moisture combo",
+        "profile_image_url": "https://images-na.ssl-images-amazon.com/images/S/influencer-profile-image-prod/logo/influencer-e606b364_1684121007014_original._FMjpg_._SL34_.jpeg",
+        "profile_link": "/shop/influencer-e606b364",
+        "public_name": "Abercrombie and FITness",
+        "vendor_code": "influencer-e606b364:shop",
+        "vendor_name": "Abercrombie and FITness",
+        "vendor_tracking_id": "abercrombi000-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/71RvJnkgqsL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/71RvJnkgqsL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1137",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/b6cbbc1d-0251-4151-990b-63f3c1d96c9a/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a7aec36c-8bea-424c-beb9-482c85616b4f/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a7aec36c-8bea-424c-beb9-482c85616b4f/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:59",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/81bc49f0-97c6-409a-b61c-f3c5dcf9f696.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0272fd8d447d4ad3acf50bf0b19df227",
+        "product_asin": "B0DBF65JYY",
+        "parent_asin": "B0GGPLCV9T",
+        "related_products": "B0DQ4BVD7C,B0DBF65JYY",
+        "title": "Facial serum with salmon ADN and the Booster Pro Pink",
+        "profile_image_url": "https://m.media-amazon.com/images/I/81HlVTnPBxL._CR0,0,1055,1055_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/influencer-c070713c",
+        "public_name": "Jasay Varela",
+        "vendor_code": "influencer-c070713c:shop",
+        "vendor_name": "Jasay Varela",
+        "vendor_tracking_id": "onamzjasayvar-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/61asBwBt3RL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61asBwBt3RL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1137",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/78fe4a77-09c1-4088-95a3-6002b4bfae63/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/8c1345e1-cea7-45ab-b713-c32abf9b77bb/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/8c1345e1-cea7-45ab-b713-c32abf9b77bb/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:36",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/4fdf194c-bf77-4b63-94d9-57ab6cbf11a4.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.05f853f284214447aa051b606e7bf1ef",
+        "product_asin": "B0DBF65JYY",
+        "parent_asin": "B0GGPLCV9T",
+        "related_products": "B0DZC3KN4W,B0DBF65JYY,B0DCJ7952P",
+        "title": "Medicube pink serum great addition to your skincare routine",
+        "profile_image_url": "https://m.media-amazon.com/images/I/514QttsNmcL._CR0,0,581,581_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/killakat0118",
+        "public_name": "Leigh",
+        "vendor_code": "killakat0118:shop",
+        "vendor_name": "Leigh",
+        "vendor_tracking_id": "onamzjes0d6eb-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/51Eo9EsfC8L._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/51Eo9EsfC8L.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1137",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c1901633-865c-4e76-aabd-641880ad33f9/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d89fd7af-9ca4-4969-8db4-150f3ff387e5/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d89fd7af-9ca4-4969-8db4-150f3ff387e5/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:26",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/8c3d76f2-6eca-4e2e-a56e-ad28da3d32ee.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0810d3a42ecf4263a9bead0da4e516e5",
+        "product_asin": "B0DBF65JYY",
+        "parent_asin": "B0GGPLCV9T",
+        "related_products": "B0DZC3KN4W,B0DCJ7952P,B0DBF65JYY",
+        "title": "Medicube Pink Serum - Video Review !",
+        "profile_image_url": "https://m.media-amazon.com/images/I/71uz9PLi+uL._CR0,0,1000,1000_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/monicajacobs_",
+        "public_name": "Monica Jacobs",
+        "vendor_code": "monicajacobs_:shop",
+        "vendor_name": "Monica Jacobs",
+        "vendor_tracking_id": "onamzmon0a435-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/81fQdzXVGLL._CR0,0,1320,745_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/81fQdzXVGLL.jpg",
+        "video_image_width": "1320",
+        "video_image_height": "2330",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a2bfc96e-9738-4396-80cb-0206ad182b89/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2d609f48-5df4-41d0-8e2e-13aa6cb5e1e6/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2d609f48-5df4-41d0-8e2e-13aa6cb5e1e6/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:18",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/275be525-9f05-486a-8d76-ce6780a3e435.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.059f1158555c4cd486831387b4d17142",
+        "product_asin": "B0DBF65JYY",
+        "parent_asin": "B0GGPLCV9T",
+        "related_products": "B0DBF65JYY",
+        "title": "Absolutely amazing! Soothing, non irritating.",
+        "profile_image_url": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SL34_.png",
+        "profile_link": "/gp/profile/amzn1.account.AGWRYM7T6DRQTMGKUPPE3R2XZDEA",
+        "public_name": "HoneyB47",
+        "vendor_code": "AOD60",
+        "vendor_name": "HoneyB47",
+        "video_image_url": "https://m.media-amazon.com/images/I/41rCPwWEEgL._CR0,0,720,406_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/41rCPwWEEgL.jpg",
+        "video_image_width": "720",
+        "video_image_height": "1280",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c81d2b70-908e-40e1-8a91-0419d14736a6/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/666f05ab-cacd-461f-87c5-2569957fb311/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/666f05ab-cacd-461f-87c5-2569957fb311/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:05",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/a013da1d-b9fb-4ddf-a2fa-ab7945b98442.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0c67d066b9854a7d881774b808aec39b",
+        "product_asin": "B0DBF65JYY",
+        "parent_asin": "B0GGPLCV9T",
+        "related_products": "B0DBF65JYY,B0DCJ7952P,B0G8GQ5GP4,B0F3HY4Q2X,B0DM5LKBGM",
+        "title": "Jenner Sisters Favorite PDRN Pink Peptide Serum",
+        "profile_image_url": "https://m.media-amazon.com/images/I/613I2KiDHIL._CR0,0,736,736_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/dearrain_ugc",
+        "public_name": "Finds by Raine",
+        "vendor_code": "dearrain_ugc:shop",
+        "vendor_name": "Finds by Raine",
+        "vendor_tracking_id": "onamzdearrain-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/71zC7odsFXL._CR0,0,1179,665_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/71zC7odsFXL.jpg",
+        "video_image_width": "1179",
+        "video_image_height": "2081",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/cab7e326-73b6-4897-ab08-78b25116c4e7/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/32798963-c22c-4348-8f7d-4e289dd37000/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/32798963-c22c-4348-8f7d-4e289dd37000/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:35",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/c055c08b-7d97-40b3-970f-e85b64f6674f.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.060dc3a7e9d947d9a67254ff77273cfd",
+        "product_asin": "B0DBF65JYY",
+        "parent_asin": "B0GGPLCV9T",
+        "related_products": "B0DBF65JYY,B0CM2PPNMW,B09C1B7BH5,B0G56435HQ,B0GK125F3B",
+        "title": "Medicube Skincare routine",
+        "profile_image_url": "https://m.media-amazon.com/images/I/714voHtwlFL._CR0,0,1038,1038_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/faithfulgracemarketing",
+        "public_name": "Rojshanay Marie",
+        "vendor_code": "faithfulgracemarketing:shop",
+        "vendor_name": "Rojshanay Marie",
+        "vendor_tracking_id": "onamzrojshana-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/614Vmf9yrzL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/614Vmf9yrzL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1137",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/0a4e58b0-f4b8-4fa7-9f8e-d847df7ec1df/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/61c833f5-acbf-4583-b3b2-eabbcc281096/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/61c833f5-acbf-4583-b3b2-eabbcc281096/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:44",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/c23607e9-dc90-4b96-bb95-26493b7fd0e0.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0f981225acda44fe9d94b38809a6a44e",
+        "product_asin": "B0DBF65JYY",
+        "parent_asin": "B0GGPLCV9T",
+        "related_products": "B0DBF65JYY",
+        "title": "Pink glow, thanks to peptides",
+        "profile_image_url": "https://m.media-amazon.com/images/I/71c5a-p1yEL._CR0,0,1242,1242_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/jada.linn",
+        "public_name": "Jada Allen",
+        "vendor_code": "jada.linn:shop",
+        "vendor_name": "Jada Allen",
+        "vendor_tracking_id": "onamzjadaal01-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/611stz9gtFL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/611stz9gtFL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1136",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/6fd7aad3-41bb-435b-be9e-1382ffe47c43/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/88b0fcf4-0803-4252-ae7f-a6fd75d0ef4d/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/88b0fcf4-0803-4252-ae7f-a6fd75d0ef4d/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:02",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/d8fa0189-1934-46ef-b205-d2770668e94d.vtt"
+      }
+    ],
+    "is_bundle": false,
+    "feature_bullets": [
+      "KOREAN GLASS GLOW SKIN: This pink glow serum targets dull skin and boosts elasticity, helping to prevent future breakouts while enhancing the skin's glow and resilience.",
+      "SALMON DNA PDRN: Salmon DNA PDRN is a form of DNA extracted from salmon. It stimulates skin renewal and repair, giving your skin a clearer, more luminous complexion. It promotes a more even skin tone and a natural glow by improving skin health.",
+      "KEY INGREDIENTS: Containing Salmon DNA PDRN, five types of peptide complex, niacinamide, adenosine, and Ocimum Sanctum (Holy Basil) leaf extract, this formula provides effective care for uneven skin tone and elasticity.",
+      "LONG LASTING HYDRATION: Strengthens the skin’s barrier function, enhancing its resistance to external aggressors and pollutants. It provides deep hydration and smooths skin texture.",
+      "MILD FORMULA LIGHT TEXTURE: The formula is mild and gentle for all skin types—gentle enough to be used daily. Dermatologist-tested, low-irritating, and free from gluten and artificial colors."
+    ],
+    "feature_bullets_count": 5,
+    "feature_bullets_flat": "MILD FORMULA LIGHT TEXTURE: The formula is mild and gentle for all skin types—gentle enough to be used daily. Dermatologist-tested, low-irritating, and free from gluten and artificial colors. LONG LASTING HYDRATION: Strengthens the skin’s barrier function, enhancing its resistance to external aggressors and pollutants. It provides deep hydration and smooths skin texture. KEY INGREDIENTS: Containing Salmon DNA PDRN, five types of peptide complex, niacinamide, adenosine, and Ocimum Sanctum (Holy Basil) leaf extract, this formula provides effective care for uneven skin tone and elasticity. SALMON DNA PDRN: Salmon DNA PDRN is a form of DNA extracted from salmon. It stimulates skin renewal and repair, giving your skin a clearer, more luminous complexion. It promotes a more even skin tone and a natural glow by improving skin health. KOREAN GLASS GLOW SKIN: This pink glow serum targets dull skin and boosts elasticity, helping to prevent future breakouts while enhancing the skin's glow and resilience.",
+    "top_reviews": [
+      {
+        "id": "RAKAW4WYFXKWM",
+        "title": "\"Amazing glow and hydration! My skin feels incredibly smooth\"",
+        "body": "I am absolutely loving this Medicube PDRN Pink Peptide Serum! The first thing I noticed is how beautiful the pink color is, but the results are even better. It has a lightweight texture that absorbs quickly without leaving my skin greasy. After using it for a few days, I can see a visible difference in my skin's radiance and hydration. It feels much firmer and has a healthy glow that I love. It’s perfect for my daily skincare routine. If you're looking for a high-quality serum that actually delivers results, I highly recommend this one!",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on February 16, 2026"
+        },
+        "profile": {
+          "name": "Evelin Dominguez Peraza"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 31,
+        "link": "https://www.amazon.com/gp/customer-reviews/RAKAW4WYFXKWM/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R3O30K20QMF9GR",
+        "title": "My favorite skincare product!",
+        "body": "Favorite medicube product! Leaves my skin so soft and dewy. Lasts a long time. Great value for the money. Not too sticky. Reduces any discoloration. Hydrating.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on March 1, 2026"
+        },
+        "profile": {
+          "name": "Ashley Cobb"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 6,
+        "link": "https://www.amazon.com/gp/customer-reviews/R3O30K20QMF9GR/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R29V3H6A0P5X2R",
+        "title": "My favorite skincare product!",
+        "body": "I’m beyond obsessed with this serum 😍. It has changed the texture of my skin and has softened fine lines. It absorbs into skin easily, has a light/pleasant scent, and makes my skin super soft and hydrated all day. After using this and the pore pads from medicube regularly, I started having people ask about my skincare. Highly recommend this product and will continue to purchase it!",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on February 17, 2026"
+        },
+        "profile": {
+          "name": "Amazon Customer"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 13,
+        "link": "https://www.amazon.com/gp/customer-reviews/R29V3H6A0P5X2R/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R1DF86HY3MY6AX",
+        "title": "Glowy and hydrating serum",
+        "body": "I’ve been using this serum for a few weeks, and my skin feels so much more hydrated and plump. The texture is light, absorbs quickly, and doesn’t leave any sticky residue.I’ve noticed my skin tone looking more even and a subtle glow that wasn’t there before. It layers well under my moisturizer and makeup, and I feel like it’s really helped improve my overall skin texture. Definitely a serum I’ll keep reaching for.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on February 10, 2026"
+        },
+        "profile": {
+          "name": "Mandi Mills"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 12,
+        "link": "https://www.amazon.com/gp/customer-reviews/R1DF86HY3MY6AX/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R1YO73385YTVRC",
+        "title": "Lightweight and Absorbing",
+        "body": "⭐⭐⭐⭐☆ Hydrating Peptide Serum Supporting Skin Elasticity and ToneSkin type: Normal to dry, sensitivePrimary concerns: Dullness, uneven tone, early loss of firmnessUsage:This serum was used consistently for several weeks as part of a daily skincare routine. It was applied once to twice daily after cleansing and before moisturizer to the face and neck. No new active treatments were introduced during the evaluation period.Formulation & texture:The serum has a lightweight, fluid texture that spreads easily and absorbs quickly without leaving residue. It does not feel sticky and layers well under moisturizer and sunscreen. The formula was well tolerated and did not cause irritation.Observed effects:With regular use, skin felt more hydrated and smoother, with improved overall skin comfort. The complexion appeared slightly more even and refreshed over time. Firming effects were subtle and gradual, consistent with a peptide-based maintenance serum rather than an immediate corrective treatment.Strengths:• Lightweight, fast-absorbing texture• Provides consistent hydration• Supports skin smoothness and elasticity• Suitable for daily use• Layers well within a routineConsiderations:• Visible firming and tone improvements require consistent, long-term use• May need to be paired with additional actives for advanced aging concernsAssessment:This is a well-formulated peptide serum focused on hydration, skin conditioning, and gradual improvement in tone and elasticity. It performs reliably with continued use and integrates easily into a standard skincare routine.⭐ Rating: 4 out of 5 stars",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in the United States on January 12, 2026"
+        },
+        "profile": {
+          "name": "Vicky B."
+        },
+        "verified_purchase": true,
+        "helpful_votes": 63,
+        "link": "https://www.amazon.com/gp/customer-reviews/R1YO73385YTVRC/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "RXP9CM1O4IBMX",
+        "title": "1000/10 you just need to buy these products",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on March 11, 2026"
+        },
+        "profile": {
+          "name": "Lindsay S | LindsayEdit"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 2,
+        "link": "https://www.amazon.com/gp/customer-reviews/RXP9CM1O4IBMX/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R3SARKSW6N2EFY",
+        "title": "I love medicube!",
+        "body": "Skin tone evens out after use, and is nice and light feeling after putting it on! Your skin feels super hydrated and looks dewy after putting it on. I use mine for my night routine, but might change it up when my skin is fully healed.Since starting Medicube PDRN products, my skin has cleared up tons! I had little hard spots under my skin because I suffer from both cystic acne and hormonal acne, ever since having my last child. The stuff under the skin has been surfacing and then healing soon after! Very happy I gave medicube a chance! Family has even commented on my skin, saying it looks way better ☺️",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on February 16, 2026"
+        },
+        "profile": {
+          "name": "Taylor"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 10,
+        "link": "https://www.amazon.com/gp/customer-reviews/R3SARKSW6N2EFY/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R14HPV4ITY0BGM",
+        "title": "Skincare staple",
+        "body": "I bought this product after seeing it on social media and thought to try it. The way it changed my skin! It instantly gave me the 'glass skin' look. Over time, I noticed my texture was better and skin was firmer. The consistency of the serum is light and thin. It absorbs into the skin rather quickly and nicely. I like to let it dry down before layering it with other products. I often use this after a toner pad and before a moisturiser. I have given the product a break after using for months on end and there is a difference. I truly do miss using this product and cannot wait to add it back into my routine! A product at this price point is definitely worth it.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on March 2, 2026"
+        },
+        "profile": {
+          "name": "K"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 7,
+        "link": "https://www.amazon.com/gp/customer-reviews/R14HPV4ITY0BGM/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R165DJ2APUV6SW",
+        "body": "Ich benutze das Medicube PDRN Pink Peptide Serum nun seit etwa drei Wochen und bin absolut begeistert von den Ergebnissen. Als jemand mit sensibler, leicht zu Unreinheiten neigender Haut, bin ich immer sehr vorsichtig mit neuen Pflegeprodukten. Aber dieses Serum hat meine Erwartungen bei weitem übertroffen.🔬 Hochwertige Inhaltsstoffe:Das Serum enthält PDRN (Polydeoxyribonucleotid), eine kraftvolle regenerierende Substanz, die oft in der ästhetischen Medizin verwendet wird. Außerdem sind Peptide und 7 verschiedene Arten von Hyaluronsäure enthalten, die für intensive Feuchtigkeit und sichtbare Hautglättung sorgen. Man merkt sofort, dass hier echte koreanische Hautpflege-Innovation drinsteckt.💧 Textur & Anwendung:Die Textur ist leicht gelartig, zieht schnell ein und hinterlässt kein klebriges Gefühl auf der Haut. Ich trage es morgens und abends nach dem Toner auf, bevor ich meine Tages- bzw. Nachtpflege verwende. Es hat einen ganz leichten, angenehmen Duft – nicht aufdringlich, sondern sehr dezent und frisch.🌸 Ergebnisse:Schon nach wenigen Anwendungen wirkte meine Haut frischer, praller und insgesamt ebenmäßiger. Nach zwei Wochen war der Unterschied deutlich sichtbar: Meine Poren sind verfeinert, Rötungen und kleine Pickelchen sind zurückgegangen, und meine Haut fühlt sich unglaublich glatt an. Auch mein Make-up lässt sich viel gleichmäßiger auftragen.💖 Besonders positiv:Sehr gute Verträglichkeit (auch bei empfindlicher Haut)Keine Irritationen oder UnreinheitenTolles Preis-Leistungs-Verhältnis für die QualitätHochwertige Glasverpackung mit hygienischer PipetteMacht die Haut sichtbar jünger und gesünder📦 Verpackung:Das Serum kommt in einem hübschen rosa Glasfläschchen mit Pipette, was die Dosierung einfach und hygienisch macht. Die äußere Verpackung wirkt ebenfalls hochwertig und elegant – ein schönes Produkt auch zum Verschenken!🌟 Fazit:Ich bin rundum zufrieden mit dem Medicube Pink Peptide Serum und werde es definitiv nachkaufen. Für alle, die ihre Haut effektiv mit Feuchtigkeit versorgen, Poren verfeinern und erste Zeichen der Hautalterung bekämpfen möchten, ist dieses koreanische Serum ein absoluter Geheimtipp!",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Germany on July 10, 2025"
+        },
+        "profile": {
+          "name": "Valentina"
+        },
+        "verified_purchase": true,
+        "helpful_votes": null
+      },
+      {
+        "id": "R1KBZGMO126TB9",
+        "title": "Amazing",
+        "body": "May possibly be the best serum I have ever used. It really helps my skin to stay hydrated!",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Belgium on March 5, 2026"
+        },
+        "profile": {
+          "name": "Olivia Nesom"
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "R1N3V8G9U99IAK",
+        "body": "Me gustó mucho, es ligero pero con poca cantidad humecta y te mantiene hidratada varias horas.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Mexico on January 21, 2026"
+        },
+        "profile": {
+          "name": "Lola Garza"
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "R1NBV43H2BDSDQ",
+        "body": "Heel fijn serum doet echt iets voor je huid",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the Netherlands on March 1, 2026"
+        },
+        "profile": {
+          "name": "anita voskuilen"
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "R1PSAQAIRB6KJO",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in France on January 16, 2026"
+        },
+        "profile": {
+          "name": "Celine BERNARD"
+        },
+        "verified_purchase": true
+      }
+    ],
+    "bestsellers_rank": [
+      {
+        "rank": 48,
+        "category": "Beauty & Personal Care",
+        "link": "https://www.amazon.com/gp/bestsellers/beauty/ref=pd_zg_ts_beauty"
+      },
+      {
+        "rank": 4,
+        "category": "Facial Serums",
+        "link": "https://www.amazon.com/gp/bestsellers/beauty/7792528011/ref=pd_zg_hrsr_beauty"
+      }
+    ],
+    "a_plus_content": {
+      "has_a_plus_content": true,
+      "has_brand_story": true,
+      "brand_story": {
+        "hero_image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/32b7cb12-cc67-4798-a337-19f54ee576a4.__CR0,0,1464,625_PT0_SX1464_V1___.jpg",
+        "brand_store": {
+          "link": "/stores/page/DFA10D3C-7E15-4448-8C58-22E449C7DCAA",
+          "id": "DFA10D3C-7E15-4448-8C58-22E449C7DCAA"
+        },
+        "images": [
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/32b7cb12-cc67-4798-a337-19f54ee576a4.__CR0,0,1464,625_PT0_SX1464_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d40f2141-abfd-432e-bd71-9c242f1693d5.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9287049d-e110-4bca-b8bb-4393fdaa9962.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/34657f97-e0ce-4543-a29e-adecfd5f66a6.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4a9ba836-5d14-47a1-82a7-bc791d3ef4e7.__CR0,0,362,453_PT0_SX362_V1___.jpg"
+        ]
+      },
+      "all_images": [
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5c2784df-1770-4a7b-b300-7a3413135764.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+          "name": "salmon dna, salmon PDRN, glow, dark spots, uneven skin tone"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a0f6591a-b63e-405e-8e20-63406fac06eb.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+          "name": "1"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e4ec000b-a822-4506-8234-df63ce07a871.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "salmon dna pdrn"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4d88fd4b-3554-428a-860a-edf99903845c.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "salmon dna pdrn"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0a0fdc2e-da35-4d88-813a-5be30195b3ea.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "salmon dna pdrn"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e9cfb794-4917-4cbd-9454-67aeb59d892c.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "salmon dna pdrn"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/cb2d4192-5ac9-4abf-9892-f101600db52e.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "salmon dna pdrn"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0e9d3060-f1c4-4ed0-ae0c-33ab70e3db6c.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "salmon dna pdrn"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/dd0e36cf-c8d6-42fe-8909-afeb48dba683.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "salmon dna pdrn"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/32b7cb12-cc67-4798-a337-19f54ee576a4.__CR0,0,1464,625_PT0_SX1464_V1___.jpg",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/41QbIzhK%2BTL.__AC_SR166,182___.jpg",
+          "name": "medicube Toner Pads Zero Pore Pad 2.0 | Dual-Textured Facial Pad for Exfoliation and Pore Care wi..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/31fPUs-jAmL.__AC_SR166,182___.jpg",
+          "name": "medicube Wrapping Mask Collagen Overnight Peel Off Facial Mask | Elasticity &amp; Hydration Care, Red..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/41QHOSpJ1xL.__AC_SR166,182___.jpg",
+          "name": "medicube Jelly Cream with Collagen, Niacinamide | Freeze-Dried Hydrolyzed Collagen for Skin Barri..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/31%2BNfU92POL.__AC_SR166,182___.jpg",
+          "name": "medicube PDRN Pink Peptide Serum with Salmon DNA | Pink Glow Serum with Peptides &amp; Niacinamide fo..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d40f2141-abfd-432e-bd71-9c242f1693d5.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/41ILmlsnT2L.__AC_SR166,182___.jpg",
+          "name": "medicube Age-R Booster Pro Pink | 6-in-1 Real Glass Glow Beauty Massager | Looking Glass Skin | K..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/21oVdXE3VqL.__AC_SR166,182___.jpg",
+          "name": "medicube Affordable Pink Routine Duo: Age-R Booster Pro Pink | 6-in-1 Real Glass Glow Beauty Mass..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/41mUqLoU3rL.__AC_SR166,182___.jpg",
+          "name": "medicube Booster Pro | 6-in-1 Real Glass Glow Beauty Massager | for Clear, Radiant, Firmer-Lookin..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/317JtQJxwFL.__AC_SR166,182___.jpg",
+          "name": "medicube Booster Glow Duo for Poreless Radiance: Age-R Booster Pro (Black) and Collagen Jelly Cre..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/312GIQYRKwL.__AC_SR166,182___.jpg",
+          "name": "medicube Rosemary PDRN Clarifying Shampoo | Refreshing, Nourishing Care for Fine, Weak-Looking Ha..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/31SKWoO30cL.__AC_SR166,182___.jpg",
+          "name": "medicube Rosemary PDRN Scalp to Strand Nourishing Conditioner | Lightweight Yet Effective Care fo..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/315r8JIDsBL.__AC_SR166,182___.jpg",
+          "name": "medicube Rosemary PDRN Scalp Refresh &amp; Nourish Serum | Non-Greasy, Lightweight Serum for Thicker,..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/41%2B69QF4yML.__AC_SR166,182___.jpg",
+          "name": "medicube Rosemary PDRN Korean Hair Care Set: Shampoo, Conditioner &amp; Serum | Amino Acids For Thick..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c842ea31-4648-432f-a812-2c3378dfbb87.__AC_SR166,182___.jpg",
+          "name": "medicube Kojic Acid Turmeric Brightening Body Wash | Gentle Shower Gel for Uneven Skin | Niacinam..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a12551d9-a77c-45fb-ac0d-e97cd4a7adf9.__AC_SR166,182___.jpg",
+          "name": "medicube Eye Serum with Kojic Acid Turmeric | All-Day Brightening Eye Gel Serum | Refreshing Eye ..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b3166fe8-4822-453c-999f-69b7ac9e9d03.__AC_SR166,182___.jpg",
+          "name": "medicube Peel Shot with Turmeric | Reset in One Step | Gentle Exfoliating Serum with BHA, LHA &amp; P..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d7d78745-9763-4054-84f2-8f2862d32bfc.__AC_SR166,182___.jpg",
+          "name": "medicube Capsule Cream with Kojic Acid &amp; Turmeric for Uneven Skin Tone | Tone Renewal &amp; Radiance ..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b44bd19f-359d-45ff-ad52-32b30be9ea72.__AC_SR166,182___.jpg",
+          "name": "medicube 3H Daily Relief Cream | Daily Soothing Moisturizer for All Skin Types | Lightweight Comf..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7090b3e8-d478-40f3-9bc9-6abb19daeaae.__AC_SR166,182___.jpg",
+          "name": "medicube Power Soothing Spray | Hypochlorous Acid Spray For All Skin Types, Delicate Skin | Daily..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/eba2a718-34ec-490c-88ac-79d00744b5ba.__AC_SR166,182___.jpg",
+          "name": "medicube Peel Shot with Hypochlorous Acid | Gentle Exfoliating Serum for Dead Skin Cells &amp; Pores,..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/12b3eeaf-ef65-4d8b-a35f-5d4ce66e2000.__AC_SR166,182___.jpg",
+          "name": "medicube Body Peel Shot with Hypochlorous Acid | Gentle Body Exfoliating Serum for Dead Skin Cell..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/41Vu6ktjFQL.__AC_SR166,182___.jpg",
+          "name": "medicube Hypochlorous Acid Peel Shot Duo for Face &amp; Body: Hypochlorous Acid Facial &amp; Body Peel Sh..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/31y48M-pw9L.__AC_SR166,182___.jpg",
+          "name": "medicube Double Cleansing Duo for Flawless Glass Skin: Zero Pore Blackhead Cleansing Oil and Zero..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/21SlUwXxfML.__AC_SR166,182___.jpg",
+          "name": "medicube Overnight Renewal Salmon PDRN Duo: Salmon DNA PDRN Pink Peptide Serum and Salmon DNA PDR..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/31zmQwkcnBL.__AC_SR166,182___.jpg",
+          "name": "medicube Booster Pro Facial Device &amp; Eye Care Duo: Salmon DNA PDRN Pink Eye Serum and Booster Pro..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9287049d-e110-4bca-b8bb-4393fdaa9962.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+          "name": "toner pads"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/34657f97-e0ce-4543-a29e-adecfd5f66a6.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+          "name": "Salmon DNA PDRN"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4a9ba836-5d14-47a1-82a7-bc791d3ef4e7.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+          "name": "Global Awards"
+        }
+      ],
+      "third_party": false
+    },
+    "buybox_winner": {
+      "maximum_order_quantity": {
+        "value": 50,
+        "hard_maximum": true
+      },
+      "subscribe_and_save": {
+        "base_discount_percentage": 5,
+        "tiered_discount_percentage": 10,
+        "delivery_message": "Save 5% now and up to 10% on repeat deliveries.  No fees Cancel anytime",
+        "default_delivery": "2 months (Most common)",
+        "base_price": {
+          "value": 17.95,
+          "currency": "USD",
+          "symbol": "$",
+          "raw": "17.95"
+        },
+        "tiered_price": {
+          "value": 17.01,
+          "currency": "USD",
+          "symbol": "$",
+          "raw": "17.01"
+        }
+      },
+      "price_only_available_in_cart": false,
+      "new_offers_count": 2,
+      "new_offers_from": {
+        "raw": "New"
+      },
+      "trade_in_and_save": true,
+      "return_policy": {
+        "duration_days": 30,
+        "type": "refund/replacement"
+      },
+      "is_prime": true,
+      "is_prime_exclusive_deal": false,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "In Stock",
+        "dispatch_days": 1
+      },
+      "fulfillment": {
+        "type": "p2",
+        "standard_delivery": {
+          "date": "Sunday, March 22",
+          "name": "FREE"
+        },
+        "fastest_delivery": {
+          "date": "Thursday, March 19",
+          "name": "Or Prime members get FREE delivery Thursday, March 19. Order within 13 hrs 23 mins. Join Prime"
+        },
+        "is_sold_by_amazon": false,
+        "is_fulfilled_by_amazon": true,
+        "is_fulfilled_by_third_party": false,
+        "is_sold_by_third_party": true,
+        "third_party_seller": {
+          "name": "Medicube & Aprilskin"
+        }
+      },
+      "price": {
+        "symbol": "$",
+        "value": 18.9,
+        "currency": "USD",
+        "raw": "$18.90"
+      },
+      "rrp": {
+        "symbol": "$",
+        "value": 21.8,
+        "currency": "USD",
+        "raw": "$21.80"
+      },
+      "unit_price": {
+        "symbol": "$",
+        "value": 18.71,
+        "currency": "USD",
+        "raw": "$18.71 / fluid ounce"
+      },
+      "shipping": {
+        "raw": "FREE"
+      }
+    },
+    "specifications": [
+      {
+        "name": "Product Dimensions",
+        "value": "4.13 x 1.85 x 1.77 inches; 4.94 ounces"
+      },
+      {
+        "name": "Item model number",
+        "value": "213124"
+      },
+      {
+        "name": "Manufacturer",
+        "value": "Medicube"
+      },
+      {
+        "name": "ASIN",
+        "value": "B0DBF65JYY"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "See Top 100 in Beauty & Personal Care"
+      },
+      {
+        "name": "Skin Type",
+        "value": "All"
+      },
+      {
+        "name": "Product Benefits",
+        "value": "Dark Spot Correction"
+      },
+      {
+        "name": "Target Use Body Part",
+        "value": "Face"
+      },
+      {
+        "name": "Scent Name",
+        "value": "Salmon DNA"
+      },
+      {
+        "name": "Item Form",
+        "value": "Drop"
+      },
+      {
+        "name": "Brand Name",
+        "value": "medicube"
+      },
+      {
+        "name": "Number of Items",
+        "value": "1"
+      },
+      {
+        "name": "Model Number",
+        "value": "213124"
+      },
+      {
+        "name": "Manufacturer Part Number",
+        "value": "213124"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "#48 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #4 in Facial Serums"
+      },
+      {
+        "name": "Customer Reviews",
+        "value": "4.6    4.6 out of 5 stars         (10,651)           4.6 out of 5 stars"
+      },
+      {
+        "name": "Item Weight",
+        "value": "0.14 Kilograms"
+      },
+      {
+        "name": "Item Volume",
+        "value": "1.01 Fluid Ounces"
+      },
+      {
+        "name": "Unit Count",
+        "value": "1.01 Fluid Ounces"
+      }
+    ],
+    "specifications_flat": "Unit Count: 1.01 Fluid Ounces. Item Volume: 1.01 Fluid Ounces. Item Weight: 0.14 Kilograms. Customer Reviews: 4.6    4.6 out of 5 stars         (10,651)           4.6 out of 5 stars. Best Sellers Rank: #48 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #4 in Facial Serums. Manufacturer Part Number: 213124. Model Number: 213124. Number of Items: 1. Brand Name: medicube. Item Form: Drop. Scent Name: Salmon DNA. Target Use Body Part: Face. Product Benefits: Dark Spot Correction. Skin Type: All. Best Sellers Rank: See Top 100 in Beauty & Personal Care. ASIN: B0DBF65JYY. Manufacturer: Medicube. Item model number: 213124. Product Dimensions: 4.13 x 1.85 x 1.77 inches; 4.94 ounces.",
+    "recent_sales": "90K+ bought in past month",
+    "gift_guide_badge": {
+      "badge_text": "90K+ bought in past month"
+    },
+    "ingredients": [
+      "For external uses onlyWater",
+      "Glycerin",
+      "Dipropylene Glycol",
+      "Isopropyl Myristate",
+      "Glycereth-26",
+      "Niacinamide",
+      "1",
+      "2- Hexanediol",
+      "Sodium DNA",
+      "Butylene Glycol",
+      "Polyglycerin-3",
+      "Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer",
+      "Polyisobutene",
+      "Acrylates/C10-30 Alkyl Acrylate Crosspolymer",
+      "Milt Extract",
+      "Tromethamine",
+      "Glyceryl Acrylate/Acrylic Acid Copolymer",
+      "PVM/MA Copolymer",
+      "Ethylhexylglycerin",
+      "Caprylyl Glycol",
+      "Fragrance",
+      "Melia Azadirachta Leaf Extract",
+      "Adenosine",
+      "Caprylyl/Capryl Glucoside",
+      "Sorbitan Oleate",
+      "Melia Azadirachta Flower Extract",
+      "Sodium Hyaluronate",
+      "Disodium EDTA",
+      "Curcuma Longa (Turmeric) Root Extract",
+      "Cyanocobalamin",
+      "Hydrolyzed Collagen",
+      "Ubiquinone",
+      "Ocimum Sanctum Leaf Extract",
+      "Corallina Officinalis Extract",
+      "Palmitoyl Pentapeptide-4",
+      "Palmitoyl Tripeptide-1",
+      "Palmitoyl Tetrapeptide-7",
+      "Copper Tripeptide-1",
+      "Acetyl Hexapeptide-8",
+      "Salmon Egg Extract",
+      "Atelocollagen"
+    ],
+    "ingredients_flat": "For external uses onlyWater, Glycerin, Dipropylene Glycol, Isopropyl Myristate, Glycereth-26, Niacinamide, 1, 2- Hexanediol, Sodium DNA, Butylene Glycol, Polyglycerin-3, Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Polyisobutene, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Milt Extract, Tromethamine, Glyceryl Acrylate/Acrylic Acid Copolymer, PVM/MA Copolymer, Ethylhexylglycerin, Caprylyl Glycol, Fragrance, Melia Azadirachta Leaf Extract, Adenosine, Caprylyl/Capryl Glucoside, Sorbitan Oleate, Melia Azadirachta Flower Extract, Sodium Hyaluronate, Disodium EDTA, Curcuma Longa (Turmeric) Root Extract, Cyanocobalamin, Hydrolyzed Collagen, Ubiquinone, Ocimum Sanctum Leaf Extract, Corallina Officinalis Extract, Palmitoyl Pentapeptide-4, Palmitoyl Tripeptide-1, Palmitoyl Tetrapeptide-7, Copper Tripeptide-1, Acetyl Hexapeptide-8, Salmon Egg Extract, Atelocollagen",
+    "manufacturer": "Medicube",
+    "weight": "0.14 Kilograms",
+    "item_volume": "1.01 Fluid Ounces",
+    "dimensions": "4.13 x 1.85 x 1.77 inches; 4.94 ounces",
+    "model_number": "213124",
+    "bestsellers_rank_flat": "Category: Beauty & Personal Care | Rank: 48, Category: Facial Serums | Rank: 4"
+  },
+  "brand_store": {
+    "id": "92053863-0802-48FF-BAAD-7918CF4EC806",
+    "link": "https://www.amazon.com/stores/medicube/page/92053863-0802-48FF-BAAD-7918CF4EC806"
+  }
+}

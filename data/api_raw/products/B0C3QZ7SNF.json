@@ -1,0 +1,1323 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 16,
+    "credits_remaining": 84,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "type": "product",
+    "asin": "B0C3QZ7SNF",
+    "amazon_domain": "amazon.com"
+  },
+  "request_metadata": {
+    "created_at": "2026-03-17T15:38:29.845Z",
+    "processed_at": "2026-03-17T15:38:36.677Z",
+    "total_time_taken": 6.83,
+    "amazon_url": "https://www.amazon.com/dp/B0C3QZ7SNF?th=1&psc=1"
+  },
+  "product": {
+    "title": "Cisily Sponge Holder for Kitchen Sink, Sink Caddy Organizer with High Brush Holder, Kitchen Countertop Organizers and Storage Essentials, Rustproof 304 Stainless Steel (Black, 9.25″)",
+    "search_alias": {
+      "title": "Home & Kitchen",
+      "value": "search-alias=garden"
+    },
+    "keywords": "Cisily Sponge Holder for Kitchen Sink, Sink Caddy Organizer with High Brush Holder, Kitchen Countertop Organizers and Storage Essentials, Rustproof 304 Stainless Steel (Black, 9.25″)",
+    "keywords_list": [
+      "Cisily Sponge Holder for Kitchen Sink",
+      "Sink Caddy Organizer with High Brush Holder",
+      "Kitchen Countertop Organizers and Storage Essentials",
+      "Rustproof 304 Stainless Steel (Black",
+      "9.25″)"
+    ],
+    "is_collection": false,
+    "asin": "B0C3QZ7SNF",
+    "parent_asin": "B0CQ2JR8T2",
+    "gtin": "732453792576",
+    "link": "https://www.amazon.com/Cisily-Organzier-Rustproof-Stainless-Organizer/dp/B0C3QZ7SNF",
+    "brand": "Cisily",
+    "sell_on_amazon": false,
+    "variants": [
+      {
+        "asin": "B0FK4KX538",
+        "title": "Black With Smiley Face",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0FK4KX538?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Black With Smiley Face"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/815xOPvXvFL._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/815xOPvXvFL._AC_SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0F2MP9NPT",
+        "title": "Dark Green",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0F2MP9NPT?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Dark Green"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/81LDoaw5knL._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/81LDoaw5knL._AC_SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0CKVGC6B2",
+        "title": "Silver",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0CKVGC6B2?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Silver"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/81Yn4-GyKJL._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/81Yn4-GyKJL._AC_SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0CSF9BY8X",
+        "title": "Brown",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0CSF9BY8X?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Brown"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/818O6JTCSeL._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/818O6JTCSeL._AC_SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0CSF8ZGB4",
+        "title": "Gold",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0CSF8ZGB4?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Gold"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71cFIxbO3tL._AC_SL1328_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71cFIxbO3tL._AC_SL1328_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0F2MPCGSN",
+        "title": "Turquoise",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0F2MPCGSN?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Turquoise"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/617swmvPZxL._AC_SL1024_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/617swmvPZxL._AC_SL1024_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0F47MRLXJ",
+        "title": "Large Silver",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0F47MRLXJ?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Large Silver"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/81LR3U7IYHL._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/81LR3U7IYHL._AC_SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0F2MMHXN8",
+        "title": "Gray Blue",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0F2MMHXN8?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Gray Blue"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/61s74SWBttL._AC_SL1024_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/61s74SWBttL._AC_SL1024_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0F2MSC39S",
+        "title": "Cream",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0F2MSC39S?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Cream"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/81mWrXIJBEL._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/81mWrXIJBEL._AC_SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0DXZKSXR8",
+        "title": "Black With Towel Rack",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0DXZKSXR8?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Black With Towel Rack"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/81UrEyCFTvL._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/81UrEyCFTvL._AC_SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0C3QZ7SNF",
+        "title": "Black",
+        "is_current_product": true,
+        "link": "https://www.amazon.com/dp/B0C3QZ7SNF?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Black"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/81shIEM-H2L._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/81shIEM-H2L._AC_SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0FPFHHP3J",
+        "title": "Yellow",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0FPFHHP3J?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Yellow"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/81pTr-NhcnL._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/81pTr-NhcnL._AC_SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0FH21FPXQ",
+        "title": "Silver With Towel Rack",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0FH21FPXQ?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Silver With Towel Rack"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/81W1J8HpupL._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/81W1J8HpupL._AC_SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0F47X1KXL",
+        "title": "Large Black",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0F47X1KXL?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Large Black"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/81P0lKTxBiL._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/81P0lKTxBiL._AC_SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0FPFGKTN4",
+        "title": "Navy Blue",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0FPFGKTN4?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Navy Blue"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/81DKyeUwn+L._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/81DKyeUwn+L._AC_SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0CKVGHGJF",
+        "title": "White",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0CKVGHGJF?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "White"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/81aXHydnS2L._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/81aXHydnS2L._AC_SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0D8VJKGX7",
+        "title": "Dark Grey",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0D8VJKGX7?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Dark Grey"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/81NlGPaFL4L._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/81NlGPaFL4L._AC_SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0D9XJSK99",
+        "title": "Sage Green",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0D9XJSK99?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Sage Green"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/81PNGZTiNwL._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/81PNGZTiNwL._AC_SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0DPLW6111",
+        "title": "Blue",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0DPLW6111?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Blue"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/61s3Y+zwHTL._AC_SL1024_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/61s3Y+zwHTL._AC_SL1024_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0DK93C9YT",
+        "title": "Pink",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0DK93C9YT?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Pink"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/614-V7Na2PL._AC_SL1024_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/614-V7Na2PL._AC_SL1024_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0F2MS25P3",
+        "title": "Gray",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0F2MS25P3?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Gray"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/81VKy0KdK+L._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/81VKy0KdK+L._AC_SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0F2MP6SFW",
+        "title": "Rose Gold",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0F2MP6SFW?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Rose Gold"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/61tPIdLFNtL._AC_SL1024_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/61tPIdLFNtL._AC_SL1024_.jpg"
+          }
+        ]
+      }
+    ],
+    "variant_asins_flat": "B0FK4KX538,B0F2MP9NPT,B0CKVGC6B2,B0CSF9BY8X,B0CSF8ZGB4,B0F2MPCGSN,B0F47MRLXJ,B0F2MMHXN8,B0F2MSC39S,B0DXZKSXR8,B0C3QZ7SNF,B0FPFHHP3J,B0FH21FPXQ,B0F47X1KXL,B0FPFGKTN4,B0CKVGHGJF,B0D8VJKGX7,B0D9XJSK99,B0DPLW6111,B0DK93C9YT,B0F2MS25P3,B0F2MP6SFW",
+    "proposition_65_warning": false,
+    "has_size_guide": true,
+    "add_on_item": {
+      "is_add_on_item": true
+    },
+    "categories": [
+      {
+        "name": "Home & Kitchen",
+        "link": "https://www.amazon.com/home-garden-kitchen-furniture-bedding/b/ref=dp_bc_1?ie=UTF8&node=1055398",
+        "category_id": "1055398"
+      },
+      {
+        "name": "Kitchen & Dining",
+        "link": "https://www.amazon.com/kitchen-dining/b/ref=dp_bc_2?ie=UTF8&node=284507",
+        "category_id": "284507"
+      },
+      {
+        "name": "Storage & Organization",
+        "link": "https://www.amazon.com/kitchen-storage-organization/b/ref=dp_bc_3?ie=UTF8&node=510136",
+        "category_id": "510136"
+      },
+      {
+        "name": "Kitchen Storage & Organization Accessories",
+        "link": "https://www.amazon.com/kitchen-storage-accessories/b/ref=dp_bc_4?ie=UTF8&node=3744031",
+        "category_id": "3744031"
+      }
+    ],
+    "categories_flat": "Home & Kitchen > Kitchen & Dining > Storage & Organization > Kitchen Storage & Organization Accessories",
+    "sub_title": {
+      "text": "Visit the Cisily Store",
+      "link": "https://www.amazon.com/stores/CISILYHOMELIFE/page/E7038A3F-47BF-4D68-A9D5-170F8D049E05?lp_asin=B0C3QZ7SNF&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto"
+    },
+    "amazons_choice": {
+      "link": "https://www.amazon.com/Cisily-Organzier-Rustproof-Stainless-Organizer/dp/B0C3QZ7SNF",
+      "badge_text": "Amazon's  Choice"
+    },
+    "marketplace_id": "ATVPDKIKX0DER",
+    "rating": 4.6,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 77,
+        "count": 9067
+      },
+      "four_star": {
+        "percentage": 14,
+        "count": 1649
+      },
+      "three_star": {
+        "percentage": 6,
+        "count": 707
+      },
+      "two_star": {
+        "percentage": 1,
+        "count": 118
+      },
+      "one_star": {
+        "percentage": 2,
+        "count": 236
+      }
+    },
+    "ratings_total": 11775,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/81shIEM-H2L.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/81n4e+qu+HL._AC_SL1500_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81CBPILSgGL._AC_SL1500_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/818WoFALdYL._AC_SL1500_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/717rEWNvqxL._AC_SL1500_.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/814XJFV688L._AC_SL1500_.jpg",
+        "variant": "PT05"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81AfbKRjpOL._AC_SL1500_.jpg",
+        "variant": "PT06"
+      }
+    ],
+    "images_count": 6,
+    "images_flat": "https://m.media-amazon.com/images/I/81n4e+qu+HL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81CBPILSgGL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/818WoFALdYL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/717rEWNvqxL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/814XJFV688L._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81AfbKRjpOL._AC_SL1500_.jpg",
+    "videos_count": 7,
+    "videos_additional": [
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.086df3bdbecc4b2abe37f6570c3efabc",
+        "product_asin": "B0C3QZ7SNF",
+        "parent_asin": "B0CQ2JR8T2",
+        "related_products": "B0C3QZ7SNF",
+        "title": "Practical sink organizer!",
+        "profile_image_url": "https://m.media-amazon.com/images/I/A1VgLlpUnhL._CR0,0,3024,3024_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/celebratewithmadds",
+        "public_name": "Maddie",
+        "vendor_code": "celebratewithmadds:shop",
+        "vendor_name": "Maddie",
+        "vendor_tracking_id": "onamzmadil079-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/91UEvsG3qLL._CR0,0,3024,1707_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/91UEvsG3qLL.jpg",
+        "video_image_width": "3024",
+        "video_image_height": "4032",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/67da4185-4e9e-4924-a352-9a577484cb8b/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/dc2184a7-df66-4ddf-a770-fedcea9fc27d/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/dc2184a7-df66-4ddf-a770-fedcea9fc27d/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:45",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/c21130db-8ed9-48a0-83b6-20ead864a358.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.09851658470d4110866def0436ae4f82",
+        "product_asin": "B0C3QZ7SNF",
+        "parent_asin": "B0CQ2JR8T2",
+        "related_products": "B0C3QZ7SNF",
+        "title": "My favorite feature of this sink caddy.",
+        "profile_image_url": "https://m.media-amazon.com/images/I/41JmlTnxyYL._CR0,0,264,264_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/lovingmelean",
+        "public_name": "Holly H.",
+        "vendor_code": "lovingmelean:shop",
+        "vendor_name": "Holly H.",
+        "vendor_tracking_id": "onamzhollyh04-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/A1rJzfWlmsL._CR0,0,3024,1707_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/A1rJzfWlmsL.jpg",
+        "video_image_width": "3024",
+        "video_image_height": "4032",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/def8664a-1cb2-49c7-8c25-f0bfa5f6ede4/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e8b90ef0-d27d-488b-a469-68a9c57a8d10/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e8b90ef0-d27d-488b-a469-68a9c57a8d10/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e8b90ef0-d27d-488b-a469-68a9c57a8d10/9398aa39-264f-41fb-9e47-1a1688ddd1f0/09851658470d4110866def0436ae4f82_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:38",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/c43c061b-ddbb-42d6-b58d-d84a095dc1a2.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0e6ec601a9a44dd0ab66605d46f54e58",
+        "product_asin": "B0C3QZ7SNF",
+        "parent_asin": "B0CQ2JR8T2",
+        "related_products": "B0C3QZ7SNF",
+        "title": "See how this looks in a real life setting!",
+        "profile_image_url": "https://m.media-amazon.com/images/I/715636Wjt6L._CR0,0,1120,1120_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/influencer-35ffd3ae",
+        "public_name": "Alex Schams",
+        "vendor_code": "influencer-35ffd3ae:shop",
+        "vendor_name": "Alex Schams",
+        "vendor_tracking_id": "onamzal0d56a9-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/61BK90EROEL._CR1,0,638,360_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61BK90EROEL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "360",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2e3aeb82-46d9-4a95-81fc-4b7679732697/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3ae180eb-1a6e-4a4c-925a-884624bab654/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3ae180eb-1a6e-4a4c-925a-884624bab654/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:59",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/824e3998-8e53-46b9-a820-9dea560f5c8a.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.03e053e612664ea5b267bf963fe7cd2c",
+        "product_asin": "B0C3QZ7SNF",
+        "parent_asin": "B0CQ2JR8T2",
+        "related_products": "B0B3CT9PQH,B0C3QZ7SNF,B0BWRVQQSX,B0BGMWK5YQ,B0BWRWK3ZF",
+        "title": "Hold all your soaps and brushes with a removable tray",
+        "profile_image_url": "https://images-na.ssl-images-amazon.com/images/S/influencer-profile-image-prod/logo/arbelvoiceoverartist_1683943544900_original._FMjpg_._SL34_.jpeg",
+        "profile_link": "/shop/arbelvoiceoverartist",
+        "public_name": "Arbel Kimmick",
+        "vendor_code": "arbelvoiceoverartist:shop",
+        "vendor_name": "Arbel Kimmick",
+        "vendor_tracking_id": "onamzarbelkim-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/91-AMRq6-+L._CR2,0,1276,720_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/91-AMRq6-+L.png",
+        "video_image_width": "1280",
+        "video_image_height": "720",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/bb241a45-4f5a-4b4f-b7ca-d853e20bceb4/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/78ac2a4a-440d-49af-b32f-16deb3d5a939/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/78ac2a4a-440d-49af-b32f-16deb3d5a939/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/78ac2a4a-440d-49af-b32f-16deb3d5a939/c3d754bb-aa7a-46dc-98d8-bf9a9957a6ca/03e053e612664ea5b267bf963fe7cd2c_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:19",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/4258d8d6-a290-43f9-934d-3baccc536ce4.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.00814c22260d4dde82c40df5af32ca16",
+        "product_asin": "B0C3QZ7SNF",
+        "parent_asin": "B0CQ2JR8T2",
+        "related_products": "B0C3QZ7SNF",
+        "title": "Upgrade Sink Caddy Kitchen Organizer",
+        "profile_image_url": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SL34_.png",
+        "profile_link": "/gp/profile/amzn1.account.AF2VVJAJOEA4WCKJRN3TSAPKHUAA",
+        "public_name": "Edwina Roy",
+        "vendor_code": "UGCPR",
+        "vendor_name": "Edwina Roy",
+        "video_image_url": "https://m.media-amazon.com/images/I/5119VDR0nqL._CR1,0,638,360_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/5119VDR0nqL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "360",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/b9c36d16-b966-4908-ac69-657256911690/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2a2bf01a-c2cb-4f86-a6ea-0b47ed41ded1/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2a2bf01a-c2cb-4f86-a6ea-0b47ed41ded1/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:33",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/78d6f448-3084-4bd0-8e00-0b8df7d4dc67.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.063fd859dada4f9286ba1829320f8915",
+        "product_asin": "B0C3QZ7SNF",
+        "parent_asin": "B0CQ2JR8T2",
+        "related_products": "B0C3QZ7SNF",
+        "title": "Black sink caddy",
+        "profile_image_url": "https://m.media-amazon.com/images/I/71ZWT0J3jML._CR0,0,1111,1111_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/jennymafield267",
+        "public_name": "Jennifer Mafield",
+        "vendor_code": "jennymafield267:shop",
+        "vendor_name": "Jennifer Mafield",
+        "vendor_tracking_id": "onamzjen0ebd5-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/61et0DJX4pL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61et0DJX4pL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "853",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/50df408a-51c8-4dc9-bb1c-b7aae731527c/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e0e2f7d5-0ac6-4856-8b95-4ad7931e6c58/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e0e2f7d5-0ac6-4856-8b95-4ad7931e6c58/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:14",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/79e12bfb-4ff2-445c-a526-add1423c5e7f.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.065df19e0ddb41e3ab0eef21dd36a29e",
+        "product_asin": "B0C3QZ7SNF",
+        "parent_asin": "B0CQ2JR8T2",
+        "related_products": "B0C3QZ7SNF",
+        "title": "Honest review crispy black sponge holder",
+        "profile_image_url": "https://m.media-amazon.com/images/I/91p74R+B7pL._CR0,0,1959,1959_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/nursenatalie.gk",
+        "public_name": "natalie",
+        "vendor_code": "nursenatalie.gk:shop",
+        "vendor_name": "natalie",
+        "vendor_tracking_id": "onamznat013b7-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/71bfutRKvtL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/71bfutRKvtL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1137",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c2826cc8-5092-48f5-9385-b48b65d0613c/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2b2a020c-4f37-4641-8bc8-a8bb8bda1983/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2b2a020c-4f37-4641-8bc8-a8bb8bda1983/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:59",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/58cc2324-ca65-488a-b1ab-5fcb3722b8ff.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0063636a238041fcbb905ad1bc0e8d54",
+        "product_asin": "B0C3QZ7SNF",
+        "parent_asin": "B0CQ2JR8T2",
+        "related_products": "B0C3QZ7SNF",
+        "title": "Essential Sink Caddy Organizer Review",
+        "profile_image_url": "https://m.media-amazon.com/images/I/A1CE+YDgBFL._CR0,0,3024,3024_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/theeditedhome",
+        "public_name": "The Edited Home",
+        "vendor_code": "theeditedhome:shop",
+        "vendor_name": "The Edited Home",
+        "vendor_tracking_id": "onamzmeag0ef8-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/61iTMFadXbL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61iTMFadXbL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1137",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ce84236a-3a87-4e7a-86b6-15159b3d5747/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3c626c01-cd0a-4ec8-8267-73c808cfcc44/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3c626c01-cd0a-4ec8-8267-73c808cfcc44/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:56",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/bb41d02d-1405-4d27-9928-c58ea83c7f29.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0d64f287415b4c3789c3c6f5af98cae7",
+        "product_asin": "B0C3QZ7SNF",
+        "parent_asin": "B0CQ2JR8T2",
+        "related_products": "B0C3QZ7SNF",
+        "title": "My honest thoughts on this kitchen sink organizer",
+        "profile_image_url": "https://m.media-amazon.com/images/I/A1hmXJ01KCL._CR0,0,3024,3024_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/smi.my",
+        "public_name": "Myah Smith",
+        "vendor_code": "smi.my:shop",
+        "vendor_name": "Myah Smith",
+        "vendor_tracking_id": "onamzmyahsm01-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/61-M740AksL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61-M740AksL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1137",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3d0620cd-7a92-46e3-b92a-bb80a69980a4/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/6df9224c-03b8-4e83-a597-051213a8b363/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/6df9224c-03b8-4e83-a597-051213a8b363/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:10",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/1f6adea3-13c5-4f49-8809-b8c11d6f0c0d.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.06eebf68c66648528ac2b4e8c1f649cc",
+        "product_asin": "B0C3QZ7SNF",
+        "parent_asin": "B0CQ2JR8T2",
+        "related_products": "B0C3QZ7SNF",
+        "title": "HONEST Review Of Cisily Sponge Holder",
+        "profile_image_url": "https://m.media-amazon.com/images/I/A1cjRWJwwiL._CR0,0,3024,3024_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/katiesmyth48",
+        "public_name": "Katie Smyth",
+        "vendor_code": "katiesmyth48:shop",
+        "vendor_name": "Katie Smyth",
+        "vendor_tracking_id": "onamzkatiesmy-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/A1YygUjSd5L._CR2,0,1276,720_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/A1YygUjSd5L.png",
+        "video_image_width": "1280",
+        "video_image_height": "720",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/8e9c5084-93d0-4282-ba46-3ddb700e1e71/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f05cd552-c53e-4fbb-85df-4315042a5b1d/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f05cd552-c53e-4fbb-85df-4315042a5b1d/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:44",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/8ae1c169-dbc9-4ff8-b8ed-fd44455e269d.vtt"
+      }
+    ],
+    "is_bundle": false,
+    "feature_bullets": [
+      "【ROTATABLE SPOUT】This kitchen sink caddy comes with a rotatable spout that swivels in three directions so that the water in the sponge can be directed to the sink. There won't be any water left on the countertop, you don't need to pull out the drip tray to clean it often, saving your cleaning time.",
+      "【SMALL VOLUME】 Cisily sponge holder is suitable for kitchens with limited space. It measures only 9.25\"*3.97\"*6.37\", Holds a detergent bottle, a sponge ball and sink stopper. With an extra upgraded brush holder that can hold up to 4 small and large sized brushes, with the Cisily Sink caddy you can save countertop space perfectly.",
+      "【PREMIUM STURDY MATERIAL】 Cisily kitchen sink organizer is made of premium stainless steel which can effectively prevent rust and deformation. And you can clean it easily by rinsing it under a running tap. Take the clutter out of your countertops.",
+      "【REASONABLE DIVIDER DESIGN】 The sponge holder for kitchen sink ergonomic divider design allows it to have 3 separate storage spaces, Different items are placed in different areas. Make the most of every inch of space and make your kitchen look cleaner.",
+      "【SATISFACTION GUARANTEED】The CISILY kitchen sink organizer is ready to use upon receipt, no installation required and is widely used on counters or bathrooms, making it a satisfying gift. If you have any questions during use, please consult our customer service staff. We want to provide you with a pleasant shopping experience.",
+      "USPTO patent：USD1045310S"
+    ],
+    "feature_bullets_count": 6,
+    "feature_bullets_flat": "USPTO patent：USD1045310S. 【SATISFACTION GUARANTEED】The CISILY kitchen sink organizer is ready to use upon receipt, no installation required and is widely used on counters or bathrooms, making it a satisfying gift. If you have any questions during use, please consult our customer service staff. We want to provide you with a pleasant shopping experience. 【REASONABLE DIVIDER DESIGN】 The sponge holder for kitchen sink ergonomic divider design allows it to have 3 separate storage spaces, Different items are placed in different areas. Make the most of every inch of space and make your kitchen look cleaner. 【PREMIUM STURDY MATERIAL】 Cisily kitchen sink organizer is made of premium stainless steel which can effectively prevent rust and deformation. And you can clean it easily by rinsing it under a running tap. Take the clutter out of your countertops. 【SMALL VOLUME】 Cisily sponge holder is suitable for kitchens with limited space. It measures only 9.25\"*3.97\"*6.37\", Holds a detergent bottle, a sponge ball and sink stopper. With an extra upgraded brush holder that can hold up to 4 small and large sized brushes, with the Cisily Sink caddy you can save countertop space perfectly. 【ROTATABLE SPOUT】This kitchen sink caddy comes with a rotatable spout that swivels in three directions so that the water in the sponge can be directed to the sink. There won't be any water left on the countertop, you don't need to pull out the drip tray to clean it often, saving your cleaning time.",
+    "top_reviews": [
+      {
+        "id": "RAM85AHB6UMG8",
+        "title": "Great Soap Caddy",
+        "body": "This is a sharp, very smartly organized sink caddy.  Just perfect for things needed around the sink.  And it is very attractive.  The caddy easily holds liquid hand soap, dish soap and sponge.  There is also a feature of a swing out lever on the bottom that allows any liquid in the bottom of the caddy to drain out.  The lever can be put back under the caddy when not needed.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on February 13, 2026"
+        },
+        "profile": {
+          "name": "JG"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 6,
+        "link": "https://www.amazon.com/gp/customer-reviews/RAM85AHB6UMG8/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R3G8YLERJQASBO",
+        "title": "Well designed, very well made!",
+        "body": "Sturdily made. No warping or flexing. Water drain and catchment tray are stable and highly effective. Compartment is high enough to keep brushes upright, open enough for sponges and brushes to dry quickly.  Very pleased with the quality, the price, and the ease of fit for variable dish cleaning items, plus it looks great! Great purchase!",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on February 18, 2026"
+        },
+        "profile": {
+          "name": "NorthWoods Living"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 4,
+        "link": "https://www.amazon.com/gp/customer-reviews/R3G8YLERJQASBO/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R3UUI56T88OYP5",
+        "title": "Works as expected!",
+        "body": "Sometimes the smallest choices can make you sooo happy! 😊Sturdy, definitely better than my previous arrangement, and the spout is perfect and no more water behind the sink to wipe up!We have our straw cleaners, scrub brushes, soap, and sponge in it comfortably. All organized, easy access, and much more attractive without the all the water spots/soap residue, standing water, etc., and the water on the items flows into the sink as advertised. Extremely satisfied.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on February 20, 2026"
+        },
+        "profile": {
+          "name": "Kristen Janssen"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 2,
+        "link": "https://www.amazon.com/gp/customer-reviews/R3UUI56T88OYP5/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "RV0Y0RWK0FOIO",
+        "title": "Great Product",
+        "body": "Perfect size, very handy!",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in the United States on March 4, 2026"
+        },
+        "profile": {
+          "name": "david Plisch"
+        },
+        "verified_purchase": true,
+        "link": "https://www.amazon.com/gp/customer-reviews/RV0Y0RWK0FOIO/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "RUV8E768A2UBF",
+        "title": "Easy to arrange and selection of collors is very nice",
+        "body": "This is Great for organizing your sponges, scrubbies and dishwash soap so your sink area isn't crowded.  The spout has the excess water go into the sink so your counter stays dry.  Good value for the money and storage capacity",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on February 16, 2026"
+        },
+        "profile": {
+          "name": "debi maclin"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 3,
+        "link": "https://www.amazon.com/gp/customer-reviews/RUV8E768A2UBF/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R2CIDQ0O1BGAJT",
+        "title": "Approved by My Son!",
+        "body": "My son really appreciates this, and he usually has a hard time with any changes, so that alone says a lot. It looks nice, keeps everything much neater, and definitely saves space. The bottom section is a little loose, but it still stays in place. I just got it, so I can’t speak for long‑term durability yet, but so far it’s working well.It wasn’t difficult to put together, though it didn’t come with a picture. I had to refer to the product photos online to make sure I assembled it correctly.I also like that it has some customizable/versatile sections, which made it easy to fit around the items I keep at my sink. For what I received, the value seems appropriate",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on February 16, 2026"
+        },
+        "profile": {
+          "name": "Kri Kri"
+        },
+        "verified_purchase": true,
+        "link": "https://www.amazon.com/gp/customer-reviews/R2CIDQ0O1BGAJT/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R1JJKSS6QXJR1Z",
+        "title": "Works well",
+        "body": "Good size. Drains well. Looks easy to clean. I like how I can move the drain to where it drains in the perfect area. Good value and looks great in our kitchen",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on March 9, 2026"
+        },
+        "profile": {
+          "name": "Anonymous"
+        },
+        "verified_purchase": true,
+        "helpful_votes": null,
+        "link": "https://www.amazon.com/gp/customer-reviews/R1JJKSS6QXJR1Z/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R33HOZLTK7PJ3B",
+        "title": "Effortlessly Tidy Your Sink: Cisily Black Sponge Holder with Brush Organizer – Stylish & Practical!",
+        "body": "The Cisily Black Sponge Holder for Kitchen Sink is an absolute game-changer for kitchen organization. If you’re tired of dealing with a messy, cluttered sink area, this is the perfect solution.Design and AestheticsFirst off, the sleek black design adds a modern touch to my kitchen. It’s minimalistic and stylish, blending perfectly with my sink area without being too bulky. The matte finish gives it a high-end feel, and it doesn’t stain or show water spots easily—always a bonus in the kitchen.FunctionalityWhat I really love about this sink caddy is its thoughtful design. It has a high brush holder that allows you to store your dish brushes, which is fantastic for keeping them upright and dry. This small feature has really made a difference in preventing soggy, bacteria-prone brushes that are always laying around.The sponge holder is spacious enough to fit my large sponge, and there’s even a small compartment for things like a small scrub brush or even dish soap. No more juggling multiple items or wondering where I left that pesky scrubber. Everything has its place!Durability and MaterialThe holder is made from high-quality, rust-resistant material, which is a big deal when it comes to kitchen accessories that are exposed to water constantly. After a few weeks of use, it still looks as good as new, with no signs of corrosion or wear. It’s also very sturdy and doesn’t feel flimsy at all.Ease of Use and CleaningThe best part? It’s incredibly easy to clean. The open design ensures that water drains away quickly, keeping things dry and hygienic. There’s no stagnant water collecting underneath, which was always an issue with my old sponge holders. I just give it a quick rinse once a week, and it’s good to go.ProsOrganized and tidy: Keeps my sink area neat, with dedicated space for sponges, brushes, and other items.Stylish: The sleek black design looks great in any kitchen.Rust-resistant and durable: Made from high-quality materials that will last for years.Easy to clean: Open design makes it low-maintenance.Compact: Doesn’t take up too much space but provides ample storage.ConsSize limitations: While it fits most common items, if you have extra-large sponges or brushes, they might not fit as easily. However, this wasn’t a problem for me with typical kitchen tools.Final VerdictThe Cisily Black Sponge Holder is a small but effective upgrade for any kitchen. It’s simple yet functional, and the thoughtful design really helps keep my sink area organized. The high brush holder and drainage features make it super practical, and the rust-resistant material means it’ll stay in great condition for years. If you're looking to tidy up your sink space without compromising on style or durability, this sink caddy organizer is definitely worth it! Highly recommended!",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on September 25, 2025"
+        },
+        "profile": {
+          "name": "Hardy"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 9,
+        "link": "https://www.amazon.com/gp/customer-reviews/R33HOZLTK7PJ3B/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R1FXK4ILB0CH53",
+        "title": "Poor quality, nothing like the picture of the product",
+        "body": "Unpackaged the product and found broken pieces, missing pieces, poor quality compared to the image shown on the product page.  Not worth purchasing! It will be returned.",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in Australia on February 3, 2025"
+        },
+        "profile": {
+          "name": "Jon Marks"
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "R1Q1XF0D70QVKQ",
+        "title": "Just right to hold cleaning items",
+        "body": "Good performance, sturdy materials. Size is right for sink counter",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Singapore on August 31, 2025"
+        },
+        "profile": {
+          "name": "Alpha Dad"
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "R252PZAXO3BTJJ",
+        "body": "Bon produi mais trop petit pour un evier de cuisine.Photo trompeuse",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in France on November 19, 2025"
+        },
+        "profile": {
+          "name": "DELIGNY P."
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "R27EL888H5GX7O",
+        "title": "Work as expected",
+        "body": "Simple and work as expected.",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in Japan on March 21, 2025"
+        },
+        "profile": {
+          "name": "Tony Tran"
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "R29J8RJVS1IHXO",
+        "body": "Muy práctico, no se oxida el metal, por su recubrimiento y se puede acomodar en el lugar que mejor te acomode.Muy contenta con esta compra.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Mexico on January 7, 2025"
+        },
+        "profile": {
+          "name": "Ruth Ebergenyi"
+        },
+        "verified_purchase": true
+      }
+    ],
+    "bestsellers_rank": [
+      {
+        "rank": 25,
+        "category": "Kitchen & Dining",
+        "link": "https://www.amazon.com/gp/bestsellers/kitchen/ref=pd_zg_ts_kitchen"
+      },
+      {
+        "rank": 1,
+        "category": "Kitchen Storage Accessories",
+        "link": "https://www.amazon.com/gp/bestsellers/kitchen/3744031/ref=pd_zg_hrsr_kitchen"
+      }
+    ],
+    "a_plus_content": {
+      "has_a_plus_content": true,
+      "has_brand_story": true,
+      "brand_story": {
+        "brand_logo": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/fbeb793d-9c3d-4829-a781-78864da7ef56.__CR0,0,315,145_PT0_SX315_V1___.jpg",
+        "hero_image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/df320215-28ab-4232-b35d-4f8e2f01d210.__CR0,104,1536,656_PT0_SX1464_V1___.png",
+        "description": "CISILYHOMELIFEwasestablishedin2019,andisayounganddynamiccompany.Wehaveourownmetalmanufacturingfactory,whichintegratesproduction,design,marketingandservice.Sowecanprovidehighqualityandwell-designedgoods.",
+        "images": [
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/df320215-28ab-4232-b35d-4f8e2f01d210.__CR0,104,1536,656_PT0_SX1464_V1___.png"
+        ]
+      },
+      "all_images": [
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/df320215-28ab-4232-b35d-4f8e2f01d210.__CR0,104,1536,656_PT0_SX1464_V1___.png",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d2035af6-d43a-42c5-8679-9fbdf5744d32.__AC_SR166,182___.jpg",
+          "name": "Cisily Kitchen Dish Soap Dispenser Set with Black Sponge Holder and 2 Pack 16.9oz Clear Glass, Di..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0a0680f7-d8aa-4c46-af5a-7525d8778e4f.__AC_SR166,182___.jpg",
+          "name": "Cisily Kitchen Soap Dispenser Set Comes with Ceramics Sponge Holder, Gold Pumps, and Instant Dry ..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/eabb50f4-0dc2-4c34-bd52-0e167934955e.__AC_SR166,182___.jpg",
+          "name": "Cisily Sink Caddy Sponge Holder for Kitchen with Brush Holder and Stainless Steel Self Drain Tray..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0080ea89-9717-491b-be1b-319331516968.__AC_SR166,182___.jpg",
+          "name": "Cisily Kitchen Dish Soap Dispenser Set with 2 Pack Black Glass, Kitchen Soap Dispensers with Adju..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/fbeb793d-9c3d-4829-a781-78864da7ef56.__CR0,0,315,145_PT0_SX315_V1___.jpg",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/53359357-2cd6-4808-8e9d-06b12a268738.__AC_SR166,182___.jpg",
+          "name": "Cisily Sponge Holder for Kitchen Sink, Sink Caddy with High Brush Holder, Kitchen Sink Organizer ..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c96bd581-ef7a-4a26-9f7a-9b5e10b45505.__AC_SR166,182___.jpg",
+          "name": "Cisily Kitchen Sink Caddy, Sponge Holder for Kitchen Sink, Kitchen Sink Organzier and Storage wit..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/95256db3-ebef-4d2e-b642-a55eae0678b2.__AC_SR166,182___.jpg",
+          "name": "Cisily Sponge Holder for Kitchen, Sink Organizer, Kitchen Sink Accessories with Drip Tray, Rustpr..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/914e731f-7052-45bd-a1d0-32ee7b90b412.__AC_SR166,182___.jpg",
+          "name": "Cisily Kitchen Sink Caddy Organizer, Rustproof Non-Slip Soap Dish Dispenser Brush, Sponge Holder ..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/60f0d950-6dd2-4b0a-8b06-6878eedd10f7.__AC_SR166,182___.jpg",
+          "name": "Cisily Kitchen Sink Caddy Sponge Holder in The Sink, Stainless Steel Kitchen Sink Organizer, Brus..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/36674f0b-6fcc-4dc0-b500-4330c9d007fb.__AC_SR166,182___.jpg",
+          "name": "Cisily Kitchen Sink Caddy Organizer, Rustproof Non-Slip Soap Dish Dispenser Brush, Sponge Holder ..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8d547490-84c9-43b1-b70e-a9cd24300d90.__AC_SR166,182___.jpg",
+          "name": "Cisily Sponge Holder for Kitchen Sink, Stainless Steel Silver Sink Caddy with High Brush Holder, ..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/17ce286a-6c9c-4992-b4a5-5fb702da6515.__AC_SR166,182___.jpg",
+          "name": "Cisily Silver Sink Caddy Kitchen Sink Organizer, Sponge Holder for Kitchen Sink with Removable Dr..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4546bd6d-5d36-470c-92bd-4298ffad68fa.__AC_SR166,182___.jpg",
+          "name": "Cisily Sink Caddy Sponge Holder for Kitchen Sink, 304 Stainless Steel Rustproof, Kitchen Sink Cad..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ef71cb6f-d6d0-4c0b-9c71-94cfe96c748e.__AC_SR166,182___.jpg",
+          "name": "Cisily Gold Kitchen Sink Caddy Organizer, Sponge Holder for Kitchen Sink Rustproof 304 Stainless ..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/44c20512-6dee-4864-9925-526af7fd48bb.__AC_SR166,182___.jpg",
+          "name": "Cisily Sink Caddy Sponge Holder for Kitchen Sink, 304 Stainless Steel Rustproof, Kitchen Sink Cad..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e6b12176-3c96-427c-acc9-ed0e286c2ab4.__AC_SR166,182___.jpg",
+          "name": "Cisily Kitchen Sink Caddy, Stainless Steel Kitchen Sink Organizer Rust Prevention, Sponge Holder ..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/316de612-156a-4edf-b9e7-259bcbee7061.__AC_SR166,182___.jpg",
+          "name": "Cisily Kitchen Sink Caddy, Gold, Unisex, 5.3 in Wide, 9.49 in Long, 4 Storage Spaces, Stain-Resis..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8c6c79fc-f5f6-48fb-acac-71c15dd92062.__AC_SR166,182___.jpg",
+          "name": "Cisily Sponge Holder for Kitchen Sink, Sink Caddy with High Brush Holder, Organzier Rustproof 304..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d285f484-2fed-41fa-bda1-f3efa4c38dd4.__AC_SR166,182___.jpg",
+          "name": "Cisily Sponge Holder for Kitchen Sink, Sink Caddy with High Brush Holder, Organzier Rustproof 304..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a9f59f86-28b5-4c13-be60-3d5b9b8635c3.__AC_SR166,182___.jpg",
+          "name": "Cisily Hanging Silver Kitchen Sink Caddy Sponge Holder in the Sink, Stainless Steel Kitchen Sink ..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e5cb20c7-d562-4aa9-a6a3-ea6c29acede5.__AC_SR166,182___.jpg",
+          "name": "Cisily Kitchen Sink Caddy, Stainless Steel Kitchen Sink Organizer Rust Prevention, Sponge Holder ..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/79abd697-fb71-41b3-a89e-cf230a745a7d.__AC_SR166,182___.jpg",
+          "name": "Cisily White Sink Caddy Kitchen Sink Organizer, Sponge Holder for Kitchen Sink with Removable Dri..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d5fe03a3-e1fd-446b-a351-a2ccb79042ef.__AC_SR166,182___.jpg",
+          "name": "sponge holder for kitchen sink"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/39c028d5-d590-4203-aeb3-5be08f813f4b.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+          "name": "kitchen sink organizer"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/65e5b246-169c-4d0c-9ff7-22b31425a3b7.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+          "name": "kitchen sink caddy"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f7624dd5-f817-4849-8047-569d0f458454.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+          "name": "kitchen organizers and storage"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2bc2b76d-b6f2-44fb-830b-0aa14e31e510.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+          "name": "sponge holder for kitchen sink"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c8c6c6db-0d73-420c-b61d-51ea011d4648.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+          "name": "kitchen essentials"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/652c26db-f277-482d-8224-10d472f98b1d.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+          "name": "kitchen gadgets"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/51yjIoQYCzL.__AC_SR200,225___.jpg",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/512gnPb4W4L.__AC_SR200,225___.jpg",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/51XX-NaUWsL.__AC_SR200,225___.jpg",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/51h1O0yLWML.__AC_SR200,225___.jpg",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/517t-RM1wdL.__AC_SR200,225___.jpg",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/41WbiGHDvKL.__AC_SR200,225___.jpg",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/51OgCHRKjFL.__AC_SR200,225___.jpg",
+          "name": ""
+        }
+      ],
+      "third_party": true,
+      "company_logo": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/fbeb793d-9c3d-4829-a781-78864da7ef56.__CR0,0,315,145_PT0_SX315_V1___.jpg",
+      "company_description_text": "CISILY HOME LIFE was established in 2019, and is a young and dynamic company. We have our own metal manufacturing factory, which integrates production, design, marketing and service. So we can provide high quality and well-designed goods. Every product we produce is tested and polished for final launch, hoping to provide the best and most affordable products to every customer who chooses us! Our motto is: live up to the trust of every customer!"
+    },
+    "buybox_winner": {
+      "maximum_order_quantity": {
+        "value": 30,
+        "hard_maximum": true
+      },
+      "price_only_available_in_cart": false,
+      "new_offers_count": 2,
+      "new_offers_from": {
+        "raw": "New"
+      },
+      "trade_in_and_save": true,
+      "return_policy": {
+        "duration_days": 30,
+        "type": "refund/replacement"
+      },
+      "is_prime": true,
+      "is_prime_exclusive_deal": false,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "In Stock",
+        "dispatch_days": 1
+      },
+      "fulfillment": {
+        "type": "p2",
+        "standard_delivery": {
+          "date": "Sunday, March 22",
+          "name": "FREE"
+        },
+        "fastest_delivery": {
+          "date": "Thursday, March 19",
+          "name": "Or Prime members get FREE delivery Thursday, March 19. Order within 13 hrs 21 mins. Join Prime"
+        },
+        "is_sold_by_amazon": false,
+        "is_fulfilled_by_amazon": true,
+        "is_fulfilled_by_third_party": false,
+        "is_sold_by_third_party": true,
+        "third_party_seller": {
+          "name": "CISILY HOME LIFE",
+          "link": "https://www.amazon.com/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1LX1C8EGT42HM&asin=B0C3QZ7SNF&ref_=dp_merchant_link&isAmazonFulfilled=1",
+          "id": "A1LX1C8EGT42HM"
+        }
+      },
+      "price": {
+        "symbol": "$",
+        "value": 13.99,
+        "currency": "USD",
+        "raw": "$13.99"
+      },
+      "rrp": {
+        "symbol": "$",
+        "value": 19.99,
+        "currency": "USD",
+        "raw": "$19.99"
+      },
+      "shipping": {
+        "raw": "FREE"
+      }
+    },
+    "specifications": [
+      {
+        "name": "Material",
+        "value": "Stainless Steel"
+      },
+      {
+        "name": "Brand",
+        "value": "Cisily"
+      },
+      {
+        "name": "Color",
+        "value": "Black"
+      },
+      {
+        "name": "Recommended Uses For Product",
+        "value": "Kitchen"
+      },
+      {
+        "name": "Mounting Type",
+        "value": "Tabletop Mount"
+      },
+      {
+        "name": "Item Weight",
+        "value": "1.15 Pounds"
+      },
+      {
+        "name": "Manufacturer",
+        "value": "Cisily"
+      },
+      {
+        "name": "Size",
+        "value": "9.25″"
+      },
+      {
+        "name": "UPC",
+        "value": "732453792576"
+      },
+      {
+        "name": "Product Dimensions",
+        "value": "3.9 x 9.25 x 6.3 inches"
+      },
+      {
+        "name": "Item Weight",
+        "value": "1.15 pounds"
+      },
+      {
+        "name": "ASIN",
+        "value": "B0C3QZ7SNF"
+      },
+      {
+        "name": "Item model number",
+        "value": "HMJ-PS"
+      },
+      {
+        "name": "Customer Reviews",
+        "value": "4.6    4.6 out of 5 stars         (11,775)           4.6 out of 5 stars"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "#25 in Kitchen & Dining (See Top 100 in Kitchen & Dining) #1 in Kitchen Storage Accessories"
+      },
+      {
+        "name": "Date First Available",
+        "value": "August 1, 2022"
+      },
+      {
+        "name": "GTIN",
+        "value": "732453792576"
+      }
+    ],
+    "specifications_flat": "GTIN: 732453792576. Date First Available: August 1, 2022. Best Sellers Rank: #25 in Kitchen & Dining (See Top 100 in Kitchen & Dining) #1 in Kitchen Storage Accessories. Customer Reviews: 4.6    4.6 out of 5 stars         (11,775)           4.6 out of 5 stars. Item model number: HMJ-PS. ASIN: B0C3QZ7SNF. Item Weight: 1.15 pounds. Product Dimensions: 3.9 x 9.25 x 6.3 inches. UPC: 732453792576. Size: 9.25″. Manufacturer: Cisily. Item Weight: 1.15 Pounds. Mounting Type: Tabletop Mount. Recommended Uses For Product: Kitchen. Color: Black. Brand: Cisily. Material: Stainless Steel.",
+    "recent_sales": "20K+ bought in past month",
+    "gift_guide_badge": {
+      "badge_text": "20K+ bought in past month"
+    },
+    "color": "Black",
+    "material": "Stainless Steel",
+    "manufacturer": "Cisily",
+    "weight": "1.15 pounds",
+    "first_available": {
+      "raw": "August 1, 2022",
+      "utc": "2022-08-01T00:00:00.000Z"
+    },
+    "dimensions": "3.9 x 9.25 x 6.3 inches",
+    "model_number": "HMJ-PS",
+    "bestsellers_rank_flat": "Category: Kitchen & Dining | Rank: 25, Category: Kitchen Storage Accessories | Rank: 1"
+  },
+  "brand_store": {
+    "id": "E7038A3F-47BF-4D68-A9D5-170F8D049E05",
+    "link": "https://www.amazon.com/stores/CISILYHOMELIFE/page/E7038A3F-47BF-4D68-A9D5-170F8D049E05"
+  }
+}

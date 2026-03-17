@@ -1,0 +1,776 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 33,
+    "credits_remaining": 67,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "type": "product",
+    "asin": "B09GNQD678",
+    "amazon_domain": "amazon.com"
+  },
+  "request_metadata": {
+    "created_at": "2026-03-17T15:42:21.147Z",
+    "processed_at": "2026-03-17T15:42:26.873Z",
+    "total_time_taken": 5.73,
+    "amazon_url": "https://www.amazon.com/dp/B09GNQD678?th=1&psc=1"
+  },
+  "product": {
+    "title": "Nerf Mini Foam Sports Ball Set - Foam Football, Soccer Ball + Basketball Soft Sports Toy for Kids Green/Orange/Yellow One Size",
+    "search_alias": {
+      "title": "Sports & Outdoors",
+      "value": "search-alias=sporting"
+    },
+    "title_excluding_variant_name": "Nerf Mini Foam Sports Ball Set - Foam Football, Soccer Ball + Basketball Soft Sports Toy for Kids",
+    "keywords": "Nerf Mini Foam Sports Ball Set - Foam Football, Soccer Ball + Basketball Soft Sports Toy for Kids Green/Orange/Yellow One Size",
+    "keywords_list": [
+      "Nerf Mini Foam Sports Ball Set - Foam Football",
+      "Soccer Ball + Basketball Soft Sports Toy for Kids Green/Orange/Yellow One Size"
+    ],
+    "is_collection": false,
+    "asin": "B09GNQD678",
+    "parent_asin": "B0GKJ4PDY6",
+    "gtin": "‎025725553884",
+    "link": "https://www.amazon.com/dp/B09GNQD678?_encoding=UTF8&psc=1",
+    "brand": "‎Nerf",
+    "sell_on_amazon": false,
+    "variants": [
+      {
+        "asin": "B09GNQD678",
+        "title": "Green/Orange/Yellow One Size",
+        "is_current_product": true,
+        "link": "https://www.amazon.com/dp/B09GNQD678?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Green/Orange/Yellow"
+          },
+          {
+            "name": "Size",
+            "value": "One Size"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/81aAqMnn46L._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/81aAqMnn46L._AC_SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0CNR9TF2H",
+        "title": "Orange/Green/Blue One Size",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0CNR9TF2H?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Orange/Green/Blue"
+          },
+          {
+            "name": "Size",
+            "value": "One Size"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/81YNTELoUPL._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/81YNTELoUPL._AC_SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0FD81L6WD",
+        "title": "Green/Orange/Yellow One Size (Pack of 4)",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0FD81L6WD?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Green/Orange/Yellow"
+          },
+          {
+            "name": "Size",
+            "value": "One Size (Pack of 4)"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/61RoQSuustL._AC_SL1001_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/61RoQSuustL._AC_SL1001_.jpg"
+          }
+        ]
+      }
+    ],
+    "variant_asins_flat": "B09GNQD678,B0CNR9TF2H,B0FD81L6WD",
+    "proposition_65_warning": true,
+    "has_size_guide": true,
+    "add_on_item": {
+      "is_add_on_item": true
+    },
+    "categories": [
+      {
+        "name": "Sports & Outdoors"
+      },
+      {
+        "name": "Toys & Games",
+        "link": "https://www.amazon.com/toys/b/ref=dp_bc_1?ie=UTF8&node=165793011",
+        "category_id": "165793011"
+      },
+      {
+        "name": "Sports & Outdoor Play",
+        "link": "https://www.amazon.com/outdoor-toys-kids-play/b/ref=dp_bc_2?ie=UTF8&node=166420011",
+        "category_id": "166420011"
+      },
+      {
+        "name": "Toy Sports",
+        "link": "https://www.amazon.com/Toy-Sports-Products/b/ref=dp_bc_3?ie=UTF8&node=166453011",
+        "category_id": "166453011"
+      },
+      {
+        "name": "Toy Balls",
+        "link": "https://www.amazon.com/Toy-Activity-Play-Balls/b/ref=dp_bc_4?ie=UTF8&node=166051011",
+        "category_id": "166051011"
+      }
+    ],
+    "categories_flat": "Sports & Outdoors > Toys & Games > Sports & Outdoor Play > Toy Sports > Toy Balls",
+    "sub_title": {
+      "text": "Visit the Nerf Store",
+      "link": "https://www.amazon.com/stores/NERF/page/25BD06DA-67EB-46E3-B5DE-82B3CB88F7A3?lp_asin=B09GNQD678&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto"
+    },
+    "amazons_choice": {
+      "link": "https://www.amazon.com/s?k=nerf",
+      "badge_text": "Amazon's  Choice"
+    },
+    "marketplace_id": "ATVPDKIKX0DER",
+    "rating": 4.7,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 82,
+        "count": 818
+      },
+      "four_star": {
+        "percentage": 10,
+        "count": 100
+      },
+      "three_star": {
+        "percentage": 5,
+        "count": 50
+      },
+      "two_star": {
+        "percentage": 1,
+        "count": 10
+      },
+      "one_star": {
+        "percentage": 2,
+        "count": 20
+      }
+    },
+    "ratings_total": 998,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/81aAqMnn46L.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/91E+QkW4m4L._AC_SL1500_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81BVV86m+1L._AC_SL1500_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81oS6S4Gh5L._AC_SL1500_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81DtUSa6IzL._AC_SL1500_.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/91vzk6V4QoL._AC_SL1500_.jpg",
+        "variant": "PT05"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/91ktdzHJ1nL._AC_SL1500_.jpg",
+        "variant": "PT06"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/8176qGxKx5L._AC_SL1500_.jpg",
+        "variant": "PT07"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/818mMsYlaJL._AC_SL1500_.jpg",
+        "variant": "PT08"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81i8YH80nDL._AC_SL1500_.jpg",
+        "variant": "PT09"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81C4siIWIJL._AC_SL1500_.jpg",
+        "variant": "PT10"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/91QVAIgOGVL._AC_SL1500_.jpg",
+        "variant": "PT11"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81eysq5IFzL._AC_SL1500_.jpg",
+        "variant": "PT12"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/819LDCS9kJL._AC_SL1500_.jpg",
+        "variant": "PT13"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81hiFqGrMEL._AC_SL1500_.jpg",
+        "variant": "PT14"
+      }
+    ],
+    "images_count": 14,
+    "images_flat": "https://m.media-amazon.com/images/I/91E+QkW4m4L._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81BVV86m+1L._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81oS6S4Gh5L._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81DtUSa6IzL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/91vzk6V4QoL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/91ktdzHJ1nL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/8176qGxKx5L._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/818mMsYlaJL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81i8YH80nDL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81C4siIWIJL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/91QVAIgOGVL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81eysq5IFzL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/819LDCS9kJL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81hiFqGrMEL._AC_SL1500_.jpg",
+    "videos_count": 5,
+    "videos_additional": [
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0340a7882fe14510af12ffcf730dd183",
+        "product_asin": "B09GNQD678",
+        "parent_asin": "B0GKJ4PDY6",
+        "related_products": "B0CNR9TF2H,B09GNQD678,B0D11RJR8W",
+        "title": "Great Mini Foam Ball Set",
+        "profile_image_url": "https://m.media-amazon.com/images/I/A1UvnQjxy+L._CR263,205,1138,1138_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/megnookofficial",
+        "public_name": "Megan's Honest Reviews",
+        "vendor_code": "megnookofficial:shop",
+        "vendor_name": "Megan's Honest Reviews",
+        "vendor_tracking_id": "onamzmeg077ae-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/A1TY07OMNvL._CR2,0,1276,720_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/A1TY07OMNvL.png",
+        "video_image_width": "1280",
+        "video_image_height": "720",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3b00421c-2b8b-472c-b5b4-6d7328f5aa23/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3588209b-06a0-41d0-afd2-5a9e8e1bdf3f/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3588209b-06a0-41d0-afd2-5a9e8e1bdf3f/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3588209b-06a0-41d0-afd2-5a9e8e1bdf3f/b7bbca1d-4d04-45fc-83ee-2538613e1be5/0340a7882fe14510af12ffcf730dd183_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:03",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/a584ccca-9d8b-4ef5-8326-5f2aaf719e1b.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0808d9dcb2144242a54bd4a683f8d08a",
+        "product_asin": "B09GNQD678",
+        "parent_asin": "B0GKJ4PDY6",
+        "related_products": "B09GNQD678,B0D11RJR8W",
+        "title": "A Toy Staple for Kids of All Ages",
+        "profile_image_url": "https://m.media-amazon.com/images/I/A1lq3uO3b3L._CR0,0,1690,1690_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/alex_andreads",
+        "public_name": "Alex Ralston",
+        "vendor_code": "alex_andreads:shop",
+        "vendor_name": "Alex Ralston",
+        "vendor_tracking_id": "onamzalexun0c-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/512Gd2kOXgL._CR1,0,638,360_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/512Gd2kOXgL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "360",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/02929c1b-4d1f-487e-838d-04044b057ec2/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/fafb9cff-b1e5-4075-9fbb-da555b28b018/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/fafb9cff-b1e5-4075-9fbb-da555b28b018/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/fafb9cff-b1e5-4075-9fbb-da555b28b018/d94f24e7-e056-4178-b1c1-136b3486bd44/0808d9dcb2144242a54bd4a683f8d08a_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:33",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/8847b7d6-972f-4435-ac48-bba0ebdc7605.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.053769ddac4c483786a1178b36a03259",
+        "product_asin": "B09GNQD678",
+        "parent_asin": "B0GKJ4PDY6",
+        "related_products": "B09GNQD678,B0D11RJR8W",
+        "title": "Great balls for indoors!",
+        "profile_image_url": "https://m.media-amazon.com/images/I/91BzA2Dr9xL._CR0,0,2316,2316_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/tampafitgirl",
+        "public_name": "Leslie",
+        "vendor_code": "tampafitgirl:shop",
+        "vendor_name": "Leslie",
+        "vendor_tracking_id": "onamzlesl0863-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/5157-T9v-aL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/5157-T9v-aL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1137",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2de5930b-1c02-4096-a8fa-0255145ee7c0/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/372a20ac-68a4-4791-990a-5ef50eeb5483/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/372a20ac-68a4-4791-990a-5ef50eeb5483/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:43",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/6381e825-3b03-471d-a123-5ef333f81649.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0aa4d5c5010a4e299cc377e9b1e85ac0",
+        "product_asin": "B09GNQD678",
+        "parent_asin": "B0GKJ4PDY6",
+        "related_products": "B09GNQD678,B0FD81L6WD",
+        "title": "360 Degree View",
+        "public_name": "Amazon Product Imaging",
+        "vendor_code": "Z7AX4",
+        "vendor_name": "Amazon Product Imaging",
+        "video_image_url": "https://m.media-amazon.com/images/I/41U70ov-gSL._CR1,0,638,360_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/41U70ov-gSL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "360",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/134caf4c-3c68-4e22-b5de-fe7052a736f0/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/cbd0121a-655b-4b58-9c67-8186d2b79e6e/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/cbd0121a-655b-4b58-9c67-8186d2b79e6e/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/cbd0121a-655b-4b58-9c67-8186d2b79e6e/926b136e-dd0e-43ac-a60e-3260862d8635/0aa4d5c5010a4e299cc377e9b1e85ac0_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:15",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/739da99e-2121-423b-aad7-3524a8aa467d.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0548876828d84d2895af8d00a5083fdf",
+        "product_asin": "B09GNQD678",
+        "parent_asin": "B0GKJ4PDY6",
+        "related_products": "B09GNQD678,B0D11RJR8W",
+        "title": "Nerf Mini Foam Sports Ball Set, great for indoor and outdoor play, bounces nicely even on carpet",
+        "profile_image_url": "https://m.media-amazon.com/images/I/81-iM7WbFmL._CR0,0,1440,1440_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/jtothejones11",
+        "public_name": "The Jones Family",
+        "vendor_code": "jtothejones11:shop",
+        "vendor_name": "The Jones Family",
+        "vendor_tracking_id": "onamzjosia005-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/A1ycWcxGkML._CR0,0,3024,1707_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/A1ycWcxGkML.jpg",
+        "video_image_width": "3024",
+        "video_image_height": "4032",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a8348b2f-2cf1-48aa-9eca-8f213445b414/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/fda304fa-7046-4c9a-87e0-392e57d2afb7/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/fda304fa-7046-4c9a-87e0-392e57d2afb7/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:38",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/3b5df884-55c7-4cd6-aaee-a8b0d00900bd.vtt"
+      }
+    ],
+    "is_bundle": false,
+    "feature_bullets": [
+      "ALL SPORT SET: This mini foam sports ball set is the perfect gift for any young sports fan and has everything they need for hours of endless sports fun",
+      "THREE SPORT PACK: This set comes complete with (3) NERF sports balls: (1) mini football, (1) mini soccer ball, and (1) mini basketball",
+      "KID SAFE: These mini foam balls are perfect for young sports players to throw and catch with ease with no bumps or bruises",
+      "PLAY INDOORS AND OUT: The soft foam construction makes it safe and easy to bring the sports fun indoors on rainy days",
+      "DURABLE CONSTRUCTION: Made with NERF's durable soft foam so you can pass, kick, and shoot rain or shine, season after season"
+    ],
+    "feature_bullets_count": 5,
+    "feature_bullets_flat": "DURABLE CONSTRUCTION: Made with NERF's durable soft foam so you can pass, kick, and shoot rain or shine, season after season. PLAY INDOORS AND OUT: The soft foam construction makes it safe and easy to bring the sports fun indoors on rainy days. KID SAFE: These mini foam balls are perfect for young sports players to throw and catch with ease with no bumps or bruises. THREE SPORT PACK: This set comes complete with (3) NERF sports balls: (1) mini football, (1) mini soccer ball, and (1) mini basketball. ALL SPORT SET: This mini foam sports ball set is the perfect gift for any young sports fan and has everything they need for hours of endless sports fun.",
+    "top_reviews": [
+      {
+        "id": "R2AT4SMA12W1HF",
+        "title": "Perfect for my new toddler",
+        "body": "Perfect for my toddler! He is just over 14 months and we wanted something a little bigger than the small ball toys and these are exactly what I needed. Fun to play with, great size, good bounce, not very heavy, look bright and colorful and value is good as they will be played with for years.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on February 6, 2026"
+        },
+        "profile": {
+          "name": "JB"
+        },
+        "verified_purchase": true,
+        "link": "https://www.amazon.com/gp/customer-reviews/R2AT4SMA12W1HF/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R2A4DOUTW5078N",
+        "title": "Surprisingly good",
+        "body": "I just picked it up because it was cheap but surprisingly my 4 year old and 2 year old love playing with these. Good quality set and easy for kids to play with.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on March 7, 2026"
+        },
+        "profile": {
+          "name": "Edwin Kim"
+        },
+        "verified_purchase": true,
+        "link": "https://www.amazon.com/gp/customer-reviews/R2A4DOUTW5078N/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R19ZPQ0CAYH38N",
+        "title": "My kids love them",
+        "body": "Fun mini foam balls for my toddlers. They love playing with them. They are soft and squeeze. So they are safe to play indoor and not worry about breaking things",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on January 27, 2026"
+        },
+        "profile": {
+          "name": "Ed. L"
+        },
+        "verified_purchase": true,
+        "link": "https://www.amazon.com/gp/customer-reviews/R19ZPQ0CAYH38N/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "RANB5WMMQHL9F",
+        "title": "Perfect for Indoor or Outdoor Play",
+        "body": "These are fun for little hands to toss around. Easy to grip and colorful.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on February 4, 2026"
+        },
+        "profile": {
+          "name": "J Martin"
+        },
+        "verified_purchase": true,
+        "link": "https://www.amazon.com/gp/customer-reviews/RANB5WMMQHL9F/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R2MYIU8G652IR6",
+        "title": "They seem good",
+        "body": "They seemed like the good nerf balls. They were small tho, thought was getting bigger balls . Good for kids",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in the United States on October 21, 2024"
+        },
+        "profile": {
+          "name": "Charles"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 2,
+        "link": "https://www.amazon.com/gp/customer-reviews/R2MYIU8G652IR6/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R2WF0CE3UXMYG8",
+        "title": "Bright colors, easy to grip!",
+        "body": "Fun size, easy to grip and throw, was for my toddler grandson who enjoys them, but my older grandson and I threw the football around too, fun for all ages!",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on December 23, 2025"
+        },
+        "profile": {
+          "name": "Karen Miller"
+        },
+        "verified_purchase": true,
+        "link": "https://www.amazon.com/gp/customer-reviews/R2WF0CE3UXMYG8/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R10DODUJQ4A9OP",
+        "title": "Perfect set for outdoors!",
+        "body": "These are a great set. Bought them for my grandson and he loves them. Would recommend!",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on December 31, 2025"
+        },
+        "profile": {
+          "name": "TRB"
+        },
+        "verified_purchase": true,
+        "link": "https://www.amazon.com/gp/customer-reviews/R10DODUJQ4A9OP/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R30E0HSZRC4JJA",
+        "title": "Great for 4yr old.",
+        "body": "My godson loved them - they were cheap and he had a fun with them. Great size and soft. He is 4yrs old.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on September 2, 2025"
+        },
+        "profile": {
+          "name": "Amazon Customer"
+        },
+        "verified_purchase": true,
+        "link": "https://www.amazon.com/gp/customer-reviews/R30E0HSZRC4JJA/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R31PPH0Q4A9XSP",
+        "body": "Buen kit y de buen tamaño para niños entre 1 y 3 años",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Mexico on February 16, 2026"
+        },
+        "profile": {
+          "name": "Miguel Santillan"
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "R3KYRUKTFCM13J",
+        "title": "Used everyday",
+        "body": "My 6-year-old loves this and we use them every single day. The football is now starting to chip away.  I don't know if this is because my son kicks too hard and it has hit sharp corners.  I would buy this item again.",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in the United Kingdom on July 26, 2024"
+        },
+        "profile": {
+          "name": "S"
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "ROJ4P9OGP396Z",
+        "body": "Muy bien producto.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Mexico on December 31, 2025"
+        },
+        "profile": {
+          "name": "Leonardo"
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "R2V1M104L1FZXY",
+        "body": "Muy lindas colores vivos",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Mexico on November 12, 2025"
+        },
+        "profile": {
+          "name": "Elizabeth excelentes par cuidados de enfermo"
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "R1HSTUZOB208SE",
+        "body": "Buen producto",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Mexico on April 20, 2025"
+        },
+        "profile": {
+          "name": "jack kalach"
+        },
+        "verified_purchase": true
+      }
+    ],
+    "bestsellers_rank": [
+      {
+        "rank": 3273,
+        "category": "Toys & Games",
+        "link": "https://www.amazon.com/gp/bestsellers/toys-and-games/ref=pd_zg_ts_toys-and-games"
+      },
+      {
+        "rank": 23,
+        "category": "Toy Activity & Play Balls",
+        "link": "https://www.amazon.com/gp/bestsellers/toys-and-games/166051011/ref=pd_zg_hrsr_toys-and-games"
+      }
+    ],
+    "buybox_winner": {
+      "maximum_order_quantity": {
+        "value": 4,
+        "hard_maximum": true
+      },
+      "price_only_available_in_cart": false,
+      "mixed_offers_count": 8,
+      "mixed_offers_from": {
+        "symbol": "$",
+        "value": 35,
+        "currency": "USD",
+        "raw": "FREE Shipping on orders over $35.00 shipped by Amazon."
+      },
+      "trade_in_and_save": true,
+      "return_policy": {
+        "duration_days": 30,
+        "type": "refund/replacement",
+        "seller": "Amazon"
+      },
+      "is_prime": true,
+      "is_prime_exclusive_deal": false,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "In Stock",
+        "dispatch_days": 1
+      },
+      "fulfillment": {
+        "type": "p1",
+        "standard_delivery": {
+          "date": "Sunday, March 22",
+          "name": "FREE"
+        },
+        "fastest_delivery": {
+          "date": "Friday, March 20",
+          "name": "Or Prime members get FREE delivery Friday, March 20. Order within 13 hrs 17 mins. Join Prime"
+        },
+        "is_sold_by_amazon": true,
+        "amazon_seller": {
+          "name": "Amazon"
+        },
+        "is_fulfilled_by_amazon": true,
+        "is_fulfilled_by_third_party": false,
+        "is_sold_by_third_party": false
+      },
+      "price": {
+        "symbol": "$",
+        "value": 15.99,
+        "currency": "USD",
+        "raw": "$15.99"
+      },
+      "rrp": {
+        "symbol": "$",
+        "value": 29.99,
+        "currency": "USD",
+        "raw": "$29.99"
+      },
+      "shipping": {
+        "raw": "FREE"
+      }
+    },
+    "specifications": [
+      {
+        "name": "Brand",
+        "value": "‎Nerf"
+      },
+      {
+        "name": "Material",
+        "value": "‎Foam"
+      },
+      {
+        "name": "Color",
+        "value": "‎Green/Orange/Yellow"
+      },
+      {
+        "name": "Age Range (Description)",
+        "value": "‎Kid"
+      },
+      {
+        "name": "Item Weight",
+        "value": "‎11 Ounces"
+      },
+      {
+        "name": "Sport",
+        "value": "‎Basketball, Soccer"
+      },
+      {
+        "name": "Number of Items",
+        "value": "‎1"
+      },
+      {
+        "name": "Construction Type",
+        "value": "‎Foam"
+      },
+      {
+        "name": "Size",
+        "value": "‎One Size"
+      },
+      {
+        "name": "Stitching Type",
+        "value": "‎No Stitching"
+      },
+      {
+        "name": "UPC",
+        "value": "‎025725553884"
+      },
+      {
+        "name": "Unit Count",
+        "value": "‎1.0 Count"
+      },
+      {
+        "name": "Item Package Dimensions L x W x H",
+        "value": "‎13.39 x 5.2 x 4.92 inches"
+      },
+      {
+        "name": "Package Weight",
+        "value": "‎0.37 Kilograms"
+      },
+      {
+        "name": "Item Dimensions LxWxH",
+        "value": "‎4 x 4 x 4 inches"
+      },
+      {
+        "name": "Brand Name",
+        "value": "‎Nerf"
+      },
+      {
+        "name": "Warranty Description",
+        "value": "‎90 Day Limited"
+      },
+      {
+        "name": "Model Name",
+        "value": "‎NERF Mini Foam Ball Set"
+      },
+      {
+        "name": "Suggested Users",
+        "value": "‎unisex-teen"
+      },
+      {
+        "name": "Manufacturer",
+        "value": "‎Franklin Sports"
+      },
+      {
+        "name": "Part Number",
+        "value": "‎92081"
+      },
+      {
+        "name": "Style",
+        "value": "‎NERF Mini Foam Ball Set - Green/Orange/Yellow One Size"
+      },
+      {
+        "name": "Included Components",
+        "value": "‎[1] NERF Multi Sport Ball Set"
+      },
+      {
+        "name": "ASIN",
+        "value": "B09GNQD678"
+      },
+      {
+        "name": "Customer Reviews",
+        "value": "4.7    4.7 out of 5 stars         (998)           4.7 out of 5 stars"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "#3,273 in Toys & Games (See Top 100 in Toys & Games) #23 in Toy Activity & Play Balls"
+      },
+      {
+        "name": "Date First Available",
+        "value": "September 19, 2021"
+      },
+      {
+        "name": "Brand",
+        "value": "Nerf"
+      },
+      {
+        "name": "Material",
+        "value": "Foam"
+      },
+      {
+        "name": "Color",
+        "value": "Green/Orange/Yellow"
+      },
+      {
+        "name": "Age Range (Description)",
+        "value": "Kid"
+      },
+      {
+        "name": "Item Weight",
+        "value": "11 Ounces"
+      },
+      {
+        "name": "GTIN",
+        "value": "‎025725553884"
+      }
+    ],
+    "specifications_flat": "GTIN: ‎025725553884. Item Weight: 11 Ounces. Age Range (Description): Kid. Color: Green/Orange/Yellow. Material: Foam. Brand: Nerf. Date First Available: September 19, 2021. Best Sellers Rank: #3,273 in Toys & Games (See Top 100 in Toys & Games) #23 in Toy Activity & Play Balls. Customer Reviews: 4.7    4.7 out of 5 stars         (998)           4.7 out of 5 stars. ASIN: B09GNQD678. Included Components: ‎[1] NERF Multi Sport Ball Set. Style: ‎NERF Mini Foam Ball Set - Green/Orange/Yellow One Size. Part Number: ‎92081. Manufacturer: ‎Franklin Sports. Suggested Users: ‎unisex-teen. Model Name: ‎NERF Mini Foam Ball Set. Warranty Description: ‎90 Day Limited. Brand Name: ‎Nerf. Item Dimensions LxWxH: ‎4 x 4 x 4 inches. Package Weight: ‎0.37 Kilograms. Item Package Dimensions L x W x H: ‎13.39 x 5.2 x 4.92 inches. Unit Count: ‎1.0 Count. UPC: ‎025725553884. Stitching Type: ‎No Stitching. Size: ‎One Size. Construction Type: ‎Foam. Number of Items: ‎1. Sport: ‎Basketball, Soccer. Item Weight: ‎11 Ounces. Age Range (Description): ‎Kid. Color: ‎Green/Orange/Yellow. Material: ‎Foam. Brand: ‎Nerf.",
+    "recent_sales": "1K+ bought in past month",
+    "gift_guide_badge": {
+      "badge_text": "1K+ bought in past month"
+    },
+    "color": "‎Green/Orange/Yellow",
+    "material": "‎Foam",
+    "manufacturer": "‎Franklin Sports",
+    "weight": "‎11 Ounces",
+    "first_available": {
+      "raw": "September 19, 2021",
+      "utc": "2021-09-19T00:00:00.000Z"
+    },
+    "model_number": "‎92081",
+    "bestsellers_rank_flat": "Category: Toys & Games | Rank: 3273, Category: Toy Activity & Play Balls | Rank: 23",
+    "whats_in_the_box": [
+      "[1] NERF Multi Sport Ball Set"
+    ]
+  },
+  "brand_store": {
+    "id": "25BD06DA-67EB-46E3-B5DE-82B3CB88F7A3",
+    "link": "https://www.amazon.com/stores/NERF/page/25BD06DA-67EB-46E3-B5DE-82B3CB88F7A3"
+  }
+}

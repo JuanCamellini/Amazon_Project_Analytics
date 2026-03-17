@@ -1,0 +1,1108 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 11,
+    "credits_remaining": 89,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "type": "product",
+    "asin": "B0CJ1B6D6S",
+    "amazon_domain": "amazon.com"
+  },
+  "request_metadata": {
+    "created_at": "2026-03-17T15:37:20.528Z",
+    "processed_at": "2026-03-17T15:37:26.933Z",
+    "total_time_taken": 6.41,
+    "amazon_url": "https://www.amazon.com/dp/B0CJ1B6D6S?th=1&psc=1"
+  },
+  "product": {
+    "title": "Scrub Daddy Scrub Mommy Sponges - Dish Scrubber + Non-Scratch Cleaning Sponges Kitchen, Bathroom + Multi-Surface Safe - Dual-Sided Dish Sponges for Scrubbing - Online Exclusive (3 Count) 3 Count (Pack of 1) Exclusive Scrub Mommy",
+    "search_alias": {
+      "title": "Home & Kitchen",
+      "value": "search-alias=garden"
+    },
+    "title_excluding_variant_name": "Scrub Daddy Scrub Mommy Sponges - Dish Scrubber + Non-Scratch Cleaning Sponges Kitchen, Bathroom + Multi-Surface Safe - Dual-Sided Dish Sponges for Scrubbing - Online Exclusive (3 Count)",
+    "keywords": "Scrub Daddy Scrub Mommy Sponges - Dish Scrubber + Non-Scratch Cleaning Sponges Kitchen, Bathroom + Multi-Surface Safe - Dual-Sided Dish Sponges for Scrubbing - Online Exclusive (3 Count) 3 Count (Pack of 1) Exclusive Scrub Mommy",
+    "keywords_list": [
+      "Scrub Daddy Scrub Mommy Sponges - Dish Scrubber + Non-Scratch Cleaning Sponges Kitchen",
+      "Bathroom + Multi-Surface Safe - Dual-Sided Dish Sponges for Scrubbing - Online Exclusive (3 Count) 3 Count (Pack of 1) Exclusive Scrub Mommy"
+    ],
+    "is_collection": false,
+    "asin": "B0CJ1B6D6S",
+    "parent_asin": "B0DCDRWRGN",
+    "gtin": "810044135626",
+    "link": "https://www.amazon.com/Scrub-Daddy-Mommy-Non-Scratch-Multi-Surface/dp/B0CJ1B6D6S",
+    "brand": "Scrub Daddy",
+    "sell_on_amazon": false,
+    "variants": [
+      {
+        "asin": "B0DS45D5WS",
+        "title": "3 Count (Pack of 2) Exclusive Scrub Mommy",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0DS45D5WS?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "3 Count (Pack of 2)"
+          },
+          {
+            "name": "Style",
+            "value": "Exclusive Scrub Mommy"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/816ZdCmo0xL._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/816ZdCmo0xL._AC_SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B01K0DAKJW",
+        "title": "3 Count (Pack of 1) Scrub Mommy",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B01K0DAKJW?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "3 Count (Pack of 1)"
+          },
+          {
+            "name": "Style",
+            "value": "Scrub Mommy"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/61YZ9nTBQeL._AC_SL1008_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/61YZ9nTBQeL._AC_SL1008_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0CJ1B6D6S",
+        "title": "3 Count (Pack of 1) Exclusive Scrub Mommy",
+        "is_current_product": true,
+        "link": "https://www.amazon.com/dp/B0CJ1B6D6S?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "3 Count (Pack of 1)"
+          },
+          {
+            "name": "Style",
+            "value": "Exclusive Scrub Mommy"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71kiOOs1MGL._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71kiOOs1MGL._AC_SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0DN245D58",
+        "title": "5 Count (Pack of 1) Exclusive Scrub Mommy",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0DN245D58?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "5 Count (Pack of 1)"
+          },
+          {
+            "name": "Style",
+            "value": "Exclusive Scrub Mommy"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71Ex0BC3W1L._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71Ex0BC3W1L._AC_SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0GGL6TFC6",
+        "title": "5 Count (Pack of 2) Exclusive Scrub Mommy",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0GGL6TFC6?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "5 Count (Pack of 2)"
+          },
+          {
+            "name": "Style",
+            "value": "Exclusive Scrub Mommy"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/81JPII85n8L._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/81JPII85n8L._AC_SL1500_.jpg"
+          }
+        ]
+      }
+    ],
+    "variant_asins_flat": "B0DS45D5WS,B01K0DAKJW,B0CJ1B6D6S,B0DN245D58,B0GGL6TFC6",
+    "proposition_65_warning": false,
+    "has_size_guide": true,
+    "add_on_item": {
+      "is_add_on_item": true
+    },
+    "categories": [
+      {
+        "name": "Home & Kitchen"
+      },
+      {
+        "name": "Health & Household",
+        "link": "https://www.amazon.com/health-personal-care-nutrition-fitness/b/ref=dp_bc_1?ie=UTF8&node=3760901",
+        "category_id": "3760901"
+      },
+      {
+        "name": "Household Supplies",
+        "link": "https://www.amazon.com/Household-Supplies-Products/b/ref=dp_bc_2?ie=UTF8&node=15342811",
+        "category_id": "15342811"
+      },
+      {
+        "name": "Cleaning Tools",
+        "link": "https://www.amazon.com/cleaning-tools/b/ref=dp_bc_3?ie=UTF8&node=15342831",
+        "category_id": "15342831"
+      },
+      {
+        "name": "Sponges",
+        "link": "https://www.amazon.com/sponges/b/ref=dp_bc_4?ie=UTF8&node=15754811",
+        "category_id": "15754811"
+      }
+    ],
+    "categories_flat": "Home & Kitchen > Health & Household > Household Supplies > Cleaning Tools > Sponges",
+    "sub_title": {
+      "text": "Visit the Scrub Daddy Store",
+      "link": "https://www.amazon.com/stores/ScrubDaddy/page/D767A633-180D-485C-B3A4-48FF52C99224?lp_asin=B0CJ1B6D6S&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto"
+    },
+    "amazons_choice": {
+      "link": "https://www.amazon.com/Scrub-Daddy-Mommy-Non-Scratch-Multi-Surface/dp/B0CJ1B6D6S"
+    },
+    "marketplace_id": "ATVPDKIKX0DER",
+    "rating": 4.8,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 90,
+        "count": 28572
+      },
+      "four_star": {
+        "percentage": 7,
+        "count": 2222
+      },
+      "three_star": {
+        "percentage": 2,
+        "count": 635
+      },
+      "two_star": {
+        "percentage": 0,
+        "count": 0
+      },
+      "one_star": {
+        "percentage": 1,
+        "count": 317
+      }
+    },
+    "ratings_total": 31747,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/71kiOOs1MGL.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/715vGE3J2DL._AC_SL1500_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81S2jWr9+eL._AC_SL1500_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71DiSZbrY6L._AC_SL1500_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71Ieq+zLtWL._AC_SL1500_.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71vwY50kHPL._AC_SL1500_.jpg",
+        "variant": "PT05"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/711xBcMFWXL._AC_SL1500_.jpg",
+        "variant": "PT06"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61kbSbJBxuL._AC_SL1500_.jpg",
+        "variant": "PT07"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71n4kRng74L._AC_SL1500_.jpg",
+        "variant": "PT08"
+      }
+    ],
+    "images_count": 8,
+    "images_flat": "https://m.media-amazon.com/images/I/715vGE3J2DL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81S2jWr9+eL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71DiSZbrY6L._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71Ieq+zLtWL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71vwY50kHPL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/711xBcMFWXL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/61kbSbJBxuL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71n4kRng74L._AC_SL1500_.jpg",
+    "videos_count": 7,
+    "videos_additional": [
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.02804bb2edce4553b453b91b7c80487b",
+        "product_asin": "B0CJ1B6D6S",
+        "parent_asin": "B0DCDRWRGN",
+        "related_products": "B0DN245D58,B06W9M3H9S,B01EXU1VLY,B07GWPT9GG,B0GGL6TFC6",
+        "title": "Full review of sponge",
+        "profile_image_url": "https://m.media-amazon.com/images/I/910rjEzkKTL._CR0,0,2316,2316_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/teachertimeout",
+        "public_name": "Ashley Lowe ",
+        "vendor_code": "teachertimeout:shop",
+        "vendor_name": "Ashley Lowe ",
+        "vendor_tracking_id": "onamzashlalow-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/61dOHzgA9KL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61dOHzgA9KL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1137",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/bdef6b7d-8829-455d-b162-5e19839892f7/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ce10187b-6f4b-4820-8351-46bad3b0488f/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ce10187b-6f4b-4820-8351-46bad3b0488f/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:27",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/9ff033e4-d3a8-442a-a4e0-3f5a330bdbf1.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0a1ee62163bc4ea9830173c235a257e3",
+        "product_asin": "B0CJ1B6D6S",
+        "parent_asin": "B0DCDRWRGN",
+        "related_products": "B0CJ1B6D6S,B0CJVRH2CK,B0D1Z7B6Q6,B0CT62HLRQ",
+        "title": "Review scrub mommys and scrub daddys",
+        "profile_image_url": "https://m.media-amazon.com/images/I/B1CIOn71iJL._CR0,271,2208,2208_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/sarahcrawfordmitchell",
+        "public_name": "Sarah Mitchell",
+        "vendor_code": "sarahcrawfordmitchell:shop",
+        "vendor_name": "Sarah Mitchell",
+        "vendor_tracking_id": "onamzsara0745-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/61ieWti2OkL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61ieWti2OkL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "640",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/500ad46a-b9df-4f19-9c6b-2018a99582ea/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/695fa962-47ae-45e3-a203-6c4f34a120e2/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/695fa962-47ae-45e3-a203-6c4f34a120e2/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/695fa962-47ae-45e3-a203-6c4f34a120e2/513fdeac-e553-441d-969e-415af23c514d/0a1ee62163bc4ea9830173c235a257e3_0-100-0-100_gandalf_preview.mp4,gandalfMp4,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/695fa962-47ae-45e3-a203-6c4f34a120e2/513fdeac-e553-441d-969e-415af23c514d/0a1ee62163bc4ea9830173c235a257e3_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:08",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/182b0f95-7b35-434b-be92-5df9fc9009fd.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0b853da9e9ce46fe9854d45ec2863ca8",
+        "product_asin": "B0CJ1B6D6S",
+        "parent_asin": "B0DCDRWRGN",
+        "related_products": "B0D495N8Y7,B0CJ1B6D6S",
+        "title": "Honest Review of Scrub Mommy Sponge",
+        "profile_image_url": "https://m.media-amazon.com/images/I/91FfzTt16dL._CR0,0,2400,2400_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/aschwartz4",
+        "public_name": "Ashley Schwartz",
+        "vendor_code": "aschwartz4:shop",
+        "vendor_name": "Ashley Schwartz",
+        "vendor_tracking_id": "onamzbarga00e-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/A1h9BcTeMuL._CR2,0,1276,720_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/A1h9BcTeMuL.png",
+        "video_image_width": "1280",
+        "video_image_height": "720",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/9da7c858-9ee6-4ace-92a5-6526fe1e4499/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/eb617805-3fe7-4fc1-9a67-fad8016f14a1/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/eb617805-3fe7-4fc1-9a67-fad8016f14a1/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:02",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/c7d8d753-7408-4a07-8b72-77b9b2a01c40.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0f89366fc95b41af9fb287c076fe4a8e",
+        "product_asin": "B0CJ1B6D6S",
+        "parent_asin": "B0DCDRWRGN",
+        "related_products": "B0CJ1B6D6S",
+        "title": "What You Should Know About These Scrub Mommys",
+        "profile_image_url": "https://images-na.ssl-images-amazon.com/images/S/influencer-profile-image-prod/logo/influencer-7f7acabe_1672065873991_original._FMjpg_._SL34_.jpeg",
+        "profile_link": "/shop/influencer-7f7acabe",
+        "public_name": "Tyler \"Vegas\" Morrison",
+        "vendor_code": "influencer-7f7acabe:shop",
+        "vendor_name": "Tyler \"Vegas\" Morrison",
+        "vendor_tracking_id": "onamzmorrisou-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/A1ivqSqHYoL._CR2,0,1276,720_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/A1ivqSqHYoL.png",
+        "video_image_width": "1280",
+        "video_image_height": "720",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/7e110854-03ec-4a96-a21d-84f3294671ea/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/37d87443-0c77-4f4c-93ed-9d6e7cd13d32/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/37d87443-0c77-4f4c-93ed-9d6e7cd13d32/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:37",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/792be512-8efa-40b3-b940-356a3a9a9489.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0dadb172144f4b44920585cf203b80a8",
+        "product_asin": "B0CJ1B6D6S",
+        "parent_asin": "B0DCDRWRGN",
+        "related_products": "B0CJ1B6D6S,B07GWPT9GG,B0DN245D58,B0DCDRWRGN",
+        "title": "WATCH BEFORE You Buy For Details On What Makes These Sponges Special!",
+        "profile_image_url": "https://m.media-amazon.com/images/I/51QMc8Ip0bL._CR0,0,469,469_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/thumbsup51",
+        "public_name": "Erika",
+        "vendor_code": "thumbsup51:shop",
+        "vendor_name": "Erika",
+        "vendor_tracking_id": "onamzerikajef-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/91uHERig-0L._CR2,0,1276,720_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/91uHERig-0L.png",
+        "video_image_width": "1280",
+        "video_image_height": "720",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/24ee4012-56ed-4075-80e0-e87cc192d181/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/208ecb3b-6ca9-49c4-bec8-22d278dab4ea/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/208ecb3b-6ca9-49c4-bec8-22d278dab4ea/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:37",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/f10611a7-69e5-4d7c-8d2c-0c89390d0c27.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.07e89c69c37743e785b1e7c53a310046",
+        "product_asin": "B0CJ1B6D6S",
+        "parent_asin": "B0DCDRWRGN",
+        "related_products": "B06W9M3H9S,B0D495N8Y7,B0CJ1B6D6S",
+        "title": "Kitchen Sponge Review",
+        "profile_image_url": "https://m.media-amazon.com/images/I/81EenYZjZrL._CR0,0,1284,1284_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/sophje13",
+        "public_name": "Reviews by Sophie",
+        "vendor_code": "sophje13:shop",
+        "vendor_name": "Reviews by Sophie",
+        "vendor_tracking_id": "onamzsophieer-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/61xnoc6KXWL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61xnoc6KXWL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1137",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/fb3a5891-dea1-4648-be9b-12ae25fea089/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d1698e3d-19a7-4c38-b28d-56e43c286217/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d1698e3d-19a7-4c38-b28d-56e43c286217/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:40",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/28fc0378-c3d0-46d1-ae27-3af568675299.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.008e94ef3df64ca598b1453858d34c5a",
+        "product_asin": "B0CJ1B6D6S",
+        "parent_asin": "B0DCDRWRGN",
+        "related_products": "B0CJ1B6D6S",
+        "title": "Honest Review Scrub Daddy Scrub Mommy Sponges - Dish Scrubber + Non-Scratch Cleaning Sponges Kitchen",
+        "profile_image_url": "https://m.media-amazon.com/images/I/A1xYr3vxCsL._CR524,203,419,420_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/jareddaniel",
+        "public_name": "Jared Daniel",
+        "vendor_code": "jareddaniel:shop",
+        "vendor_name": "Jared Daniel",
+        "vendor_tracking_id": "onamzjareddan-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/B1iHIOvaIaL._CR0,0,4032,2275_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/B1iHIOvaIaL.jpg",
+        "video_image_width": "4032",
+        "video_image_height": "3024",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/b5cf526c-3be6-489b-ad63-39168d2342f1/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/15caee5b-e838-425f-ba2b-bd3e697a4de4/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/15caee5b-e838-425f-ba2b-bd3e697a4de4/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:11",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/808bfc02-faf2-4a39-a812-600f3047a390.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0ed6f91b76bd47498e0471582dc2757a",
+        "product_asin": "B0CJ1B6D6S",
+        "parent_asin": "B0DCDRWRGN",
+        "related_products": "B0DN245D58,B0D495N8Y7,B0DCDRWRGN",
+        "title": "Why You need A Scrub Mommy in your life",
+        "profile_image_url": "https://m.media-amazon.com/images/I/71gmBvO3ITL._CR0,0,960,960_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/donnacribbsjack",
+        "public_name": "Ladonna Jack",
+        "vendor_code": "donnacribbsjack:shop",
+        "vendor_name": "Ladonna Jack",
+        "vendor_tracking_id": "onamzdonnaj08-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/915UtJjmSmL._CR3,0,1914,1080_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/915UtJjmSmL.png",
+        "video_image_width": "1920",
+        "video_image_height": "1080",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/7b507d99-1229-44ef-8cd9-7fbdab60453a/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3341e53e-9a31-4a13-8fdf-1cbd95db0218/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3341e53e-9a31-4a13-8fdf-1cbd95db0218/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:57",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/4f26a3ab-65e3-4bf1-866a-43db5811db1b.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0d204a43b7954fd083df8ae706bdbaa5",
+        "product_asin": "B0CJ1B6D6S",
+        "parent_asin": "B0DCDRWRGN",
+        "related_products": "B0CJ1B6D6S,B0D1Z7B6Q6",
+        "title": "Scrub Mommy Is Adorable ",
+        "profile_image_url": "https://m.media-amazon.com/images/I/91vk7vtuf6L._CR0,0,2251,2251_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/morganraefindsamazonfinds",
+        "public_name": "Morgan Rae",
+        "vendor_code": "morganraefindsamazonfinds:shop",
+        "vendor_name": "Morgan Rae",
+        "vendor_tracking_id": "onamzmorg04a3-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/71d2TCYErHL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/71d2TCYErHL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1137",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f6a46427-14b1-4cc8-85c0-0974af201d56/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/80e93077-44ca-4286-b0d8-a4a0e258748b/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/80e93077-44ca-4286-b0d8-a4a0e258748b/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:05",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/caf4b990-dd35-464f-b03c-ed92250aac37.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.06f0d6fed9834bd49cc9e1c35a53f0af",
+        "product_asin": "B0CJ1B6D6S",
+        "parent_asin": "B0DCDRWRGN",
+        "related_products": "B0CJ1B6D6S,B0CJVQZ6CB,B0D96K5BLX",
+        "title": "Scrub Daddy Sponge Review",
+        "profile_image_url": "https://m.media-amazon.com/images/I/814ciE7I-+L._CR0,0,1171,1171_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/charleespiva",
+        "public_name": "Charlee",
+        "vendor_code": "charleespiva:shop",
+        "vendor_name": "Charlee",
+        "vendor_tracking_id": "onamzcha06570-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/61Q6ExcrYXL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61Q6ExcrYXL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1137",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/12dfbd10-2d64-4210-adc4-c400a1143f6e/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e90c6e41-ad3d-45a9-ac3d-fc75d6180df4/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e90c6e41-ad3d-45a9-ac3d-fc75d6180df4/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:46",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/12d1e74e-6628-4d28-b0cc-bd81e441d114.vtt"
+      }
+    ],
+    "is_bundle": false,
+    "feature_bullets": [
+      "Dual-Sided + Temperature-Controlled - Scrub Mommy takes traditional kitchen sponges and scrubbers to the next level with her dual sided design. On one side, her FlexTexture foam changes based on your water temperature. Soft in warm water and firm in cool. On the other, spongy ResoFoam helps her create a soapy lather for wiping up spills.",
+      "Scratch-Free - Scrub Mommy non scratch sponges are safe to use on over a dozen different surfaces (i.e. glass, stainless steel, cast iron, non-stick coatings, copper, chrome, leather) so you can use her to wash anything from dinner dishes to the car!",
+      "Odor Resistant - Unlike other dish sponges, Scrub Mommy is dishwasher safe and built to resist buildup. Plus, when properly maintained, Scrub Mommy can resist odors and stains for up to 8 weeks!",
+      "Flexible and Multipurpose - You can use Scrub Mommy kitchen sponges for washing dishes and efficiently cleaning utensils, dishes, furniture, siding, sneakers, bathtubs and more! Anywhere there is dirt, grime, or gunk, these versatile scrubber sponges can help.",
+      "Ergonomic and Functional - Scrub Mommy is designed to fit comfortably in your hand and provide good grip and coverage so you can spend less time scrubbing and more time smiling. Her eyes hold onto you for a 360 degree reach, while her mouth cleans both sides of your utensils. No kitchen is complete without this cute and functional dish scrubber sponge."
+    ],
+    "feature_bullets_count": 5,
+    "feature_bullets_flat": "Ergonomic and Functional - Scrub Mommy is designed to fit comfortably in your hand and provide good grip and coverage so you can spend less time scrubbing and more time smiling. Her eyes hold onto you for a 360 degree reach, while her mouth cleans both sides of your utensils. No kitchen is complete without this cute and functional dish scrubber sponge. Flexible and Multipurpose - You can use Scrub Mommy kitchen sponges for washing dishes and efficiently cleaning utensils, dishes, furniture, siding, sneakers, bathtubs and more! Anywhere there is dirt, grime, or gunk, these versatile scrubber sponges can help. Odor Resistant - Unlike other dish sponges, Scrub Mommy is dishwasher safe and built to resist buildup. Plus, when properly maintained, Scrub Mommy can resist odors and stains for up to 8 weeks!. Scratch-Free - Scrub Mommy non scratch sponges are safe to use on over a dozen different surfaces (i.e. glass, stainless steel, cast iron, non-stick coatings, copper, chrome, leather) so you can use her to wash anything from dinner dishes to the car!. Dual-Sided + Temperature-Controlled - Scrub Mommy takes traditional kitchen sponges and scrubbers to the next level with her dual sided design. On one side, her FlexTexture foam changes based on your water temperature. Soft in warm water and firm in cool. On the other, spongy ResoFoam helps her create a soapy lather for wiping up spills.",
+    "top_reviews": [
+      {
+        "id": "R2KB0TSIJOHLR",
+        "title": "Great sponges that last and don’t scratch",
+        "body": "I’ve been buying these for years and still love them. They work really well for dishes and general house cleaning, and they last much longer than regular sponges. They’re tough on stuck-on food but gentle enough that they don’t scratch surfaces, which I really appreciate. Considering how long they last, they’re also great value for the money. Definitely a staple in my home.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on March 13, 2026"
+        },
+        "profile": {
+          "name": "A."
+        },
+        "verified_purchase": true,
+        "helpful_votes": null,
+        "link": "https://www.amazon.com/gp/customer-reviews/R2KB0TSIJOHLR/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R2R44662E2L3WY",
+        "title": "Durable multi-use sponge and scrubber",
+        "body": "I love the scrub mommy spounges. They have a rough side for tough jobs on one side and a regular softer sponge on the other side. They’re very sturdy and durable, last though thousands of uses.They’re very don’t hold a mildew smell, and you can sanitize them in the dishwasher.Super handy to have with all your cleaning supplies!",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on March 1, 2026"
+        },
+        "profile": {
+          "name": "Kati M"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 3,
+        "link": "https://www.amazon.com/gp/customer-reviews/R2R44662E2L3WY/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R1T0B15J0GTCUE",
+        "title": "Must have",
+        "body": "I love my scrub mommy sponges. I do wish they would come with a holder but thats okay. The clean dishes the best, last forever. The size is perfect. They absorb and ring out great. They work the best that's whi I continue to buy.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on January 24, 2026"
+        },
+        "profile": {
+          "name": "jennifer prado"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 5,
+        "link": "https://www.amazon.com/gp/customer-reviews/R1T0B15J0GTCUE/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R26UEUFIJE2AH6",
+        "title": "The only sponge I’ll ever buy!!",
+        "body": "My favorite sponges! Last so long without harboring any odor. Nice and durable. Doesn’t scratch pots/pans. Great for dishes and general cleaning around the house.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on January 31, 2026"
+        },
+        "profile": {
+          "name": "Corey Boyer"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 5,
+        "link": "https://www.amazon.com/gp/customer-reviews/R26UEUFIJE2AH6/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R2UR11DHTGL6RY",
+        "title": "Best kitchen sponge I've ever used",
+        "body": "I use Scrub Mommy Sponges in the kitchen. The sponge side is super absorbent, and the scrubbing side is very gentle, but effective on dishes, ceramic cooktop, and granite countertops.  Our Scrub Mommys can last from 3 weeks to a month.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on February 15, 2026"
+        },
+        "profile": {
+          "name": "Anne"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 2,
+        "link": "https://www.amazon.com/gp/customer-reviews/R2UR11DHTGL6RY/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "RGMS28TVXX7RU",
+        "title": "Does a great job!",
+        "body": "I really love these! I know they’re only sponges but they’re really great sponges! Two sided, cleans everything great without scrubbing, great for cleaning utensils, and they smile. I even bought a holder for it—you stick the eye holes on it! It’s the little things. :)",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on February 19, 2026"
+        },
+        "profile": {
+          "name": "Vicki"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 3,
+        "link": "https://www.amazon.com/gp/customer-reviews/RGMS28TVXX7RU/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "RWLZYSHYHKTMH",
+        "title": "Good scrubbers",
+        "body": "I prefer the rectangle versions, these round ones are kinda big for many dishes but they do scrub well. They don't seem to develop the rank smell that regular cellulose sponges do, and they don't scratch glass or pans. Absorbency is just OK (cellulose is better).",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in the United States on March 10, 2026"
+        },
+        "profile": {
+          "name": "C. S. Thompson"
+        },
+        "verified_purchase": true,
+        "link": "https://www.amazon.com/gp/customer-reviews/RWLZYSHYHKTMH/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R3C43NFRBBV9TD",
+        "title": "Best sponge ever!",
+        "body": "I love these sponges! They work great for scrubbing stuck on food and the soft side is great for dishes that I don't want to scratch. Buying the 9 pack saves me so much money. The best part is these sponges are so durable, one sponge usually lasts me a month or so.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on February 1, 2026"
+        },
+        "profile": {
+          "name": "R. Martinez"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 4,
+        "link": "https://www.amazon.com/gp/customer-reviews/R3C43NFRBBV9TD/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R12BIYH18DSQ7F",
+        "body": "muyt buen producto",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Mexico on November 21, 2025"
+        },
+        "profile": {
+          "name": "margarita k."
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "R13JXJ84PRARS1",
+        "title": "The next gen sponge",
+        "body": "Pretty good sponges. Once you use these, going back to the other normal ones will be tough.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Belgium on September 21, 2024"
+        },
+        "profile": {
+          "name": "Daniyal W."
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "R173TDRGEFCIRX",
+        "title": "Very durable.",
+        "body": "I really enjoy the Scrub Mommy. It is fun to look at. It works really well. I especially like them for doing dishes, You can get the pots clean even the nonstick pans and they do not scratch. My only complaint would be that all three in the box were the same color. It would have been nice to have different colors for different uses.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Canada on April 15, 2023"
+        },
+        "profile": {
+          "name": "Amazon Customer"
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "R1I3DO23ZTXZDN",
+        "title": "thank you",
+        "body": "pricey but worth it",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Japan on December 3, 2025"
+        },
+        "profile": {
+          "name": "anna schultz"
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "R1J3Y2QIK11HKI",
+        "title": "Dishwasher 9000",
+        "body": "Great as always from Scrub Daddy! Fast delivery by Amazon!",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the Netherlands on May 4, 2025"
+        },
+        "profile": {
+          "name": "Bram De Backer"
+        },
+        "verified_purchase": true
+      }
+    ],
+    "bestsellers_rank": [
+      {
+        "rank": 312,
+        "category": "Health & Household",
+        "link": "https://www.amazon.com/gp/bestsellers/hpc/ref=pd_zg_ts_hpc"
+      },
+      {
+        "rank": 3,
+        "category": "Household Cleaning Sponges",
+        "link": "https://www.amazon.com/gp/bestsellers/hpc/15754811/ref=pd_zg_hrsr_hpc"
+      }
+    ],
+    "a_plus_content": {
+      "has_a_plus_content": true,
+      "has_brand_story": true,
+      "brand_story": {
+        "hero_image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/49637e10-d88b-4be9-a1f8-ea481a762c82.__CR1,0,3050,1302_PT0_SX1464_V1___.jpg",
+        "brand_store": {
+          "link": "/stores/page/D767A633-180D-485C-B3A4-48FF52C99224",
+          "id": "D767A633-180D-485C-B3A4-48FF52C99224"
+        },
+        "images": [
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/49637e10-d88b-4be9-a1f8-ea481a762c82.__CR1,0,3050,1302_PT0_SX1464_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5038821a-4c35-41b9-9969-6b6934d1187f.__CR0,0,754,944_PT0_SX362_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0ebd7e6a-ffdc-4312-af83-556b11e3e5b3.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f85a39e2-4a67-4dda-a007-56178338e817.__CR0,0,754,944_PT0_SX362_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6340fe6e-6796-457f-9872-acad183baadc.__CR0,0,754,944_PT0_SX362_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b8f0c0ef-6b8e-4391-9f4d-df31c02131a4.__CR0,0,754,944_PT0_SX362_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/85dce1d4-eab9-47c5-a230-99721ad64c75.__CR0,0,755,945_PT0_SX362_V1___.jpg"
+        ]
+      },
+      "all_images": [
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/fe329c4b-cc98-455e-90aa-ee846db0d48d.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "scrub mommy"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f592d473-409b-41df-8163-43064cffb10e.__CR0,0,1465,600_PT0_SX1464_V1___.jpg",
+          "name": "scrub daddy"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f53e3334-fbf7-459a-8792-79236dfc89d0.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "kitchen sponges"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/092480e3-c5bc-4cc8-8a79-02b0f121efdb.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "kitchen sponges"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a8301927-1cc7-4f61-a2ce-540b7f62bcf7.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "kitchen sponges"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/24a0cba4-c285-4ed2-a8ba-9c112213d2b8.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "cif cream cleanser"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/fbef1803-9a29-4b04-bb13-129161ff7e5e.__CR0,0,1465,600_PT0_SX1464_V1___.jpg",
+          "name": "scrub mommy"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/36fc1a6f-4027-4fee-8b18-4aeaa7ec2126.__CR0,1,1465,600_PT0_SX1464_V1___.jpg",
+          "name": "scrub mommy"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/47ca93db-b60b-4e9a-b035-14afecd4ed9f.__CR0,0,1465,600_PT0_SX1464_V1___.jpg",
+          "name": "scrub mommy"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/63b78447-1adb-4b94-a81d-c47270d92454.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "scrub daddy"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2e5ef96a-37d7-4606-aa04-daa3efb06437.__CR0,0,200,225_PT0_SX200_V1___.png",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ba9bc8ad-706e-4f24-ae10-bb51c4931445.__CR0,0,200,225_PT0_SX200_V1___.png",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3cf2d17a-a139-4583-a397-28a16d5b836a.__CR0,0,200,225_PT0_SX200_V1___.png",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/416ac242-04ef-454c-80ca-1209263fbb35.__CR0,0,200,225_PT0_SX200_V1___.png",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/498ef8ae-3011-45d2-9174-3e6c04b108af.__CR0,0,200,225_PT0_SX200_V1___.png",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1e6d8c1f-a699-44a3-ad75-d70918141f22.__CR0,0,200,225_PT0_SX200_V1___.png",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/49637e10-d88b-4be9-a1f8-ea481a762c82.__CR1,0,3050,1302_PT0_SX1464_V1___.jpg",
+          "name": "scrub daddy"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5038821a-4c35-41b9-9969-6b6934d1187f.__CR0,0,754,944_PT0_SX362_V1___.jpg",
+          "name": "scrub daddy"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6e3845df-0c8b-4358-8b95-cd33681103ba.__CR0,0,346,379_PT0_SX166_V1___.jpg",
+          "name": "sponges"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c8ee1a4d-6032-4125-a35d-64eec6e71532.__CR0,0,346,379_PT0_SX166_V1___.jpg",
+          "name": "sponges"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a0592edd-7e87-4127-a941-397fb26d8047.__CR0,0,346,379_PT0_SX166_V1___.jpg",
+          "name": "kitchen cleaner set"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/66081d7b-21dc-4015-b5eb-b1433547e083.__CR0,0,346,379_PT0_SX166_V1___.jpg",
+          "name": "kitchen sponges"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0ebd7e6a-ffdc-4312-af83-556b11e3e5b3.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+          "name": "mickey minnie"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a52d39c3-89d2-4068-bfab-e49d6b471a55.__AC_SR166,182___.jpg",
+          "name": "B0FWFGD7Q6"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4af1da94-859d-45e4-a6e3-b333f5544a2f.__AC_SR166,182___.jpg",
+          "name": "disney"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/cf4a8d2a-6dba-4407-af4c-c487cbb6ed83.__AC_SR166,182___.jpg",
+          "name": "disney"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c635ae67-48f9-4837-acda-328be3854a1c.__AC_SR166,182___.jpg",
+          "name": "disney"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f85a39e2-4a67-4dda-a007-56178338e817.__CR0,0,754,944_PT0_SX362_V1___.jpg",
+          "name": "cif cleaner"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/173a45d5-cdfa-489b-9410-aa359826fd16.__CR0,0,346,379_PT0_SX166_V1___.jpg",
+          "name": "cif cleaner"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ab9b33a6-78af-4eb3-a41e-8bd225f0e2b4.__CR0,0,346,379_PT0_SX166_V1___.jpg",
+          "name": "cif"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e87ef6ae-448b-49ee-a0ba-d015853144cb.__CR0,0,346,379_PT0_SX166_V1___.jpg",
+          "name": "cif cleaner"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/22b465af-14b8-4b4d-ab9e-dc159fd6f77f.__CR0,0,346,379_PT0_SX166_V1___.jpg",
+          "name": "cif cream cleanser"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6340fe6e-6796-457f-9872-acad183baadc.__CR0,0,754,944_PT0_SX362_V1___.jpg",
+          "name": "scrub daddy"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f66504d1-4474-4dfd-816b-d5d45304b7be.__CR0,0,346,379_PT0_SX166_V1___.jpg",
+          "name": "bbq daddy"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4289840d-2f82-4110-aa31-584cecb23b9b.__CR0,0,346,379_PT0_SX166_V1___.jpg",
+          "name": "grill brush"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1a4fc4a2-58d8-4cbb-9fbb-2d18ead0e0e1.__CR0,0,346,379_PT0_SX166_V1___.jpg",
+          "name": "bristle free grill brush"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/be2a5915-8246-4c2c-ac33-790e88728e9f.__CR0,0,346,379_PT0_SX166_V1___.jpg",
+          "name": "bbq daddy"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b8f0c0ef-6b8e-4391-9f4d-df31c02131a4.__CR0,0,754,944_PT0_SX362_V1___.jpg",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/85dce1d4-eab9-47c5-a230-99721ad64c75.__CR0,0,755,945_PT0_SX362_V1___.jpg",
+          "name": "scrub daddy"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0a24f2a3-1c67-427e-9d26-abac6c0339e2.__CR0,0,346,379_PT0_SX166_V1___.jpg",
+          "name": "sponge holder"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a807397b-9f02-41a9-8042-e3e49864425b.__CR0,0,346,379_PT0_SX166_V1___.jpg",
+          "name": "sponge caddy"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b71952f4-f37e-4455-8ba2-e403850c43ac.__CR0,0,346,379_PT0_SX166_V1___.jpg",
+          "name": "soap"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/007d25d5-dc41-4882-90b2-30c1b785f508.__CR0,0,346,379_PT0_SX166_V1___.jpg",
+          "name": "eraser daddy"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/94fc3207-8768-498a-b40d-bbef39711306.__CR0,0,346,379_PT0_SX166_V1___.jpg",
+          "name": "scour daddy"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4d2b0731-c8e4-419b-8e5c-1c348120c675.__CR0,0,346,379_PT0_SX166_V1___.jpg",
+          "name": "damp duster"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/dbf76092-b90e-4db5-ae44-6504a8e80326.__CR0,0,346,379_PT0_SX166_V1___.jpg",
+          "name": "cloths"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/02379eab-4161-4850-a388-15710c4bead0.__CR0,0,346,379_PT0_SX166_V1___.jpg",
+          "name": "sponges"
+        }
+      ],
+      "third_party": false
+    },
+    "buybox_winner": {
+      "maximum_order_quantity": {
+        "value": 10,
+        "hard_maximum": true
+      },
+      "subscribe_and_save": {
+        "base_discount_percentage": 5,
+        "tiered_discount_percentage": 5,
+        "delivery_message": "Save up to 5% on auto-deliveries.",
+        "default_delivery": "4 months (Most common)",
+        "base_price": {
+          "value": 13.99,
+          "currency": "USD",
+          "symbol": "$",
+          "raw": "13.99"
+        },
+        "tiered_price": {
+          "value": 13.29,
+          "currency": "USD",
+          "symbol": "$",
+          "raw": "13.29"
+        }
+      },
+      "price_only_available_in_cart": false,
+      "trade_in_and_save": true,
+      "return_policy": {
+        "duration_days": 30,
+        "type": "refund/replacement"
+      },
+      "is_prime": true,
+      "is_prime_exclusive_deal": false,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "In Stock",
+        "dispatch_days": 1
+      },
+      "fulfillment": {
+        "type": "p2",
+        "standard_delivery": {
+          "date": "Monday, March 23",
+          "name": "FREE"
+        },
+        "fastest_delivery": {
+          "date": "Friday, March 20",
+          "name": "Or Prime members get FREE delivery Friday, March 20. Order within 13 hrs 22 mins. Join Prime"
+        },
+        "is_sold_by_amazon": false,
+        "is_fulfilled_by_amazon": true,
+        "is_fulfilled_by_third_party": false,
+        "is_sold_by_third_party": true,
+        "third_party_seller": {
+          "name": "Front Row Group"
+        }
+      },
+      "price": {
+        "symbol": "$",
+        "value": 13.99,
+        "currency": "USD",
+        "raw": "$13.99"
+      },
+      "unit_price": {
+        "symbol": "$",
+        "value": 4.66,
+        "currency": "USD",
+        "raw": "$4.66 / count"
+      },
+      "shipping": {
+        "raw": "FREE"
+      }
+    },
+    "specifications": [
+      {
+        "name": "Brand",
+        "value": "Scrub Daddy"
+      },
+      {
+        "name": "Material",
+        "value": "FlexTexture (polymer foam) & ResoFoam"
+      },
+      {
+        "name": "Recommended Uses For Product",
+        "value": "Multisurface cleaning"
+      },
+      {
+        "name": "Surface Recommendation",
+        "value": "Glass, Stainless Steel"
+      },
+      {
+        "name": "Color",
+        "value": "Multicolor"
+      },
+      {
+        "name": "Special Feature",
+        "value": "Non-Scratch, Odor Resistant"
+      },
+      {
+        "name": "Item Package Quantity",
+        "value": "1"
+      },
+      {
+        "name": "Included Components",
+        "value": "Sponges"
+      },
+      {
+        "name": "Model Name",
+        "value": "Scrub Mommy - Online Exclusive"
+      },
+      {
+        "name": "Item Weight",
+        "value": "2.11 Ounces"
+      },
+      {
+        "name": "Number of Items",
+        "value": "1"
+      },
+      {
+        "name": "Manufacturer",
+        "value": "Scrub Daddy"
+      },
+      {
+        "name": "UPC",
+        "value": "810044135626"
+      },
+      {
+        "name": "Product Dimensions",
+        "value": "1.63 x 4 x 13.88 inches"
+      },
+      {
+        "name": "Item Weight",
+        "value": "2.11 ounces"
+      },
+      {
+        "name": "ASIN",
+        "value": "B0CJ1B6D6S"
+      },
+      {
+        "name": "Item model number",
+        "value": "FG5009903001EA0EN01"
+      },
+      {
+        "name": "Customer Reviews",
+        "value": "4.8    4.8 out of 5 stars         (31,747)           4.8 out of 5 stars"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "#312 in Health & Household (See Top 100 in Health & Household) #3 in Household Cleaning Sponges"
+      },
+      {
+        "name": "Is Discontinued By Manufacturer",
+        "value": "No"
+      },
+      {
+        "name": "Batteries required",
+        "value": "No"
+      },
+      {
+        "name": "GTIN",
+        "value": "810044135626"
+      }
+    ],
+    "specifications_flat": "GTIN: 810044135626. Batteries required: No. Is Discontinued By Manufacturer: No. Best Sellers Rank: #312 in Health & Household (See Top 100 in Health & Household) #3 in Household Cleaning Sponges. Customer Reviews: 4.8    4.8 out of 5 stars         (31,747)           4.8 out of 5 stars. Item model number: FG5009903001EA0EN01. ASIN: B0CJ1B6D6S. Item Weight: 2.11 ounces. Product Dimensions: 1.63 x 4 x 13.88 inches. UPC: 810044135626. Manufacturer: Scrub Daddy. Number of Items: 1. Item Weight: 2.11 Ounces. Model Name: Scrub Mommy - Online Exclusive. Included Components: Sponges. Item Package Quantity: 1. Special Feature: Non-Scratch, Odor Resistant. Color: Multicolor. Surface Recommendation: Glass, Stainless Steel. Recommended Uses For Product: Multisurface cleaning. Material: FlexTexture (polymer foam) & ResoFoam. Brand: Scrub Daddy.",
+    "recent_sales": "30K+ bought in past month",
+    "gift_guide_badge": {
+      "badge_text": "30K+ bought in past month"
+    },
+    "ingredients": [
+      "Safe scrubbing on over a dozen different household surfaces including glass",
+      "non-stick coatings",
+      "granite",
+      "ceramic",
+      "wood and stainless steel. We’ve done the testing so you don’t have to."
+    ],
+    "ingredients_flat": "Safe scrubbing on over a dozen different household surfaces including glass, non-stick coatings, granite, ceramic, wood and stainless steel. We’ve done the testing so you don’t have to.",
+    "color": "Multicolor",
+    "material": "FlexTexture (polymer foam) & ResoFoam",
+    "manufacturer": "Scrub Daddy",
+    "weight": "2.11 ounces",
+    "dimensions": "1.63 x 4 x 13.88 inches",
+    "model_number": "FG5009903001EA0EN01",
+    "bestsellers_rank_flat": "Category: Health & Household | Rank: 312, Category: Household Cleaning Sponges | Rank: 3"
+  },
+  "brand_store": {
+    "id": "D767A633-180D-485C-B3A4-48FF52C99224",
+    "link": "https://www.amazon.com/stores/ScrubDaddy/page/D767A633-180D-485C-B3A4-48FF52C99224"
+  }
+}

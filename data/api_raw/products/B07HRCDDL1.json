@@ -1,0 +1,1172 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 15,
+    "credits_remaining": 85,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "type": "product",
+    "asin": "B07HRCDDL1",
+    "amazon_domain": "amazon.com"
+  },
+  "request_metadata": {
+    "created_at": "2026-03-17T15:38:12.311Z",
+    "processed_at": "2026-03-17T15:38:19.699Z",
+    "total_time_taken": 7.39,
+    "amazon_url": "https://www.amazon.com/dp/B07HRCDDL1?th=1&psc=1"
+  },
+  "product": {
+    "title": "MR.SIGA Microfiber Cleaning Cloth,Pack of 12,Size:12.6\" x 12.6\" Assorted",
+    "search_alias": {
+      "title": "Home & Kitchen",
+      "value": "search-alias=garden"
+    },
+    "title_excluding_variant_name": "MR.SIGA Microfiber Cleaning Cloth,Pack of 12,Size:12.6\" x 12.6\"",
+    "keywords": "MR.SIGA Microfiber Cleaning Cloth,Pack of 12,Size:12.6\" x 12.6\" Assorted",
+    "keywords_list": [
+      "MR.SIGA Microfiber Cleaning Cloth",
+      "Pack of 12",
+      "Size:12.6\" x 12.6\" Assorted"
+    ],
+    "is_collection": false,
+    "asin": "B07HRCDDL1",
+    "parent_asin": "B09NFFR2Q8",
+    "link": "https://www.amazon.com/MR-SIGA-Microfiber-Cleaning-Cloth-Pack/dp/B07HRCDDL1",
+    "brand": "MR.SIGA",
+    "sell_on_amazon": false,
+    "variants": [
+      {
+        "asin": "B09573GMW6",
+        "title": "Black",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09573GMW6?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Black"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/81CqbmaOmgL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/81CqbmaOmgL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0D2NP2F4W",
+        "title": "Wheat",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0D2NP2F4W?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Wheat"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/91KGZaQ5diL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/91KGZaQ5diL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B07HRCDDL1",
+        "title": "Assorted",
+        "is_current_product": true,
+        "link": "https://www.amazon.com/dp/B07HRCDDL1?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Assorted"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/91AFRzSSLbL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/91AFRzSSLbL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B09TKLWJ2B",
+        "title": "White",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09TKLWJ2B?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "White"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71alfTcmJiL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71alfTcmJiL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B09KGQD338",
+        "title": "Light Teal",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09KGQD338?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Light Teal"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/81VN2Jyu4CL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/81VN2Jyu4CL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B09FX7TFJV",
+        "title": "Grey",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09FX7TFJV?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Grey"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/91zwIheCdTL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/91zwIheCdTL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0CFXZ2Q99",
+        "title": "Purple",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0CFXZ2Q99?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Purple"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/915UwuQ5oyL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/915UwuQ5oyL._SL1500_.jpg"
+          }
+        ]
+      }
+    ],
+    "variant_asins_flat": "B09573GMW6,B0D2NP2F4W,B07HRCDDL1,B09TKLWJ2B,B09KGQD338,B09FX7TFJV,B0CFXZ2Q99",
+    "proposition_65_warning": false,
+    "has_size_guide": true,
+    "add_on_item": {
+      "is_add_on_item": true
+    },
+    "categories": [
+      {
+        "name": "Home & Kitchen"
+      },
+      {
+        "name": "Health & Household",
+        "link": "https://www.amazon.com/health-personal-care-nutrition-fitness/b/ref=dp_bc_1?ie=UTF8&node=3760901",
+        "category_id": "3760901"
+      },
+      {
+        "name": "Household Supplies",
+        "link": "https://www.amazon.com/Household-Supplies-Products/b/ref=dp_bc_2?ie=UTF8&node=15342811",
+        "category_id": "15342811"
+      },
+      {
+        "name": "Cleaning Tools",
+        "link": "https://www.amazon.com/cleaning-tools/b/ref=dp_bc_3?ie=UTF8&node=15342831",
+        "category_id": "15342831"
+      },
+      {
+        "name": "Cleaning Cloths",
+        "link": "https://www.amazon.com/b/ref=dp_bc_4?ie=UTF8&node=15524361011",
+        "category_id": "15524361011"
+      }
+    ],
+    "categories_flat": "Home & Kitchen > Health & Household > Household Supplies > Cleaning Tools > Cleaning Cloths",
+    "sub_title": {
+      "text": "Visit the MR.SIGA Store",
+      "link": "https://www.amazon.com/stores/MRSIGA/page/419C6561-6851-4AF7-B8EB-F88E277CEA97?lp_asin=B07HRCDDL1&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto"
+    },
+    "amazons_choice": {
+      "link": "https://www.amazon.com/MR-SIGA-Microfiber-Cleaning-Cloth-Pack/dp/B07HRCDDL1",
+      "badge_text": "Amazon's  Choice"
+    },
+    "marketplace_id": "ATVPDKIKX0DER",
+    "rating": 4.7,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 82,
+        "count": 83757
+      },
+      "four_star": {
+        "percentage": 13,
+        "count": 13279
+      },
+      "three_star": {
+        "percentage": 3,
+        "count": 3064
+      },
+      "two_star": {
+        "percentage": 1,
+        "count": 1021
+      },
+      "one_star": {
+        "percentage": 1,
+        "count": 1021
+      }
+    },
+    "ratings_total": 102143,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/91AFRzSSLbL.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/71qdyGH2UhL._SL1500_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81M-dDByfgL._SL1500_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71EjzkTWVHL._SL1500_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71Oo4yeP5tL._SL1500_.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/8197FO4fdkL._SL1500_.jpg",
+        "variant": "PT05"
+      }
+    ],
+    "images_count": 5,
+    "images_flat": "https://m.media-amazon.com/images/I/71qdyGH2UhL._SL1500_.jpg,https://m.media-amazon.com/images/I/81M-dDByfgL._SL1500_.jpg,https://m.media-amazon.com/images/I/71EjzkTWVHL._SL1500_.jpg,https://m.media-amazon.com/images/I/71Oo4yeP5tL._SL1500_.jpg,https://m.media-amazon.com/images/I/8197FO4fdkL._SL1500_.jpg",
+    "videos_count": 6,
+    "videos_additional": [
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.05ec29147bb94d03b1c8f9c3fc4672b4",
+        "product_asin": "B07HRCDDL1",
+        "parent_asin": "B09NFFR2Q8",
+        "related_products": "B07HRCDDL1,B09NFFR2Q8",
+        "title": "Microfiber Cleaning Cloths",
+        "profile_image_url": "https://m.media-amazon.com/images/I/71sRymumJDL._CR0,0,1021,1021_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/myyorkiesadie",
+        "public_name": "Sadie’s Pup & Life Essential",
+        "vendor_code": "myyorkiesadie:shop",
+        "vendor_name": "Sadie’s Pup & Life Essential",
+        "vendor_tracking_id": "onamzheat006d-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/61LtcMpSewL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61LtcMpSewL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1137",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/7839ea06-807d-4e83-bbf5-ad644e2288d9/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/4e49a241-8da6-457b-bbdb-a882b570dd59/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/4e49a241-8da6-457b-bbdb-a882b570dd59/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/4e49a241-8da6-457b-bbdb-a882b570dd59/3487e76e-8179-4226-9e2e-a19a78c4d387/05ec29147bb94d03b1c8f9c3fc4672b4_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:48",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/4a41c0f0-e5a5-4498-b7b8-4248a47a796e.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0822184475e5446b999324b555b0179f",
+        "product_asin": "B07HRCDDL1",
+        "parent_asin": "B09NFFR2Q8",
+        "related_products": "B07HRCDDL1,B0D2RZBSKK",
+        "title": "Are MR.SIGA Microfiber Cloths the Best Value?",
+        "profile_image_url": "https://m.media-amazon.com/images/I/61350QcUCZL._CR0,0,640,640_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/caseybotticello",
+        "public_name": "Casey Reviews ✅",
+        "vendor_code": "caseybotticello:shop",
+        "vendor_name": "Casey Reviews ✅",
+        "vendor_tracking_id": "onamzcaseybot-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/51IlbxzzRCL._CR1,0,638,360_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/51IlbxzzRCL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "360",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/9ec4582c-4a9a-4873-9fb8-271c0aa40523/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/b3cfb0f4-6507-4d7e-9a6a-21d78c20fc6e/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/b3cfb0f4-6507-4d7e-9a6a-21d78c20fc6e/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:56",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/4adc2aee-57f3-492f-8df9-a5f157bcb28b.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.02d0fda48cc2470faabe76d6e4c5729a",
+        "product_asin": "B07HRCDDL1",
+        "parent_asin": "B09NFFR2Q8",
+        "related_products": "B07HRCDDL1",
+        "title": "Best towels for cleaning your home",
+        "profile_image_url": "https://m.media-amazon.com/images/I/91hUQwbOBML._CR0,0,1810,1809_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/winnie.the.chiween",
+        "public_name": "Ashley Almquist",
+        "vendor_code": "winnie.the.chiween:shop",
+        "vendor_name": "Ashley Almquist",
+        "vendor_tracking_id": "onamzash0e0cb-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/B1sDHxVEQQL._CR0,0,922,520_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/B1sDHxVEQQL.png",
+        "video_image_width": "922",
+        "video_image_height": "1694",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/09f66d7d-657d-4527-bdf9-da1213d080c2/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f2dd2311-1716-4dc7-a85e-c23c34e69314/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f2dd2311-1716-4dc7-a85e-c23c34e69314/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:40",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/06f68409-73fb-456a-88d4-76a6a734691e.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0eea5fbcb73b47c0931b6620378fba50",
+        "product_asin": "B07HRCDDL1",
+        "parent_asin": "B09NFFR2Q8",
+        "related_products": "B07HRCDDL1",
+        "title": "Is it really effective? Check this out",
+        "profile_image_url": "https://m.media-amazon.com/images/I/61-7LjIAWML._CR0,0,484,484_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/pinkdelightcakes",
+        "public_name": "Mona Ko",
+        "vendor_code": "pinkdelightcakes:shop",
+        "vendor_name": "Mona Ko",
+        "vendor_tracking_id": "onamzmonakosa-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/81b6IL1QR7L._CR2,0,1276,720_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/81b6IL1QR7L.png",
+        "video_image_width": "1280",
+        "video_image_height": "720",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/4efc8c4d-caf1-4e1f-b479-b01fa1b796c1/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ae550a16-6fd1-4521-bb6d-241b9e00b50b/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ae550a16-6fd1-4521-bb6d-241b9e00b50b/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ae550a16-6fd1-4521-bb6d-241b9e00b50b/55ce9064-9d93-4002-9649-dbe75a486d1e/0eea5fbcb73b47c0931b6620378fba50_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:38",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/f5f3abe6-0235-4ed4-bc42-1d8dd869b3a6.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.02974f806aaa495aa27019284562c8b8",
+        "product_asin": "B07HRCDDL1",
+        "parent_asin": "B09NFFR2Q8",
+        "related_products": "B07HRCDDL1,B0D2RZBSKK",
+        "title": "Honest Review. Great cleaning cloth",
+        "profile_image_url": "https://m.media-amazon.com/images/I/812Y994LvrL._CR0,0,1170,1170_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/daniellethorf",
+        "public_name": "Danielle Thorfinnson",
+        "vendor_code": "daniellethorf:shop",
+        "vendor_name": "Danielle Thorfinnson",
+        "vendor_tracking_id": "onamzdan0cb1b-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/B1JTuTZ5ZPL._CR0,0,4032,2275_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/B1JTuTZ5ZPL.jpg",
+        "video_image_width": "4032",
+        "video_image_height": "3024",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/935d6037-0af2-4c83-9904-390bed1b3dd9/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/51c51154-c698-4748-bd46-92d7b3c70a75/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/51c51154-c698-4748-bd46-92d7b3c70a75/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:39",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/00efd6b0-c76e-4cec-8265-2ee1f7c88cf8.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.095cfdbf08e74ff98c6ce2b1506561c2",
+        "product_asin": "B07HRCDDL1",
+        "parent_asin": "B09NFFR2Q8",
+        "related_products": "B06X9XQ7JL,B0DWNDSNKD,B07HRCDDL1,B07DXB4MZB,B0FXGRKQBQ",
+        "title": "Walls and Baseboards",
+        "profile_image_url": "https://m.media-amazon.com/images/I/D15slzskquL._CR1149,309,698,699_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/lifestyle.leaks",
+        "public_name": "Sara",
+        "vendor_code": "lifestyle.leaks:shop",
+        "vendor_name": "Sara",
+        "vendor_tracking_id": "onamzsara08c-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/610CeKAKyNL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/610CeKAKyNL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1137",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/1e548d11-79e0-4079-9fe2-24b933c4c3b7/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/6fc69783-57ef-4625-bcb4-9fe1ab86a1a8/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/6fc69783-57ef-4625-bcb4-9fe1ab86a1a8/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:31",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/4a045684-5375-43dc-a7fc-c7447659d7ff.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0e099e7ef5604bf48702bf80c585cc18",
+        "product_asin": "B07HRCDDL1",
+        "parent_asin": "B09NFFR2Q8",
+        "related_products": "B07HRCDDL1",
+        "title": "Ditch The Paper Towels! Use These Instead For Cleaning! ",
+        "profile_image_url": "https://m.media-amazon.com/images/I/D1d2eAAcG5L._CR420,701,2240,2240_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/influencer-d76d2664",
+        "public_name": "Jasmine's Amazon Finds ✅",
+        "vendor_code": "influencer-d76d2664:shop",
+        "vendor_name": "Jasmine's Amazon Finds ✅",
+        "vendor_tracking_id": "onamzjasm08cf-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/B1JggViTssL._CR0,0,1080,609_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/B1JggViTssL.png",
+        "video_image_width": "1080",
+        "video_image_height": "1920",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/fe1dcd5a-4854-4b80-b286-0685e2e4daa8/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/433f5319-271d-4556-8dfe-51c9223f8f04/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/433f5319-271d-4556-8dfe-51c9223f8f04/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/433f5319-271d-4556-8dfe-51c9223f8f04/cf60a97c-360a-4776-aacb-e921ab04ecbc/0e099e7ef5604bf48702bf80c585cc18_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:24",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/0c442f33-e2f2-4ad7-9996-95a2dc9ed198.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0fec84585569429aa0b5e38a6eedba7d",
+        "product_asin": "B07HRCDDL1",
+        "parent_asin": "B09NFFR2Q8",
+        "related_products": "B07HRCDDL1",
+        "title": "Mr Siga Microfiber Cleaning Clothes Pack of 12 Review ",
+        "profile_image_url": "https://images-na.ssl-images-amazon.com/images/S/influencer-profile-image-prod/logo/influencer-19a403c1_1613089439401_original._CR0,115,1284,1284_._FMjpg_._SL34_.jpeg",
+        "profile_link": "/shop/influencer-19a403c1",
+        "public_name": "From the Family",
+        "vendor_code": "influencer-19a403c1:shop",
+        "vendor_name": "From the Family",
+        "vendor_tracking_id": "onamzfrothefa-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/91h0hMjxY7L._CR2,0,1276,720_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/91h0hMjxY7L.png",
+        "video_image_width": "1280",
+        "video_image_height": "720",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/cfcac433-ab8f-4ea1-9622-cdc8a1c0fecc/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/74519acd-4a38-44e6-80c2-250551c9f7f7/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/74519acd-4a38-44e6-80c2-250551c9f7f7/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/74519acd-4a38-44e6-80c2-250551c9f7f7/f64c64de-08a6-4362-8947-ea0843097320/0fec84585569429aa0b5e38a6eedba7d_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "2:56",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/66777e9c-d3fd-434a-b636-b5bd706edabc.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0b89b98cde63473c9d6ae903276da292",
+        "product_asin": "B07HRCDDL1",
+        "parent_asin": "B09NFFR2Q8",
+        "related_products": "B07HRCDDL1",
+        "title": "I Reach For Siga Microfiber Cloths Every Time! Solid Cloths",
+        "profile_image_url": "https://m.media-amazon.com/images/I/B1s0ByC3faL._CR175,82,1947,1947_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/cameronalderjade",
+        "public_name": "🤩 Cameron Alder Jade",
+        "vendor_code": "cameronalderjade:shop",
+        "vendor_name": "🤩 Cameron Alder Jade",
+        "vendor_tracking_id": "onamzcame0d8f-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/A18NDx7QP5L._CR2,0,1276,720_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/A18NDx7QP5L.png",
+        "video_image_width": "1280",
+        "video_image_height": "720",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2efcd38f-a53f-4f32-9da8-ef6df7cf3e75/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/598cf220-9588-4254-a8a5-3d8aef93068f/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/598cf220-9588-4254-a8a5-3d8aef93068f/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/598cf220-9588-4254-a8a5-3d8aef93068f/0515586a-b5e0-4730-84cf-c2de9ce7db70/0b89b98cde63473c9d6ae903276da292_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:58",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/6baca6c3-b774-4b2f-8b0e-eef988cb1c44.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.01a704af634c4817a5e099e7732cc203",
+        "product_asin": "B07HRCDDL1",
+        "parent_asin": "B09NFFR2Q8",
+        "related_products": "B07HRCDDL1",
+        "title": "Be careful here",
+        "profile_image_url": "https://images-na.ssl-images-amazon.com/images/S/influencer-profile-image-prod/logo/mattletten_1666322317051_original._CR0,27,2409,2409_._FMjpg_._SL34_.jpeg",
+        "profile_link": "/shop/mattletten",
+        "public_name": "✅ Men's Health Fitness Lifestyle Reviews",
+        "vendor_code": "mattletten:shop",
+        "vendor_name": "✅ Men's Health Fitness Lifestyle Reviews",
+        "vendor_tracking_id": "onamzveganbro-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/B1ynlm1fEhL._CR134,0,2031,1146_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/B1ynlm1fEhL.png",
+        "video_image_width": "2298",
+        "video_image_height": "1146",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c971476b-9eea-44ec-8101-53dec84c1070/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e0059ea9-9468-4e12-8f37-585df2ee1945/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e0059ea9-9468-4e12-8f37-585df2ee1945/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e0059ea9-9468-4e12-8f37-585df2ee1945/8c6be980-ef14-4bb0-8b36-c0ce14a19cf8/01a704af634c4817a5e099e7732cc203_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:51",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/fdc41d43-f9c3-4270-a359-782def016a0f.vtt"
+      }
+    ],
+    "is_bundle": false,
+    "feature_bullets": [
+      "ULTRA SOFT MATERIAL & SCRATCH FREE - Ultra soft and highly absorbent microfiber cleaning cloths, great for cleaning windows, kitchenware, car or other delicate surfaces.",
+      "ABSORBENT & LINT FREE - Made of 85% Polyester, 15% Nylon. These non-abrasive cleaning rags can soak up water from the countertop and tables instantly and without lint or streaks left behind. Clean with or without water, from worktops, appliances to kitchens, bathrooms, mirrors etc, they will make your house sparkling.",
+      "TACKLE VERSATILE CLEANING JOBS - These premium microfiber towels are also perfect dish rags which don't smell, removes grease and particles from microwave oven, plates, pots or pans effortlessly. Not only that, you will be amazed they are also terrific duster that removes fingertips from silverware and glasses easily and leaves your kitchen spotless.",
+      "REUSABLE & LONG LASTING - These microfiber towels feature high quality stitching with reinforced edges, they are durable and made to last hundreds of washings. They are lightweight, super absorbent and dry quickly, use them everyday to enjoy your cleaning.",
+      "GENEROUS SIZE: Each kitchen towel measures 32 x 32 cm (12.6 x 12.6 inches), offering a good coverage area for efficient cleaning. Comes in a pack of 12 microfiber towels, providing ample supply for various cleaning needs around the home or office."
+    ],
+    "feature_bullets_count": 5,
+    "feature_bullets_flat": "GENEROUS SIZE: Each kitchen towel measures 32 x 32 cm (12.6 x 12.6 inches), offering a good coverage area for efficient cleaning. Comes in a pack of 12 microfiber towels, providing ample supply for various cleaning needs around the home or office. REUSABLE & LONG LASTING - These microfiber towels feature high quality stitching with reinforced edges, they are durable and made to last hundreds of washings. They are lightweight, super absorbent and dry quickly, use them everyday to enjoy your cleaning. TACKLE VERSATILE CLEANING JOBS - These premium microfiber towels are also perfect dish rags which don't smell, removes grease and particles from microwave oven, plates, pots or pans effortlessly. Not only that, you will be amazed they are also terrific duster that removes fingertips from silverware and glasses easily and leaves your kitchen spotless. ABSORBENT & LINT FREE - Made of 85% Polyester, 15% Nylon. These non-abrasive cleaning rags can soak up water from the countertop and tables instantly and without lint or streaks left behind. Clean with or without water, from worktops, appliances to kitchens, bathrooms, mirrors etc, they will make your house sparkling. ULTRA SOFT MATERIAL & SCRATCH FREE - Ultra soft and highly absorbent microfiber cleaning cloths, great for cleaning windows, kitchenware, car or other delicate surfaces.",
+    "top_reviews": [
+      {
+        "id": "RWZSHTSOO3BQ5",
+        "title": "Good Product!",
+        "body": "These cloths are excellent for cleaning. I appreciate how well they hold moisture & how easy it is to squeeze out extra moisture. They are thick, easy to use & clean well. I do not notice any lint left behind when I use these. I also like the way they feel.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on February 15, 2026"
+        },
+        "profile": {
+          "name": "Kellie"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 6,
+        "link": "https://www.amazon.com/gp/customer-reviews/RWZSHTSOO3BQ5/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R3VD8U12U5YLHA",
+        "title": "Works well, can be washed and cleaned easily, doesn’t create dust",
+        "body": "These cleaning cloths work very well and clean up very well.  They are a good thickness, texture and size and are easy to use.  They are a good price because they last a LONG time and don’t wear out with repeated washings.I used one yellow cloth to clean very dirty window frames and, as you can see in the last picture, they clean up like they are brand new!!  All black marks are gone!  I washed the cloth in the sink with hot water and liquid soap after each cleaning and it looks new!  Also NO dust, particles etc. like I get with paper towels because of the microfiber material.I also use a different Siga cloth to clean my kitchen counter.  It’s so much better than a sponge!I use different color cloths for different purposes so I don’t get mixed up about what I used when.  Highly recommend!",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on December 18, 2025"
+        },
+        "profile": {
+          "name": "LT"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 23,
+        "link": "https://www.amazon.com/gp/customer-reviews/R3VD8U12U5YLHA/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R2V1JEFKWOACBV",
+        "title": "Wash, Reuse, Repeat — Love These",
+        "body": "These microfiber cloths are fantastic. I use them, wash them, and reuse them on repeat and they hold up beautifully. The material is high quality, they clean really well, and the colors stay bright even after multiple washes. I barely use paper towels anymore for cleaning — such a great, eco-friendly swap.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on January 18, 2026"
+        },
+        "profile": {
+          "name": "Top TEN Teachers Network!"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 13,
+        "link": "https://www.amazon.com/gp/customer-reviews/R2V1JEFKWOACBV/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R18LR0SSFS6X8E",
+        "title": "Omgosh NO streaks",
+        "body": "I’m amazed not one streak 1st & 2nd pics are inside top half of my French doors, 3rd pic is inside my front door looking out (the haze is my outside white door screen to keep put bigs) 4th picture is my door open, as you can see NO streaks and only sprayed gently once inside glass & outside. These microfiber rags are amazing, I did my bathroom & over my kitchen sink mirrors & could not believe how clean with no streaks!I’ve been dealing with streaks since I moved away from home as a young woman, I’m very picky so I’d go over & over years with paper towels then I switched to Viva paper towels, it was better but still had some streaks, then I changed to Walmart brand of spray glass cleaner, better but some little streaking that really showed up after a few days. Shoot, then I’d clean them again, yesrs ago I used white vinegar and water one part V to 2 parts water & newspaper (which cleaned pretty good) on a spray bottle but that got my hands so full of ink! Ick! So figured I was just doomed to be cleaning my windows & mirrors at least once a week!! Just got kinda use to it & hated it, but I’m like Opra Winfrey, her pickiness - like my toilet paper has to be rolling towards me and not away from me even when I go visit somebody’s home if I use their bathroom, I will turn their toilet paper around can’t stand crooked pictures either no matter where I’m at. I will get up and go straighten them, I don’t know my daughter says I got OCD or whatever and I told her no I just want things neat and clean by the way I don’t have to spend a whole day cleaning the house see something dirty go take care of it right then and there,  save so much time!Anyway, don’t ask me how I stumbled over this microfiber rags, but sure glad I did as I am 75 years old it’s not as if I don’t know how to clean a damn house! But I sure rather be playing with my doglets or watching TV.I really did not have high expectations, but I couldn’t wait for them to arrive so I could try them out just to see if the Amazon feedback was even worth reading!I’m here to tell you ‘YES’ it was!!! I’m hoping in a few days that streaks don’t show up, oh BTW Great Value spray glass cleaner even tho it’s cheap is an amazing product better than Windex any day, but what has sealed the deal with me is these microfiber cleaning cloths and I will wash them by hand to make sure they do not pick up any lint, which would happen if you washed them in a load with other items!So just FYI these microfiber cleaning clothes are wonderful I’m going to use one to see how they are on dusting my furniture.**add on a week later than above feedback, even my wood furniture shines & I see NO dust left behind!So far I’m totally pleased & recommend these! Try them you’ll agree!",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in the United States on October 5, 2023"
+        },
+        "profile": {
+          "name": "Els"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 64,
+        "link": "https://www.amazon.com/gp/customer-reviews/R18LR0SSFS6X8E/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R4GWHQKAK53UZ",
+        "title": "Gentle, Effective, and Lint-Free — Perfect for CPAP and Distiller Care",
+        "body": "I recently started using the MR.SIGA Microfiber Cleaning Cloths to help maintain my CPAP equipment and clean my water distiller, and I couldn’t be happier with the results.These cloths are soft, durable, and truly streak-free, which is important when cleaning delicate surfaces like my CPAP mask and humidifier chamber. They don’t leave behind lint or residue, and they’re gentle enough not to scratch any parts. I also use them to wipe down my distiller after each use, and they handle mineral buildup and water spots beautifully.What I love most is how absorbent and quick-drying they are. I can use them multiple times before needing to wash, and they hold up well in the laundry without losing their softness or shape. Plus, the pack comes with plenty of cloths, so I always have a fresh one ready.For the price, they offer great value — especially considering how versatile they are. Whether it’s for CPAP maintenance, kitchen cleaning, or general household use, these microfiber towels are a reliable go-to.Highly recommend for anyone looking to keep their CPAP gear and water distiller clean and in top condition!",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on October 4, 2025"
+        },
+        "profile": {
+          "name": "Dee"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 19,
+        "link": "https://www.amazon.com/gp/customer-reviews/R4GWHQKAK53UZ/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R27CLBFJYL1MJI",
+        "title": "High quality, super absorbent, long lasting!",
+        "body": "These towels are great! They're a little more pricey then some of the other options but you get what you pay for. These are my 2nd set I've gotten. My first set I've had for maybe 2 years and they're still working really well. They are thicker than some of those cheaper ones and they absorb really well unlike the cheap ones just seem to spread water around and not absorb much of anything. I use them for getting dishes, cleaning, my car, cleaning sunglasses, ect. If you're looking for some good microfiber towels then I highly recommend this brand!",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on December 15, 2025"
+        },
+        "profile": {
+          "name": "Michael Rudolph"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 12,
+        "link": "https://www.amazon.com/gp/customer-reviews/R27CLBFJYL1MJI/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R23Z55QERGL4ZT",
+        "title": "Quality Thick Soft Microfiber Cloths",
+        "body": "These microfiber cleaning cloths are soft and thick and will be excellent for cleaning jobs.  They feel great upon touching and do not pick on touch.  These are quality cloths and a great value for the money.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on January 18, 2026"
+        },
+        "profile": {
+          "name": "Amazon Customer"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 5,
+        "link": "https://www.amazon.com/gp/customer-reviews/R23Z55QERGL4ZT/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R1FMULSAZS2BJ8",
+        "body": "Calidad precio perfecto!",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Spain on February 13, 2026"
+        },
+        "profile": {
+          "name": "Cliente Amazon"
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "R1OGSPHGE5YZLP",
+        "title": "Great",
+        "body": "Towels are very soft, absorb water very well. Great for polishing the glass and mirrors and easily can be washed in a washing machine. Thicker than analogs.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United Arab Emirates on January 9, 2026"
+        },
+        "profile": {
+          "name": "Hisham Fageeh"
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "R1OLVEZR7YUCIP",
+        "body": "Buena durabilidad y calidad",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Mexico on March 8, 2025"
+        },
+        "profile": {
+          "name": "Están super cómodos, buenas compra!"
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "R1SNLWA0LGUNX7",
+        "body": "Siyah olması çay kahve lekeli ıslaklıkları silmek için çok iyi. Büyüklüğü ideal. Severek kullanıyorum.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Turkey on May 21, 2025"
+        },
+        "profile": {
+          "name": "Mimoza"
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "R1TDSCK06FGL7O",
+        "body": "良く吸い取ってけばけばがつきにくいからめちゃお気に入り。",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Japan on January 21, 2026"
+        },
+        "profile": {
+          "name": "iii"
+        },
+        "verified_purchase": true
+      }
+    ],
+    "bestsellers_rank": [
+      {
+        "rank": 395,
+        "category": "Health & Household",
+        "link": "https://www.amazon.com/gp/bestsellers/hpc/ref=pd_zg_ts_hpc"
+      },
+      {
+        "rank": 2,
+        "category": "Reuseable Cleaning Cloths",
+        "link": "https://www.amazon.com/gp/bestsellers/hpc/15524361011/ref=pd_zg_hrsr_hpc"
+      }
+    ],
+    "a_plus_content": {
+      "has_a_plus_content": true,
+      "has_brand_story": true,
+      "brand_story": {
+        "hero_image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b47c9900-298c-4b45-b12b-222f42b387f0.__CR0,0,2000,854_PT0_SX1464_V1___.jpg",
+        "brand_store": {
+          "link": "/stores/page/01796D65-2B95-4F4F-8318-D63ACDD8E522",
+          "id": "01796D65-2B95-4F4F-8318-D63ACDD8E522"
+        },
+        "images": [
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b47c9900-298c-4b45-b12b-222f42b387f0.__CR0,0,2000,854_PT0_SX1464_V1___.jpg"
+        ]
+      },
+      "all_images": [
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7840ffed-fc12-459c-8a65-10bccb6604c1.__CR0,0,1952,800_PT0_SX1464_V1___.jpg",
+          "name": "MR.SIGA microfiber cleaning cloth for house,cleaning towel,cleaning rag,toallas para limpiar casas"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/491060b3-0a2b-410e-b864-347d7124af6b.__CR0,0,1952,800_PT0_SX1464_V1___.jpg",
+          "name": "MR.SIGA kitchen dish cloths for washing dishes,microfiber kitchen rags for counter house"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/00526b14-d908-4388-b214-39195c422c92.__CR0,0,1952,800_PT0_SX1464_V1___.jpg",
+          "name": "MR.SIGA micro fiber wipes cloth for kitchen,microfiber cleaning rag,cleaning cloths for housekeeping"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/fb296abd-ec77-450d-9511-1353a84ab6dc.__CR0,0,1952,800_PT0_SX1464_V1___.jpg",
+          "name": "MR.SIGA dust cloth, cleaning cloths for house washable microfiber,paños de limpieza de microfibra"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f98799fb-4895-4ee5-ba66-d4848baf44f6.__CR0,0,1200,900_PT0_SX800_V1___.jpg",
+          "name": "MR.SIGA Multi-color microfiber cloth set"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f8cb3919-237e-41ef-8ff1-c5aaaf5e5450.__CR0,0,1114,600_PT0_SX650_V1___.jpg",
+          "name": "MR.SIGA Absorbent microfiber dishcloths"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/21659779-029d-414f-bb4b-1222b419026b.__CR0,0,1114,600_PT0_SX650_V1___.jpg",
+          "name": "MR.SIGA Soft lint-free microfiber rags Scratch-free microfiber polishing cloths"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/bafe4cd3-7887-45b2-8a78-f691a1c17277.__CR0,0,600,675_PT0_SX200_V1___.jpg",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f6651afd-f8f6-496b-820e-898666c082ed.__CR0,328,750,844_PT0_SX200_V1___.jpg",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9141ef3a-a0a9-4c22-97ae-5a6e1c5e86af.__CR0,328,750,844_PT0_SX200_V1___.jpg",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1a0b0a29-0ad8-46d2-b541-5c2a23f84a88.__CR0,328,750,844_PT0_SX200_V1___.jpg",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/520de716-1293-42a2-9e0e-971d5265b1c5.__CR0,328,750,844_PT0_SX200_V1___.jpg",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3264c07e-2ecb-4351-aa17-0262b9b40f4f.__CR0,0,600,675_PT0_SX200_V1___.jpg",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9645df60-fcc8-48e1-8ded-5d2f5427e86c.__CR0,0,600,675_PT0_SX200_V1___.jpg",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b47c9900-298c-4b45-b12b-222f42b387f0.__CR0,0,2000,854_PT0_SX1464_V1___.jpg",
+          "name": "make your housework easier make the worldcleaner"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/cb256a57-9e77-43c2-91a4-ffa8df7b0caf.__CR0,0,830,910_PT0_SX166_V1___.jpg",
+          "name": "MR.SIGA Microfiber Cleaning Cloth"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/40da0690-5faf-45e2-bfd6-3e23bb86f622.__CR0,0,830,910_PT0_SX166_V1___.jpg",
+          "name": "MR.SIGA Microfiber Cleaning Cloth"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a2f72932-2a12-4c0c-9694-854fc4971926.__CR0,0,830,910_PT0_SX166_V1___.jpg",
+          "name": "MR.SIGA Microfiber Cleaning Cloth"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3cb471ee-8347-4dd6-b292-cfed6ee7206a.__CR0,0,830,910_PT0_SX166_V1___.jpg",
+          "name": "MR.SIGA Microfiber Cleaning Cloth"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/41e9b174-6764-453e-bad1-84f685619cea.__CR0,0,830,910_PT0_SX166_V1___.jpg",
+          "name": "1"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/cf3a3717-094a-4644-b92d-3c134e35f00b.__CR0,0,830,910_PT0_SX166_V1___.jpg",
+          "name": "2"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/60152b53-9df2-4308-bbe5-a4135947d168.__CR0,0,830,910_PT0_SX166_V1___.jpg",
+          "name": "3"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/eab46633-5e14-419a-83ff-b2d832eabbde.__CR0,0,830,910_PT0_SX166_V1___.jpg",
+          "name": "4"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/47763f59-2c3e-4678-9e97-ba90671c58a9.__CR0,0,830,910_PT0_SX166_V1___.jpg",
+          "name": "1"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5ba4af4f-4f59-49a0-8714-03529bf8133c.__CR0,0,830,910_PT0_SX166_V1___.jpg",
+          "name": "2"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f8a57be6-5626-44e4-a187-a80cce7f8a69.__CR0,0,830,910_PT0_SX166_V1___.jpg",
+          "name": "3"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4eadbae6-6768-47ba-b6b8-c22d977ea0e8.__CR0,0,830,910_PT0_SX166_V1___.jpg",
+          "name": "4"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b0b9b4be-22a5-434d-adc6-99be91dc7e53.__CR0,0,830,910_PT0_SX166_V1___.jpg",
+          "name": "SJ21734"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ad279a4b-6bc3-45da-9036-59bf82304fd7.__CR0,0,830,910_PT0_SX166_V1___.jpg",
+          "name": "SJ21734"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/74d1bdf4-54fa-4727-af77-ede8cb52402c.__CR0,0,830,910_PT0_SX166_V1___.jpg",
+          "name": "SJ21688"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c6d517b9-4d9c-4bd9-bc1c-718b1c39d5be.__CR0,0,830,910_PT0_SX166_V1___.jpg",
+          "name": "SJ21734"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/92536800-378c-4604-ac5f-e567e42cf4c5.__CR0,0,830,910_PT0_SX166_V1___.jpg",
+          "name": "SJ21810"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3f8734ab-5c52-4b00-a029-f817d46eea17.__CR0,0,830,910_PT0_SX166_V1___.jpg",
+          "name": "SJ21810"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/fe4f0ace-91f2-4fee-ae69-c4b367074ac6.__CR0,0,830,910_PT0_SX166_V1___.jpg",
+          "name": "SJ21797"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/fdac6991-1ae6-484d-b85f-64db7513b889.__CR0,0,830,910_PT0_SX166_V1___.jpg",
+          "name": "SJ21810"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8a5f2eb3-d0dd-4f9f-97a7-f8a1eba99341.__CR0,0,830,910_PT0_SX166_V1___.jpg",
+          "name": "SJ21800"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/41e63771-0d95-4a9b-8d0f-98469b9b1fa0.__CR0,0,830,910_PT0_SX166_V1___.jpg",
+          "name": "SJ21806"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0afd6b4c-0e80-45f9-b482-3f226e37e290.__CR0,0,830,910_PT0_SX166_V1___.jpg",
+          "name": "SJ21806"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8064a98e-daf9-4b1c-b137-5cb496bfd0a2.__CR0,0,830,910_PT0_SX166_V1___.jpg",
+          "name": "SJ21806"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/703d802d-dbf8-4210-9106-3f5f035c6135.__CR0,0,830,910_PT0_SX166_V1___.jpg",
+          "name": "SJ21755"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/385715e3-c125-4329-a51b-38a5fd9a171a.__CR0,0,830,910_PT0_SX166_V1___.jpg",
+          "name": "SJ21755"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0c991435-bb46-4edb-b358-48ed135210a9.__CR0,0,830,910_PT0_SX166_V1___.jpg",
+          "name": "SJ21755"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/07a48e1f-d220-4a20-9998-841a913b75d1.__CR0,0,830,910_PT0_SX166_V1___.jpg",
+          "name": "SJ21755"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/cb23c05c-6fcc-4d54-80c5-546e416cd9df.__CR0,0,830,910_PT0_SX166_V1___.jpg",
+          "name": "B01LEBR4H0"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d28f52f3-3dc0-4f03-95b0-b159dc1efa2e.__CR0,0,830,910_PT0_SX166_V1___.jpg",
+          "name": "B01LEBR4H0"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6f61d7fb-df0e-4d57-829c-bff3230f3592.__CR0,0,830,910_PT0_SX166_V1___.jpg",
+          "name": "B01LEBR4H0"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/26f45d3a-fde5-4916-9e3d-814626695f81.__CR0,0,830,910_PT0_SX166_V1___.jpg",
+          "name": "B01LEBR4H0"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/eb20fc5b-bfaf-4a38-bc93-d7088f28f27d.__CR0,0,830,910_PT0_SX166_V1___.jpg",
+          "name": "B0C85JHGXR"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/eda96c19-2a60-4d9d-97a4-cce1196c47fb.__CR0,0,830,910_PT0_SX166_V1___.jpg",
+          "name": "B0C85JHGXR"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3f518bf7-16d8-493a-be44-fd650ce47629.__CR0,0,830,910_PT0_SX166_V1___.jpg",
+          "name": "B0C85JHGXR"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/37c3b540-f8ad-4d8f-803f-7b7c9ece0500.__CR0,0,830,910_PT0_SX166_V1___.jpg",
+          "name": "B0C85JHGXR"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media/sota/78393bfe-4ff4-40f7-ac88-7e831cfa3cc0.__CR0,0,970,300_PT0_SX970_V1___.png",
+          "name": "Compact by design from Climate pledge friendly. Certified by Amazon."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media/sota/1e0ff922-c654-46bd-a9d0-3efbd8f58a77.__CR0,0,220,220_PT0_SX220_V1___.png",
+          "name": "Less packaging"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media/sota/222429e1-959f-4451-bd8a-87c197e023fd.__CR0,0,220,220_PT0_SX220_V1___.png",
+          "name": "Less air in container"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media/sota/09657283-93e2-4c86-9ed3-e6a5c42d818d.__CR0,0,220,220_PT0_SX220_V1___.png",
+          "name": "More efficient shape"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media/sota/477f70b2-e109-4474-870a-c9f2bc0ead96.__CR0,0,220,220_PT0_SX220_V1___.png",
+          "name": "Waterless technology"
+        }
+      ],
+      "third_party": false
+    },
+    "buybox_winner": {
+      "maximum_order_quantity": {
+        "value": 30,
+        "hard_maximum": true
+      },
+      "subscribe_and_save": {
+        "base_discount_percentage": 5,
+        "tiered_discount_percentage": 5,
+        "delivery_message": "Save up to 5% on auto-deliveries.",
+        "default_delivery": "6 months (Most common)",
+        "base_price": {
+          "value": 13.99,
+          "currency": "USD",
+          "symbol": "$",
+          "raw": "13.99"
+        },
+        "tiered_price": {
+          "value": 13.29,
+          "currency": "USD",
+          "symbol": "$",
+          "raw": "13.29"
+        }
+      },
+      "price_only_available_in_cart": false,
+      "trade_in_and_save": true,
+      "return_policy": {
+        "duration_days": 30,
+        "type": "refund/replacement"
+      },
+      "is_prime": true,
+      "is_prime_exclusive_deal": false,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "In Stock",
+        "dispatch_days": 1
+      },
+      "fulfillment": {
+        "type": "p2",
+        "standard_delivery": {
+          "date": "Sunday, March 22",
+          "name": "FREE"
+        },
+        "fastest_delivery": {
+          "date": "Thursday, March 19",
+          "name": "Or Prime members get FREE delivery Thursday, March 19. Order within 13 hrs 21 mins. Join Prime"
+        },
+        "is_sold_by_amazon": false,
+        "is_fulfilled_by_amazon": true,
+        "is_fulfilled_by_third_party": false,
+        "is_sold_by_third_party": true,
+        "third_party_seller": {
+          "name": "Mr SIGA USA"
+        }
+      },
+      "price": {
+        "symbol": "$",
+        "value": 13.99,
+        "currency": "USD",
+        "raw": "$13.99"
+      },
+      "rrp": {
+        "symbol": "$",
+        "value": 14.99,
+        "currency": "USD",
+        "raw": "$14.99"
+      },
+      "unit_price": {
+        "symbol": "$",
+        "value": 1.17,
+        "currency": "USD",
+        "raw": "$1.17 / count"
+      },
+      "shipping": {
+        "raw": "FREE"
+      }
+    },
+    "specifications": [
+      {
+        "name": "Is Discontinued By Manufacturer",
+        "value": "No"
+      },
+      {
+        "name": "Product Dimensions",
+        "value": "12.6 x 12.6 x 0.2 inches; 12.28 ounces"
+      },
+      {
+        "name": "Item model number",
+        "value": "SJ21632"
+      },
+      {
+        "name": "Manufacturer",
+        "value": "Ningbo Shijia Cleaning Tools Co., Ltd."
+      },
+      {
+        "name": "ASIN",
+        "value": "B07HRCDDL1"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "See Top 100 in Health & Household"
+      },
+      {
+        "name": "Color",
+        "value": "Assorted"
+      },
+      {
+        "name": "Product Style",
+        "value": "Modern"
+      },
+      {
+        "name": "Pattern",
+        "value": "Solid"
+      },
+      {
+        "name": "Theme",
+        "value": "No Theme"
+      },
+      {
+        "name": "Shape",
+        "value": "Square"
+      },
+      {
+        "name": "Brand Name",
+        "value": "MR.SIGA"
+      },
+      {
+        "name": "Number of Items",
+        "value": "12"
+      },
+      {
+        "name": "Set Name",
+        "value": "Pack of 12"
+      },
+      {
+        "name": "Global Trade Identification Number",
+        "value": "06925828216324"
+      },
+      {
+        "name": "Model Name",
+        "value": "Microfiber Cleaning Cloth"
+      },
+      {
+        "name": "Manufacturer Part Number",
+        "value": "SJ21632"
+      },
+      {
+        "name": "Model Number",
+        "value": "SJ21632"
+      },
+      {
+        "name": "Age Range Description",
+        "value": "All Ages"
+      },
+      {
+        "name": "Item Type Name",
+        "value": "microfiber cleaning cloth"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "#395 in Health & Household (See Top 100 in Health & Household) #2 in Reuseable Cleaning Cloths"
+      },
+      {
+        "name": "Customer Reviews",
+        "value": "4.7    4.7 out of 5 stars         (102,143)           4.7 out of 5 stars"
+      },
+      {
+        "name": "Material Type",
+        "value": "Microfiber"
+      },
+      {
+        "name": "Fabric Weight",
+        "value": "280 Grams per Square Meter"
+      },
+      {
+        "name": "Product Care Instructions",
+        "value": "Hand or machine wash microfiber cloths separately in warm water with mild detergent. Do not use bleach or fabric softener. Do not tumble dry. Do not iron."
+      },
+      {
+        "name": "Fabric Type",
+        "value": "85% Polyester, 15% Nylon"
+      },
+      {
+        "name": "Item Dimensions L x W",
+        "value": "12.6\"L x 12.6\"W"
+      },
+      {
+        "name": "Size",
+        "value": "12.6 x 12.6 inch"
+      },
+      {
+        "name": "Unit Count",
+        "value": "12.0 Count"
+      },
+      {
+        "name": "Item Weight",
+        "value": "348 Grams"
+      },
+      {
+        "name": "Towel Form Type",
+        "value": "Cleaning Cloth"
+      },
+      {
+        "name": "Other Special Features of the Product",
+        "value": "Hanging Loop, Lint Free, Quick Dry, Scratch Free, Super Absorbent"
+      }
+    ],
+    "specifications_flat": "Other Special Features of the Product: Hanging Loop, Lint Free, Quick Dry, Scratch Free, Super Absorbent. Towel Form Type: Cleaning Cloth. Item Weight: 348 Grams. Unit Count: 12.0 Count. Size: 12.6 x 12.6 inch. Item Dimensions L x W: 12.6\"L x 12.6\"W. Fabric Type: 85% Polyester, 15% Nylon. Product Care Instructions: Hand or machine wash microfiber cloths separately in warm water with mild detergent. Do not use bleach or fabric softener. Do not tumble dry. Do not iron. Fabric Weight: 280 Grams per Square Meter. Material Type: Microfiber. Customer Reviews: 4.7    4.7 out of 5 stars         (102,143)           4.7 out of 5 stars. Best Sellers Rank: #395 in Health & Household (See Top 100 in Health & Household) #2 in Reuseable Cleaning Cloths. Item Type Name: microfiber cleaning cloth. Age Range Description: All Ages. Model Number: SJ21632. Manufacturer Part Number: SJ21632. Model Name: Microfiber Cleaning Cloth. Global Trade Identification Number: 06925828216324. Set Name: Pack of 12. Number of Items: 12. Brand Name: MR.SIGA. Shape: Square. Theme: No Theme. Pattern: Solid. Product Style: Modern. Color: Assorted. Best Sellers Rank: See Top 100 in Health & Household. ASIN: B07HRCDDL1. Manufacturer: Ningbo Shijia Cleaning Tools Co., Ltd. Item model number: SJ21632. Product Dimensions: 12.6 x 12.6 x 0.2 inches; 12.28 ounces. Is Discontinued By Manufacturer: No.",
+    "recent_sales": "20K+ bought in past month",
+    "gift_guide_badge": {
+      "badge_text": "20K+ bought in past month"
+    },
+    "color": "Assorted",
+    "material": "Microfiber",
+    "manufacturer": "Ningbo Shijia Cleaning Tools Co., Ltd.",
+    "weight": "348 Grams",
+    "dimensions": "12.6 x 12.6 x 0.2 inches; 12.28 ounces",
+    "model_number": "SJ21632",
+    "bestsellers_rank_flat": "Category: Health & Household | Rank: 395, Category: Reuseable Cleaning Cloths | Rank: 2"
+  },
+  "brand_store": {
+    "id": "419C6561-6851-4AF7-B8EB-F88E277CEA97",
+    "link": "https://www.amazon.com/stores/MRSIGA/page/419C6561-6851-4AF7-B8EB-F88E277CEA97"
+  },
+  "newer_model": {
+    "title": "MR.SIGA Microfiber Cleaning Cloths, All-Purpose Microfiber Towels, Streak Free Cleaning Rags, Pack of 12, Purple, Size 32 x 32 cm(12.6 x 12.6 inch) (102,143)",
+    "asin": "B0CFXZ2Q99",
+    "link": "https://www.amazon.com/MR-SIGA-Microfiber-Cleaning-Cloths-All-Purpose-dp-B0CFXZ2Q99/dp/B0CFXZ2Q99/ref=dp_ob_image_hpc",
+    "image": "https://m.media-amazon.com/images/I/915UwuQ5oyL._SR75,75_.jpg"
+  }
+}

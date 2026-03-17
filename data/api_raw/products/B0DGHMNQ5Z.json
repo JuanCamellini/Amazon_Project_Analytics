@@ -1,0 +1,569 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 18,
+    "credits_remaining": 82,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "type": "product",
+    "asin": "B0DGHMNQ5Z",
+    "amazon_domain": "amazon.com"
+  },
+  "request_metadata": {
+    "created_at": "2026-03-17T15:38:51.209Z",
+    "processed_at": "2026-03-17T15:38:56.937Z",
+    "total_time_taken": 5.73,
+    "amazon_url": "https://www.amazon.com/dp/B0DGHMNQ5Z?th=1&psc=1"
+  },
+  "product": {
+    "title": "Apple AirPods 4 Wireless Earbuds, Bluetooth Headphones, Personalized Spatial Audio, Sweat and Water Resistant, USB-C Charging Case, H2 Chip, Up to 30 Hours of Battery Life, Effortless Setup for iPhone Without Active Noise Cancellation Without AppleCare+",
+    "search_alias": {
+      "title": "All Departments",
+      "value": "search-alias=aps"
+    },
+    "title_excluding_variant_name": "Apple AirPods 4 Wireless Earbuds, Bluetooth Headphones, Personalized Spatial Audio, Sweat and Water Resistant, USB-C Charging Case, H2 Chip, Up to 30 Hours of Battery Life, Effortless Setup for iPhone",
+    "keywords": "Apple AirPods 4 Wireless Earbuds, Bluetooth Headphones, Personalized Spatial Audio, Sweat and Water Resistant, USB-C Charging Case, H2 Chip, Up to 30 Hours of Battery Life, Effortless Setup for iPhone Without Active Noise Cancellation Without AppleCare+",
+    "keywords_list": [
+      "Apple AirPods 4 Wireless Earbuds",
+      "Bluetooth Headphones",
+      "Personalized Spatial Audio",
+      "Sweat and Water Resistant",
+      "USB-C Charging Case",
+      "H2 Chip",
+      "Up to 30 Hours of Battery Life",
+      "Effortless Setup for iPhone Without Active Noise Cancellation Without AppleCare+"
+    ],
+    "is_collection": false,
+    "asin": "B0DGHMNQ5Z",
+    "parent_asin": "B0GGJGSPPP",
+    "link": "https://www.amazon.com/Apple-Bluetooth-Headphones-Personalized-Effortless/dp/B0DGHMNQ5Z",
+    "brand": "Apple",
+    "protection_plans": [
+      {
+        "name": "AppleCare+ for Headphones",
+        "price": {
+          "value": "29.00",
+          "billing_type": "one_time"
+        }
+      },
+      {
+        "name": "AppleCare+ for Headphones - Monthly",
+        "price": {
+          "value": "1.49",
+          "billing_type": "monthly"
+        }
+      }
+    ],
+    "sell_on_amazon": false,
+    "variants": [
+      {
+        "asin": "B0DGHMNQ5Z",
+        "title": "Without Active Noise Cancellation Without AppleCare+",
+        "is_current_product": true,
+        "link": "https://www.amazon.com/dp/B0DGHMNQ5Z?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Style",
+            "value": "Without Active Noise Cancellation"
+          },
+          {
+            "name": "Set",
+            "value": "Without AppleCare+"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/61iBtxCUabL._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/61iBtxCUabL._AC_SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0DGJ7HYG1",
+        "title": "With Active Noise Cancellation Without AppleCare+",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0DGJ7HYG1?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Style",
+            "value": "With Active Noise Cancellation"
+          },
+          {
+            "name": "Set",
+            "value": "Without AppleCare+"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/61iBtxCUabL._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/61iBtxCUabL._AC_SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0DGW54P27",
+        "title": "Without Active Noise Cancellation With AppleCare+ (2 Years)",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0DGW54P27?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Style",
+            "value": "Without Active Noise Cancellation"
+          },
+          {
+            "name": "Set",
+            "value": "With AppleCare+ (2 Years)"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/51adYj9+L3L._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/51adYj9+L3L._AC_SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0DGVT3T92",
+        "title": "With Active Noise Cancellation With AppleCare+ (2 Years)",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0DGVT3T92?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Style",
+            "value": "With Active Noise Cancellation"
+          },
+          {
+            "name": "Set",
+            "value": "With AppleCare+ (2 Years)"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/51adYj9+L3L._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/51adYj9+L3L._AC_SL1500_.jpg"
+          }
+        ]
+      }
+    ],
+    "variant_asins_flat": "B0DGHMNQ5Z,B0DGJ7HYG1,B0DGW54P27,B0DGVT3T92",
+    "proposition_65_warning": false,
+    "has_size_guide": true,
+    "add_on_item": {
+      "is_add_on_item": true
+    },
+    "categories": [
+      {
+        "name": "All Departments"
+      }
+    ],
+    "sub_title": {
+      "text": "Visit the Apple Store",
+      "link": "https://www.amazon.com/stores/Apple/page/77D9E1F7-0337-4282-9DB6-B6B8FB2DC98D?lp_asin=B0DGHMNQ5Z&ref_=ast_bln"
+    },
+    "amazons_choice": {
+      "link": "https://www.amazon.com/Apple-Bluetooth-Headphones-Personalized-Effortless/dp/B0DGHMNQ5Z",
+      "badge_text": "Amazon's  Choice"
+    },
+    "rating": 4.5,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 80,
+        "count": 35258
+      },
+      "four_star": {
+        "percentage": 9,
+        "count": 3967
+      },
+      "three_star": {
+        "percentage": 3,
+        "count": 1322
+      },
+      "two_star": {
+        "percentage": 2,
+        "count": 881
+      },
+      "one_star": {
+        "percentage": 6,
+        "count": 2644
+      }
+    },
+    "ratings_total": 44073,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/61iBtxCUabL.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/51ppBwqC4xL._AC_SL1500_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71c1ABI5GAL._AC_SL1500_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61E7pA3mgcL._AC_SL1500_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/715J6Hx8xyL._AC_SL1500_.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61l+yD0pXXL._AC_SL1500_.jpg",
+        "variant": "PT05"
+      }
+    ],
+    "images_count": 5,
+    "images_flat": "https://m.media-amazon.com/images/I/51ppBwqC4xL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71c1ABI5GAL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/61E7pA3mgcL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/715J6Hx8xyL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/61l+yD0pXXL._AC_SL1500_.jpg",
+    "videos_count": 2,
+    "is_bundle": false,
+    "feature_bullets": [
+      "REBUILT FOR COMFORT — AirPods 4 have been redesigned for exceptional all-day comfort and greater stability. With a refined contour, shorter stem, and quick-press controls for music or calls.",
+      "PERSONALIZED SPATIAL AUDIO — Personalized Spatial Audio with dynamic head tracking places sound all around you, creating a theater-like listening experience for music, TV shows, movies, games, and more.*",
+      "IMPROVED SOUND AND CALL QUALITY — AirPods 4 feature the Apple-designed H2 chip. Voice Isolation improves the quality of phone calls in loud conditions. Using advanced computational audio, it reduces background noise while isolating and clarifying the sound of your voice for whomever you’re speaking to.*",
+      "MAGICAL EXPERIENCE — Just say “Siri” or “Hey Siri” to play a song, make a call, or check your schedule.* And with Siri Interactions, now you can respond to Siri by simply nodding your head yes or shaking your head no.* Pair AirPods 4 by simply placing them near your device and tapping Connect on your screen.* Easily share a song or show between two sets of AirPods.* An optical in-ear sensor knows to play audio only when you’re wearing AirPods and pauses when you take them off. And you can track down your AirPods and Charging Case with the Find My app.*",
+      "LONG BATTERY LIFE — Get up to 5 hours of listening time on a single charge. And get up to 30 hours of total listening time using the case.*",
+      "REDESIGNED CASE — The Charging Case comes with USB-C charging capabilities and is more than 10 percent smaller by volume than the previous generation.*",
+      "DUST, SWEAT, AND WATER RESISTANT — AirPods 4 and the Charging Case are rated IP54 dust, sweat, and water resistant, so they’ll withstand rain and heavy workouts.*",
+      "LEGAL DISCLAIMERS — This is a summary of the main product features. See below to learn more."
+    ],
+    "feature_bullets_count": 8,
+    "feature_bullets_flat": "LEGAL DISCLAIMERS — This is a summary of the main product features. See below to learn more. DUST, SWEAT, AND WATER RESISTANT — AirPods 4 and the Charging Case are rated IP54 dust, sweat, and water resistant, so they’ll withstand rain and heavy workouts.*. REDESIGNED CASE — The Charging Case comes with USB-C charging capabilities and is more than 10 percent smaller by volume than the previous generation.*. LONG BATTERY LIFE — Get up to 5 hours of listening time on a single charge. And get up to 30 hours of total listening time using the case.*. MAGICAL EXPERIENCE — Just say “Siri” or “Hey Siri” to play a song, make a call, or check your schedule.* And with Siri Interactions, now you can respond to Siri by simply nodding your head yes or shaking your head no.* Pair AirPods 4 by simply placing them near your device and tapping Connect on your screen.* Easily share a song or show between two sets of AirPods.* An optical in-ear sensor knows to play audio only when you’re wearing AirPods and pauses when you take them off. And you can track down your AirPods and Charging Case with the Find My app.*. IMPROVED SOUND AND CALL QUALITY — AirPods 4 feature the Apple-designed H2 chip. Voice Isolation improves the quality of phone calls in loud conditions. Using advanced computational audio, it reduces background noise while isolating and clarifying the sound of your voice for whomever you’re speaking to.*. PERSONALIZED SPATIAL AUDIO — Personalized Spatial Audio with dynamic head tracking places sound all around you, creating a theater-like listening experience for music, TV shows, movies, games, and more.*. REBUILT FOR COMFORT — AirPods 4 have been redesigned for exceptional all-day comfort and greater stability. With a refined contour, shorter stem, and quick-press controls for music or calls.",
+    "top_reviews": [
+      {
+        "id": "RZQULX0AUSOTW",
+        "title": "Exactly as expected! (A subjective review, duh)",
+        "body": "I never take the time to write reviews because why spend so much time on something that will ultimately have no effect on my life? Well in this case, these Airpods have met and exceeded every single one of my expectations and I figured that was worth writing about.Important disclaimers:- OF COURSE this is a subjective opinion, because that is all a review is. Take it with a grain of salt.- Different products work better or worse for different people, it's just that simple.- When talking about noise cancelling headphones, it's important to consider them for what they are, not what we think they SHOULD be.THE FIT:OKAY. I am someone who has very small ear cannals. I have spent years trying to find earbuds that fit my ears comfortably. Silicone in-ear tips have always been extremely uncomfortable for me. That being said, I did own the first gen Airpods Pro for a couple of years before buying these Airpods 4. I wanted earbuds that I could exercise with, use for commuting, and use for blocking out sound when I'm at school or on an airplane. The airpods pro fit the bill, but I could only wear them for short periods of time before they would start to seriously hurt. On top of that, they would always slowly come out of my ears. It didn't matter what size of eartips I used. My ears are just NOT made for in-ear silicone tips. BUT THESE AIRPODS 4!!! Holy smokes they are so comfortable. They never fall out. I can wear them for hours at a time and not even notice them. I haven't worn a pair of Airpods this comfortable since the gen 2 Airpods. The 3's didn't work for me either, but somehow apple really cooked up the ideal fit for these Airpods 4.THE NOISE CANCELLATION:Okay. Obviously, these are NOT going to have the same level of noise reduction as in-ear earbuds because there is no seal created by any silicone tips. If Airpods Pros and silicone tips have always worked for you, just buy those. However, considering that the noise cancellation in these Airpods is ALL driven by software, I have been extremely impressed with the results. It reduces the white noise of annoying sounds like public trains, airplanes, etc. very effectively. While voices and other louder sounds aren't cancelled completely, when music is playing through the earbuds these noises are quite enough to hardly notice. For me, that's enough. I don't need complete silence, I have my over-ear noise cancelling headphones for that.THE SOUND QUALITY:When I say that I was blown away the first time I listened to music on these Airpods, I was NOT kidding. The amount of bass that they managed to pack in to such small, open-eared earbuds is frankly impressive. The sound profile allows for an incredible listening experience no matter what genre of music you listen to (I listen to a wide range of pop, folk, indie, and rap primarily).THE OVERALL VERDICT:These Airpods 4 with Active Noise Cancellation are exactly as I expected them to be. They fit extremely well, the ANC is very acceptable for what they are, and they sound amazing. That's not to mention the TINY case that they come in, making them so easy to slip anywhere. I have been looking for a solid pair of earbuds with ANC that work with my ears for the longest time now. I'm happy to say that these are everything I've ever wanted. If you have had issues with silicone ear-tip earbuds fitting you properly, then these are definitely worth a shot!",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on October 21, 2024"
+        },
+        "profile": {
+          "name": "Dylan Manzanares"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 806,
+        "link": "https://www.amazon.com/gp/customer-reviews/RZQULX0AUSOTW/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R2LZEMV0AHTJGF",
+        "title": "Wife Loves Them — Comfortable and Impressive Sound",
+        "body": "Picked these up for my wife, and they’ve been a hit. Setup was seamless with her Apple devices, and they paired quickly without any hassle. The sound quality is clear and balanced, with strong voice clarity for calls and good overall depth for music and podcasts.She especially appreciates the Active Noise Cancellation, which noticeably reduces background noise without making everything feel unnatural. They’re comfortable enough for extended wear and stay in place well during normal daily activity. Battery life has also been solid for everyday use.There haven’t been any complaints so far. For someone already in the Apple ecosystem who wants reliable performance and effective noise control, these have been an excellent choice.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on March 2, 2026"
+        },
+        "profile": {
+          "name": "Jeff Stokes"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 21,
+        "link": "https://www.amazon.com/gp/customer-reviews/R2LZEMV0AHTJGF/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R31YYWPR5HVQMC",
+        "title": "Very small, good battery life, good call quality!",
+        "body": "Small but great quality! Can be well hidden under your hair, so good for sneaking your airpods into class or work lol. Battery span in one use is very good too! My old airpod pros would last maybe 6 hours out of my 7 hour shift and then completely drain my fully charged case. The call quality sounded so dog poop as well. You'd think these would've worse since they're cheaper, but with a fully  charged case, these lasted me all 7 hours with battery still left! The sound quality for calls is also very good! I definitely recommend if you're looking for an 'affordable' pair of name brands. You could definitely get something way better for cheaper, but if you care about name brands or stuff like that, these are a good fit.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on February 16, 2026"
+        },
+        "profile": {
+          "name": "Mary"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 25,
+        "link": "https://www.amazon.com/gp/customer-reviews/R31YYWPR5HVQMC/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R1H9FA29MNPCN6",
+        "title": "One of a kind!",
+        "body": "Stellar quality! I really didn’t expect such a great performance from it and this comment is coming from an audiophile who uses sehnreisers for just anything- from podcast listening to music studio stuff and the airpods sound clarity and anc are just a good match to them. It’s worth the investment and way lighter to carry around than others that I have already used. There just should be on other colors, like the Iphone.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on March 3, 2026"
+        },
+        "profile": {
+          "name": "Ivan Bruno Hostil"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 13,
+        "link": "https://www.amazon.com/gp/customer-reviews/R1H9FA29MNPCN6/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R29UETUACH5YSU",
+        "title": "Generally, Very Good but not for Exercising",
+        "body": "The AirPods 4 are very good but not great. The options including noise cancellation is terrific. The sound is very good but you know these are not full on cover the ears headphones, so keep that in its proper perspective. I would have rated them higher but I mainly use AirPods for running and walking. I found out fairly quickly while in the gym on treadmill that, in my case, the earbuds cannot hold in place while running. One fell out and popped out of view. Fortunately, I found it lying between a couple of treadmills that were a little further down the line. So, no harm and it survived, but that is the last time I will use them when I run, bike, or work in the yard. A dog walk and they should be fine. As they say, your mileage may vary. If you mainly want them for music, podcasts, or watching a movie on a laptop or AppleTV they would be a solid choice, especially with the noise cancellation. No great reason to buy these if you not in the Apple environment.",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in the United States on February 10, 2026"
+        },
+        "profile": {
+          "name": "JBradford"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 27,
+        "link": "https://www.amazon.com/gp/customer-reviews/R29UETUACH5YSU/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R12KDS880V1H8I",
+        "title": "Best Headphone Apple Made So Far",
+        "body": "Amazing sound. I do not have to worry about turning down the volume. The sound is clear enough to recognize if someone is talking directly to you or just to others around you. Has multiple choices for how you want to hear your surroundings. Lightweight. It doesn't fall out of my ear when I am talking or eating. Have not dropped them dont plan on it. It connects so well to all my Apple devices. Biggest bang for your buck. So far sturdy and durable for a mom of 3.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on February 22, 2026"
+        },
+        "profile": {
+          "name": "Renesha"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 15,
+        "link": "https://www.amazon.com/gp/customer-reviews/R12KDS880V1H8I/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      }
+    ],
+    "buybox_winner": {
+      "maximum_order_quantity": {
+        "value": 3,
+        "hard_maximum": true
+      },
+      "secondary_buybox": {
+        "offer_id": "DVRZIlp%2BJ3l4boX7jgXLZZg4YoYrRDiEPaxNhnMmQDXvFb6BvxFHmu3%2FBSwbHhd7j7sWJtBSk7RCI5vBnex73jd4GQBIrMZGCsyeXtEdnY1ZFH0qFoiuHky%2FXbQ32r14Mkke1mdBkmWgMyE8kELaoCBFFOI4xZddIYdEx1kQt2yuqoVSBLiMOmny1l1L6b%2Bh",
+        "caption": "Save with Used - Good",
+        "availability": {
+          "raw": "Only 1 left in stock - order soon.",
+          "type": "in_stock"
+        },
+        "product_condition": "Minor cosmetic damage observed during inspection. Moderate packaging damage observed during inspection.",
+        "condition": {
+          "raw": "Save with Used - Good",
+          "isNew": false
+        },
+        "price": {
+          "symbol": "$",
+          "value": 83.16,
+          "currency": "USD",
+          "raw": "$83.16"
+        },
+        "fulfillment": {
+          "standard_delivery": {
+            "date": "Tuesday, March 24",
+            "name": "FREE"
+          },
+          "amazon_seller": {
+            "name": "Amazon Resale"
+          },
+          "is_sold_by_amazon": true,
+          "is_sold_by_third_party": false,
+          "fulfilled_by": "Fulfilled by Amazon",
+          "is_fulfilled_by_amazon": true,
+          "is_fulfilled_by_third_party": false,
+          "fulfillment_type": "p1"
+        },
+        "ship_details": "Sold by Amazon Resale and Fulfilled by Amazon.",
+        "accept_free_return": true
+      },
+      "price_only_available_in_cart": false,
+      "offer_id": "DVRZIlp+J3l4boX7jgXLZZg4YoYrRDiEPaxNhnMmQDXvFb6BvxFHmu3/BSwbHhd7j7sWJtBSk7RCI5vBnex73jd4GQBIrMZGCsyeXtEdnY1ZFH0qFoiuHky/XbQ32r14Mkke1mdBkmWgMyE8kELaoCBFFOI4xZddIYdEx1kQt2yuqoVSBLiMOmny1l1L6b+h",
+      "mixed_offers_count": 12,
+      "mixed_offers_from": {
+        "raw": "& FREE Shipping."
+      },
+      "trade_in_and_save": true,
+      "protection_plans": [
+        {
+          "name": "AppleCare+ for Headphones",
+          "price": {
+            "value": "29.00",
+            "billing_type": "one_time",
+            "currency": "USD"
+          }
+        },
+        {
+          "name": "AppleCare+ for Headphones - Monthly",
+          "price": {
+            "value": "1.49",
+            "billing_type": "monthly",
+            "currency": "USD"
+          }
+        }
+      ],
+      "return_policy": {
+        "duration_days": 15,
+        "type": "refund/replacement",
+        "seller": "Amazon"
+      },
+      "is_prime": true,
+      "is_prime_exclusive_deal": false,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "In Stock",
+        "dispatch_days": 1
+      },
+      "fulfillment": {
+        "type": "p1",
+        "standard_delivery": {
+          "date": "Sunday, March 22",
+          "name": "FREE"
+        },
+        "fastest_delivery": {
+          "date": "Thursday, March 19",
+          "name": "Or Prime members get FREE delivery Thursday, March 19. Order within 13 hrs 21 mins. Join Prime"
+        },
+        "is_sold_by_amazon": true,
+        "amazon_seller": {
+          "name": "Amazon",
+          "link": "https://www.amazon.com/b?node=10158976011"
+        },
+        "is_fulfilled_by_amazon": true,
+        "is_fulfilled_by_third_party": false,
+        "is_sold_by_third_party": false
+      },
+      "price": {
+        "symbol": "$",
+        "value": 99,
+        "currency": "USD",
+        "raw": "$99.00"
+      },
+      "rrp": {
+        "symbol": "$",
+        "value": 129,
+        "currency": "USD",
+        "raw": "$129.00"
+      },
+      "shipping": {
+        "raw": "FREE"
+      }
+    },
+    "specifications": [
+      {
+        "name": "Product Dimensions",
+        "value": "‎8.19 x 8.19 x 3.33 inches"
+      },
+      {
+        "name": "Item Weight",
+        "value": "‎1.6 ounces"
+      },
+      {
+        "name": "Manufacturer",
+        "value": "‎Apple"
+      },
+      {
+        "name": "ASIN",
+        "value": "‎B0DGHMNQ5Z"
+      },
+      {
+        "name": "Item model number",
+        "value": "‎MXP63LL/A"
+      },
+      {
+        "name": "Batteries",
+        "value": "‎3 Lithium Ion batteries required. (included)"
+      },
+      {
+        "name": "Date First Available",
+        "value": "‎September 9, 2024"
+      },
+      {
+        "name": "Units",
+        "value": "‎1.0 Count"
+      },
+      {
+        "name": "Number Of Items",
+        "value": "‎1"
+      },
+      {
+        "name": "Brand",
+        "value": "Apple"
+      },
+      {
+        "name": "Color",
+        "value": "White"
+      },
+      {
+        "name": "Ear Placement",
+        "value": "In Ear"
+      },
+      {
+        "name": "Form Factor",
+        "value": "In Ear"
+      },
+      {
+        "name": "Noise Control",
+        "value": "Sound Isolation"
+      },
+      {
+        "name": "Size and Weight",
+        "value": "AirPods 4 (each)Height: 1.19 inches (30.2 mm)Width: 0.72 inch (18.3 mm)Depth: 0.71 inch (18.1 mm)Weight: 0.15 ounce (4.3 grams)Charging Case (USB-C)Height: 1.82 inches (46.2 mm)Width: 1.97 inches (50.1 mm)Depth: 0.83 inch (21.2 mm)Weight: 1.14 ounces (32.3 grams)"
+      },
+      {
+        "name": "Charging Case",
+        "value": "Works with USB-C connector, Apple Watch charger, or Qi‑certified chargersIncludes a speaker for use with Find My proximity view"
+      },
+      {
+        "name": "Battery",
+        "value": "AirPods 4Up to 4 hours of listening time on a single charge with Active Noise Cancellation enabledUp to 5 hours of listening time on a single charge with noise control offUp to 4.5 hours of talk time on a single chargeAirPods 4 with Active Noise Cancellation and Charging Case (USB‑C)Up to 20 hours of listening time with Active Noise Cancellation enabledUp to 30 hours of listening time with noise control offUp to 20 hours of talk time5 minutes in the case provides around 1 hour of listening time or around 45 minutes of talk time"
+      },
+      {
+        "name": "Audio Technology",
+        "value": "Custom high-excursion Apple driverCustom high dynamic range amplifierActive Noise CancellationAdaptive AudioTransparency modeConversation AwarenessVoice IsolationPersonalized Spatial Audio with dynamic head trackingAdaptive EQVent system for pressure equalization"
+      },
+      {
+        "name": "Controls",
+        "value": "Press once to play or pause mediaPress once to answer a call or mute or unmutePress twice to end a callPress twice to skip forwardPress three times to skip backPress and hold for SiriSay “Hey Siri” or just “Siri” to do things like play a song, make a call, or get directionsWith Siri Interactions, nod your head yes or gently shake your head no when Siri asks if you want to answer an incoming call, hear a text message, manage notifications, and more"
+      },
+      {
+        "name": "Sensors",
+        "value": "Dual beamforming microphonesInward-facing microphoneOptical in-ear sensorMotion-detecting accelerometerSpeech-detecting accelerometerForce sensor"
+      },
+      {
+        "name": "Chip",
+        "value": "H2 headphone chip"
+      },
+      {
+        "name": "Dust Sweat and Water Resistant",
+        "value": "Dust, sweat, and water resistant (IP54)"
+      },
+      {
+        "name": "Connectivity",
+        "value": "Bluetooth 5.3 wireless technology"
+      },
+      {
+        "name": "In the Box",
+        "value": "AirPods 4 with Active Noise CancellationCharging Case (USB-C) with speakerDocumentationUSB-C Charge Cable sold separately"
+      }
+    ],
+    "specifications_flat": "In the Box: AirPods 4 with Active Noise CancellationCharging Case (USB-C) with speakerDocumentationUSB-C Charge Cable sold separately. Connectivity: Bluetooth 5.3 wireless technology. Dust Sweat and Water Resistant: Dust, sweat, and water resistant (IP54). Chip: H2 headphone chip. Sensors: Dual beamforming microphonesInward-facing microphoneOptical in-ear sensorMotion-detecting accelerometerSpeech-detecting accelerometerForce sensor. Controls: Press once to play or pause mediaPress once to answer a call or mute or unmutePress twice to end a callPress twice to skip forwardPress three times to skip backPress and hold for SiriSay “Hey Siri” or just “Siri” to do things like play a song, make a call, or get directionsWith Siri Interactions, nod your head yes or gently shake your head no when Siri asks if you want to answer an incoming call, hear a text message, manage notifications, and more. Audio Technology: Custom high-excursion Apple driverCustom high dynamic range amplifierActive Noise CancellationAdaptive AudioTransparency modeConversation AwarenessVoice IsolationPersonalized Spatial Audio with dynamic head trackingAdaptive EQVent system for pressure equalization. Battery: AirPods 4Up to 4 hours of listening time on a single charge with Active Noise Cancellation enabledUp to 5 hours of listening time on a single charge with noise control offUp to 4.5 hours of talk time on a single chargeAirPods 4 with Active Noise Cancellation and Charging Case (USB‑C)Up to 20 hours of listening time with Active Noise Cancellation enabledUp to 30 hours of listening time with noise control offUp to 20 hours of talk time5 minutes in the case provides around 1 hour of listening time or around 45 minutes of talk time. Charging Case: Works with USB-C connector, Apple Watch charger, or Qi‑certified chargersIncludes a speaker for use with Find My proximity view. Size and Weight: AirPods 4 (each)Height: 1.19 inches (30.2 mm)Width: 0.72 inch (18.3 mm)Depth: 0.71 inch (18.1 mm)Weight: 0.15 ounce (4.3 grams)Charging Case (USB-C)Height: 1.82 inches (46.2 mm)Width: 1.97 inches (50.1 mm)Depth: 0.83 inch (21.2 mm)Weight: 1.14 ounces (32.3 grams). Noise Control: Sound Isolation. Form Factor: In Ear. Ear Placement: In Ear. Color: White. Brand: Apple. Number Of Items: ‎1. Units: ‎1.0 Count. Date First Available: ‎September 9, 2024. Batteries: ‎3 Lithium Ion batteries required. (included). Item model number: ‎MXP63LL/A. ASIN: ‎B0DGHMNQ5Z. Manufacturer: ‎Apple. Item Weight: ‎1.6 ounces. Product Dimensions: ‎8.19 x 8.19 x 3.33 inches.",
+    "recent_sales": "10K+ bought in past month",
+    "gift_guide_badge": {
+      "badge_text": "10K+ bought in past month"
+    },
+    "color": "White",
+    "manufacturer": "‎Apple",
+    "weight": "‎1.6 ounces",
+    "first_available": {
+      "raw": "September 9, 2024",
+      "utc": "2024-09-09T00:00:00.000Z"
+    },
+    "dimensions": "‎8.19 x 8.19 x 3.33 inches",
+    "model_number": "‎MXP63LL/A",
+    "whats_in_the_box": [
+      "AirPods 4",
+      "Charging Case (USB‑C)",
+      "Documentation",
+      "(USB-C Charge Cable sold separately)"
+    ]
+  },
+  "brand_store": {
+    "id": "77D9E1F7-0337-4282-9DB6-B6B8FB2DC98D",
+    "link": "https://www.amazon.com/stores/Apple/page/77D9E1F7-0337-4282-9DB6-B6B8FB2DC98D"
+  }
+}

@@ -1,0 +1,1684 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 27,
+    "credits_remaining": 73,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "type": "product",
+    "asin": "B088H5DWV3",
+    "amazon_domain": "amazon.com"
+  },
+  "request_metadata": {
+    "created_at": "2026-03-17T15:40:49.302Z",
+    "processed_at": "2026-03-17T15:40:56.058Z",
+    "total_time_taken": 6.76,
+    "amazon_url": "https://www.amazon.com/dp/B088H5DWV3?th=1&psc=1"
+  },
+  "product": {
+    "title": "WEERTI Thermal Underwear for Women Long Johns with Fleece Lined Base Layer Women Cold Weather Top Bottom Medium Black",
+    "search_alias": {
+      "title": "All Departments",
+      "value": "search-alias=aps"
+    },
+    "title_excluding_variant_name": "WEERTI Thermal Underwear for Women Long Johns with Fleece Lined Base Layer Women Cold Weather Top Bottom",
+    "keywords": "WEERTI Thermal Underwear for Women Long Johns with Fleece Lined Base Layer Women Cold Weather Top Bottom Medium Black",
+    "is_collection": false,
+    "asin": "B088H5DWV3",
+    "parent_asin": "B0CNCYFXP6",
+    "link": "https://www.amazon.com/dp/B088H5DWV3?_encoding=UTF8&psc=1",
+    "brand": "WEERTI",
+    "sell_on_amazon": false,
+    "bestseller_badge": {
+      "link": "https://www.amazon.com/gp/bestsellers/fashion/5888828011/ref=zg_b_bs_5888828011_1",
+      "category": "Women's Thermal Underwear Sets",
+      "badge_text": "#1 Best Seller"
+    },
+    "variants": [
+      {
+        "asin": "B088H7PQ4B",
+        "title": "X-Large Black",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B088H7PQ4B?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "X-Large"
+          },
+          {
+            "name": "Color",
+            "value": "Black"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/51T4Bf02rPL._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/51T4Bf02rPL._AC_SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B08ZN7QKMW",
+        "title": "XX-Large Purple",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08ZN7QKMW?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "XX-Large"
+          },
+          {
+            "name": "Color",
+            "value": "Purple"
+          }
+        ]
+      },
+      {
+        "asin": "B088H5DWV3",
+        "title": "Medium Black",
+        "is_current_product": true,
+        "link": "https://www.amazon.com/dp/B088H5DWV3?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "Medium"
+          },
+          {
+            "name": "Color",
+            "value": "Black"
+          }
+        ]
+      },
+      {
+        "asin": "B08ZN7NW5P",
+        "title": "Small Purple",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08ZN7NW5P?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "Small"
+          },
+          {
+            "name": "Color",
+            "value": "Purple"
+          }
+        ]
+      },
+      {
+        "asin": "B088GY5DZS",
+        "title": "3X-Large Grey",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B088GY5DZS?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "3X-Large"
+          },
+          {
+            "name": "Color",
+            "value": "Grey"
+          }
+        ]
+      },
+      {
+        "asin": "B088GZD26D",
+        "title": "XX-Small White",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B088GZD26D?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "XX-Small"
+          },
+          {
+            "name": "Color",
+            "value": "White"
+          }
+        ]
+      },
+      {
+        "asin": "B088GNYMQC",
+        "title": "XX-Large White",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B088GNYMQC?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "XX-Large"
+          },
+          {
+            "name": "Color",
+            "value": "White"
+          }
+        ]
+      },
+      {
+        "asin": "B088GZWX2Q",
+        "title": "Small White",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B088GZWX2Q?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "Small"
+          },
+          {
+            "name": "Color",
+            "value": "White"
+          }
+        ]
+      },
+      {
+        "asin": "B08ZN75WHC",
+        "title": "Medium Navy",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08ZN75WHC?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "Medium"
+          },
+          {
+            "name": "Color",
+            "value": "Navy"
+          }
+        ]
+      },
+      {
+        "asin": "B08ZN6GLYH",
+        "title": "Large Navy",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08ZN6GLYH?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "Large"
+          },
+          {
+            "name": "Color",
+            "value": "Navy"
+          }
+        ]
+      },
+      {
+        "asin": "B088GQHG8L",
+        "title": "Medium White",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B088GQHG8L?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "Medium"
+          },
+          {
+            "name": "Color",
+            "value": "White"
+          }
+        ]
+      },
+      {
+        "asin": "B08ZN7Y2MD",
+        "title": "Medium Purple",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08ZN7Y2MD?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "Medium"
+          },
+          {
+            "name": "Color",
+            "value": "Purple"
+          }
+        ]
+      },
+      {
+        "asin": "B088GY99Q1",
+        "title": "XX-Large Grey",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B088GY99Q1?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "XX-Large"
+          },
+          {
+            "name": "Color",
+            "value": "Grey"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/51g0C+DYZ-L._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/51g0C+DYZ-L._AC_SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B08ZN5QD6Y",
+        "title": "X-Small Purple",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08ZN5QD6Y?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "X-Small"
+          },
+          {
+            "name": "Color",
+            "value": "Purple"
+          }
+        ]
+      },
+      {
+        "asin": "B08ZN8MTQV",
+        "title": "3X-Large Red",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08ZN8MTQV?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "3X-Large"
+          },
+          {
+            "name": "Color",
+            "value": "Red"
+          }
+        ]
+      },
+      {
+        "asin": "B08ZN8J8QM",
+        "title": "Large Purple",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08ZN8J8QM?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "Large"
+          },
+          {
+            "name": "Color",
+            "value": "Purple"
+          }
+        ]
+      },
+      {
+        "asin": "B088H5Z712",
+        "title": "XX-Small Black",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B088H5Z712?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "XX-Small"
+          },
+          {
+            "name": "Color",
+            "value": "Black"
+          }
+        ]
+      },
+      {
+        "asin": "B08ZN7ZHKP",
+        "title": "XX-Small Purple",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08ZN7ZHKP?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "XX-Small"
+          },
+          {
+            "name": "Color",
+            "value": "Purple"
+          }
+        ]
+      },
+      {
+        "asin": "B088GTH8YK",
+        "title": "Large Grey",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B088GTH8YK?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "Large"
+          },
+          {
+            "name": "Color",
+            "value": "Grey"
+          }
+        ]
+      },
+      {
+        "asin": "B08ZN8ML24",
+        "title": "XX-Small Red",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08ZN8ML24?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "XX-Small"
+          },
+          {
+            "name": "Color",
+            "value": "Red"
+          }
+        ]
+      },
+      {
+        "asin": "B088GN4QK3",
+        "title": "XX-Large Black",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B088GN4QK3?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "XX-Large"
+          },
+          {
+            "name": "Color",
+            "value": "Black"
+          }
+        ]
+      },
+      {
+        "asin": "B08ZN998S1",
+        "title": "X-Small Navy",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08ZN998S1?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "X-Small"
+          },
+          {
+            "name": "Color",
+            "value": "Navy"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/51KcIRn900L._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/51KcIRn900L._AC_SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B088GMTRSY",
+        "title": "Medium Grey",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B088GMTRSY?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "Medium"
+          },
+          {
+            "name": "Color",
+            "value": "Grey"
+          }
+        ]
+      },
+      {
+        "asin": "B088GQM6BT",
+        "title": "Large Black",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B088GQM6BT?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "Large"
+          },
+          {
+            "name": "Color",
+            "value": "Black"
+          }
+        ]
+      },
+      {
+        "asin": "B088H3Z9TK",
+        "title": "X-Large White",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B088H3Z9TK?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "X-Large"
+          },
+          {
+            "name": "Color",
+            "value": "White"
+          }
+        ]
+      },
+      {
+        "asin": "B08ZN7BRP5",
+        "title": "3X-Large Purple",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08ZN7BRP5?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "3X-Large"
+          },
+          {
+            "name": "Color",
+            "value": "Purple"
+          }
+        ]
+      },
+      {
+        "asin": "B088GTFV38",
+        "title": "X-Large Grey",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B088GTFV38?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "X-Large"
+          },
+          {
+            "name": "Color",
+            "value": "Grey"
+          }
+        ]
+      },
+      {
+        "asin": "B088H41JMF",
+        "title": "X-Small White",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B088H41JMF?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "X-Small"
+          },
+          {
+            "name": "Color",
+            "value": "White"
+          }
+        ]
+      },
+      {
+        "asin": "B08ZN82VXW",
+        "title": "X-Large Purple",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08ZN82VXW?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "X-Large"
+          },
+          {
+            "name": "Color",
+            "value": "Purple"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/51GPNe4-RvL._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/51GPNe4-RvL._AC_SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B08ZN6CSCC",
+        "title": "Small Navy",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08ZN6CSCC?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "Small"
+          },
+          {
+            "name": "Color",
+            "value": "Navy"
+          }
+        ]
+      },
+      {
+        "asin": "B088GZ6J49",
+        "title": "Small Black",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B088GZ6J49?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "Small"
+          },
+          {
+            "name": "Color",
+            "value": "Black"
+          }
+        ]
+      },
+      {
+        "asin": "B08ZN7LX93",
+        "title": "X-Small Red",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08ZN7LX93?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "X-Small"
+          },
+          {
+            "name": "Color",
+            "value": "Red"
+          }
+        ]
+      },
+      {
+        "asin": "B088H685X3",
+        "title": "Large White",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B088H685X3?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "Large"
+          },
+          {
+            "name": "Color",
+            "value": "White"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/51wfUs7KVCL._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/51wfUs7KVCL._AC_SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B08ZN7C38L",
+        "title": "Medium Red",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08ZN7C38L?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "Medium"
+          },
+          {
+            "name": "Color",
+            "value": "Red"
+          }
+        ]
+      },
+      {
+        "asin": "B08ZN7VJQX",
+        "title": "Large Red",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08ZN7VJQX?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "Large"
+          },
+          {
+            "name": "Color",
+            "value": "Red"
+          }
+        ]
+      },
+      {
+        "asin": "B08ZN7XRS1",
+        "title": "X-Large Navy",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08ZN7XRS1?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "X-Large"
+          },
+          {
+            "name": "Color",
+            "value": "Navy"
+          }
+        ]
+      },
+      {
+        "asin": "B088GWCVRG",
+        "title": "X-Small Black",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B088GWCVRG?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "X-Small"
+          },
+          {
+            "name": "Color",
+            "value": "Black"
+          }
+        ]
+      },
+      {
+        "asin": "B088H15XWV",
+        "title": "3X-Large White",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B088H15XWV?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "3X-Large"
+          },
+          {
+            "name": "Color",
+            "value": "White"
+          }
+        ]
+      },
+      {
+        "asin": "B08ZN6MLRY",
+        "title": "XX-Small Navy",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08ZN6MLRY?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "XX-Small"
+          },
+          {
+            "name": "Color",
+            "value": "Navy"
+          }
+        ]
+      },
+      {
+        "asin": "B088H5V35D",
+        "title": "XX-Small Grey",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B088H5V35D?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "XX-Small"
+          },
+          {
+            "name": "Color",
+            "value": "Grey"
+          }
+        ]
+      },
+      {
+        "asin": "B08ZN7KFRJ",
+        "title": "X-Large Red",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08ZN7KFRJ?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "X-Large"
+          },
+          {
+            "name": "Color",
+            "value": "Red"
+          }
+        ]
+      },
+      {
+        "asin": "B08ZN7935L",
+        "title": "XX-Large Navy",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08ZN7935L?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "XX-Large"
+          },
+          {
+            "name": "Color",
+            "value": "Navy"
+          }
+        ]
+      },
+      {
+        "asin": "B088H1P6ZL",
+        "title": "3X-Large Black",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B088H1P6ZL?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "3X-Large"
+          },
+          {
+            "name": "Color",
+            "value": "Black"
+          }
+        ]
+      },
+      {
+        "asin": "B08ZN7YQJ4",
+        "title": "3X-Large Navy",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08ZN7YQJ4?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "3X-Large"
+          },
+          {
+            "name": "Color",
+            "value": "Navy"
+          }
+        ]
+      },
+      {
+        "asin": "B088H3C9YZ",
+        "title": "X-Small Grey",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B088H3C9YZ?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "X-Small"
+          },
+          {
+            "name": "Color",
+            "value": "Grey"
+          }
+        ]
+      },
+      {
+        "asin": "B088GYBLDH",
+        "title": "Small Grey",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B088GYBLDH?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "Small"
+          },
+          {
+            "name": "Color",
+            "value": "Grey"
+          }
+        ]
+      },
+      {
+        "asin": "B08ZN7K51R",
+        "title": "Small Red",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08ZN7K51R?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "Small"
+          },
+          {
+            "name": "Color",
+            "value": "Red"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/51SnFq3T6DL._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/51SnFq3T6DL._AC_SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B08ZN6PS4J",
+        "title": "XX-Large Red",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08ZN6PS4J?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "XX-Large"
+          },
+          {
+            "name": "Color",
+            "value": "Red"
+          }
+        ]
+      }
+    ],
+    "variant_asins_flat": "B088H7PQ4B,B08ZN7QKMW,B088H5DWV3,B08ZN7NW5P,B088GY5DZS,B088GZD26D,B088GNYMQC,B088GZWX2Q,B08ZN75WHC,B08ZN6GLYH,B088GQHG8L,B08ZN7Y2MD,B088GY99Q1,B08ZN5QD6Y,B08ZN8MTQV,B08ZN8J8QM,B088H5Z712,B08ZN7ZHKP,B088GTH8YK,B08ZN8ML24,B088GN4QK3,B08ZN998S1,B088GMTRSY,B088GQM6BT,B088H3Z9TK,B08ZN7BRP5,B088GTFV38,B088H41JMF,B08ZN82VXW,B08ZN6CSCC,B088GZ6J49,B08ZN7LX93,B088H685X3,B08ZN7C38L,B08ZN7VJQX,B08ZN7XRS1,B088GWCVRG,B088H15XWV,B08ZN6MLRY,B088H5V35D,B08ZN7KFRJ,B08ZN7935L,B088H1P6ZL,B08ZN7YQJ4,B088H3C9YZ,B088GYBLDH,B08ZN7K51R,B08ZN6PS4J",
+    "proposition_65_warning": false,
+    "has_size_guide": true,
+    "add_on_item": {
+      "is_add_on_item": true
+    },
+    "categories": [
+      {
+        "name": "All Departments"
+      },
+      {
+        "name": "Clothing, Shoes & Jewelry",
+        "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_1?ie=UTF8&node=7141123011",
+        "category_id": "7141123011"
+      },
+      {
+        "name": "Women",
+        "link": "https://www.amazon.com/Womens-Fashion/b/ref=dp_bc_2?ie=UTF8&node=7147440011",
+        "category_id": "7147440011"
+      },
+      {
+        "name": "Clothing",
+        "link": "https://www.amazon.com/Womens-Clothing/b/ref=dp_bc_3?ie=UTF8&node=1040660",
+        "category_id": "1040660"
+      },
+      {
+        "name": "Lingerie, Sleep & Lounge",
+        "link": "https://www.amazon.com/Lingerie-Sleepwear-and-Loungewear/b/ref=dp_bc_4?ie=UTF8&node=9522931011",
+        "category_id": "9522931011"
+      },
+      {
+        "name": "Thermal Underwear",
+        "link": "https://www.amazon.com/Womens-Thermal-Underwear/b/ref=dp_bc_5?ie=UTF8&node=5888825011",
+        "category_id": "5888825011"
+      },
+      {
+        "name": "Sets",
+        "link": "https://www.amazon.com/Womens-Thermal-Underwear-Sets/b/ref=dp_bc_6?ie=UTF8&node=5888828011",
+        "category_id": "5888828011"
+      }
+    ],
+    "categories_flat": "All Departments > Clothing, Shoes & Jewelry > Women > Clothing > Lingerie, Sleep & Lounge > Thermal Underwear > Sets",
+    "sub_title": {
+      "text": "Visit the WEERTI Store",
+      "link": "https://www.amazon.com/stores/WEERTI/page/75B47B54-3989-46F5-B123-EFD4EB269C9B?lp_asin=B0CNCYFXP6&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto"
+    },
+    "amazons_choice": {
+      "link": "https://www.amazon.com/WEERTI-Thermal-Underwear-Fleece-Weather/dp/B0CNCYFXP6"
+    },
+    "marketplace_id": "ATVPDKIKX0DER",
+    "rating": 4.5,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 76,
+        "count": 9619
+      },
+      "four_star": {
+        "percentage": 12,
+        "count": 1519
+      },
+      "three_star": {
+        "percentage": 6,
+        "count": 759
+      },
+      "two_star": {
+        "percentage": 2,
+        "count": 253
+      },
+      "one_star": {
+        "percentage": 4,
+        "count": 506
+      }
+    },
+    "ratings_total": 12656,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/51T4Bf02rPL.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/71siL+151UL._AC_SL1500_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81Hi7JxJd-L._AC_SL1500_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/710rxXSf4iL._AC_SL1500_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/717wpDQ9KhL._AC_SL1500_.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71rATTcqPHL._AC_SL1500_.jpg",
+        "variant": "PT05"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81FSgE-tCNL._AC_SL1500_.jpg",
+        "variant": "PT06"
+      }
+    ],
+    "images_count": 6,
+    "images_flat": "https://m.media-amazon.com/images/I/71siL+151UL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81Hi7JxJd-L._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/710rxXSf4iL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/717wpDQ9KhL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71rATTcqPHL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81FSgE-tCNL._AC_SL1500_.jpg",
+    "videos_additional": [
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0afb4efdf9334d208083be25efc12156",
+        "product_asin": "B088H5DWV3",
+        "parent_asin": "B0CNCYFXP6",
+        "related_products": "B088GZ6J49,B0B653TTY7,B08N681T4W",
+        "title": "Must have for winter ",
+        "profile_image_url": "https://m.media-amazon.com/images/I/B1q9WInKx5L._CR0,0,4284,4284_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/judiithdey",
+        "public_name": "Judith",
+        "vendor_code": "judiithdey:shop",
+        "vendor_name": "Judith",
+        "vendor_tracking_id": "onamzjudit019-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/71-OulreS6L._CR0,0,774,437_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/71-OulreS6L.jpg",
+        "video_image_width": "774",
+        "video_image_height": "1316",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3ee50456-b0c6-46af-bbbd-433373112133/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ddc17534-968a-47b5-83f6-0f3a9daa4f3a/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ddc17534-968a-47b5-83f6-0f3a9daa4f3a/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ddc17534-968a-47b5-83f6-0f3a9daa4f3a/b0f08eed-cc89-416e-b396-98b36c11915f/0afb4efdf9334d208083be25efc12156_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:13",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/57972f49-a5fa-42e2-95ef-04f576342aa9.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0d5cfdde568c4978b546bb38b2f6cb9b",
+        "product_asin": "B088H5DWV3",
+        "parent_asin": "B0CNCYFXP6",
+        "related_products": "B088H5DWV3,B0CNCYFXP6",
+        "title": "These thermal tops are so warm and comfy!",
+        "profile_image_url": "https://m.media-amazon.com/images/I/A1AgIjA1F7L._CR0,0,2316,2316_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/marieboymom",
+        "public_name": "Liza",
+        "vendor_code": "marieboymom:shop",
+        "vendor_name": "Liza",
+        "vendor_tracking_id": "onamzlizaacto-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/51Dviv68C9L._CR1,0,638,360_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/51Dviv68C9L.jpg",
+        "video_image_width": "640",
+        "video_image_height": "360",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3d8d383f-6960-4a10-8d45-96f434e58cea/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d95dfed1-41ad-458d-a488-a89fabe82a0d/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d95dfed1-41ad-458d-a488-a89fabe82a0d/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:08",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/fdb8922d-525e-46fe-9f5f-b798b4cd2e91.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0d270d5a2d24430e92c4a0943b8c7b34",
+        "product_asin": "B088H5DWV3",
+        "parent_asin": "B0CNCYFXP6",
+        "related_products": "B088H5DWV3,B0CNCYFXP6",
+        "title": "Stay warm with these thermal underwear!",
+        "profile_image_url": "https://m.media-amazon.com/images/I/A1AgIjA1F7L._CR0,0,2316,2316_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/marieboymom",
+        "public_name": "Liza",
+        "vendor_code": "marieboymom:shop",
+        "vendor_name": "Liza",
+        "vendor_tracking_id": "onamzlizaacto-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/61cdYmahirL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61cdYmahirL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1137",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/1b253f1e-1b9f-4f27-a8e0-efba1f060d18/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a78010bc-1316-4c51-9825-2ebeebc68e02/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a78010bc-1316-4c51-9825-2ebeebc68e02/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:28",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/a5dcfd92-2b4f-4a71-8dc6-68f466ac38aa.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0227bfd28a824143859d7ed4be13b173",
+        "product_asin": "B088H5DWV3",
+        "parent_asin": "B0CNCYFXP6",
+        "related_products": "B088H5DWV3",
+        "title": "Cozy and warm base layer for winter ",
+        "profile_image_url": "https://m.media-amazon.com/images/I/816QmhYMBAL._CR0,0,1536,1536_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/alwaysbestylin",
+        "public_name": "Alwaysbestylin",
+        "vendor_code": "alwaysbestylin:shop",
+        "vendor_name": "Alwaysbestylin",
+        "vendor_tracking_id": "onamzjonreed-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/A14r3L0XE7L._CR0,0,3024,1707_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/A14r3L0XE7L.jpg",
+        "video_image_width": "3024",
+        "video_image_height": "4032",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/23882b72-55af-4970-801f-ef11d4fe8695/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3be28259-1dcb-4d73-a687-8dca9486774f/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3be28259-1dcb-4d73-a687-8dca9486774f/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3be28259-1dcb-4d73-a687-8dca9486774f/48fbb9d8-e1b3-4b0a-9bb7-ca67d7a42311/0227bfd28a824143859d7ed4be13b173_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:55",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/83264ab7-ad66-4de7-b3e1-d152386f289a.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.099c88d6ff7e4a88971709f70e1c8ed3",
+        "product_asin": "B088H5DWV3",
+        "parent_asin": "B0CNCYFXP6",
+        "related_products": "B088GQM6BT",
+        "title": "Soft and Warm Base Layer",
+        "profile_image_url": "https://m.media-amazon.com/images/I/A1QskDLpH9L._CR0,0,2292,2292_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/erinnolenpaysattention",
+        "public_name": "erin nolen",
+        "vendor_code": "erinnolenpaysattention:shop",
+        "vendor_name": "erin nolen",
+        "vendor_tracking_id": "onamzerinnole-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/614WXtSojGL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/614WXtSojGL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1137",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/be25fc9b-4079-4886-ba0c-8317982635e7/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3d6e340b-9c4a-4a88-a47d-d1cc7732d306/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3d6e340b-9c4a-4a88-a47d-d1cc7732d306/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:47",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/bf6ee106-8dcb-497e-8ca3-e6ec97dda1d3.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0f6ea3cb99674b619346669ed3e071da",
+        "product_asin": "B088H5DWV3",
+        "parent_asin": "B0CNCYFXP6",
+        "related_products": "B08ZN7C38L",
+        "title": "Thermal Underwear for Women Long Johns - feel so good on",
+        "profile_image_url": "https://m.media-amazon.com/images/I/61H-gJ1g1aL._CR0,0,795,795_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/amazonfavsandtries",
+        "public_name": "M",
+        "vendor_code": "amazonfavsandtries:shop",
+        "vendor_name": "M",
+        "vendor_tracking_id": "onamzmacyschu-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/A1SIlQMKaDL._CR0,0,3024,1707_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/A1SIlQMKaDL.jpg",
+        "video_image_width": "3024",
+        "video_image_height": "4032",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/1eac573e-57e0-4c8e-ba67-1f131eac8ab3/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/5c0523b4-3371-47e2-a5ca-ce9a8b29196c/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/5c0523b4-3371-47e2-a5ca-ce9a8b29196c/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/5c0523b4-3371-47e2-a5ca-ce9a8b29196c/edfcadf2-5aff-40cc-a619-05a87bab0c1d/0f6ea3cb99674b619346669ed3e071da_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:34",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/f71fac61-6af2-4853-b0ba-68cc34a8ad60.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0b44ee37d1e74f89b6e8b078a8dd7bc0",
+        "product_asin": "B088H5DWV3",
+        "parent_asin": "B0CNCYFXP6",
+        "related_products": "B088GQM6BT",
+        "title": "Warm and Comfortable, Honest Review of Weerti Thermal Underwear",
+        "profile_image_url": "https://m.media-amazon.com/images/I/B1UBsDtt7LL._CR0,0,3024,3024_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/alexis_harbz",
+        "public_name": "Alexis H",
+        "vendor_code": "alexis_harbz:shop",
+        "vendor_name": "Alexis H",
+        "vendor_tracking_id": "onamzale0e347-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/6180Fu9+OEL._CR0,0,1545,872_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/6180Fu9+OEL.jpg",
+        "video_image_width": "1545",
+        "video_image_height": "2000",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c0c47a70-97d0-48f1-ae6f-b35bfc66593f/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/5bdb0ee2-c708-442d-bd94-dc5b5b5f7ded/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/5bdb0ee2-c708-442d-bd94-dc5b5b5f7ded/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "2:01",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/63e411c2-276b-4deb-97f6-7095598946a4.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.08d1dac2e3bc4371a78f0703c93a7ee4",
+        "product_asin": "B088H5DWV3",
+        "parent_asin": "B0CNCYFXP6",
+        "related_products": "B088GN4QK3",
+        "title": "Actual User Reviews and Shows Off WEERTI Thermal Underwear",
+        "profile_image_url": "https://m.media-amazon.com/images/I/A1Tfe+7WA-L._CR539,0,1505,1505_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/azuretonyclaws",
+        "public_name": "Tony & Claws",
+        "vendor_code": "azuretonyclaws:shop",
+        "vendor_name": "Tony & Claws",
+        "vendor_tracking_id": "onamzkarlakea-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/51oE6rnxrCL._CR1,0,638,360_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/51oE6rnxrCL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "360",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/b568e62b-b65e-442c-b08b-11dc29c43f8e/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/80b57660-a48c-42dd-81c1-8dbbf49d805b/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/80b57660-a48c-42dd-81c1-8dbbf49d805b/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/80b57660-a48c-42dd-81c1-8dbbf49d805b/9fb726bd-944d-4057-9608-c69bc6892665/08d1dac2e3bc4371a78f0703c93a7ee4_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:33",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/0652689e-0198-4832-bee5-7f8de8ff65d1.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0be0b7ef179641ed843f4469adeac3cf",
+        "product_asin": "B088H5DWV3",
+        "parent_asin": "B0CNCYFXP6",
+        "related_products": "B0B653TTY7,B088GZ6J49,B08N681T4W",
+        "title": "Must Have for the Winter",
+        "profile_image_url": "https://m.media-amazon.com/images/I/B1q9WInKx5L._CR0,0,4284,4284_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/judiithdey",
+        "public_name": "Judith",
+        "vendor_code": "judiithdey:shop",
+        "vendor_name": "Judith",
+        "vendor_tracking_id": "onamzjudit019-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/71-OulreS6L._CR0,0,774,437_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/71-OulreS6L.jpg",
+        "video_image_width": "774",
+        "video_image_height": "1316",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e93bd679-a0a4-49e1-bdee-d981cadb788f/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c3e11bd1-54be-496a-8c21-addd0bf8d097/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c3e11bd1-54be-496a-8c21-addd0bf8d097/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c3e11bd1-54be-496a-8c21-addd0bf8d097/d0a91efe-ce83-4772-9bb7-9791651326b8/0be0b7ef179641ed843f4469adeac3cf_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:13",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/e3937ce0-a488-42bf-bfa5-102da2a4b105.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.06567ab20916401a8174a086901e055e",
+        "product_asin": "B088H5DWV3",
+        "parent_asin": "B0CNCYFXP6",
+        "related_products": "B088H5DWV3,B0BV8QGYDY,B0CC5QQKD8,B0CN9PRXN3,B0F6V5BJ9V",
+        "title": "Warm Fleece Under Layer for Cold - Running, Hunting, Skiing",
+        "profile_image_url": "https://m.media-amazon.com/images/I/61QRAkIsHOL._CR0,0,587,587_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/missionhannah",
+        "public_name": "Hannah & Beans",
+        "vendor_code": "missionhannah:shop",
+        "vendor_name": "Hannah & Beans",
+        "vendor_tracking_id": "onamzhann0f29-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/91H9GGybYGL._CR2,0,1116,630_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/91H9GGybYGL.png",
+        "video_image_width": "1120",
+        "video_image_height": "630",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/095a6597-8c70-4305-a233-8ce4ab58bc35/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c351132c-3b9b-4bb9-a484-8b36939df0e8/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c351132c-3b9b-4bb9-a484-8b36939df0e8/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c351132c-3b9b-4bb9-a484-8b36939df0e8/64c689b6-2329-44a2-a85b-32cc95d75e47/06567ab20916401a8174a086901e055e_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:58",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/84e035e2-7dd0-42b2-b479-ef4a2b3950cf.vtt"
+      }
+    ],
+    "is_bundle": false,
+    "feature_bullets": [
+      "All-Day Warmth: Lock in body heat and stay cozy all day. Lightweight yet snug, these long johns for women thermal deliver lasting warmth without the bulk—your ideal base layer for cold weather.",
+      "Ultra-Soft Feel: Plush fleece lining feels like a second skin. Super soft and gentle, these thermals for women keep you comfortable and cozy from morning to night.",
+      "Flexible Fit: Made with four-way stretch fabric, these long underwear women move effortlessly with your body. Enjoy freedom of movement—whether stretching, lounging, or staying active—without restriction.",
+      "Dry Comfort Anywhere: Whether working, relaxing, or outdoors, this women thermal set keeps you dry and odor-resistant. Designed for any activity, it keeps you light and at ease all day.",
+      "Winter Essential: Lightweight and fitted, this womens thermals top and bottom set is a must-have winter base layer. Layer effortlessly under any outfit while keeping warm and preserving your personal style and comfort."
+    ],
+    "feature_bullets_count": 5,
+    "feature_bullets_flat": "Winter Essential: Lightweight and fitted, this womens thermals top and bottom set is a must-have winter base layer. Layer effortlessly under any outfit while keeping warm and preserving your personal style and comfort. Dry Comfort Anywhere: Whether working, relaxing, or outdoors, this women thermal set keeps you dry and odor-resistant. Designed for any activity, it keeps you light and at ease all day. Flexible Fit: Made with four-way stretch fabric, these long underwear women move effortlessly with your body. Enjoy freedom of movement—whether stretching, lounging, or staying active—without restriction. Ultra-Soft Feel: Plush fleece lining feels like a second skin. Super soft and gentle, these thermals for women keep you comfortable and cozy from morning to night. All-Day Warmth: Lock in body heat and stay cozy all day. Lightweight yet snug, these long johns for women thermal deliver lasting warmth without the bulk—your ideal base layer for cold weather.",
+    "top_reviews": [
+      {
+        "id": "R2N3P8PWUI5PUN",
+        "title": "For me - the fit.  So hard to find high- waisted pants",
+        "body": "Fit well and comfortable and soft and warm .  Much better value than many.  Just hope they hold up.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on March 5, 2026"
+        },
+        "profile": {
+          "name": "Barbara Wright"
+        },
+        "verified_purchase": true,
+        "helpful_votes": null,
+        "link": "https://www.amazon.com/gp/customer-reviews/R2N3P8PWUI5PUN/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R3P613LNMZ802L",
+        "title": "WEERTI THERMAN UNDERWEAR IS WARM AND SOFT",
+        "body": "WEERTI Thermal underwear is very soft and fits well. The bottoms are like leggings, and will work very well under any jeans, etc. that I own. I did just receive the sets last week, and won't be wearing them yet as I am short and the bottoms are too long. I will have them shortened.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on March 3, 2026"
+        },
+        "profile": {
+          "name": "Jan"
+        },
+        "verified_purchase": true,
+        "helpful_votes": null,
+        "link": "https://www.amazon.com/gp/customer-reviews/R3P613LNMZ802L/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "RPY5CTBLDY14F",
+        "title": "Warm, Soft, and Comfortable Base Layer",
+        "body": "This thermal set is very warm and comfortable. The fleece lining feels soft and keeps heat in without feeling bulky. Fit is good and it stretches nicely, making it perfect for layering under jeans or winter clothes. Great for cold-weather walks, workdays, or outdoor activities.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on January 18, 2026"
+        },
+        "profile": {
+          "name": "Pepe DI"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 6,
+        "link": "https://www.amazon.com/gp/customer-reviews/RPY5CTBLDY14F/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R5BA129R8DIV4",
+        "title": "Best For Moderate Cold, Not Bulky.",
+        "body": "This thermal underwear is good as a base layer if you’ll be out in temps in the mid to upper 20’s or above, but it’s not great for extreme cold. It is made of thin material that works well for sliding jeans over due to its lack of bulk. I will continue to use my several sets of Cuddl Duds for the really intense cold while this underwear gets utilized for the more moderate cold. Fit was as expected and it is comfortable with plenty of stretch.",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in the United States on January 9, 2026"
+        },
+        "profile": {
+          "name": "PublicMenace1"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 16,
+        "link": "https://www.amazon.com/gp/customer-reviews/R5BA129R8DIV4/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R23HEFL98NQIWH",
+        "title": "Worked well",
+        "body": "I ordered these for a trip to Europe in December and really needed the warmth. These were soft, comfortable and warm... great for wearing under all my other layers. These have washed well and held up well... they were a good purchase.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on January 31, 2026"
+        },
+        "profile": {
+          "name": "JR"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 6,
+        "link": "https://www.amazon.com/gp/customer-reviews/R23HEFL98NQIWH/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R37IT4QU26AGKW",
+        "title": "These work",
+        "body": "The wind chill here has been in 20s and teens. I go outside and jog typically 4 or so miles. These have saved me! By about mile 2 I am sweating! They really work to keep the heat in. Only downside is I hate the feel of them, they feel horrible on my rough hands. They are lightweight and thin, so easy to wear under other layers without it looking like added layers. Great quality. I have definitely got my money's worth.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on February 2, 2026"
+        },
+        "profile": {
+          "name": "SA"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 3,
+        "link": "https://www.amazon.com/gp/customer-reviews/R37IT4QU26AGKW/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R3Q55XH2OI6BB7",
+        "title": "Soft, warm not bulky",
+        "body": "I am very happy with these! The underwear is warm and lightweight. I don't feel like a stuffed sausage with them under my clothes. The sizing chart is spot on and they fit really well. I would highly recommend for anyone who needs an extra layer of warmth for the winter",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on January 25, 2026"
+        },
+        "profile": {
+          "name": "wolfbit"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 2,
+        "link": "https://www.amazon.com/gp/customer-reviews/R3Q55XH2OI6BB7/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R2UIHHJNWWL2LU",
+        "title": "Would not buy again",
+        "body": "Shirt is warm and liked. The bottoms are too loose and ride up under pants and just not warm enough.",
+        "rating": 3,
+        "date": {
+          "raw": "Reviewed in the United States on January 15, 2026"
+        },
+        "profile": {
+          "name": "Anonymous"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 2,
+        "link": "https://www.amazon.com/gp/customer-reviews/R2UIHHJNWWL2LU/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R1GZ9YQPVUJ3TP",
+        "body": "....aber auch dieses fällt zu klein aus ! Deshalb leider, leider wieder retoure !  :-(",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Germany on October 31, 2023"
+        },
+        "profile": {
+          "name": "Amazon Kunde"
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "R1YKE8UWCRUB9S",
+        "body": "Eu gostei muito, porém, eu pedi o XG e veio o XXG, ficou super grande, eu uso tamanho: 42 e tenho 1.56 de altura, o XXG ficou enorme. Vou dar esse pro meu marido e vou comprar um menor…",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Brazil on August 7, 2024"
+        },
+        "profile": {
+          "name": "As pelucinhas são lindas, acabamento ótimo… Exatamente como na foto 😍"
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "R2165WSLAF1B25",
+        "body": "اقل من المتوقع",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in Saudi Arabia on January 11, 2026"
+        },
+        "profile": {
+          "name": "Ibrahim"
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "R2U76HWLAZLBUO",
+        "body": "Muy cómodo, me quedó justo, aún no lo uso aún para el frío.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Mexico on February 14, 2026"
+        },
+        "profile": {
+          "name": "Ana Delgado"
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "R3AMCY48MJ0E0P",
+        "title": "Nice and warm",
+        "body": "Keeps you nice and warm and is soft and comfortable to wear. Slightly large in make",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in Australia on July 18, 2023"
+        },
+        "profile": {
+          "name": "Angela"
+        },
+        "verified_purchase": true
+      }
+    ],
+    "bestsellers_rank": [
+      {
+        "rank": 922,
+        "category": "Clothing, Shoes & Jewelry",
+        "link": "https://www.amazon.com/gp/bestsellers/fashion/ref=pd_zg_ts_fashion"
+      },
+      {
+        "rank": 1,
+        "category": "Women's Thermal Underwear Sets",
+        "link": "https://www.amazon.com/gp/bestsellers/fashion/5888828011/ref=pd_zg_hrsr_fashion"
+      }
+    ],
+    "a_plus_content": {
+      "has_a_plus_content": true,
+      "has_brand_story": true,
+      "brand_story": {
+        "brand_logo": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5269b9f3-996f-44ac-8197-b5dae219169d.__CR0,0,315,145_PT0_SX315_V1___.jpg",
+        "hero_image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/18639a7a-4a03-4d96-b53e-fa40ac901eed.__CR0,0,1464,625_PT0_SX1464_V1___.jpg",
+        "description": "AtWEERTI,webelievewarmthismorethanafeeling–it'sawaytoshowcare.Asabranddedicatedtocomfort,quality,andstyle,wecraftthermalwearthatkeepsyoucozythrougheverymomentofyourday.Drivenbyapassionforpromotingahealthyandfreelifestyle,WEERTIiscommittedtohelpingyoufeelconfident,cozy,andatyourbesteverymoment,everydayoftheyear.",
+        "brand_store": {
+          "link": "/stores/page/75B47B54-3989-46F5-B123-EFD4EB269C9B",
+          "id": "75B47B54-3989-46F5-B123-EFD4EB269C9B"
+        },
+        "images": [
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/18639a7a-4a03-4d96-b53e-fa40ac901eed.__CR0,0,1464,625_PT0_SX1464_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/da84215a-d6c0-439e-ade5-759c9e559006.__CR1657,0,1199,1500_PT0_SX362_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ca9e3c31-bf20-4aae-ad5f-0c52e1b0b53e.__CR0,348,2832,3544_PT0_SX362_V1___.jpg"
+        ]
+      },
+      "all_images": [
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/18639a7a-4a03-4d96-b53e-fa40ac901eed.__CR0,0,1464,625_PT0_SX1464_V1___.jpg",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5269b9f3-996f-44ac-8197-b5dae219169d.__CR0,0,315,145_PT0_SX315_V1___.jpg",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/cda0783b-f453-4f02-969e-f6604f9dec97.__AC_SR166,182___.jpg",
+          "name": "WEERTI Thermal Underwear for Men, Long Johns Base Layer Fleece Lined Top Bottom"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/aebc3915-012c-4ea5-b48f-de3fe62a5b2d.__AC_SR166,182___.jpg",
+          "name": "WEERTI Thermal Underwear for Women Long Johns Women with Fleece Lined, Base Layer Women Cold Weat..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7605031b-d439-4596-8714-9748f6407594.__AC_SR166,182___.jpg",
+          "name": "WEERTI Thermal Underwear for Men Long Johns Mens with Fleece Lined, Base Layer Men Cold Weather T..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/bb94ff57-0266-409b-a846-1d1fb40168f9.__AC_SR166,182___.jpg",
+          "name": "WEERTI Thermal Underwear for Women Long Johns Women with Fleece Lined, Base Layer Women Cold Weat..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/da84215a-d6c0-439e-ade5-759c9e559006.__CR1657,0,1199,1500_PT0_SX362_V1___.jpg",
+          "name": "thermal women"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ca9e3c31-bf20-4aae-ad5f-0c52e1b0b53e.__CR0,348,2832,3544_PT0_SX362_V1___.jpg",
+          "name": "long johns women"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f7927471-6369-4a83-b5bd-2a058b6588bd.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "thermal underwear for women"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ee9f2958-6044-4983-afaa-bfab2f59497c.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "thermal for women"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2bdc763d-7f48-4fdd-a3c4-a5fbe9019091.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "long johns for women"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/22899184-8b54-4d5b-98ca-d05b9fd39540.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "long underwear womens"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/54a52fd5-f3a6-4d33-97ec-5b84649884a3.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "base layer womens"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6b6701c7-edaf-4c87-8b8b-2f313f433d33.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "long underwear"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3b7b80ca-cd97-46b7-9b40-164f1e4cbbd8.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "long johns"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6c4a0d75-f6c7-46c5-a167-837f106e041a.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "thermal womens"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c25d255e-d6b5-45e5-a8bc-2eb5e69dee69.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "long underwear womens"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b20d856a-4f62-49d9-8995-4efbfe273755.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "base layer"
+        }
+      ],
+      "third_party": true,
+      "company_logo": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5269b9f3-996f-44ac-8197-b5dae219169d.__CR0,0,315,145_PT0_SX315_V1___.jpg",
+      "company_description_text": "At WEERTI, we believe warmth is more than a feeling – it's a way to show care. As a brand dedicated to comfort, quality, and style, we craft thermal wear that keeps you cozy through every moment of your day. Driven by a passion for promoting a healthy and free lifestyle, WEERTI is committed to helping you feel confident, cozy, and at your best every moment, every day of the year."
+    },
+    "buybox_winner": {
+      "maximum_order_quantity": {
+        "value": 30,
+        "hard_maximum": true
+      },
+      "price_only_available_in_cart": false,
+      "trade_in_and_save": true,
+      "return_policy": {
+        "duration_days": 30,
+        "type": "refund/replacement"
+      },
+      "is_prime": true,
+      "is_prime_exclusive_deal": false,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "In Stock",
+        "dispatch_days": 1
+      },
+      "fulfillment": {
+        "type": "p2",
+        "standard_delivery": {
+          "date": "Monday, March 23",
+          "name": "FREE"
+        },
+        "fastest_delivery": {
+          "date": "Thursday, March 19",
+          "name": "Or Prime members get FREE delivery Thursday, March 19. Order within 3 hrs 54 mins. Join Prime"
+        },
+        "is_sold_by_amazon": false,
+        "is_fulfilled_by_amazon": true,
+        "is_fulfilled_by_third_party": false,
+        "is_sold_by_third_party": true,
+        "third_party_seller": {
+          "name": "WEERTI",
+          "link": "https://www.amazon.com/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AJHTPYX4F66MJ&asin=B088H5DWV3&ref_=dp_merchant_link&isAmazonFulfilled=1",
+          "id": "AJHTPYX4F66MJ"
+        }
+      },
+      "price": {
+        "symbol": "$",
+        "value": 24.99,
+        "currency": "USD",
+        "raw": "$24.99"
+      },
+      "rrp": {
+        "symbol": "$",
+        "value": 39.99,
+        "currency": "USD",
+        "raw": "$39.99"
+      },
+      "shipping": {
+        "raw": "FREE"
+      }
+    },
+    "specifications": [
+      {
+        "name": "Package Dimensions",
+        "value": "10.39 x 8.31 x 1.5 inches; 1.04 Pounds"
+      },
+      {
+        "name": "Item model number",
+        "value": "CD8526104"
+      },
+      {
+        "name": "Department",
+        "value": "womens"
+      },
+      {
+        "name": "Date First Available",
+        "value": "April 30, 2020"
+      },
+      {
+        "name": "Manufacturer",
+        "value": "WEERTI"
+      },
+      {
+        "name": "ASIN",
+        "value": "B0CNCYFXP6"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "See Top 100 in Clothing, Shoes & Jewelry"
+      },
+      {
+        "name": "Fabric type",
+        "value": "92% Soft Polyester, 8% Spandex with fleece lined"
+      },
+      {
+        "name": "Care instructions",
+        "value": "Machine Wash"
+      },
+      {
+        "name": "Origin",
+        "value": "Imported"
+      },
+      {
+        "name": "Brand Name",
+        "value": "WEERTI"
+      },
+      {
+        "name": "Unit Count",
+        "value": "1 Count"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "#922 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #1 in Women's Thermal Underwear Sets"
+      },
+      {
+        "name": "ASIN",
+        "value": "B088H5DWV3"
+      },
+      {
+        "name": "Customer Reviews",
+        "value": "4.5    4.5 out of 5 stars         (12,656)           4.5 out of 5 stars"
+      },
+      {
+        "name": "Color",
+        "value": "Black"
+      },
+      {
+        "name": "Pattern",
+        "value": "Solid"
+      },
+      {
+        "name": "Style Name",
+        "value": "Functional"
+      },
+      {
+        "name": "Collection Name",
+        "value": "Winter"
+      },
+      {
+        "name": "Apparel Closure Type",
+        "value": "Elasticity"
+      },
+      {
+        "name": "Fit Type",
+        "value": "Snug"
+      },
+      {
+        "name": "Sleeve Type",
+        "value": "Long Sleeve"
+      },
+      {
+        "name": "Neck Style",
+        "value": "Crew Neck"
+      },
+      {
+        "name": "Material Type",
+        "value": "Polyester, Wool"
+      },
+      {
+        "name": "Product Care Instructions",
+        "value": "Machine Wash"
+      },
+      {
+        "name": "Fabric Type",
+        "value": "92% Soft Polyester, 8% Spandex with fleece lined"
+      },
+      {
+        "name": "Size",
+        "value": "Medium"
+      }
+    ],
+    "specifications_flat": "Size: Medium. Fabric Type: 92% Soft Polyester, 8% Spandex with fleece lined. Product Care Instructions: Machine Wash. Material Type: Polyester, Wool. Neck Style: Crew Neck. Sleeve Type: Long Sleeve. Fit Type: Snug. Apparel Closure Type: Elasticity. Collection Name: Winter. Style Name: Functional. Pattern: Solid. Color: Black. Customer Reviews: 4.5    4.5 out of 5 stars         (12,656)           4.5 out of 5 stars. ASIN: B088H5DWV3. Best Sellers Rank: #922 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #1 in Women's Thermal Underwear Sets. Unit Count: 1 Count. Brand Name: WEERTI. Origin: Imported. Care instructions: Machine Wash. Fabric type: 92% Soft Polyester, 8% Spandex with fleece lined. Best Sellers Rank: See Top 100 in Clothing, Shoes & Jewelry. ASIN: B0CNCYFXP6. Manufacturer: WEERTI. Date First Available: April 30, 2020. Department: womens. Item model number: CD8526104. Package Dimensions: 10.39 x 8.31 x 1.5 inches; 1.04 Pounds.",
+    "recent_sales": "4K+ bought in past month",
+    "gift_guide_badge": {
+      "badge_text": "4K+ bought in past month"
+    },
+    "color": "Black",
+    "material": "Polyester, Wool",
+    "manufacturer": "WEERTI",
+    "first_available": {
+      "raw": "April 30, 2020",
+      "utc": "2020-04-30T00:00:00.000Z"
+    },
+    "model_number": "CD8526104",
+    "bestsellers_rank_flat": "Category: Clothing Shoes & Jewelry | Rank: 922, Category: Women's Thermal Underwear Sets | Rank: 1"
+  },
+  "brand_store": {
+    "id": "75B47B54-3989-46F5-B123-EFD4EB269C9B",
+    "link": "https://www.amazon.com/stores/WEERTI/page/75B47B54-3989-46F5-B123-EFD4EB269C9B"
+  }
+}

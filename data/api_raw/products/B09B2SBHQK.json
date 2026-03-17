@@ -1,0 +1,528 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 25,
+    "credits_remaining": 75,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "type": "product",
+    "asin": "B09B2SBHQK",
+    "amazon_domain": "amazon.com"
+  },
+  "request_metadata": {
+    "created_at": "2026-03-17T15:40:26.153Z",
+    "processed_at": "2026-03-17T15:40:31.858Z",
+    "total_time_taken": 5.71,
+    "amazon_url": "https://www.amazon.com/dp/B09B2SBHQK?th=1&psc=1"
+  },
+  "product": {
+    "title": "Amazon Echo Show 5 (newest model), Smart display, Designed for Alexa+, 2x the bass and clearer sound, Charcoal Charcoal Device only",
+    "search_alias": {
+      "title": "Amazon Devices",
+      "value": "search-alias=amazon-devices"
+    },
+    "title_excluding_variant_name": "Amazon Echo Show 5 (newest model), Smart display, Designed for Alexa+, 2x the bass and clearer sound, Charcoal",
+    "keywords": "Amazon Echo Show 5 (newest model), Smart display, Designed for Alexa+, 2x the bass and clearer sound, Charcoal Charcoal Device only",
+    "keywords_list": [
+      "Amazon Echo Show 5 (newest model)",
+      "Smart display",
+      "Designed for Alexa+",
+      "2x the bass and clearer sound",
+      "Charcoal Charcoal Device only"
+    ],
+    "is_collection": false,
+    "asin": "B09B2SBHQK",
+    "parent_asin": "B0BZTW3TCH",
+    "link": "https://www.amazon.com/All-new-Echo-Show-5/dp/B09B2SBHQK",
+    "brand": "Amazon",
+    "sell_on_amazon": false,
+    "variants": [
+      {
+        "asin": "B09B2SRGXH",
+        "title": "Cloud Blue Device only",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09B2SRGXH?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Cloud Blue"
+          },
+          {
+            "name": "Configuration",
+            "value": "Device only"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/81tdAWnM4dL._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "LEFT",
+            "link": "https://m.media-amazon.com/images/I/81tdAWnM4dL._AC_SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B09B2SBHQK",
+        "title": "Charcoal Device only",
+        "is_current_product": true,
+        "link": "https://www.amazon.com/dp/B09B2SBHQK?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Charcoal"
+          },
+          {
+            "name": "Configuration",
+            "value": "Device only"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/81qEr5kbIwL._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "LEFT",
+            "link": "https://m.media-amazon.com/images/I/81qEr5kbIwL._AC_SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B09B2QTGFY",
+        "title": "Glacier White Device only",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09B2QTGFY?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Glacier White"
+          },
+          {
+            "name": "Configuration",
+            "value": "Device only"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/81pKuygsQaL._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "LEFT",
+            "link": "https://m.media-amazon.com/images/I/81pKuygsQaL._AC_SL1500_.jpg"
+          }
+        ]
+      }
+    ],
+    "variant_asins_flat": "B09B2SRGXH,B09B2SBHQK,B09B2QTGFY",
+    "proposition_65_warning": false,
+    "has_size_guide": true,
+    "add_on_item": {
+      "is_add_on_item": true
+    },
+    "categories": [
+      {
+        "name": "Amazon Devices"
+      }
+    ],
+    "sub_title": {
+      "text": "Brand: Amazon",
+      "link": "https://www.amazon.com/Amazon/b/ref=bl_dp_s_web_20784502011?ie=UTF8&node=20784502011&field-lbr_brands_browse-bin=Amazon"
+    },
+    "amazons_choice": {
+      "link": "https://www.amazon.com/All-new-Echo-Show-5/dp/B09B2SBHQK",
+      "badge_text": "Amazon's  Choice"
+    },
+    "marketplace_id": "ATVPDKIKX0DER",
+    "promotions": [
+      {
+        "name": "Limited time deal"
+      }
+    ],
+    "rating": 4.2,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 70,
+        "count": 46048
+      },
+      "four_star": {
+        "percentage": 11,
+        "count": 7236
+      },
+      "three_star": {
+        "percentage": 5,
+        "count": 3289
+      },
+      "two_star": {
+        "percentage": 4,
+        "count": 2631
+      },
+      "one_star": {
+        "percentage": 10,
+        "count": 6578
+      }
+    },
+    "ratings_total": 65783,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/81qEr5kbIwL.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/81qEr5kbIwL._AC_SL1500_.jpg",
+        "variant": "LEFT"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71kDL97LTgL._AC_SL1500_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71XkDdN5lqL._AC_SL1500_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71wwe-xaMXL._AC_SL1500_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61sxoz1lukL._AC_SL1500_.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71fwW-xv99L._AC_SL1500_.jpg",
+        "variant": "PT05"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81jaCgNhzSL._AC_SL1500_.jpg",
+        "variant": "PT06"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71yE1RdNE7L._AC_SL1500_.jpg",
+        "variant": "PT07"
+      }
+    ],
+    "images_count": 8,
+    "images_flat": "https://m.media-amazon.com/images/I/81qEr5kbIwL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71kDL97LTgL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71XkDdN5lqL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71wwe-xaMXL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/61sxoz1lukL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71fwW-xv99L._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81jaCgNhzSL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71yE1RdNE7L._AC_SL1500_.jpg",
+    "is_bundle": false,
+    "feature_bullets": [
+      "Alexa can show you more - Echo Show 5 includes a 5.5” display so you can see news and weather at a glance, make video calls, view compatible cameras, stream music and shows, and more.",
+      "Small size, bigger sound – Stream your favorite music, shows, podcasts, and more from providers like Amazon Music, Spotify, and Prime Video—now with deeper bass and clearer vocals. Includes a 5.5\" display so you can view shows, song titles, and more at a glance.",
+      "Keep your home comfortable – Control compatible smart devices like lights and thermostats, even while you're away.",
+      "See more with the built-in camera – Check in on your family, pets, and more using the built-in camera. Drop in on your home when you're out or view the front door from your Echo Show 5 with compatible video doorbells.",
+      "See your photos on display – When not in use, set the background to a rotating slideshow of your favorite photos. Invite family and friends to share photos to your Echo Show. Prime members also get unlimited cloud photo storage.",
+      "Stay connected with video calling – Use the 2 MP camera to call friends and family who have the Alexa app or an Echo device with a screen. Make announcements to other compatible devices in your home.",
+      "Designed to protect your privacy— Amazon is not in the business of selling your personal information to others. Built with multiple layers of privacy controls including a mic/camera off button and built-in camera shutter, as well as support for viewing end-to-end encrypted Ring video.",
+      "Designed for sustainability – This device’s fabric is made from 100% post-consumer recycled polyester yarn and aluminum is made from 100% recycled aluminum. The device packaging is 100% recyclable."
+    ],
+    "feature_bullets_count": 8,
+    "feature_bullets_flat": "Designed for sustainability – This device’s fabric is made from 100% post-consumer recycled polyester yarn and aluminum is made from 100% recycled aluminum. The device packaging is 100% recyclable. Designed to protect your privacy— Amazon is not in the business of selling your personal information to others. Built with multiple layers of privacy controls including a mic/camera off button and built-in camera shutter, as well as support for viewing end-to-end encrypted Ring video. Stay connected with video calling – Use the 2 MP camera to call friends and family who have the Alexa app or an Echo device with a screen. Make announcements to other compatible devices in your home. See your photos on display – When not in use, set the background to a rotating slideshow of your favorite photos. Invite family and friends to share photos to your Echo Show. Prime members also get unlimited cloud photo storage. See more with the built-in camera – Check in on your family, pets, and more using the built-in camera. Drop in on your home when you're out or view the front door from your Echo Show 5 with compatible video doorbells. Keep your home comfortable – Control compatible smart devices like lights and thermostats, even while you're away. Small size, bigger sound – Stream your favorite music, shows, podcasts, and more from providers like Amazon Music, Spotify, and Prime Video—now with deeper bass and clearer vocals. Includes a 5.5\" display so you can view shows, song titles, and more at a glance. Alexa can show you more - Echo Show 5 includes a 5.5” display so you can see news and weather at a glance, make video calls, view compatible cameras, stream music and shows, and more.",
+    "top_reviews": [
+      {
+        "id": "R2HYDKJ2C6UQT1",
+        "title": "Mixed reviews! Great but not alarm reliable",
+        "body": "This a great device, however she keeps missing alarms which is bad if you are on a time limit",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on March 13, 2026"
+        },
+        "profile": {
+          "name": "celeste irwin"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 4,
+        "link": "https://www.amazon.com/gp/customer-reviews/R2HYDKJ2C6UQT1/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R1TWMYCW4SEG2F",
+        "title": "Great purchase",
+        "body": "I really enjoy my Echo Dot Show overall. It can be a little slow to respond at times, which is slightly frustrating, but it’s not a dealbreaker for me. I love how it’s able to distinguish my voice and my daughter’s voice. Very easy to set up and start using! The photo display feature is one of my favorite part. it’s great being able to see my pictures throughout the day and it adds a nice personal touch to the space. Despite the occasional lag, it’s still a device I use and enjoy regularly.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on February 1, 2026"
+        },
+        "profile": {
+          "name": "Ashley M"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 6,
+        "link": "https://www.amazon.com/gp/customer-reviews/R1TWMYCW4SEG2F/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R1A8DIV2USDL4F",
+        "title": "Great Buy!",
+        "body": "I couldn’t be happier with the Echo Show 5 (3rd Gen)! From the moment I set it up, I was impressed by how incredibly easy it is to use. The setup process took just minutes through the Alexa app, and the interface is intuitive and user-friendly. Even if you’re not particularly tech-savvy, navigating the menus, setting alarms, checking the weather, or making video calls feels completely seamless.The screen display is another standout feature. The 5.5-inch display is bright, sharp, and perfectly sized for a nightstand, desk, or kitchen counter. Whether I’m checking the time, viewing my calendar, following a recipe, or watching quick videos, everything looks crisp and clear with vibrant colors and great visibility, even in different lighting conditions.The sound quality genuinely surprised me. For such a compact device, the audio is rich and well-balanced with noticeably improved bass compared to previous models. Music streams beautifully, voices sound clear during video calls, and alarms are loud enough to wake me up without being harsh.And the cost makes it an even better value. For the features you get — smart home control, video capabilities, solid sound, and a quality display — it’s very reasonably priced. It feels like a premium device without the premium price tag.Overall, the Echo Show 5 (3rd Gen) is an excellent smart display that delivers on ease of use, screen quality, sound performance, and affordability. Highly recommend!",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on February 19, 2026"
+        },
+        "profile": {
+          "name": "Christine Hodshire"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 7,
+        "link": "https://www.amazon.com/gp/customer-reviews/R1A8DIV2USDL4F/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R2BZAIH7R5ZYKJ",
+        "title": "functional, but slower than the old version",
+        "body": "I'll update this after we've it for a while. It was easy to set up and does everything we need. We replaced an older first gen that the screen was failing on. I will say this version is much slower to respond than the older one. The old one pulled up the ring cams quick, set times quick, gave the weather quick, dimmed lights quick, whatever. This one has a decent lag between request and action. Ask to see cameras and it takes like 5-10 seconds to even start pulling them up. Same for pretty much all requests. Not sure if that is because we are using the early plus thing or just because it is learning or whatever, but it is worth mentioning. I like the different voices and functionality, but that lag is for sure annoying. I would rather have the old one back even with glitchy screen, but it was tossed. 4 stars because it does everything it's supposed to do, but loses one because it is slow.",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in the United States on January 10, 2026"
+        },
+        "profile": {
+          "name": "JasonB"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 5,
+        "link": "https://www.amazon.com/gp/customer-reviews/R2BZAIH7R5ZYKJ/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R3NVDK1T5863Y0",
+        "title": "Excellent Deal! I guess you get what you pay for",
+        "body": "Honestly haven't opened it yet. Been so busy. Hopefully my bad luck doesn't get me! Excellent price. I've wanted one for a while too!!! Thanks to Cyber Monday I cannot believe the price I paid! Awesome, fast shipping even during Black Friday and Cyber Monday. Let's hope it works great 😊P L E A S E - - - READ MY EXPERIENCE UPDATE AFTER USING IT FOR 2 WKS. The disappointment started hours after plugging it in 2 Saturdays ago (Today is Dec 25th, 2023)**UPDATE DECEMBER 25TH, 2023**MAJOR disappointment.It needs every subscription under the sun to enjoy 99% of it fully. Even \"Find my Phone\" is a charge! My \"Google Bot\" does not charge me for that.It glitches a lot. In the 2 weeks it's been plugged in I've had to hard boot it 3 times.AMAZON music sub or forget using it to play music you want. They support so many platforms... Not YouTube Red.I bought the blink system, no pun intended, the cameras echo through the ECHO. 4 camera on sale too and so disappointed.All games want you to pay for a service to use it fully.No tier service plans... Just 25 bucks for this, 4.99 for that, 19.99 for this.. Like make a tier system or something.It does not work friendly through the app or the ECHO itself. There is no way to have it on adaptive lighting and even wake it up and have the screen brighten a bit. Literally, no option for it. Like come on who can see that dark screen.. If you prompt it I should give off light.It's not as friendly in its demeanor as \"The Google Bot\". No personality. No swearing. I asked it about a serious local news situation that the country is aware of for Vegas since the 6th of Dec, it told me \"Not sure what you're asking for\" my \"Google Bot\" gave me a 15 min break down of the first min of the horrible situation at my alma mater to the latest news. Sad.The technology using it to do video calls, garbage. My tech abilities are expert level so no it's no my internet. My call with my mom and my husband both skipping, freezing. On their end and mine. Oh and forget adding all of your contacts.. That's a charge too. Otherwise you get 10 contacts it saves on itself only.I'm so sad. I really was excited for this newer technology since I've had my \"Google Bot\" for six years.. It does more and knows more than this Echo.The charges are the absolute worst for me. Find my phone? Really? Give me a break.The speaker, not good over 50 to 60% ((60% is the highest you can go without it being tingy. I adjusted the mids, nothing changes... Even the little ask me the animal of the day if you want to keep going it does.. And shows you more animal sounds. But if you want MORE you have to pay for the service... For animal sounds..... Come on.The smooth transition of screen to screen in where it flips through news..... Sadly lagging and skipping.--IN CLOSING - - It's nothing of what I expected in speed. It's 6 feet from my modem.... It's not my connection...for the skipping screens. Lagging stories on the news when you ask it what's the story? Video calls... Useless. IT'S NOT even WORTH the sale price I got it for. Not even close.The abilities it has to run your whole house, garage doors, emergency help, smoke, CO, thermostat list us longer than I've ever seen. If I can't even have me tell me what my local university updates are without it faking to even kno about it, who thinks I would roll the dice and pay all these subs and get more electronics to make the long list of things actually work.1 star for technology for 20230 stars for personality, voice choice0 stars for everything having a subscription montky cost.0 stars for ease of use0 stars for quality - freezing, skipping, lagging video play.0 for sound.0 for ease of app use with it0 for BLINK app to use with Alexa3 for looks, esthetic wise2 for functions like making the screen brighter on adaptive lighting when touching it or voice prompting it0 for cost of subs, extra gear.1 for all it can do but at the price of each monthly cost to have them. Too afraid to buy the extras and add a subscription to it too.4 stars for pre set up before even having it sent to me. Through email. Impressed, and that was the last time I was.0 for more free options for even things like voices of Alexa, diff prompt names for Alexa, are all words I'd use every day but Ziggy do I went with that and still certain words I say pick it up and listen.Overall average score for me (above stars) 2 stars all around.Sincerely - - - - -Disappointed in Prime/Amazon/Amazon's Customer Service.***UPDATE: December 31, 2023***Glitches every day. I have to reboot it at least once a day. It gets stuck in broken half screen is black, loops. There is a glitch that happens every day after I do a routine in the afternoon and gets stuck doing this weird clock I don't normally see.I'm calling Customer Service and getting a replacement. If that too is garbage, it's being returned and I want a refund.",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in the United States on December 8, 2023"
+        },
+        "profile": {
+          "name": "Mary Trotta"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 720,
+        "link": "https://www.amazon.com/gp/customer-reviews/R3NVDK1T5863Y0/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R1VRMAEG5GYPJ7",
+        "title": "Highly recommend",
+        "body": "This home assistant is excellent. You can use it for a variety of applications. It makes a great hub for Alexa approved security products. I however returned it because they had one paired with a Blink camera which was a better value. Regardless I highly recommend it.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Canada on June 22, 2025"
+        },
+        "profile": {
+          "name": "Gordon Sabean"
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "R1XRJVQW8RDYW3",
+        "title": "love alexa",
+        "body": "Alexa is now our family member 🥰after one year i write my review here.iam really happy with my purchase.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Canada on June 18, 2025"
+        },
+        "profile": {
+          "name": "shabnam"
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "R2EOM1TAY81F95",
+        "title": "All is good!!",
+        "body": "It does what it advertises. I’m very happy with the product.!😁",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Canada on November 19, 2024"
+        },
+        "profile": {
+          "name": "Amazon Customer"
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "R2501U3ABOCMVY",
+        "title": "Perfect for kitchen",
+        "body": "Upgraded from a regular echo to this in kitchen. Love it, especially having visual reminders of any timers set, being able to watch movies etc. only downside is no Netflix.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Canada on March 17, 2024"
+        },
+        "profile": {
+          "name": "Amazon Customer"
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "R2HEUP9UFRRG4L",
+        "title": "A must!",
+        "body": "The stand is a no brainer as it allows the screen to be easily seen especially in the dark.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Canada on January 2, 2024"
+        },
+        "profile": {
+          "name": "Pillsbury Dough Boy"
+        },
+        "verified_purchase": true
+      }
+    ],
+    "buybox_winner": {
+      "maximum_order_quantity": {
+        "value": 3,
+        "hard_maximum": false
+      },
+      "price_only_available_in_cart": false,
+      "trade_in_and_save": true,
+      "return_policy": {
+        "duration_days": 30,
+        "type": "refund/replacement",
+        "seller": "Amazon"
+      },
+      "is_prime": true,
+      "is_prime_exclusive_deal": false,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "In Stock",
+        "dispatch_days": 1
+      },
+      "fulfillment": {
+        "type": "p1",
+        "standard_delivery": {
+          "date": "Thursday, March 26",
+          "name": "FREE"
+        },
+        "fastest_delivery": {
+          "date": "Friday, March 20",
+          "name": "Or Prime members get FREE delivery Friday, March 20. Order within 3 hrs 19 mins. Join Prime"
+        },
+        "is_sold_by_amazon": true,
+        "amazon_seller": {
+          "name": "Amazon"
+        },
+        "is_fulfilled_by_amazon": true,
+        "is_fulfilled_by_third_party": false,
+        "is_sold_by_third_party": false
+      },
+      "price": {
+        "symbol": "$",
+        "value": 69.99,
+        "currency": "USD",
+        "raw": "$69.99"
+      },
+      "rrp": {
+        "symbol": "$",
+        "value": 89.99,
+        "currency": "USD",
+        "raw": "$89.99"
+      },
+      "shipping": {
+        "raw": "FREE"
+      }
+    },
+    "specifications": [
+      {
+        "name": "Size",
+        "value": "5.8”W x 3.6”D x 3.2”H (147mm x 91mm x 82mm)"
+      },
+      {
+        "name": "Weight",
+        "value": "16.1 oz (456 grams) Actual size and weight may vary by manufacturing process"
+      },
+      {
+        "name": "Display",
+        "value": "5.5” touch screen"
+      },
+      {
+        "name": "Camera",
+        "value": "2 MP camera with built-in shutter (Photo quality/size may vary)"
+      },
+      {
+        "name": "WiFi connectivity",
+        "value": "Dual-band wifi supports 802.11a/b/g/n/ac wifi networks. Does not support connecting to ad-hoc (or peer-to-peer) wifi networks."
+      },
+      {
+        "name": "Amazon Sidewalk",
+        "value": "Sidewalk uses Echo and Ring devices to securely keep other devices connected and help find lost items by reporting their approximate location to the owner. Sidewalk can enable supported devices to remain connected even when wifi is lost or the supported devices are outside the range of their home wifi. Sidewalk uses a small portion of your internet bandwidth and the approximate location of your devices to provide these benefits to you and your neighbors. Sidewalk is turned on for your device unless you have previously turned it off. You can turn off Sidewalk at any time. Learn more about Amazon Sidewalk."
+      },
+      {
+        "name": "Bluetooth connectivity",
+        "value": "Advanced Audio Distribution Profile (A2DP) support for audio streaming from your mobile device to Echo Show 5 or from Echo Show 5 to your Bluetooth speaker. Audio/Video Remote Control Profile (AVRCP) for voice control of connected mobile devices. Hands-free voice control is not supported for Mac OS X devices. Bluetooth speakers requiring PIN codes are not supported."
+      },
+      {
+        "name": "Audio",
+        "value": "Full range 1.75” built-in speaker."
+      },
+      {
+        "name": "System requirements",
+        "value": "Echo Show 5 comes ready to connect to your WiFi. The Alexa app is compatible with Fire OS, Android, and iOS devices and also accessible via your web browser. Supported operating systems. Certain skills and services may require subscription or other fees."
+      },
+      {
+        "name": "Setup technology",
+        "value": "Amazon wifii simple setup enables customers to connect smart devices to their wifi network in a few easy steps. WiFi simple setup is another way Alexa is always getting smarter. Learn more about frustration-free setup."
+      },
+      {
+        "name": "Processor",
+        "value": "MediaTek MT 8169 B"
+      },
+      {
+        "name": "Accessibility features",
+        "value": "To enable features that personalize Alexa to your abilities, go to Settings → Accessibility. • Tap to Alexa enables access to Alexa via touch, instead of speech, through on-screen tiles or a keyboard, including the ability to save your favorite actions. • Adaptive Listening provides customers more time to finish speaking before Alexa responds. • Preferred Speaking Rate enables customers to control how fast or slow Alexa speaks. • Alexa Captioning, Call Captioning, and Closed Captioning provide text captions in any mode for supported content. • Show and Tell helps customers who are blind or visually impaired identify products when you say “Alexa, what am I holding.” • VoiceView screen reader enables access for customers who are blind or visually impaired. • Screen Magnifier enables customers to zoom in/out, and pan around the screen. • Notify When Nearby will play notification sounds when you’re detected near your Echo device. • Kindle Read Aloud will have Alexa read your Kindle books aloud. • Real Time Text enables customers to type live text in a video call. • Alexa Accessibility features also include settings for Color Inversion, Color Correction, Request Sound and more."
+      },
+      {
+        "name": "Warranty and Service",
+        "value": "1-year limited warranty and service included. Optional 1-year, 2-year, and 3-year extended warranty available for U.S. customers sold separately. Use of Echo Show 5 is subject to these terms."
+      },
+      {
+        "name": "Included in the Box",
+        "value": "Echo Show 5 (3rd Gen), Glacier White power adapter (22W)/cable (4.9ft) and Quick Start Guide."
+      },
+      {
+        "name": "Generation",
+        "value": "Echo Show 5 (3rd Gen) - 2023 release"
+      },
+      {
+        "name": "Privacy Features",
+        "value": "Wake word technology, streaming indicators, microphone/camera off button, built-in camera shutter, the ability to view and delete your voice recordings, and more. Visit the Alexa Privacy Hub to explore how Alexa and Echo devices are designed to protect your privacy."
+      },
+      {
+        "name": "Language",
+        "value": "Alexa speaks English and Spanish"
+      },
+      {
+        "name": "Software Security Updates",
+        "value": "Learn more about these software security updates. If you already own an Amazon Echo, visit Manage Your Content and Devices for information specific to your device."
+      },
+      {
+        "name": "Smart Home Device Compatibility",
+        "value": "WiFi, Bluetooth Low Energy Mesh, and Matter"
+      }
+    ],
+    "specifications_flat": "Smart Home Device Compatibility: WiFi, Bluetooth Low Energy Mesh, and Matter. Software Security Updates: Learn more about these software security updates. If you already own an Amazon Echo, visit Manage Your Content and Devices for information specific to your device. Language: Alexa speaks English and Spanish. Privacy Features: Wake word technology, streaming indicators, microphone/camera off button, built-in camera shutter, the ability to view and delete your voice recordings, and more. Visit the Alexa Privacy Hub to explore how Alexa and Echo devices are designed to protect your privacy. Generation: Echo Show 5 (3rd Gen) - 2023 release. Included in the Box: Echo Show 5 (3rd Gen), Glacier White power adapter (22W)/cable (4.9ft) and Quick Start Guide. Warranty and Service: 1-year limited warranty and service included. Optional 1-year, 2-year, and 3-year extended warranty available for U.S. customers sold separately. Use of Echo Show 5 is subject to these terms. Accessibility features: To enable features that personalize Alexa to your abilities, go to Settings → Accessibility. • Tap to Alexa enables access to Alexa via touch, instead of speech, through on-screen tiles or a keyboard, including the ability to save your favorite actions. • Adaptive Listening provides customers more time to finish speaking before Alexa responds. • Preferred Speaking Rate enables customers to control how fast or slow Alexa speaks. • Alexa Captioning, Call Captioning, and Closed Captioning provide text captions in any mode for supported content. • Show and Tell helps customers who are blind or visually impaired identify products when you say “Alexa, what am I holding.” • VoiceView screen reader enables access for customers who are blind or visually impaired. • Screen Magnifier enables customers to zoom in/out, and pan around the screen. • Notify When Nearby will play notification sounds when you’re detected near your Echo device. • Kindle Read Aloud will have Alexa read your Kindle books aloud. • Real Time Text enables customers to type live text in a video call. • Alexa Accessibility features also include settings for Color Inversion, Color Correction, Request Sound and more. Processor: MediaTek MT 8169 B. Setup technology: Amazon wifii simple setup enables customers to connect smart devices to their wifi network in a few easy steps. WiFi simple setup is another way Alexa is always getting smarter. Learn more about frustration-free setup. System requirements: Echo Show 5 comes ready to connect to your WiFi. The Alexa app is compatible with Fire OS, Android, and iOS devices and also accessible via your web browser. Supported operating systems. Certain skills and services may require subscription or other fees. Audio: Full range 1.75” built-in speaker. Bluetooth connectivity: Advanced Audio Distribution Profile (A2DP) support for audio streaming from your mobile device to Echo Show 5 or from Echo Show 5 to your Bluetooth speaker. Audio/Video Remote Control Profile (AVRCP) for voice control of connected mobile devices. Hands-free voice control is not supported for Mac OS X devices. Bluetooth speakers requiring PIN codes are not supported. Amazon Sidewalk: Sidewalk uses Echo and Ring devices to securely keep other devices connected and help find lost items by reporting their approximate location to the owner. Sidewalk can enable supported devices to remain connected even when wifi is lost or the supported devices are outside the range of their home wifi. Sidewalk uses a small portion of your internet bandwidth and the approximate location of your devices to provide these benefits to you and your neighbors. Sidewalk is turned on for your device unless you have previously turned it off. You can turn off Sidewalk at any time. Learn more about Amazon Sidewalk. WiFi connectivity: Dual-band wifi supports 802.11a/b/g/n/ac wifi networks. Does not support connecting to ad-hoc (or peer-to-peer) wifi networks. Camera: 2 MP camera with built-in shutter (Photo quality/size may vary). Display: 5.5” touch screen. Weight: 16.1 oz (456 grams) Actual size and weight may vary by manufacturing process. Size: 5.8”W x 3.6”D x 3.2”H (147mm x 91mm x 82mm).",
+    "recent_sales": "10K+ bought in past month",
+    "gift_guide_badge": {
+      "badge_text": "10K+ bought in past month"
+    },
+    "deal_badge": "Limited time deal",
+    "product_deal": {
+      "badge_text": "Limited time deal",
+      "percentage_off": 22,
+      "raw": "-22%"
+    },
+    "language": "Alexa speaks English and Spanish"
+  },
+  "climate_pledge_friendly": {
+    "certifications": [
+      {
+        "name": "Sustainability features  Carbon impact",
+        "image": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+      },
+      {
+        "name": "Sustainability features",
+        "image": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+      },
+      {
+        "name": "Sustainability features",
+        "image": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+      },
+      {
+        "name": "Sustainability features"
+      },
+      {
+        "name": "Carbon impact",
+        "image": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+      },
+      {
+        "name": "Carbon impact"
+      }
+    ]
+  }
+}

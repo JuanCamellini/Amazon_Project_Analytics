@@ -1,0 +1,1068 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 19,
+    "credits_remaining": 81,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "type": "product",
+    "asin": "B0FC5FJZ9Z",
+    "amazon_domain": "amazon.com"
+  },
+  "request_metadata": {
+    "created_at": "2026-03-17T15:39:02.559Z",
+    "processed_at": "2026-03-17T15:39:07.958Z",
+    "total_time_taken": 5.4,
+    "amazon_url": "https://www.amazon.com/dp/B0FC5FJZ9Z?th=1&psc=1"
+  },
+  "product": {
+    "title": "Nintendo Switch 2 + Mario Kart World Bundle Mario Kart World Bundle Console Only",
+    "search_alias": {
+      "title": "Video Games",
+      "value": "search-alias=videogames"
+    },
+    "title_excluding_variant_name": "Nintendo Switch 2 + Mario Kart World Bundle",
+    "keywords": "Nintendo Switch 2 + Mario Kart World Bundle Mario Kart World Bundle Console Only",
+    "is_collection": false,
+    "asin": "B0FC5FJZ9Z",
+    "parent_asin": "B0FY5W52HQ",
+    "link": "https://www.amazon.com/Nintendo-Switch-Mario-World-Bundle-2/dp/B0FC5FJZ9Z",
+    "brand": "Nintendo",
+    "protection_plans": [
+      {
+        "name": "2-Year Protection Plan",
+        "duration_months": 24,
+        "price": {
+          "value": "47.99",
+          "billing_type": "one_time"
+        }
+      },
+      {
+        "name": "3-Year Protection Plan",
+        "duration_months": 36,
+        "price": {
+          "value": "60.99",
+          "billing_type": "one_time"
+        }
+      },
+      {
+        "name": "NEW Complete Protect",
+        "description": "One plan covers all eligible past and future purchases",
+        "price": {
+          "value": "16.99",
+          "billing_type": "monthly"
+        }
+      }
+    ],
+    "sell_on_amazon": false,
+    "variants": [
+      {
+        "asin": "B0FY3KRRWL",
+        "title": "Nintendo Switch 2 System Console + NSO 12 Mo + Expansion Pack",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0FY3KRRWL?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Style",
+            "value": "Nintendo Switch 2 System"
+          },
+          {
+            "name": "Pattern Name",
+            "value": "Console + NSO 12 Mo + Expansion Pack"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/31qrqqozVgL.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/31qrqqozVgL.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0FY3GMNBB",
+        "title": "Mario Kart World Bundle Console + NSO 12 Mo + Expansion Pack",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0FY3GMNBB?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Style",
+            "value": "Mario Kart World Bundle"
+          },
+          {
+            "name": "Pattern Name",
+            "value": "Console + NSO 12 Mo + Expansion Pack"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/31dsRnKp+CL.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/31dsRnKp+CL.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0FY3LLKCB",
+        "title": "Mario Kart World Bundle Console + Pro Controller",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0FY3LLKCB?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Style",
+            "value": "Mario Kart World Bundle"
+          },
+          {
+            "name": "Pattern Name",
+            "value": "Console + Pro Controller"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/41qmlsjmZRL._SL1001_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/41qmlsjmZRL._SL1001_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0G3CCYD1S",
+        "title": "Mario Kart World Bundle Console + Pokémon™ Legends: Z-A",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0G3CCYD1S?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Style",
+            "value": "Mario Kart World Bundle"
+          },
+          {
+            "name": "Pattern Name",
+            "value": "Console + Pokémon™ Legends: Z-A"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/61-Q0NJd2rL._SL1001_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/61-Q0NJd2rL._SL1001_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0G19J3J98",
+        "title": "Nintendo Switch 2 System Console + microSD Card",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0G19J3J98?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Style",
+            "value": "Nintendo Switch 2 System"
+          },
+          {
+            "name": "Pattern Name",
+            "value": "Console + microSD Card"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/51Wn5QHabCL._SL1001_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/51Wn5QHabCL._SL1001_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0FC5FJZ9Z",
+        "title": "Mario Kart World Bundle Console Only",
+        "is_current_product": true,
+        "link": "https://www.amazon.com/dp/B0FC5FJZ9Z?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Style",
+            "value": "Mario Kart World Bundle"
+          },
+          {
+            "name": "Pattern Name",
+            "value": "Console Only"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/715AHrLja3L._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/715AHrLja3L._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0FFF1BV7J",
+        "title": "Nintendo Switch 2 System Console + Pro Controller",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0FFF1BV7J?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Style",
+            "value": "Nintendo Switch 2 System"
+          },
+          {
+            "name": "Pattern Name",
+            "value": "Console + Pro Controller"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/417Pfcv9z+L._SL1001_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/417Pfcv9z+L._SL1001_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0F3GWXLTS",
+        "title": "Nintendo Switch 2 System Console Only",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0F3GWXLTS?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Style",
+            "value": "Nintendo Switch 2 System"
+          },
+          {
+            "name": "Pattern Name",
+            "value": "Console Only"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/714-Fh3ngmL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/714-Fh3ngmL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0G19JCY6C",
+        "title": "Mario Kart World Bundle Console + Case",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0G19JCY6C?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Style",
+            "value": "Mario Kart World Bundle"
+          },
+          {
+            "name": "Pattern Name",
+            "value": "Console + Case"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/51RTNbkGLnL._SL1001_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/51RTNbkGLnL._SL1001_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0G19QJ39Q",
+        "title": "Nintendo Switch 2 System Console + Case",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0G19QJ39Q?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Style",
+            "value": "Nintendo Switch 2 System"
+          },
+          {
+            "name": "Pattern Name",
+            "value": "Console + Case"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/51WJrmRGMvL._SL1001_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/51WJrmRGMvL._SL1001_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0FY3PT325",
+        "title": "Nintendo Switch 2 System Console + Donkey Kong Bananza",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0FY3PT325?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Style",
+            "value": "Nintendo Switch 2 System"
+          },
+          {
+            "name": "Pattern Name",
+            "value": "Console + Donkey Kong Bananza"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/6187yy7mW-L._SL1001_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/6187yy7mW-L._SL1001_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0G3CHX8R1",
+        "title": "Nintendo Switch 2 System Console + Pokémon™ Legends: Z-A",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0G3CHX8R1?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Style",
+            "value": "Nintendo Switch 2 System"
+          },
+          {
+            "name": "Pattern Name",
+            "value": "Console + Pokémon™ Legends: Z-A"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/614RwBATsGL._SL1001_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/614RwBATsGL._SL1001_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0G19N2BDY",
+        "title": "Mario Kart World Bundle Console + microSD Card",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0G19N2BDY?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Style",
+            "value": "Mario Kart World Bundle"
+          },
+          {
+            "name": "Pattern Name",
+            "value": "Console + microSD Card"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/51Bv3oBQKZL._SL1001_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/51Bv3oBQKZL._SL1001_.jpg"
+          }
+        ]
+      }
+    ],
+    "variant_asins_flat": "B0FY3KRRWL,B0FY3GMNBB,B0FY3LLKCB,B0G3CCYD1S,B0G19J3J98,B0FC5FJZ9Z,B0FFF1BV7J,B0F3GWXLTS,B0G19JCY6C,B0G19QJ39Q,B0FY3PT325,B0G3CHX8R1,B0G19N2BDY",
+    "proposition_65_warning": false,
+    "has_size_guide": true,
+    "add_on_item": {
+      "is_add_on_item": true
+    },
+    "categories": [
+      {
+        "name": "Video Games",
+        "link": "https://www.amazon.com/computer-video-games-hardware-accessories/b/ref=dp_bc_1?ie=UTF8&node=468642",
+        "category_id": "468642"
+      },
+      {
+        "name": "Nintendo Switch 2",
+        "link": "https://www.amazon.com/b/ref=dp_bc_2?ie=UTF8&node=206234609011",
+        "category_id": "206234609011"
+      },
+      {
+        "name": "Consoles",
+        "link": "https://www.amazon.com/b/ref=dp_bc_3?ie=UTF8&node=206234612011",
+        "category_id": "206234612011"
+      }
+    ],
+    "categories_flat": "Video Games > Nintendo Switch 2 > Consoles",
+    "description": "Limited quantities. While supplies last. Start your Nintendo Switch™ 2 adventure with this bundle that includes a system and a full game download for the Mario Kart™ World game, exclusive to Nintendo Switch 2. Nintendo Switch 2 is the next evolution of the Nintendo Switch system—packed with upgrades and fun ways to connect and play together! Discover Nintendo Switch 2 Your games will leap to life on the vivid, 7.9” 1080p screen that showcases the system’s powerful processing and graphics performance. The updated dock also supports up to 4K resolution and frame rates up to 120 fps with compatible games and TVs.* The reimagined Joy-Con™ 2 controllers snap into place with magnetic connectors—and each controller can even be used as a mouse in compatible games. Plus, you can still enjoy compatible games from your existing Nintendo Switch library**. Connect with friends and family with GameChat Once GameChat*** is setp up, press the C Button on your right Joy-Con 2 to start it up, a seamless way to voice chat with your friends, share your game screen, and connect via video chat with a compatible USB-C® camera (sold separately). Nintendo Switch 2 also has a built-in microphone that filters out noise around you for a clear experience. It’s like hanging out together…from wherever you are. GameChat Open-Access Period Until March 31, 2026, GameChat can be used without a Nintendo Switch Online membership. Afterwards, a Nintendo Switch Online membership will be required to use GameChat. Start playing right away with Mario Kart World Zip around courses in a vast world where everything is connected in the Mario Kart World game—exclusively for Nintendo Switch 2. Race along grassy plains, bustling cities, wide-open waters, big ol' volcanos, and more—plus everything in between. Play together on the same system**** with up to 4 players or go for the top spot in online*** races with up to 24 players. Start a GameChat session in Mario Kart World and whether you're competing in a race or simply exploring the open road, it's like you're zooming around together. Gear up for exclusive games and more Nintendo Switch 2 is the exclusive home to games like Mario Kart World, Donkey Kong™ Bananza, and more. You can also purchase upgrade packs for certain Nintendo Switch games like The Legend of Zelda™: Tears of the Kingdom, Super Mario Party™ Jamboree, and Kirby™ and the Forgotten Land for enhanced experiences and new content! • The next evolution of Nintendo Switch™ • One system, three play modes: TV, Tabletop, and Handheld • Larger, vivid, 7.9” LCD touch screen with support for HDR and up to 120 fps • Dock that supports 4K when connected to a compatible TV* • GameChat** lets you voice chat, share your game screen, and connect via video chat as you play • 256GB internal storage (a portion of which is used by the system), expandable with microSD Express cards (sold separately) • Nintendo Switch 2 plays compatible physical and digital Nintendo Switch games.** • Joy-Con 2 controllers attach magnetically and offer mouse controls in compatible games • Same-system multiplayer****, local wireless****, and online*** multiplayer • Mario Kart World lets you hit the open road with Mario and friends! Includes: • Nintendo Switch 2 Console • Mario Kart™ World full game download • Joy-Con 2 (L) in Light Blue • Joy-Con 2 (R) in Light Red • Nintendo Switch 2 AC Adapter • USB-C® Charging Cable • Nintendo Switch 2 Dock • Joy-Con 2 Grip • Joy-Con 2 Strap (×2) • Ultra High Speed HDMI™ Cable * TV and game must be compatible with 4K resolution. Frame rate is fixed to a maximum of 60 fps for 4K output. ** Some Nintendo Switch games may not be supported or fully compatible with Nintendo Switch 2. Visit Nintendo’s website for compatibility information. *** Internet, Nintendo Switch Online membership and Nintendo Account required for online features, including GameChat. Nintendo Switch 2 camera or compatible USB-C® camera required for video features. Not available in all countries. Terms and GameChat requirements apply. support.nintendo.com Nintendo Switch Online membership, Nintendo Switch 2 camera, and compatible USB-C® camera sold separately. **** Additional games, systems and/or accessories may be required for multiplayer mode. Games, systems and some accessories sold separately. Game Shown: ESRB Rating: E with Mild Fantasy Violence ESRB Interactive Elements: Users Interact",
+    "sub_title": {
+      "text": "Visit the Nintendo Store",
+      "link": "https://www.amazon.com/stores/Nintendo/page/BE0EB5D0-0AD6-4564-8BC5-4A129A3A9CFD?lp_asin=B0FC5FJZ9Z&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto"
+    },
+    "amazons_choice": {
+      "link": "https://www.amazon.com/Nintendo-Switch-Mario-World-Bundle-2/dp/B0FC5FJZ9Z"
+    },
+    "marketplace_id": "ATVPDKIKX0DER",
+    "rating": 4.7,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 89,
+        "count": 2578
+      },
+      "four_star": {
+        "percentage": 5,
+        "count": 145
+      },
+      "three_star": {
+        "percentage": 2,
+        "count": 58
+      },
+      "two_star": {
+        "percentage": 0,
+        "count": 0
+      },
+      "one_star": {
+        "percentage": 4,
+        "count": 116
+      }
+    },
+    "ratings_total": 2897,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/715AHrLja3L.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/71m2ijE8WqL._SL1500_.jpg",
+        "variant": "FRNT"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/615ir3fm25L._SL1500_.jpg",
+        "variant": "SIDE"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71BS3e5jgdL._SL1500_.jpg",
+        "variant": "BACK"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61kuAtB1ZyL._SL1500_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71w0rq3IyML._SL1500_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/91C84zsbFwL._SL1500_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81M2Uh-Vw5L._SL1500_.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81MikB6SAPL._SL1500_.jpg",
+        "variant": "PT05"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/91Q3oabrEqL._SL1500_.jpg",
+        "variant": "PT06"
+      }
+    ],
+    "images_count": 9,
+    "images_flat": "https://m.media-amazon.com/images/I/71m2ijE8WqL._SL1500_.jpg,https://m.media-amazon.com/images/I/615ir3fm25L._SL1500_.jpg,https://m.media-amazon.com/images/I/71BS3e5jgdL._SL1500_.jpg,https://m.media-amazon.com/images/I/61kuAtB1ZyL._SL1500_.jpg,https://m.media-amazon.com/images/I/71w0rq3IyML._SL1500_.jpg,https://m.media-amazon.com/images/I/91C84zsbFwL._SL1500_.jpg,https://m.media-amazon.com/images/I/81M2Uh-Vw5L._SL1500_.jpg,https://m.media-amazon.com/images/I/81MikB6SAPL._SL1500_.jpg,https://m.media-amazon.com/images/I/91Q3oabrEqL._SL1500_.jpg",
+    "videos_count": 6,
+    "videos_additional": [
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.02a6c1ea7489433b9cf6a1cf9bdf9136",
+        "product_asin": "B0FC5FJZ9Z",
+        "parent_asin": "B0FY5W52HQ",
+        "related_products": "B0FC5FJZ9Z",
+        "title": "Switch 2: Bigger, Brighter, and Perfect for On-the-Go!",
+        "profile_image_url": "https://m.media-amazon.com/images/I/51jfFETlygL._CR0,0,500,500_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/autismtiredmom",
+        "public_name": "Chic & Simple",
+        "vendor_code": "autismtiredmom:shop",
+        "vendor_name": "Chic & Simple",
+        "vendor_tracking_id": "onamzstev07ce-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/51w-b4srf6L._CR1,0,638,360_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/51w-b4srf6L.jpg",
+        "video_image_width": "640",
+        "video_image_height": "360",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/536c41f5-bfa0-4072-85aa-cd5b2c6bd3c8/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/cd1fd068-e6f2-410f-985c-0a3434d2b244/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/cd1fd068-e6f2-410f-985c-0a3434d2b244/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:16",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/d050c033-2465-4209-8e9d-8795876f9b79.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.05ada3dd6d2c45ea992c60697a528be4",
+        "product_asin": "B0FC5FJZ9Z",
+        "parent_asin": "B0FY5W52HQ",
+        "related_products": "B0FC5FJZ9Z,B0FC6J5CMG,B0FKTPLMQ1",
+        "title": "Why I Like The Switch 2",
+        "profile_image_url": "https://m.media-amazon.com/images/I/9185c1XCEDL._CR0,0,1618,1618_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/samuelreyes",
+        "public_name": "Samuel Reyes",
+        "vendor_code": "samuelreyes:shop",
+        "vendor_name": "Samuel Reyes",
+        "vendor_tracking_id": "onamzhttpgenk-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/A1vFMWMc2ML._CR25,0,1575,889_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/A1vFMWMc2ML.png",
+        "video_image_width": "1626",
+        "video_image_height": "889",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/4927afab-2907-417b-8133-717c54b9d3be/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3cc860ff-3a2a-47ff-b3b4-5ed911c9800a/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3cc860ff-3a2a-47ff-b3b4-5ed911c9800a/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "2:08",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/5a7037c9-2834-4615-9aea-dfb9a9d9db47.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0030ab2922e143fb93965fc0219d396e",
+        "product_asin": "B0FC5FJZ9Z",
+        "parent_asin": "B0FY5W52HQ",
+        "related_products": "B0FC5FJZ9Z",
+        "title": "WATCH BEFORE YOU BUY - the truth",
+        "profile_image_url": "https://m.media-amazon.com/images/I/A1ghs2SW9LL._CR0,0,2316,2316_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/beautyscoopguru",
+        "public_name": "Ashley Hatfield",
+        "vendor_code": "beautyscoopguru:shop",
+        "vendor_name": "Ashley Hatfield",
+        "vendor_tracking_id": "onamzash0a4f0-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/51Ol6TY0FYL._CR1,0,638,360_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/51Ol6TY0FYL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "360",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d411a0c3-92c1-4423-bf86-c32ef73c0c52/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2aeb3d9b-6db4-47f7-9262-244be9f9f977/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2aeb3d9b-6db4-47f7-9262-244be9f9f977/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:02",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/752399cf-c35b-42f5-8128-c554e9a7c8d8.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0437b1aaba94490591efdecaf0d7c7d4",
+        "product_asin": "B0FC5FJZ9Z",
+        "parent_asin": "B0FY5W52HQ",
+        "related_products": "B0FC5FJZ9Z,B0FQJBH5BK,B0FMY4H62B",
+        "title": "Save Money with This Switch 2 Charging Hack &amp; Docking Tip",
+        "profile_image_url": "https://images-na.ssl-images-amazon.com/images/S/influencer-profile-image-prod/logo/ebikeproducts_1640309389659_original._CR985,38,2547,2546_._FMjpg_._SL34_.jpeg",
+        "profile_link": "/shop/ebikeproducts",
+        "public_name": "Tips By Chris",
+        "vendor_code": "ebikeproducts:shop",
+        "vendor_name": "Tips By Chris",
+        "vendor_tracking_id": "onamzmiyamoto-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/61i4x-m0DxL._CR1,0,638,360_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61i4x-m0DxL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "360",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/7cb8b049-6a83-4a13-93a1-6f239ee9b9fe/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/8af53ce5-1e80-47a1-9746-361429fae957/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/8af53ce5-1e80-47a1-9746-361429fae957/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "3:07",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/9c7599cb-c0e8-4235-b864-92bf65e5d800.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.09a51e2ed4ae46ba94e0a6a8903232f9",
+        "product_asin": "B0FC5FJZ9Z",
+        "parent_asin": "B0FY5W52HQ",
+        "related_products": "B0F3VTFD6J,B0F3GWXLTS",
+        "title": "The Nintendo Switch 2 Is Incredible!",
+        "profile_image_url": "https://m.media-amazon.com/images/I/915+xxobr2L._CR0,0,1302,1302_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/ohnostory",
+        "public_name": "Beyond Tech",
+        "vendor_code": "ohnostory:shop",
+        "vendor_name": "Beyond Tech",
+        "vendor_tracking_id": "onamzmohamffa-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/71HFvTNIfIL._CR3,0,1914,1080_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/71HFvTNIfIL.jpg",
+        "video_image_width": "1920",
+        "video_image_height": "1080",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/0336c168-185b-4183-bf29-91d63db4090f/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e9241fdd-9a1d-4f10-817c-498da0846951/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e9241fdd-9a1d-4f10-817c-498da0846951/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "3:00",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/539a8ace-c424-419b-a57c-f66f3bfb97e4.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0490141caac5410894bdf5c022d0933f",
+        "product_asin": "B0FC5FJZ9Z",
+        "parent_asin": "B0FY5W52HQ",
+        "related_products": "B0FC5FJZ9Z",
+        "title": "Nintendo Switch 2",
+        "profile_image_url": "https://m.media-amazon.com/images/I/41XRMDGKqzL._CR0,0,432,432_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/migraprocesos",
+        "public_name": "Michele",
+        "vendor_code": "migraprocesos:shop",
+        "vendor_name": "Michele",
+        "vendor_tracking_id": "onamzmich0bac-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/71W6yoI0dPL._CR0,0,1080,609_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/71W6yoI0dPL.jpg",
+        "video_image_width": "1080",
+        "video_image_height": "1185",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/b9ea368b-c316-4b9f-bd40-d35486ce6f77/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ec1bffa4-4bb6-49f9-a417-bf6adb4f168a/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ec1bffa4-4bb6-49f9-a417-bf6adb4f168a/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:01",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/57742cd3-bc9e-4416-ac52-6ac7556d8554.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0355642af15b4d588c1ac165a80cb521",
+        "product_asin": "B0FC5FJZ9Z",
+        "parent_asin": "B0FY5W52HQ",
+        "related_products": "B0FC5FJZ9Z,B0BFJWCYTL,B0CHSLPR73",
+        "title": "Gamer approved Switch 2!",
+        "profile_image_url": "https://m.media-amazon.com/images/I/81qfmkbF6BL._CR0,0,2267,2267_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/jukegod",
+        "public_name": "Black T reviews",
+        "vendor_code": "jukegod:shop",
+        "vendor_name": "Black T reviews",
+        "vendor_tracking_id": "onamzgabr0f4f-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/A1SrNjRdbvL._CR0,0,1536,867_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/A1SrNjRdbvL.png",
+        "video_image_width": "1536",
+        "video_image_height": "1024",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2023c045-04f2-48ac-8667-e9852efed17c/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/9940932d-87a3-4531-beb1-03795f54796c/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/9940932d-87a3-4531-beb1-03795f54796c/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:15",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/ff954675-1369-4d5d-bb65-a20b3644c3a8.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0496e805381a43b5a7e1f18571d2ce8e",
+        "product_asin": "B0FC5FJZ9Z",
+        "parent_asin": "B0FY5W52HQ",
+        "related_products": "B0F3GWXLTS,B0FC5FJZ9Z,B0FT2ZJ2YR,B0FZTHYDRF",
+        "title": "Why I Got This Case Before My Switch 2. Great Protection",
+        "profile_image_url": "https://images-na.ssl-images-amazon.com/images/S/influencer-profile-image-prod/logo/ebikeproducts_1640309389659_original._CR985,38,2547,2546_._FMjpg_._SL34_.jpeg",
+        "profile_link": "/shop/ebikeproducts",
+        "public_name": "Tips By Chris",
+        "vendor_code": "ebikeproducts:shop",
+        "vendor_name": "Tips By Chris",
+        "vendor_tracking_id": "onamzmiyamoto-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/91tROmDQa4L._CR0,0,960,542_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/91tROmDQa4L.png",
+        "video_image_width": "960",
+        "video_image_height": "562",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/9e20d509-bb43-4e59-9ae8-ee768fbe606e/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e5af383c-c369-4e56-94bc-41a5943293a0/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e5af383c-c369-4e56-94bc-41a5943293a0/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "2:53",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/98902216-d490-48c1-a13b-2f48c1875e90.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0b60860e5f0b4dec9ccb8b8183d9122a",
+        "product_asin": "B0FC5FJZ9Z",
+        "parent_asin": "B0FY5W52HQ",
+        "related_products": "B0FC5FJZ9Z",
+        "title": "Watch Before Buying The Switch 2!",
+        "profile_image_url": "https://m.media-amazon.com/images/I/A1HvNYcQBGL._CR18,0,1152,1152_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/goodisms",
+        "public_name": "Swizzle Finds",
+        "vendor_code": "goodisms:shop",
+        "vendor_name": "Swizzle Finds",
+        "vendor_tracking_id": "onamzdawnsmar-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/A1WsMU44EAL._CR2,0,1276,720_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/A1WsMU44EAL.png",
+        "video_image_width": "1280",
+        "video_image_height": "720",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/65f8c9e4-b3b7-4f90-9990-7349bb2ce606/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/44195da5-4b31-4def-80c8-d09d4fe7b84b/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/44195da5-4b31-4def-80c8-d09d4fe7b84b/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:08",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/df9fc0a9-fc5d-4fff-af41-65f6a2d9d6d7.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.008adb7913574650aa27040919ec599d",
+        "product_asin": "B0FC5FJZ9Z",
+        "parent_asin": "B0FY5W52HQ",
+        "related_products": "B0FC5FJZ9Z",
+        "title": "Tips BEFORE BUYING this NINTENDO SWITCH 2",
+        "profile_image_url": "https://m.media-amazon.com/images/I/51EY09HaOjL._CR0,0,324,324_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/neverenoughdresses",
+        "public_name": "Deb",
+        "vendor_code": "neverenoughdresses:shop",
+        "vendor_name": "Deb",
+        "vendor_tracking_id": "onamzdebram06-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/51ld4Bq+sxL._CR1,0,638,360_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/51ld4Bq+sxL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "360",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/1592d064-540c-4a4f-b842-deb26d46733b/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/4b2ca238-ed8e-4c22-9173-840f01a588bd/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/4b2ca238-ed8e-4c22-9173-840f01a588bd/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:47",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/b1ffd495-ebd1-4bf6-a91c-60ee1e38757e.vtt"
+      }
+    ],
+    "is_bundle": false,
+    "feature_bullets": [
+      "This bundle includes a system and a full GAME DOWNLOAD for the Mario Kart World game, exclusive to Nintendo Switch 2. Limited quantities. While supplies last.",
+      "One system, three play modes: TV, Tabletop, and Handheld",
+      "Larger, vivid, 7.9” LCD touch screen with support for HDR and up to 120 fps",
+      "Dock that supports 4K when connected to a compatible TV*",
+      "GameChat** lets you voice chat, share your game screen, and connect via video chat as you play",
+      "256GB internal storage (a portion of which is used by the system), expandable with microSD Express cards (sold separately)",
+      "Nintendo Switch 2 plays compatible physical and digital Nintendo Switch games.**",
+      "Joy-Con 2 controllers attach magnetically and offer mouse controls in compatible games",
+      "Same-system multiplayer****, local wireless****, and online*** multiplayer",
+      "Mario Kart World lets you hit the open road with Mario and friends!"
+    ],
+    "feature_bullets_count": 10,
+    "feature_bullets_flat": "Mario Kart World lets you hit the open road with Mario and friends!. Same-system multiplayer****, local wireless****, and online*** multiplayer. Joy-Con 2 controllers attach magnetically and offer mouse controls in compatible games. Nintendo Switch 2 plays compatible physical and digital Nintendo Switch games.**. 256GB internal storage (a portion of which is used by the system), expandable with microSD Express cards (sold separately). GameChat** lets you voice chat, share your game screen, and connect via video chat as you play. Dock that supports 4K when connected to a compatible TV*. Larger, vivid, 7.9” LCD touch screen with support for HDR and up to 120 fps. One system, three play modes: TV, Tabletop, and Handheld. This bundle includes a system and a full GAME DOWNLOAD for the Mario Kart World game, exclusive to Nintendo Switch 2. Limited quantities. While supplies last.",
+    "top_reviews": [
+      {
+        "id": "R1WW1MNDKWXBU",
+        "title": "Simply AWESOME",
+        "body": "I made the jump from my 3DSXL, wanting to keep the portability and ensure i could play all the classics that nintendo does best. It came and was ready to play right out of the box. Incredible grafix and sound caught my attention and after a few hours of playing the Mario game I decided to actually check out the machine and it blew me away. It slipped into the TV module with no effort and the picture had me floored. Sound and controls were all simple to operate and just as easy and fun to play. The controllers are amazing they magnetically snap on to the machine for handheld use locking in so you can get into the game, OR you can pop them off with a very simple switch either give one to your friend and play head to head on the handheld or on a TV. connect them together with the help of the included magnetic holder, the two sides to connect for a separate controller that works with both the handheld unit and the TV even turn them into a nouse for some fun gaming . I feel as if i got two games for the price of one and the controllers can be used as a mouse or set them up for up to four players to enjoy this system on a high definition TV. Incredible computing power in a small but very comfortable and player friendly package. It has a speaker and micriphone built in and can easily take a nintendo compatable camera for online gaming and the web browser going forward. Charge as you play then drop it wirelessly into the dock and continue your game without missing a single game. This comes with everything for up to two people to play right out of the box. The price is so fair for all the enjoyment and possible ways to use this incredible gaming system. Nintendo really nailed every part of this game. Be aware they sall a pro controller which makes this even more pleasant for the long sessions. Make certain that you have lots of tine as the fun games will eat up many enjoyable hours. I could truly go on all day but real gamers will eat it up and newbies will be starting at the top.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on December 28, 2025"
+        },
+        "profile": {
+          "name": "JeffRuLz"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 87,
+        "link": "https://www.amazon.com/gp/customer-reviews/R1WW1MNDKWXBU/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R1IWMI221HWNUM",
+        "title": "Absolutely Worth It",
+        "body": "I’m extremely happy with this Nintendo Switch 2 + Mario Kart World Bundle. The console arrived well-packaged and in perfect condition. Setup was quick and easy, and the performance is a noticeable upgrade from the previous Switch — smoother gameplay, faster loading times, and better graphics.Mario Kart World is a blast right out of the box and perfect for both kids and adults. It’s great for family game nights, and the controls are very responsive. The Joy-Cons feel solid and comfortable, and the screen looks sharp whether docked or handheld.Overall, this bundle is an excellent value and totally worth the price. Highly recommend it to anyone looking to upgrade or jump into the Nintendo ecosystem!",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on January 30, 2026"
+        },
+        "profile": {
+          "name": "Nancy Li"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 64,
+        "link": "https://www.amazon.com/gp/customer-reviews/R1IWMI221HWNUM/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R3I3V4FMI9LE0L",
+        "title": "Nintendo does it again!! A must buy!",
+        "body": "A great and necessary upgrade from the Switch 1! If you didn’t have a Switch 1 this is a perfect way to start. Love how the joycons attach, the big screen is amazing and it feels so great in your hands. In Dock mode, everything runs smooth and looks amazing! Excellent performance and a must have console for every video game lover. If you owned a Switch 1 you need this upgrade, you will feel the difference and the availability to now play great 3rd party games PLUS the incredible Nintendo exclusive games make this purchase a no brainer. Highly recommend it!",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on January 14, 2026"
+        },
+        "profile": {
+          "name": "A. Mena"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 41,
+        "link": "https://www.amazon.com/gp/customer-reviews/R3I3V4FMI9LE0L/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R1K0LQ7A0VMS8W",
+        "title": "A solid improvement on the Switch, but nothing innovative",
+        "body": "Everything you liked about the Nintendo Switch, but slightly better.  The Nintendo Switch 2 takes no risks and pushes no envelopes.  It really is just a 2.0 version of the Nintendo Switch with all the same gimmicks, the same profile, the same OS design and so on.  Just some incremental hardware improvements (faster processor, better GPU, larger screen) and some quality-of-life improvements like a more accessible game card slot, memory card slot, kickstand, and multiple charging ports to make the console easier to use on the go.It's backwards-compatible with Nintendo Switch 1 games, and if you're willing to jump through some interface hoops you can even still use Nintendo Switch 1 Joycons in detached mode.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on January 31, 2026"
+        },
+        "profile": {
+          "name": "Mike B."
+        },
+        "verified_purchase": true,
+        "helpful_votes": 24,
+        "link": "https://www.amazon.com/gp/customer-reviews/R1K0LQ7A0VMS8W/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R117VLAYAZ76BX",
+        "title": "Fun",
+        "body": "Grandson loves the Switch 2, great graphics, easy to use, game is so much fun to play",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on March 2, 2026"
+        },
+        "profile": {
+          "name": "Mary"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 2,
+        "link": "https://www.amazon.com/gp/customer-reviews/R117VLAYAZ76BX/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R2YQFUZOXPAOEE",
+        "title": "Perfect Gift",
+        "body": "I purchased this as a gift and it was a hit. The Mario Kart bundle is fun and interactive. The switch itself is awesome if you want to play individually or with someone else. I'm 34 years old and i've played with my nephews and had so much fun. Awesome device that is easy to travel with",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on February 5, 2026"
+        },
+        "profile": {
+          "name": "Amazon Customer"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 5,
+        "link": "https://www.amazon.com/gp/customer-reviews/R2YQFUZOXPAOEE/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R23UIA9VUO9BA5",
+        "title": "Outstanding console for Xmas, shipping abismal",
+        "body": "For the console itself I'm very happy, the screen is good, you will notice that is not an OLED but playing in a TV that doesn't matter; and on the system itself once the game kicks in you forget that, it's heavier than the Switch OLED but the speed is incredible. The controls feel better in your hands but you will still prefer a controller for extended play sessions. I did a system transfer from my Switch 1 and it was fast and simple. You do not get all your digital games downloaded on the process, that happens once the console is setup,But I need to point out that the shipping materials were horrible. I received a cardboard bag, not a box without any filling. The box of the console is damaged in the corners, obviously by the wear and tear of the transport cars or trucks. I don't know if it's part of the policies of sustainability, but sending a $450 console in a bag without additional protection is incredible cheap and a worry source for us customers.If you don't believe me, buy an Iphone 17 or Sansung S26 and send it to yourself by mail in that bag and tell me how you feel when it arrives.Happy holidays.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on December 24, 2025"
+        },
+        "profile": {
+          "name": "Alex"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 23,
+        "link": "https://www.amazon.com/gp/customer-reviews/R23UIA9VUO9BA5/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R195JI8M3XK7CE",
+        "title": "Family game night",
+        "body": "Fantastic bundle. The console runs smoothly with quick load times and crisp graphics, and Mario Kart World is an absolute blast right out of the box. Setup was simple, performance is solid both handheld and docked, and it’s been a hit for family game nights. Great value for everything included.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on March 4, 2026"
+        },
+        "profile": {
+          "name": "Brett Miller"
+        },
+        "verified_purchase": true,
+        "link": "https://www.amazon.com/gp/customer-reviews/R195JI8M3XK7CE/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R142XNMUD8JJ5P",
+        "body": "Nie wieder...",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in Germany on March 2, 2026"
+        },
+        "profile": {
+          "name": "Sehr gut"
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "R1YICQKU77T0AA",
+        "title": "Awesome system!",
+        "body": "I’m really impressed by this new sequel to the OG switch.The graphics look really great! I’m really impressed with games like FF7 Remake, Cyberpunk and even old classics like Skyrim.Some games that didn’t run so well on the OG switch like Pokémon violet play a lot better. There are free or pretty cheap upgrades to many older games!The future looks bright with the promise of Fallout, new Mario games, Pokémon, maybe a new Zelda, a new Fire Emblem later in the year…The screen itself is a nice lcd panel. It’s no OLED. But… that will likely come in a few years as an updated system. And the magnetic joycons are really secure and slightly bigger than the older original system.The only negative would be that the system only includes 256gb of storage. And the new Micro SD Express storage cards aren’t cheap either. Especially if you choose a 512gb or 1tb option. No largest sizes exist yet. But; with some games taking 100gb or more each; you might not be able to keep everything on your system.Be aware that some games are fully on the game cartridge. Some are game key cards. They only contain a licence and the system will download the game. And now there are some games that only have a code in a box.Overall this is an amazing system! I’d definitely recommend people buy it!!!",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Canada on February 15, 2026"
+        },
+        "profile": {
+          "name": "A. Simpson"
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "R2MEWZA8YT5M9Y",
+        "body": "Todo llego muy bien, y me encanta.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Mexico on November 17, 2025"
+        },
+        "profile": {
+          "name": "Diana Boni"
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "R3VAEK71WJARH0",
+        "title": "genial de bon moments pour jouer",
+        "body": "top console",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in France on February 10, 2026"
+        },
+        "profile": {
+          "name": "R / G"
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "R2B28EVUSX4UXV",
+        "title": "Cómprenlo",
+        "body": "Excelente",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Mexico on October 10, 2025"
+        },
+        "profile": {
+          "name": "Lu CasH"
+        },
+        "verified_purchase": true
+      }
+    ],
+    "bestsellers_rank": [
+      {
+        "rank": 6,
+        "category": "Video Games",
+        "link": "https://www.amazon.com/gp/bestsellers/videogames/ref=pd_zg_ts_videogames"
+      },
+      {
+        "rank": 1,
+        "category": "Nintendo Switch 2 Consoles",
+        "link": "https://www.amazon.com/gp/bestsellers/videogames/206234612011/ref=pd_zg_hrsr_videogames"
+      }
+    ],
+    "buybox_winner": {
+      "maximum_order_quantity": {
+        "value": 2,
+        "hard_maximum": true
+      },
+      "price_only_available_in_cart": false,
+      "mixed_offers_count": 6,
+      "mixed_offers_from": {
+        "raw": "& FREE Shipping."
+      },
+      "trade_in_and_save": true,
+      "protection_plans": [
+        {
+          "name": "2-Year Protection Plan",
+          "duration_months": 24,
+          "price": {
+            "value": "47.99",
+            "billing_type": "one_time",
+            "currency": "USD"
+          }
+        },
+        {
+          "name": "3-Year Protection Plan",
+          "duration_months": 36,
+          "price": {
+            "value": "60.99",
+            "billing_type": "one_time",
+            "currency": "USD"
+          }
+        },
+        {
+          "name": "NEW Complete Protect",
+          "description": "One plan covers all eligible past and future purchases",
+          "price": {
+            "value": "16.99",
+            "billing_type": "monthly",
+            "currency": "USD"
+          }
+        }
+      ],
+      "return_policy": {
+        "duration_days": 30,
+        "type": "refund/replacement",
+        "seller": "Amazon"
+      },
+      "is_prime": true,
+      "is_prime_exclusive_deal": false,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "fulfillment": {
+        "type": "p1",
+        "standard_delivery": {
+          "date": "March 26 - April 9",
+          "name": "FREE"
+        },
+        "fastest_delivery": {
+          "date": "March 26 - April 7",
+          "name": "Or fastest delivery March 26 - April 7"
+        },
+        "is_sold_by_amazon": true,
+        "amazon_seller": {
+          "name": "Amazon"
+        },
+        "is_fulfilled_by_amazon": true,
+        "is_fulfilled_by_third_party": false,
+        "is_sold_by_third_party": false
+      },
+      "price": {
+        "symbol": "$",
+        "value": 499,
+        "currency": "USD",
+        "raw": "$499.00"
+      },
+      "shipping": {
+        "raw": "FREE"
+      }
+    },
+    "specifications": [
+      {
+        "name": "ASIN",
+        "value": "B0FC5FJZ9Z"
+      },
+      {
+        "name": "Release date",
+        "value": "July 8, 2025"
+      },
+      {
+        "name": "Customer Reviews",
+        "value": "4.7    4.7 out of 5 stars         (2,897)           4.7 out of 5 stars"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "#6 in Video Games (See Top 100 in Video Games) #1 in Nintendo Switch 2 Consoles"
+      },
+      {
+        "name": "Product Dimensions",
+        "value": "8.86 x 8.66 x 4.21 inches; 3.46 Pounds"
+      },
+      {
+        "name": "Type of item",
+        "value": "Accessory"
+      },
+      {
+        "name": "Language",
+        "value": "English"
+      },
+      {
+        "name": "Rated",
+        "value": "Rating Pending"
+      },
+      {
+        "name": "Item model number",
+        "value": "BEESKB6NA"
+      },
+      {
+        "name": "Item Weight",
+        "value": "3.46 pounds"
+      },
+      {
+        "name": "Manufacturer",
+        "value": "Nintendo"
+      },
+      {
+        "name": "Batteries",
+        "value": "3 Lithium Ion batteries required. (included)"
+      },
+      {
+        "name": "Date First Available",
+        "value": "July 8, 2025"
+      }
+    ],
+    "specifications_flat": "Date First Available: July 8, 2025. Batteries: 3 Lithium Ion batteries required. (included). Manufacturer: Nintendo. Item Weight: 3.46 pounds. Item model number: BEESKB6NA. Rated: Rating Pending. Language: English. Type of item: Accessory. Product Dimensions: 8.86 x 8.66 x 4.21 inches; 3.46 Pounds. Best Sellers Rank: #6 in Video Games (See Top 100 in Video Games) #1 in Nintendo Switch 2 Consoles. Customer Reviews: 4.7    4.7 out of 5 stars         (2,897)           4.7 out of 5 stars. Release date: July 8, 2025. ASIN: B0FC5FJZ9Z.",
+    "recent_sales": "10K+ bought in past month",
+    "gift_guide_badge": {
+      "badge_text": "10K+ bought in past month"
+    },
+    "release_date": "July 8, 2025",
+    "language": "English",
+    "manufacturer": "Nintendo",
+    "weight": "3.46 pounds",
+    "first_available": {
+      "raw": "July 8, 2025",
+      "utc": "2025-07-08T00:00:00.000Z"
+    },
+    "dimensions": "8.86 x 8.66 x 4.21 inches; 3.46 Pounds",
+    "model_number": "BEESKB6NA",
+    "bestsellers_rank_flat": "Category: Video Games | Rank: 6, Category: Nintendo Switch 2 Consoles | Rank: 1"
+  },
+  "brand_store": {
+    "id": "BE0EB5D0-0AD6-4564-8BC5-4A129A3A9CFD",
+    "link": "https://www.amazon.com/stores/Nintendo/page/BE0EB5D0-0AD6-4564-8BC5-4A129A3A9CFD"
+  }
+}

@@ -1,0 +1,1177 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 13,
+    "credits_remaining": 87,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "type": "product",
+    "asin": "B0CTJGJL2T",
+    "amazon_domain": "amazon.com"
+  },
+  "request_metadata": {
+    "created_at": "2026-03-17T15:37:44.115Z",
+    "processed_at": "2026-03-17T15:37:51.281Z",
+    "total_time_taken": 7.17,
+    "amazon_url": "https://www.amazon.com/dp/B0CTJGJL2T?th=1&psc=1"
+  },
+  "product": {
+    "title": "Candle Warmer Lamp with Timer Dimmable, Birthday Gifts for Women Mom, House Warming Gifts New Home Decor, Wax Melt Warmer for Jar Candles with 2 Bulbs Black",
+    "search_alias": {
+      "title": "Home & Kitchen",
+      "value": "search-alias=garden"
+    },
+    "title_excluding_variant_name": "Candle Warmer Lamp with Timer Dimmable, Birthday Gifts for Women Mom, House Warming Gifts New Home Decor, Wax Melt Warmer for Jar Candles with 2 Bulbs",
+    "keywords": "Candle Warmer Lamp with Timer Dimmable, Birthday Gifts for Women Mom, House Warming Gifts New Home Decor, Wax Melt Warmer for Jar Candles with 2 Bulbs Black",
+    "keywords_list": [
+      "Candle Warmer Lamp with Timer Dimmable",
+      "Birthday Gifts for Women Mom",
+      "House Warming Gifts New Home Decor",
+      "Wax Melt Warmer for Jar Candles with 2 Bulbs Black"
+    ],
+    "is_collection": false,
+    "asin": "B0CTJGJL2T",
+    "parent_asin": "B0DPM1SR7F",
+    "link": "https://www.amazon.com/GODONLIF-Candle-Adjustable-Dimmable-Candles/dp/B0CTJGJL2T",
+    "brand": "GODONLIF",
+    "sell_on_amazon": false,
+    "variants": [
+      {
+        "asin": "B0CTJGJL2T",
+        "title": "Black",
+        "is_current_product": true,
+        "link": "https://www.amazon.com/dp/B0CTJGJL2T?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Black"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/810vcJJDrkL._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/810vcJJDrkL._AC_SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0DCNW2KG9",
+        "title": "White",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0DCNW2KG9?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "White"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71qS3rkff7L._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71qS3rkff7L._AC_SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0CTHDQNMQ",
+        "title": "Red",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0CTHDQNMQ?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Red"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71o3GDETiDL._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71o3GDETiDL._AC_SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0FFMQLQ8Q",
+        "title": "Dark wood",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0FFMQLQ8Q?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Dark wood"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/814M1atSW5L._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/814M1atSW5L._AC_SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0DCNVMBBZ",
+        "title": "Gold",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0DCNVMBBZ?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Gold"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/81ffAlD2gxL._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/81ffAlD2gxL._AC_SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0FFMW939Q",
+        "title": "Raw wood",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0FFMW939Q?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Raw wood"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/81SWT1Bt6gL._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/81SWT1Bt6gL._AC_SL1500_.jpg"
+          }
+        ]
+      }
+    ],
+    "variant_asins_flat": "B0CTJGJL2T,B0DCNW2KG9,B0CTHDQNMQ,B0FFMQLQ8Q,B0DCNVMBBZ,B0FFMW939Q",
+    "proposition_65_warning": false,
+    "has_size_guide": true,
+    "add_on_item": {
+      "is_add_on_item": true
+    },
+    "categories": [
+      {
+        "name": "Home & Kitchen",
+        "link": "https://www.amazon.com/home-garden-kitchen-furniture-bedding/b/ref=dp_bc_1?ie=UTF8&node=1055398",
+        "category_id": "1055398"
+      },
+      {
+        "name": "Home Décor Products",
+        "link": "https://www.amazon.com/home-d%C3%A9cor/b/ref=dp_bc_2?ie=UTF8&node=1063278",
+        "category_id": "1063278"
+      },
+      {
+        "name": "Candles & Holders",
+        "link": "https://www.amazon.com/candles-holders/b/ref=dp_bc_3?ie=UTF8&node=1063282",
+        "category_id": "1063282"
+      },
+      {
+        "name": "Candleholders",
+        "link": "https://www.amazon.com/candleholders/b/ref=dp_bc_4?ie=UTF8&node=3734591",
+        "category_id": "3734591"
+      },
+      {
+        "name": "Candle Lamps",
+        "link": "https://www.amazon.com/candle-lamps/b/ref=dp_bc_5?ie=UTF8&node=3734711",
+        "category_id": "3734711"
+      }
+    ],
+    "categories_flat": "Home & Kitchen > Home Décor Products > Candles & Holders > Candleholders > Candle Lamps",
+    "sub_title": {
+      "text": "Visit the GODONLIF Store",
+      "link": "https://www.amazon.com/stores/GODONLIF/page/E6B47D0B-8450-434E-B48C-8BC865E54FE2?lp_asin=B0CTJGJL2T&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto"
+    },
+    "amazons_choice": {
+      "link": "https://www.amazon.com/GODONLIF-Candle-Adjustable-Dimmable-Candles/dp/B0CTJGJL2T",
+      "badge_text": "Amazon's  Choice"
+    },
+    "marketplace_id": "ATVPDKIKX0DER",
+    "has_coupon": true,
+    "coupon_text": "Apply 29% coupon",
+    "rating": 4.7,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 84,
+        "count": 5951
+      },
+      "four_star": {
+        "percentage": 9,
+        "count": 638
+      },
+      "three_star": {
+        "percentage": 3,
+        "count": 213
+      },
+      "two_star": {
+        "percentage": 1,
+        "count": 71
+      },
+      "one_star": {
+        "percentage": 3,
+        "count": 213
+      }
+    },
+    "ratings_total": 7085,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/810vcJJDrkL.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/81FfCXQCinL._AC_SL1500_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81xG8akax+L._AC_SL1500_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81AjvgZ7REL._AC_SL1500_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81EaHOGHJZL._AC_SL1500_.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81--ZgrkVzL._AC_SL1500_.jpg",
+        "variant": "PT05"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/810cb77LfqL._AC_SL1500_.jpg",
+        "variant": "PT06"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71ioZasMKmL._AC_SL1500_.jpg",
+        "variant": "PT07"
+      }
+    ],
+    "images_count": 7,
+    "images_flat": "https://m.media-amazon.com/images/I/81FfCXQCinL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81xG8akax+L._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81AjvgZ7REL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81EaHOGHJZL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81--ZgrkVzL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/810cb77LfqL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71ioZasMKmL._AC_SL1500_.jpg",
+    "videos_count": 9,
+    "videos_additional": [
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0dd1810cb06e4a769307e76bb7d769c5",
+        "product_asin": "B0CTJGJL2T",
+        "parent_asin": "B0DPM1SR7F",
+        "related_products": "B0CTJGJL2T,B0DCNVMBBZ,B0DCNW2KG9",
+        "title": "GODONLIF Candle Warmer Lamp for Christmas Birthday Gifts",
+        "public_name": "GODONLIF US",
+        "vendor_code": "Z7AX4",
+        "vendor_name": "GODONLIF US",
+        "video_image_url": "https://m.media-amazon.com/images/I/81xDJNKyA7L._CR0,0,2934,1656_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/81xDJNKyA7L.jpg",
+        "video_image_width": "2934",
+        "video_image_height": "1656",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/7d80d172-6608-459d-8a92-4884495d6f1c/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/edacf6a5-8ac6-4e9a-9b15-55fe1914b0ea/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/edacf6a5-8ac6-4e9a-9b15-55fe1914b0ea/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:35",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/a342c2a8-4cc6-4370-bdcd-c715e82f0270.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.02c17f124489415e95bea41cffcbb5d8",
+        "product_asin": "B0CTJGJL2T",
+        "parent_asin": "B0DPM1SR7F",
+        "related_products": "B0CTJGJL2T",
+        "title": "Should you get a candle warming lamp? #ad",
+        "profile_image_url": "https://m.media-amazon.com/images/I/81aFW5t57CL._CR171,0,903,903_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/remodelwithrobert",
+        "public_name": "Robert's Reviews",
+        "vendor_code": "remodelwithrobert:shop",
+        "vendor_name": "Robert's Reviews",
+        "vendor_tracking_id": "onamzrobe08b0-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/91O5fwlBrHL._CR2,0,1276,720_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/91O5fwlBrHL.png",
+        "video_image_width": "1280",
+        "video_image_height": "720",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/37b39d33-2840-4814-8246-ee199c2b22aa/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/eb281300-20bb-4cb6-922b-4f20cc95dc60/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/eb281300-20bb-4cb6-922b-4f20cc95dc60/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:52",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/c3e2c7a5-1b5a-4f21-a550-04cdec0d1b4c.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0b3f388b824e4251a2540a7653cf2406",
+        "product_asin": "B0CTJGJL2T",
+        "parent_asin": "B0DPM1SR7F",
+        "related_products": "B0CTJGJL2T",
+        "title": "Candle warmer review",
+        "profile_image_url": "https://m.media-amazon.com/images/I/91ffWRAUgOL._CR0,0,1605,1605_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/courtneylynnmcelwain",
+        "public_name": "Courtney McElwain",
+        "vendor_code": "courtneylynnmcelwain:shop",
+        "vendor_name": "Courtney McElwain",
+        "vendor_tracking_id": "onamzcour0429-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/71zJMFl4VZL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/71zJMFl4VZL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1137",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/6c9fef3e-2b70-4745-ae09-bb6695f32fc3/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/5b038cf4-c8a8-408c-a5c9-ae5b0bd55a54/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/5b038cf4-c8a8-408c-a5c9-ae5b0bd55a54/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:02",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/656e52d7-4176-4d9b-b357-e7732d9f0770.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.05339333d018411aa9422edb7d8b4315",
+        "product_asin": "B0CTJGJL2T",
+        "parent_asin": "B0DPM1SR7F",
+        "related_products": "B0CTJGJL2T",
+        "title": "Copy of GODONLIF Candle Warmer Lamp with Timer Dimmable",
+        "profile_image_url": "https://m.media-amazon.com/images/I/81NJ9LnHfsL._CR0,0,1284,1284_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/influencer-f5cf6ec1",
+        "public_name": "Daily Finds by Millie",
+        "vendor_code": "influencer-f5cf6ec1:shop",
+        "vendor_name": "Daily Finds by Millie",
+        "vendor_tracking_id": "onamzmodelook-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/81AFdW9Lp6L._CR2,0,1276,720_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/81AFdW9Lp6L.png",
+        "video_image_width": "1280",
+        "video_image_height": "720",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/390cacdf-fdf2-4d99-8401-db7eba6ab82f/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/51284a84-c99b-4674-8d8f-ed1f3b8332c4/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/51284a84-c99b-4674-8d8f-ed1f3b8332c4/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:26",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/cbf27f5f-ad4b-4a5a-9bce-b7c3cb75dc90.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0504360cfe0e4501b622fa3fd52289ae",
+        "product_asin": "B0CTJGJL2T",
+        "parent_asin": "B0DPM1SR7F",
+        "related_products": "B0CTJGJL2T",
+        "title": "Honest review of this candle warmer lamp!",
+        "profile_image_url": "https://m.media-amazon.com/images/I/B1QBHenMkNL._CR829,187,1162,1162_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/katelyngwilson",
+        "public_name": "Katelyn Wilson",
+        "vendor_code": "katelyngwilson:shop",
+        "vendor_name": "Katelyn Wilson",
+        "vendor_tracking_id": "onamzkat0be86-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/A1M0GHXTTQL._CR2,0,1276,720_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/A1M0GHXTTQL.png",
+        "video_image_width": "1280",
+        "video_image_height": "720",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ab10b5d8-1ca6-468b-90a7-8ea173f749c4/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/cbf7e59a-a9c1-450e-86fe-92ce19cdebbe/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/cbf7e59a-a9c1-450e-86fe-92ce19cdebbe/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:34",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/27a4a8b9-b4ae-44f2-b146-6a283fb7dddd.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.005711f15cea4e15a4f9368f8b7b7f58",
+        "product_asin": "B0CTJGJL2T",
+        "parent_asin": "B0DPM1SR7F",
+        "related_products": "B0CTJGJL2T",
+        "title": "Great Candle warmer with timer",
+        "profile_image_url": "https://m.media-amazon.com/images/I/81oDU8mBXaL._CR0,0,1293,1293_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/a.geek.in.glasses",
+        "public_name": "Stephanie Nericcio",
+        "vendor_code": "a.geek.in.glasses:shop",
+        "vendor_name": "Stephanie Nericcio",
+        "vendor_tracking_id": "onamzste05224-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/61y-WJ61DVL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61y-WJ61DVL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1137",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/9f6d7e5a-d071-4756-ace4-5ee57048f7c4/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f6aa9765-4939-44e0-9ac2-e866ae70c806/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f6aa9765-4939-44e0-9ac2-e866ae70c806/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:13",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/1b64faa8-858c-4a9e-bfa1-637f975d0adc.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0489d20b73bb457582248cdc2cd5394a",
+        "product_asin": "B0CTJGJL2T",
+        "parent_asin": "B0DPM1SR7F",
+        "related_products": "B0CTJGJL2T",
+        "title": "Honest Review of a Candle Warmer",
+        "profile_image_url": "https://m.media-amazon.com/images/I/A11XyTmBubL._CR0,0,4284,4284_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/laurastutz",
+        "public_name": "Laura Stutz",
+        "vendor_code": "laurastutz:shop",
+        "vendor_name": "Laura Stutz",
+        "vendor_tracking_id": "onamzlau0ce5f-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/81SxkqtgIPL._CR2,0,1276,720_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/81SxkqtgIPL.png",
+        "video_image_width": "1280",
+        "video_image_height": "720",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c37f053b-f91a-4f02-b1f7-f62de3e46977/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f6e8bafa-0436-462c-8e0d-38489fa7fe72/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f6e8bafa-0436-462c-8e0d-38489fa7fe72/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:04",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/659dfd3c-210c-4179-9b79-ded9c2f69d80.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0ffaef30105843f7816f64299e205d23",
+        "product_asin": "B0CTJGJL2T",
+        "parent_asin": "B0DPM1SR7F",
+        "related_products": "B0CTJGJL2T",
+        "title": "Review of Candle Warmer",
+        "profile_image_url": "https://m.media-amazon.com/images/I/61SBX2GWBKL._CR0,0,500,500_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/lesliebfromhome",
+        "public_name": "Leslie Bolinger",
+        "vendor_code": "lesliebfromhome:shop",
+        "vendor_name": "Leslie Bolinger",
+        "vendor_tracking_id": "onamzlesl0e94-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/81QjO5xfFdL._CR2,0,1276,720_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/81QjO5xfFdL.png",
+        "video_image_width": "1280",
+        "video_image_height": "720",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/aba029fe-aa11-4f20-8ea7-f20f3cf9caa4/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2f4507ac-82b3-478f-9dd2-215cad357c33/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2f4507ac-82b3-478f-9dd2-215cad357c33/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:57",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/69ba8758-7b7a-49ce-92d9-b8dede0edb91.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0d518247fd9149109649c0302a5cd064",
+        "product_asin": "B0CTJGJL2T",
+        "parent_asin": "B0DPM1SR7F",
+        "related_products": "B0CTJGJL2T",
+        "title": "The perfect dimmable candle warmer lamp",
+        "profile_image_url": "https://m.media-amazon.com/images/I/71oVppuYEbL._CR0,0,1125,1125_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/tara.barnett85",
+        "public_name": "Tara Barnett",
+        "vendor_code": "tara.barnett85:shop",
+        "vendor_name": "Tara Barnett",
+        "vendor_tracking_id": "onamztaraba0d-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/71V3YKA3p5L._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/71V3YKA3p5L.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1137",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/cbce6d52-5547-4704-80a0-805a5703ae22/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ba2d4fe3-eb01-4168-a49e-0eba3419e45e/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ba2d4fe3-eb01-4168-a49e-0eba3419e45e/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:29",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/0e580e25-a3b5-493f-8a24-fa613518a4f7.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0b4f45ec82494df0b292ff82fcb406cb",
+        "product_asin": "B0CTJGJL2T",
+        "parent_asin": "B0DPM1SR7F",
+        "related_products": "B0CTJGJL2T",
+        "title": "Beautiful while it lasted",
+        "profile_image_url": "https://m.media-amazon.com/images/S/amazon-avatars-global/011b46b5-b75c-42cb-a4dd-10a11cd95fd9._CR0%2C0%2C1122%2C1122_SX460_._SL34_.jpg",
+        "profile_link": "/gp/profile/amzn1.account.AEC57CWXSEXNKK6RXU3NVFZD4ZGA",
+        "public_name": "Mel ",
+        "vendor_code": "AOD60",
+        "vendor_name": "Mel ",
+        "video_image_url": "https://m.media-amazon.com/images/I/61B78O9w4aL._CR0,0,1080,609_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61B78O9w4aL.jpg",
+        "video_image_width": "1080",
+        "video_image_height": "1920",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/44c016fd-78de-4d36-a438-be181f4d31ab/embedded.cc.default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/23688c4c-5ebc-48a0-b768-e0291af9cf9f/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/23688c4c-5ebc-48a0-b768-e0291af9cf9f/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:25",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/7d9d3d0e-8b44-42ac-bf38-41a345a8d6f6.vtt"
+      }
+    ],
+    "is_bundle": false,
+    "feature_bullets": [
+      "Safety and Environmental Friendliness: Our electric Candl Warmer Lamp gently melting the candle from the top down. With no open flame, it eliminates concerns of flame, smoke, soot, and pollution. Ideal for homes with children and pets, it offers a safe and clean ambiance for households, apartments, and offices.",
+      "Fully Dimmable and 12-Hour Timing Function: Enjoy complete control over the ambiance with our dimmable knob, offering unrestricted dimming for personalized melting speeds. Additionally, our Candle+Warmer+Lamp boasts a convenient timer function, ensuring a perfect atmosphere tailored to your preferences, facilitating uninterrupted sweet dreams.",
+      "Sleek Design, Versatile Usage: Combining classical elegance with modern aesthetics, our lamp features a metal base and glass lampshade, exuding timeless sophistication. Perfect for illuminating family living rooms, bedrooms, studies, offices, yoga rooms, and more, it serves as both a functional and decorative accent.",
+      "Height-Adjustable: Adapt our Candle+Warmer+Lamp to various jar candle sizes with its adjustable pole, ensuring a perfect fit for any decor. Crafted with premium materials, its versatile design promises lasting, exquisite lighting, infusing your space with enduring charm and warmth.",
+      "Gifts Idea: The wax melter will be the best gifts for mom choice to show your love to your families, lover, or friends on mothers day, Thanksgiving, Christmas, New Year, Housewarming or other special occasions. Birthday gifts for women, birthday gifts for men, bridal shower gifts, bridesmaid gifts wedding gifts, teacher appreciation gifts, graduation gifts and mothers day gifts.",
+      "The All-in-One Gift & Decor Centerpiece:This candle warmer lamp creates a warm, inviting atmosphere—ideal for both Easter gifts for her or him and mothers day gifts for mom. Its elegant glow doubles as a subtle decor piece for room decor or bedroom decor, adding a soothing ambiance to any celebration. Thoughtfully designed and ready to gift, it's a memorable way to show you care."
+    ],
+    "feature_bullets_count": 6,
+    "feature_bullets_flat": "The All-in-One Gift & Decor Centerpiece:This candle warmer lamp creates a warm, inviting atmosphere—ideal for both Easter gifts for her or him and mothers day gifts for mom. Its elegant glow doubles as a subtle decor piece for room decor or bedroom decor, adding a soothing ambiance to any celebration. Thoughtfully designed and ready to gift, it's a memorable way to show you care. Gifts Idea: The wax melter will be the best gifts for mom choice to show your love to your families, lover, or friends on mothers day, Thanksgiving, Christmas, New Year, Housewarming or other special occasions. Birthday gifts for women, birthday gifts for men, bridal shower gifts, bridesmaid gifts wedding gifts, teacher appreciation gifts, graduation gifts and mothers day gifts. Height-Adjustable: Adapt our Candle+Warmer+Lamp to various jar candle sizes with its adjustable pole, ensuring a perfect fit for any decor. Crafted with premium materials, its versatile design promises lasting, exquisite lighting, infusing your space with enduring charm and warmth. Sleek Design, Versatile Usage: Combining classical elegance with modern aesthetics, our lamp features a metal base and glass lampshade, exuding timeless sophistication. Perfect for illuminating family living rooms, bedrooms, studies, offices, yoga rooms, and more, it serves as both a functional and decorative accent. Fully Dimmable and 12-Hour Timing Function: Enjoy complete control over the ambiance with our dimmable knob, offering unrestricted dimming for personalized melting speeds. Additionally, our Candle+Warmer+Lamp boasts a convenient timer function, ensuring a perfect atmosphere tailored to your preferences, facilitating uninterrupted sweet dreams. Safety and Environmental Friendliness: Our electric Candl Warmer Lamp gently melting the candle from the top down. With no open flame, it eliminates concerns of flame, smoke, soot, and pollution. Ideal for homes with children and pets, it offers a safe and clean ambiance for households, apartments, and offices.",
+    "top_reviews": [
+      {
+        "id": "R4QQADCP8LZ6H",
+        "title": "It’s such a thoughtful gift idea too — perfect for birthdays, housewarming gifts, or for moms",
+        "body": "I absolutely love the GODONLIF Candle Warmer Lamp with Timer Dimmable! It’s both beautiful and incredibly functional. The design is elegant and looks like a piece of decor rather than just a candle accessory, so it fits perfectly in my home.The dimmable light is one of my favorite features because you can easily adjust the brightness to create the perfect cozy atmosphere. The timer option is also super convenient — I can turn it on and not worry about remembering to shut it off later. It warms candles evenly and fills the room with fragrance without having to light a flame, which feels much safer.It’s such a thoughtful gift idea too — perfect for birthdays, housewarming gifts, or for moms who love cozy home decor. If you enjoy candles but want a safer and more stylish way to use them, this candle warmer lamp is a fantastic purchase! 🕯️✨",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on March 12, 2026"
+        },
+        "profile": {
+          "name": "ok al"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 4,
+        "link": "https://www.amazon.com/gp/customer-reviews/R4QQADCP8LZ6H/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R10F897QW87EBJ",
+        "title": "Better and safer than lighting a candle wick !",
+        "body": "Brilliant idea and use for outdated hot projector style bulbs.Very clever use.I have two different models with different controllers, but they both work the same way.The difference is how the controllers are designed.But, both are very safe to use because the controller have both a dimmer and a built in timer.I usually get great results with only an hour of use.The wax in my biggest candles (2\" and 4\") melts in about 15 minutes.This works better than lighting the wicks.AND, there is no smoke after blowing out the wicks !!!The smoke really kills the fragrance effects, so I'm really happy to have this alternative.I have been using ceramic dishes that were heated with a Christmas tree bulb, with little effect.This is reliable and the lights are attractive, too.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on February 27, 2026"
+        },
+        "profile": {
+          "name": "Mac Cat"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 4,
+        "link": "https://www.amazon.com/gp/customer-reviews/R10F897QW87EBJ/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R30UNEJZHHL214",
+        "title": "Highly recommend!",
+        "body": "This is a fantastic addition to my home and is great if you love candles! The timer and dimmable features allow for complete control over the scent intensity and makes me feel a lot safer knowing there is no flame. I love that it comes with two bulbs, and it does an excellent job of melting wax evenly without the need for an open flame. It’s both a functional tool for my favorite jar candles and a beautiful piece of decor that fits right in with my other recent home office and furniture purchases.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on January 18, 2026"
+        },
+        "profile": {
+          "name": "Riley Hearn"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 6,
+        "link": "https://www.amazon.com/gp/customer-reviews/R30UNEJZHHL214/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R2TLO4FULDOCQR",
+        "title": "Cute and works",
+        "body": "Works great. Nice table side ambient light. Melts the wax.  Adjustable height on neck, different levels of heat, and timer settings for auto turn off. Takes 30 seconds to assemble, just screw in light bulb",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on February 10, 2026"
+        },
+        "profile": {
+          "name": "Sabrina L."
+        },
+        "verified_purchase": true,
+        "helpful_votes": 8,
+        "link": "https://www.amazon.com/gp/customer-reviews/R2TLO4FULDOCQR/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "RJQRFRZZLMYQO",
+        "title": "So much safer than burning a candle and no soot residue.",
+        "body": "These are so awesome and amazing, very pretty and durable.  Just like burning a candle but no actual flame or soot residue.  It adjusts to height of most candles, small or large, also can adjust the heat of light bulb for light or heavy scent along with how long you want to run, 2 hr increments to automatically shut-off or just leave on.  Highly recommend, makes great gifts.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on February 25, 2026"
+        },
+        "profile": {
+          "name": "Marcia Martinak"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 5,
+        "link": "https://www.amazon.com/gp/customer-reviews/RJQRFRZZLMYQO/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R11EISZYUCF0A4",
+        "title": "Perfect decoration item",
+        "body": "It comes with timer options, different light intensity. It comes ready to use",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in the United States on March 1, 2026"
+        },
+        "profile": {
+          "name": "Valentina Cunningham"
+        },
+        "verified_purchase": true,
+        "helpful_votes": null,
+        "link": "https://www.amazon.com/gp/customer-reviews/R11EISZYUCF0A4/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R2ZI2UB8Q0DM4V",
+        "title": "Love this candle warmer",
+        "body": "This warmer is easy to adjust the height for various sizes of jars.  I have been using fruits, herbs, and spices such as cinnamon sticks and vanilla in water and it really works great. I can smell the fragrance in the other room.  Very easy to use the timer as well.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on February 4, 2026"
+        },
+        "profile": {
+          "name": "Allison M. Evans"
+        },
+        "verified_purchase": true,
+        "helpful_votes": null,
+        "link": "https://www.amazon.com/gp/customer-reviews/R2ZI2UB8Q0DM4V/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R38S0RS8NZWVXE",
+        "title": "Perfect Gift for anyone!",
+        "body": "I purchased this candle warmer lamp as a Christmas gift and have been using it regularly since. It has a sleek, decorative look that works well as home décor even when it’s not in use. The adjustable dimmer is a great feature because it allows you to control how strong the scent throw is, and the built-in timer adds convenience and peace of mind. It heats candles evenly from the top, which helps release fragrance without the soot or flame of a traditional candle. The lamp accommodates standard jar candles easily, and setup was quick and straightforward. One thing to note is that it does require a nearby outlet, so placement options may be slightly limited. Overall, this is a practical and attractive alternative to burning candles, especially for homes with kids or pets.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on January 1, 2026"
+        },
+        "profile": {
+          "name": "Jenny"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 11,
+        "link": "https://www.amazon.com/gp/customer-reviews/R38S0RS8NZWVXE/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R10YIFYRE4QCRH",
+        "body": "Une lampe qui fonctionne très bien , vendue avec 2 ampoules facile y a trouver dans le commerce . Fini d’allumer la bougie avec le briquet !!",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in France on September 12, 2024"
+        },
+        "profile": {
+          "name": "Pommeau de douche"
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "R1JKFREJ2FL3P5",
+        "body": "Súper eficaz",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Spain on January 6, 2025"
+        },
+        "profile": {
+          "name": "Cliente Amazon"
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "R1K7WFOCO9PQQW",
+        "title": "Not working",
+        "body": "It worked for first 6 hours, and hasn't been working since.",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in India on January 12, 2026"
+        },
+        "profile": {
+          "name": "Alaya Francis"
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "R1VJJZ6KY1DKEH",
+        "body": "Schöne Kerzenleuchte und eine gute Alternative zum Anzünden der Kerzen. Qualitativ kann man hier nicht meckern. Und preisleistungstechnisch könnten sich hier die Markenhersteller gerne mal eine Scheibe abschneiden. :)",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Germany on October 5, 2024"
+        },
+        "profile": {
+          "name": "Ladrogue'"
+        }
+      },
+      {
+        "id": "R1VKOIXNTQZQYU",
+        "title": "Great Quality and looks very elegant",
+        "body": "I’ve been using this Candle Warmer Lamp with Timer and Dimmable settings for over six months now, and I absolutely love it. It’s both elegant and incredibly useful. The design adds a classy touch to my space, and I get compliments on it all the time.The adjustable brightness is great for setting the mood, and the timer feature makes it super convenient. What I love most is how well it warms the candle without having to light a flame. My house smells amazing, and the scent spreads evenly and lasts longer than when I burn candles.After months of regular use, it still works perfectly and looks just as beautiful as the day I got it. If you’re looking for a stylish, safe, and effective way to enjoy your favourite candles, this lamp is definitely worth it!",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Canada on November 29, 2025"
+        },
+        "profile": {
+          "name": "Mannu"
+        },
+        "verified_purchase": true
+      }
+    ],
+    "bestsellers_rank": [
+      {
+        "rank": 58,
+        "category": "Home & Kitchen",
+        "link": "https://www.amazon.com/gp/bestsellers/home-garden/ref=pd_zg_ts_home-garden"
+      },
+      {
+        "rank": 1,
+        "category": "Candle Lamps",
+        "link": "https://www.amazon.com/gp/bestsellers/home-garden/3734711/ref=pd_zg_hrsr_home-garden"
+      }
+    ],
+    "a_plus_content": {
+      "has_a_plus_content": true,
+      "has_brand_story": true,
+      "brand_story": {
+        "hero_image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/73d68390-57fb-4071-9279-da986a6895ab.__CR0,0,2928,1250_PT0_SX1464_V1___.jpg",
+        "brand_store": {
+          "link": "/stores/page/E6B47D0B-8450-434E-B48C-8BC865E54FE2",
+          "id": "E6B47D0B-8450-434E-B48C-8BC865E54FE2"
+        },
+        "images": [
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/73d68390-57fb-4071-9279-da986a6895ab.__CR0,0,2928,1250_PT0_SX1464_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/315ce25c-020e-4bdd-88d0-efe246f95977.__CR161,0,1279,1600_PT0_SX362_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ed0fec76-c8fd-4108-8430-ea5b266fd323.__CR0,49,2000,2503_PT0_SX362_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2d85249e-2c78-4902-a834-80e128172713.__CR89,0,1598,2000_PT0_SX362_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8bad2264-8b3a-48a7-8326-8ddf6e0516fe.__CR56,0,789,987_PT0_SX362_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/de1d3316-cf0a-422d-99d8-9ad549db12aa.__CR50,0,400,500_PT0_SX362_V1___.jpg"
+        ]
+      },
+      "all_images": [
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/73d68390-57fb-4071-9279-da986a6895ab.__CR0,0,2928,1250_PT0_SX1464_V1___.jpg",
+          "name": "candle lamp"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/cafb476e-7b29-4391-83c3-9cf8794ee498.__AC_SR166,182___.jpg",
+          "name": "GODONLIF Candle Warmer Lamp, Dimmable Candle Lamp Warmer, Adjustable Height, Timer, Bedroom Livin..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e602fc51-6586-44e0-8f74-807000abf1eb.__AC_SR166,182___.jpg",
+          "name": "GODONLIF Candle Warmer Lamp, Dimmable Candle Warmer with Adjustable Height, Timer, Bedroom Living..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8bad2264-8b3a-48a7-8326-8ddf6e0516fe.__CR0,0,900,987_PT0_SX166_V1___.jpg",
+          "name": "candle warmer lamp bulb"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/de1d3316-cf0a-422d-99d8-9ad549db12aa.__AC_SR166,182___.jpg",
+          "name": "Jar candle"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/315ce25c-020e-4bdd-88d0-efe246f95977.__CR161,0,1279,1600_PT0_SX362_V1___.jpg",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ed0fec76-c8fd-4108-8430-ea5b266fd323.__CR0,49,2000,2503_PT0_SX362_V1___.jpg",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2d85249e-2c78-4902-a834-80e128172713.__CR89,0,1598,2000_PT0_SX362_V1___.jpg",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8bad2264-8b3a-48a7-8326-8ddf6e0516fe.__CR56,0,789,987_PT0_SX362_V1___.jpg",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/de1d3316-cf0a-422d-99d8-9ad549db12aa.__CR50,0,400,500_PT0_SX362_V1___.jpg",
+          "name": "Jar candle"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1d5b4a88-f0a9-4cff-98eb-fae5edb6000e.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "candle warmer lamp"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/21bea82c-8242-4f5c-b902-4bdce10dd294.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "candle lamp warmer"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f202867b-a676-41f4-80cc-9ce7086277d6.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "lamp candle warmer"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0c220009-79c7-4fcf-a327-6916af0f0852.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "candle warmer lamp with timer"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b496ec61-459a-455f-8f99-ea9c32299a29.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "candle warmer"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6b9a98c5-115b-483a-91e9-bdeffb08f1cf.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "Birthday gifts for women"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4865d670-830d-4f9f-a1ff-e8a79ed0654d.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "home decor"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9d1b6d8d-d0d8-4b24-8bf4-d057c38520c0.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "essentials kitchen decor"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f5e3121f-816c-4a76-b387-a4ff6cd9c842.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "gifts for adults"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0c4fe3a5-c8e5-40b3-a781-6667b9235c04.__CR0,0,2927,1200_PT0_SX1464_V1___.jpg",
+          "name": "birthday gifts for women"
+        }
+      ],
+      "third_party": false
+    },
+    "buybox_winner": {
+      "maximum_order_quantity": {
+        "value": 100,
+        "hard_maximum": true
+      },
+      "secondary_buybox": {
+        "offer_id": "9IMIy67PHHdIH9IQnCkjs7JorvCoFGsm90D6Ib6E9eoCAQ5QFLA4QojgDgP9Xl9gKSqjM2Ess2PNOqysgTSgs0z3WLBdVro3OJ4VgpjlRXC4H7gCc0%2FXBcF%2BWkq8YyK6lHQagz88JX24VyrEzHf4nbS6m25vDEW9onoYNThDGQr1rjYVvnRKubPpOR0QnMKE",
+        "caption": "Save with Used - Like New",
+        "availability": {
+          "raw": "In Stock",
+          "type": "in_stock"
+        },
+        "condition": {
+          "raw": "Save with Used - Like New",
+          "isNew": false
+        },
+        "price": {
+          "symbol": "$",
+          "value": 19.99,
+          "currency": "USD",
+          "raw": "$19.99"
+        },
+        "maximum_order_quantity": {
+          "value": 30
+        },
+        "fulfillment": {
+          "standard_delivery": {
+            "date": "Monday, March 23",
+            "name": "FREE"
+          },
+          "fastest_delivery": {
+            "date": "Friday, March 20",
+            "name": "Or Prime members get FREE delivery Friday, March 20. Order within 13 hrs 22 mins. Join Prime"
+          },
+          "amazon_seller": {
+            "name": "GODONLIF US"
+          },
+          "is_sold_by_amazon": false,
+          "is_sold_by_third_party": true,
+          "fulfilled_by": "Fulfilled by Amazon",
+          "is_fulfilled_by_amazon": true,
+          "is_fulfilled_by_third_party": false,
+          "fulfillment_type": "p2"
+        },
+        "ship_details": "Sold by GODONLIF US and Fulfilled by Amazon.",
+        "accept_free_return": true
+      },
+      "price_only_available_in_cart": false,
+      "join_prime_price": {
+        "symbol": "$",
+        "value": 19.99,
+        "currency": "USD",
+        "raw": "Exclusive Prime price                 Join Prime to buy this item at $19.99"
+      },
+      "offer_id": "9IMIy67PHHdIH9IQnCkjs7JorvCoFGsm90D6Ib6E9eoCAQ5QFLA4QojgDgP9Xl9gKSqjM2Ess2PNOqysgTSgs0z3WLBdVro3OJ4VgpjlRXC4H7gCc0/XBcF+Wkq8YyK6lHQagz88JX24VyrEzHf4nbS6m25vDEW9onoYNThDGQr1rjYVvnRKubPpOR0QnMKE",
+      "mixed_offers_count": 33,
+      "mixed_offers_from": {
+        "symbol": "$",
+        "value": 35,
+        "currency": "USD",
+        "raw": "FREE Shipping on orders over $35.00 shipped by Amazon."
+      },
+      "trade_in_and_save": true,
+      "return_policy": {
+        "duration_days": 30,
+        "type": "refund/replacement"
+      },
+      "is_prime": true,
+      "is_prime_exclusive_deal": false,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "In Stock",
+        "dispatch_days": 1
+      },
+      "fulfillment": {
+        "type": "p2",
+        "standard_delivery": {
+          "date": "Sunday, March 22",
+          "name": "FREE"
+        },
+        "fastest_delivery": {
+          "date": "Friday, March 20",
+          "name": "Or Prime members get FREE delivery Friday, March 20. Order within 13 hrs 22 mins. Join Prime"
+        },
+        "is_sold_by_amazon": false,
+        "is_fulfilled_by_amazon": true,
+        "is_fulfilled_by_third_party": false,
+        "is_sold_by_third_party": true,
+        "third_party_seller": {
+          "name": "GODONLIF US",
+          "link": "https://www.amazon.com/sp?marketplaceID=ATVPDKIKX0DER&seller=A2UI7CVMQD0FUA&isAmazonFulfilled=1&ref_=dp_merchant_link&asin=B0CTJGJL2T",
+          "id": "A2UI7CVMQD0FUA"
+        }
+      },
+      "price": {
+        "symbol": "$",
+        "value": 19.99,
+        "currency": "USD",
+        "raw": "$19.99"
+      },
+      "rrp": {
+        "symbol": "$",
+        "value": 32.99,
+        "currency": "USD",
+        "raw": "$32.99"
+      },
+      "shipping": {
+        "raw": "FREE"
+      }
+    },
+    "specifications": [
+      {
+        "name": "Finish Type",
+        "value": "Painted"
+      },
+      {
+        "name": "Base Material",
+        "value": "Metal"
+      },
+      {
+        "name": "Bulb Base",
+        "value": "GU10"
+      },
+      {
+        "name": "Product Dimensions",
+        "value": "5.5\"D x 5.5\"W x 12\"H"
+      },
+      {
+        "name": "Item Weight",
+        "value": "0.9 Kilograms"
+      },
+      {
+        "name": "Lamp Type",
+        "value": "Candle"
+      },
+      {
+        "name": "Shade Color",
+        "value": "Beige"
+      },
+      {
+        "name": "Shade Material",
+        "value": "Glass"
+      },
+      {
+        "name": "Switch Type",
+        "value": "Rotary"
+      },
+      {
+        "name": "Style",
+        "value": "Modern"
+      },
+      {
+        "name": "Brand",
+        "value": "GODONLIF"
+      },
+      {
+        "name": "Color",
+        "value": "Black"
+      },
+      {
+        "name": "Special Feature",
+        "value": "Adjustable Height, Timer"
+      },
+      {
+        "name": "Light Source Type",
+        "value": "Halogen"
+      },
+      {
+        "name": "Material",
+        "value": "Metal"
+      },
+      {
+        "name": "Room Type",
+        "value": "Bathroom, Bedroom, Deck, Living Room, Office"
+      },
+      {
+        "name": "Recommended Uses For Product",
+        "value": "Candle Warming, Decoration, Reading"
+      },
+      {
+        "name": "Power Source",
+        "value": "Corded Electric"
+      },
+      {
+        "name": "Shape",
+        "value": "Dome"
+      },
+      {
+        "name": "Number of Light Sources",
+        "value": "1"
+      },
+      {
+        "name": "Included Components",
+        "value": "Bulb"
+      },
+      {
+        "name": "Is Waterproof",
+        "value": "False"
+      },
+      {
+        "name": "Bulb Shape Size",
+        "value": "MR16"
+      },
+      {
+        "name": "Mounting Type",
+        "value": "Tabletop"
+      },
+      {
+        "name": "Wattage",
+        "value": "50 watts"
+      },
+      {
+        "name": "Number of Items",
+        "value": "1"
+      },
+      {
+        "name": "Lighting Method",
+        "value": "Halogen"
+      },
+      {
+        "name": "Control Method",
+        "value": "Push Button"
+      },
+      {
+        "name": "Indoor/Outdoor Usage",
+        "value": "Indoor"
+      },
+      {
+        "name": "Specific Uses For Product",
+        "value": "Decoration, Indoor Residential and Office Use"
+      },
+      {
+        "name": "Water Resistance Level",
+        "value": "Not Water Resistant"
+      },
+      {
+        "name": "Installation Type",
+        "value": "Tabletop"
+      },
+      {
+        "name": "Number of Pieces",
+        "value": "1"
+      },
+      {
+        "name": "Efficiency",
+        "value": "Low"
+      },
+      {
+        "name": "Voltage",
+        "value": "220 Volts (AC)"
+      },
+      {
+        "name": "Base Diameter",
+        "value": "5.5 Inches"
+      },
+      {
+        "name": "Is Cordless?",
+        "value": "No"
+      },
+      {
+        "name": "Assembly Required",
+        "value": "No"
+      },
+      {
+        "name": "Model Name",
+        "value": "12547672"
+      },
+      {
+        "name": "Product Benefits",
+        "value": "candle warmer lamp"
+      },
+      {
+        "name": "Size",
+        "value": "12 inches (H) x 5.5 inches (W) x 5.5 inches (D)"
+      },
+      {
+        "name": "Manufacturer",
+        "value": "GODONLIF"
+      },
+      {
+        "name": "Theme",
+        "value": "Christmas, Floral"
+      },
+      {
+        "name": "Light Color",
+        "value": "Warm white"
+      },
+      {
+        "name": "Item Weight",
+        "value": "1.98 pounds"
+      },
+      {
+        "name": "ASIN",
+        "value": "B0CTJGJL2T"
+      },
+      {
+        "name": "Item model number",
+        "value": "PY-T23011"
+      },
+      {
+        "name": "Customer Reviews",
+        "value": "4.7    4.7 out of 5 stars         (7,085)           4.7 out of 5 stars"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "#58 in Home & Kitchen (See Top 100 in Home & Kitchen) #1 in Candle Lamps"
+      },
+      {
+        "name": "Diameter",
+        "value": "4.6 Inches"
+      },
+      {
+        "name": "Finish types",
+        "value": "Painted"
+      },
+      {
+        "name": "Warranty Description",
+        "value": "1 year manufacturer."
+      },
+      {
+        "name": "Batteries required",
+        "value": "No"
+      }
+    ],
+    "specifications_flat": "Batteries required: No. Warranty Description: 1 year manufacturer. Finish types: Painted. Diameter: 4.6 Inches. Best Sellers Rank: #58 in Home & Kitchen (See Top 100 in Home & Kitchen) #1 in Candle Lamps. Customer Reviews: 4.7    4.7 out of 5 stars         (7,085)           4.7 out of 5 stars. Item model number: PY-T23011. ASIN: B0CTJGJL2T. Item Weight: 1.98 pounds. Light Color: Warm white. Theme: Christmas, Floral. Manufacturer: GODONLIF. Size: 12 inches (H) x 5.5 inches (W) x 5.5 inches (D). Product Benefits: candle warmer lamp. Model Name: 12547672. Assembly Required: No. Is Cordless?: No. Base Diameter: 5.5 Inches. Voltage: 220 Volts (AC). Efficiency: Low. Number of Pieces: 1. Installation Type: Tabletop. Water Resistance Level: Not Water Resistant. Specific Uses For Product: Decoration, Indoor Residential and Office Use. Indoor/Outdoor Usage: Indoor. Control Method: Push Button. Lighting Method: Halogen. Number of Items: 1. Wattage: 50 watts. Mounting Type: Tabletop. Bulb Shape Size: MR16. Is Waterproof: False. Included Components: Bulb. Number of Light Sources: 1. Shape: Dome. Power Source: Corded Electric. Recommended Uses For Product: Candle Warming, Decoration, Reading. Room Type: Bathroom, Bedroom, Deck, Living Room, Office. Material: Metal. Light Source Type: Halogen. Special Feature: Adjustable Height, Timer. Color: Black. Brand: GODONLIF. Style: Modern. Switch Type: Rotary. Shade Material: Glass. Shade Color: Beige. Lamp Type: Candle. Item Weight: 0.9 Kilograms. Product Dimensions: 5.5\"D x 5.5\"W x 12\"H. Bulb Base: GU10. Base Material: Metal. Finish Type: Painted.",
+    "recent_sales": "30K+ bought in past month",
+    "gift_guide_badge": {
+      "badge_text": "30K+ bought in past month"
+    },
+    "color": "Warm white",
+    "material": "Metal",
+    "manufacturer": "GODONLIF",
+    "weight": "1.98 pounds",
+    "dimensions": "5.5\"D x 5.5\"W x 12\"H",
+    "model_number": "PY-T23011",
+    "bestsellers_rank_flat": "Category: Home & Kitchen | Rank: 58, Category: Candle Lamps | Rank: 1"
+  },
+  "climate_pledge_friendly": {
+    "certifications": [
+      {
+        "name": "Sustainability features  Recycled materials",
+        "image": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+      },
+      {
+        "name": "Sustainability features",
+        "image": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+      },
+      {
+        "name": "Sustainability features",
+        "image": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+      },
+      {
+        "name": "Sustainability features"
+      },
+      {
+        "name": "Recycled materials",
+        "image": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+      },
+      {
+        "name": "Recycled materials"
+      }
+    ]
+  },
+  "brand_store": {
+    "id": "E6B47D0B-8450-434E-B48C-8BC865E54FE2",
+    "link": "https://www.amazon.com/stores/GODONLIF/page/E6B47D0B-8450-434E-B48C-8BC865E54FE2"
+  }
+}

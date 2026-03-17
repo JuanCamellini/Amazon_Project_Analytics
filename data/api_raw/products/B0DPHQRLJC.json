@@ -1,0 +1,1222 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 7,
+    "credits_remaining": 93,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "type": "product",
+    "asin": "B0DPHQRLJC",
+    "amazon_domain": "amazon.com"
+  },
+  "request_metadata": {
+    "created_at": "2026-03-17T15:36:20.215Z",
+    "processed_at": "2026-03-17T15:36:27.638Z",
+    "total_time_taken": 7.42,
+    "amazon_url": "https://www.amazon.com/dp/B0DPHQRLJC?th=1&psc=1"
+  },
+  "product": {
+    "title": "eos Cashmere Body Wash – Vanilla Cashmere, Moisturizing Body Wash, Creamy Gel Formula, with Shea Butter, Glycerin, Vitamin E, pH Balanced, Sensitive Skin, Vegan, 16 fl oz Vanilla Cashmere 16 Fl Oz (Pack of 1)",
+    "search_alias": {
+      "title": "Beauty & Personal Care",
+      "value": "search-alias=beauty"
+    },
+    "title_excluding_variant_name": "eos Cashmere Body Wash – Vanilla Cashmere, Moisturizing Body Wash, Creamy Gel Formula, with Shea Butter, Glycerin, Vitamin E, pH Balanced, Sensitive Skin, Vegan, 16 fl oz",
+    "keywords": "eos Cashmere Body Wash – Vanilla Cashmere, Moisturizing Body Wash, Creamy Gel Formula, with Shea Butter, Glycerin, Vitamin E, pH Balanced, Sensitive Skin, Vegan, 16 fl oz Vanilla Cashmere 16 Fl Oz (Pack of 1)",
+    "keywords_list": [
+      "eos Cashmere Body Wash – Vanilla Cashmere",
+      "Moisturizing Body Wash",
+      "Creamy Gel Formula",
+      "with Shea Butter",
+      "Glycerin",
+      "Vitamin E",
+      "pH Balanced",
+      "Sensitive Skin",
+      "Vegan",
+      "16 fl oz Vanilla Cashmere 16 Fl Oz (Pack of 1)"
+    ],
+    "is_collection": false,
+    "asin": "B0DPHQRLJC",
+    "parent_asin": "B0DVXNMGZT",
+    "gtin": "840044714163",
+    "link": "https://www.amazon.com/eos-Moisturizing-Nourishing-Phthalate-Sensitive/dp/B0DPHQRLJC",
+    "brand": "eos",
+    "sell_on_amazon": false,
+    "bestseller_badge": {
+      "link": "https://www.amazon.com/gp/bestsellers/beauty/11056291/ref=zg_b_bs_11056291_1",
+      "category": "Bath & Shower Gels",
+      "badge_text": "#1 Best Seller"
+    },
+    "variants": [
+      {
+        "asin": "B0CRRDHK2N",
+        "title": "Pink Champagne 16 Fl Oz (Pack of 1)",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0CRRDHK2N?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Scent",
+            "value": "Pink Champagne"
+          },
+          {
+            "name": "Size",
+            "value": "16 Fl Oz (Pack of 1)"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/51D3tdpEl7L._SL1000_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/51D3tdpEl7L._SL1000_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0CVGSRGZG",
+        "title": "Crème de Pistachio 16 Fl Oz (Pack of 1)",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0CVGSRGZG?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Scent",
+            "value": "Crème de Pistachio"
+          },
+          {
+            "name": "Size",
+            "value": "16 Fl Oz (Pack of 1)"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/61UMsbkdsDL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/61UMsbkdsDL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0CX21RTHH",
+        "title": "Fresh & Cozy 16 Fl Oz (Pack of 1)",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0CX21RTHH?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Scent",
+            "value": "Fresh & Cozy"
+          },
+          {
+            "name": "Size",
+            "value": "16 Fl Oz (Pack of 1)"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/51JjHDWgSKL._SL1000_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/51JjHDWgSKL._SL1000_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0DPHQRLJC",
+        "title": "Vanilla Cashmere 16 Fl Oz (Pack of 1)",
+        "is_current_product": true,
+        "link": "https://www.amazon.com/dp/B0DPHQRLJC?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Scent",
+            "value": "Vanilla Cashmere"
+          },
+          {
+            "name": "Size",
+            "value": "16 Fl Oz (Pack of 1)"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/51bThha-95L._SL1000_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/51bThha-95L._SL1000_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0CRRXV99Y",
+        "title": "Jasmine Peach 16 Fl Oz (Pack of 1)",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0CRRXV99Y?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Scent",
+            "value": "Jasmine Peach"
+          },
+          {
+            "name": "Size",
+            "value": "16 Fl Oz (Pack of 1)"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71NTp5CELUL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71NTp5CELUL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0F3HZ2NX3",
+        "title": "Vanilla 2.5 Fl Oz (Pack of 1)",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0F3HZ2NX3?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Scent",
+            "value": "Vanilla"
+          },
+          {
+            "name": "Size",
+            "value": "2.5 Fl Oz (Pack of 1)"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/61e2zRpEWjL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/61e2zRpEWjL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0CRRFF6DS",
+        "title": "Coconut Waters 16 Fl Oz (Pack of 1)",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0CRRFF6DS?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Scent",
+            "value": "Coconut Waters"
+          },
+          {
+            "name": "Size",
+            "value": "16 Fl Oz (Pack of 1)"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/51MuZoC807L._SL1000_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/51MuZoC807L._SL1000_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0CRRYVY43",
+        "title": "Pomegranate Raspberry 16 Fl Oz (Pack of 1)",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0CRRYVY43?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Scent",
+            "value": "Pomegranate Raspberry"
+          },
+          {
+            "name": "Size",
+            "value": "16 Fl Oz (Pack of 1)"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/7181vNw5m-L._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/7181vNw5m-L._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0CRRX3ZMS",
+        "title": "Strawberry Dream 16 Fl Oz (Pack of 1)",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0CRRX3ZMS?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Scent",
+            "value": "Strawberry Dream"
+          },
+          {
+            "name": "Size",
+            "value": "16 Fl Oz (Pack of 1)"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/41UVhzere0L.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/41UVhzere0L.jpg"
+          }
+        ]
+      }
+    ],
+    "variant_asins_flat": "B0CRRDHK2N,B0CVGSRGZG,B0CX21RTHH,B0DPHQRLJC,B0CRRXV99Y,B0F3HZ2NX3,B0CRRFF6DS,B0CRRYVY43,B0CRRX3ZMS",
+    "proposition_65_warning": false,
+    "has_size_guide": true,
+    "add_on_item": {
+      "is_add_on_item": true
+    },
+    "categories": [
+      {
+        "name": "Beauty & Personal Care",
+        "link": "https://www.amazon.com/Beauty-Makeup-Skin-Hair-Products/b/ref=dp_bc_1?ie=UTF8&node=3760911",
+        "category_id": "3760911"
+      },
+      {
+        "name": "Skin Care",
+        "link": "https://www.amazon.com/Skin-Body-Face-Products/b/ref=dp_bc_2?ie=UTF8&node=11060451",
+        "category_id": "11060451"
+      },
+      {
+        "name": "Body",
+        "link": "https://www.amazon.com/Body-Skin-Care-Products-Beauty/b/ref=dp_bc_3?ie=UTF8&node=11060521",
+        "category_id": "11060521"
+      },
+      {
+        "name": "Cleansers",
+        "link": "https://www.amazon.com/Body-Cleansers/b/ref=dp_bc_4?ie=UTF8&node=11056281",
+        "category_id": "11056281"
+      },
+      {
+        "name": "Body Washes",
+        "link": "https://www.amazon.com/Bath-Shower-Gels/b/ref=dp_bc_5?ie=UTF8&node=11056291",
+        "category_id": "11056291"
+      }
+    ],
+    "categories_flat": "Beauty & Personal Care > Skin Care > Body > Cleansers > Body Washes",
+    "description": "eos Vanilla Cashmere Body Wash turns your daily shower into a creamy, feel-good body care ritual. This moisturizing body wash gently cleanses while wrapping skin in a warm, decadent vanilla scent with soft cashmere vibes. The pH-balanced formula creates a rich, foamy lather that rinses clean, leaving skin feeling silky, smooth, and comforted. Infused with a nourishing blend of shea butter, cocoa butter, glycerin, vitamin E, and sunflower seed oil, this vanilla body wash helps lock in moisture and support soft, healthy-feeling skin. Designed for women and gynecologist approved, it’s gentle enough for sensitive skin and perfect for everyday use. Complete your routine by layering with Vanilla Cashmere Body Lotion and Body Mist for a long-lasting scent experience.",
+    "sub_title": {
+      "text": "Visit the eos Store",
+      "link": "https://www.amazon.com/stores/eosproducts/page/93EADE0D-F5E1-496B-9A38-50F0CA6D4FDA?lp_asin=B0DPHQRLJC&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto"
+    },
+    "amazons_choice": {
+      "link": "https://www.amazon.com/eos-Moisturizing-Nourishing-Phthalate-Sensitive/dp/B0DPHQRLJC"
+    },
+    "marketplace_id": "ATVPDKIKX0DER",
+    "rating": 4.8,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 88,
+        "count": 12907
+      },
+      "four_star": {
+        "percentage": 7,
+        "count": 1027
+      },
+      "three_star": {
+        "percentage": 2,
+        "count": 293
+      },
+      "two_star": {
+        "percentage": 1,
+        "count": 147
+      },
+      "one_star": {
+        "percentage": 2,
+        "count": 293
+      }
+    },
+    "ratings_total": 14667,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/51bThha-95L.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/7108Wobv5ML._SL1500_.jpg",
+        "variant": "FRNT"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81fHqBUEczL._SL1500_.jpg",
+        "variant": "SIDE"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81TotZd2TCL._SL1500_.jpg",
+        "variant": "BACK"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/611NkDRs-PL._SL1500_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71sOFN2JcdL._SL1500_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71BFhDi6Z6L._SL1500_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71z2kmC3T+L._SL1500_.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/41yba+G7gQL.jpg",
+        "variant": "PT05"
+      }
+    ],
+    "images_count": 8,
+    "images_flat": "https://m.media-amazon.com/images/I/7108Wobv5ML._SL1500_.jpg,https://m.media-amazon.com/images/I/81fHqBUEczL._SL1500_.jpg,https://m.media-amazon.com/images/I/81TotZd2TCL._SL1500_.jpg,https://m.media-amazon.com/images/I/611NkDRs-PL._SL1500_.jpg,https://m.media-amazon.com/images/I/71sOFN2JcdL._SL1500_.jpg,https://m.media-amazon.com/images/I/71BFhDi6Z6L._SL1500_.jpg,https://m.media-amazon.com/images/I/71z2kmC3T+L._SL1500_.jpg,https://m.media-amazon.com/images/I/41yba+G7gQL.jpg",
+    "videos_count": 6,
+    "videos_additional": [
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0f25f5e1fb1341188f3ef330c57c8513",
+        "product_asin": "B0DPHQRLJC",
+        "parent_asin": "B0DVXNMGZT",
+        "related_products": "B0CRRDHK2N",
+        "title": "eos Cashmere Body Wash",
+        "profile_image_url": "https://m.media-amazon.com/images/I/61NaC+JbGaL._CR0,0,557,557_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/influencer-246b08cb",
+        "public_name": "Kamoni Renee🍹",
+        "vendor_code": "influencer-246b08cb:shop",
+        "vendor_name": "Kamoni Renee🍹",
+        "vendor_tracking_id": "onamzproductp-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/71H8dc6WocL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/71H8dc6WocL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1137",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d0f781be-d52a-4a44-bca1-914fe6803b04/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c368cad2-df63-431a-bf10-b15baec7c3d7/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c368cad2-df63-431a-bf10-b15baec7c3d7/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:23",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/8522d7d9-1e5e-410b-bbf5-f468cbe370ea.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.087045af23bb47169ebaba650a9cd973",
+        "product_asin": "B0DPHQRLJC",
+        "parent_asin": "B0DVXNMGZT",
+        "related_products": "B0DPHQRLJC,B0DVXNMGZT",
+        "title": "The top wash!",
+        "profile_image_url": "https://m.media-amazon.com/images/I/71Rt2+JtVPL._CR0,0,1336,1336_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/vivalaspets",
+        "public_name": "Neon City Walkers",
+        "vendor_code": "vivalaspets:shop",
+        "vendor_name": "Neon City Walkers",
+        "vendor_tracking_id": "onamzjennperr-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/61hdmo0glTL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61hdmo0glTL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1137",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/345b73fa-d9c7-43ee-a5b7-8e9165ce53fb/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a285d5bd-25ea-48fe-acff-fb37c0322228/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a285d5bd-25ea-48fe-acff-fb37c0322228/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:31",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/241e5e6a-429f-435c-a1d5-e66264df36e9.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.00d5ce3536aa4733a8768770ae2e38d1",
+        "product_asin": "B0DPHQRLJC",
+        "parent_asin": "B0DVXNMGZT",
+        "related_products": "B0CRQYQBZ4,B0DPHQRLJC",
+        "title": "EOS Vanilla Cashmere Body Care Routine",
+        "profile_image_url": "https://m.media-amazon.com/images/I/21HENhLZjRL._CR0,0,100,100_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/fleekbyahliyah",
+        "public_name": "Ahliyah Michelle",
+        "vendor_code": "fleekbyahliyah:shop",
+        "vendor_name": "Ahliyah Michelle",
+        "vendor_tracking_id": "onamzfleekbya-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/61W4UM6QlPL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61W4UM6QlPL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1137",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/8cb549fb-2933-4c94-a486-19138f1f601e/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/1cc0143a-cb18-445e-8402-2bf0bc27bab5/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/1cc0143a-cb18-445e-8402-2bf0bc27bab5/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/1cc0143a-cb18-445e-8402-2bf0bc27bab5/5183b105-b75b-431a-ad1e-9b5d037f1087/00d5ce3536aa4733a8768770ae2e38d1_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:55",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/1f5fe50a-ac91-4782-a582-159f578d2ec0.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.058ae5aae62c49d6b3c9b80857157e50",
+        "product_asin": "B0DPHQRLJC",
+        "parent_asin": "B0DVXNMGZT",
+        "related_products": "B0DPHQRLJC",
+        "title": "Luxurious Feel, Gentle Clean, Addictive Scent!",
+        "profile_image_url": "https://m.media-amazon.com/images/I/B1q0fiGJGCL._CR275,510,1715,1716_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/lifewith.leslie_",
+        "public_name": "Lbizzell7",
+        "vendor_code": "lifewith.leslie_:shop",
+        "vendor_name": "Lbizzell7",
+        "vendor_tracking_id": "onamzlesl0a49-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/A1Dhk0PiW1L._CR0,0,4032,2275_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/A1Dhk0PiW1L.jpg",
+        "video_image_width": "4032",
+        "video_image_height": "3024",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f2473a3f-f583-4920-b719-083384eed42f/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/66ab6f19-f885-4d61-b000-ea61a6d827e3/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/66ab6f19-f885-4d61-b000-ea61a6d827e3/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:45",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/13e0d753-48b4-406f-9bb9-fdadb77f4e65.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.079a154ffc1744329f1a414b16854c70",
+        "product_asin": "B0DPHQRLJC",
+        "parent_asin": "B0DVXNMGZT",
+        "related_products": "B0DPHQRLJC",
+        "title": "Smells and feels sooooo good!",
+        "profile_image_url": "https://m.media-amazon.com/images/I/61Q5mcOcvpL._CR0,0,558,558_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/katiewjee",
+        "public_name": "Katie Jee",
+        "vendor_code": "katiewjee:shop",
+        "vendor_name": "Katie Jee",
+        "vendor_tracking_id": "onamzkatiejee-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/B1FilfKLeFL._CR0,0,3024,1707_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/B1FilfKLeFL.jpg",
+        "video_image_width": "3024",
+        "video_image_height": "4032",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/add26c07-f212-47f5-99f0-99bac00b0768/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c7c0d6d7-640d-4dfa-93a4-e5ec6f77107d/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c7c0d6d7-640d-4dfa-93a4-e5ec6f77107d/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:46",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/000befb5-6b92-4990-ae22-16ffa458a593.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.066037e37f754dd7bdfcf25c94e85f9d",
+        "product_asin": "B0DPHQRLJC",
+        "parent_asin": "B0DVXNMGZT",
+        "related_products": "B0CZ4NMVD6,B0DPHQRLJC,B0DVMLK1MG,B0DVXNMGZT",
+        "title": "EOS Vanilla Cashmere Body Wash great lather and smooth scent",
+        "profile_image_url": "https://m.media-amazon.com/images/I/61DEaa0O5YL._CR0,0,663,663_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/toyoufromkayla",
+        "public_name": "Kayla & Austin",
+        "vendor_code": "toyoufromkayla:shop",
+        "vendor_name": "Kayla & Austin",
+        "vendor_tracking_id": "onamzkaylalab-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/A10EqavMEsL._CR0,0,4032,2275_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/A10EqavMEsL.jpg",
+        "video_image_width": "4032",
+        "video_image_height": "3024",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/b384205f-0856-4a26-af8f-dabe762fcf0a/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/72b1410c-795f-4aec-b93c-25e0f8deeec9/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/72b1410c-795f-4aec-b93c-25e0f8deeec9/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:42",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/6f7b124b-e836-4959-abd6-ec0f7a926e43.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0b8e00fa6672472da3ddcb7b9e428011",
+        "product_asin": "B0DPHQRLJC",
+        "parent_asin": "B0DVXNMGZT",
+        "related_products": "B0DPHQRLJC",
+        "title": "Why would you buy this?",
+        "profile_image_url": "https://m.media-amazon.com/images/I/B194c2aVumL._CR0,35,1575,1575_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/mckaragrey",
+        "public_name": "McKara Grey",
+        "vendor_code": "mckaragrey:shop",
+        "vendor_name": "McKara Grey",
+        "vendor_tracking_id": "onamzmckarabe-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/61BK0VLBgUL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61BK0VLBgUL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1137",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/49a232e2-628d-42d3-b6cf-5e75a1db5924/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/8696bb1b-f04a-4604-a2df-83243fe09f1d/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/8696bb1b-f04a-4604-a2df-83243fe09f1d/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:31",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/18bec930-ae48-458e-a037-a5828d8840dd.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.076b6bd2dad744a887eb3e7936d34791",
+        "product_asin": "B0DPHQRLJC",
+        "parent_asin": "B0DVXNMGZT",
+        "related_products": "B0DPHQRLJC",
+        "title": "Body Wash Review",
+        "profile_image_url": "https://m.media-amazon.com/images/I/41KUK+7V2qL._CR0,0,366,366_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/teacher_jess58",
+        "public_name": "Jessica",
+        "vendor_code": "teacher_jess58:shop",
+        "vendor_name": "Jessica",
+        "vendor_tracking_id": "onamzjes07490-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/91ZTGpattPL._CR2,0,1276,720_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/91ZTGpattPL.png",
+        "video_image_width": "1280",
+        "video_image_height": "720",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/10c7451f-0e4b-4054-8384-81f0ebbca270/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/7056aa24-019f-4e38-8733-65c5aa93b3b1/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/7056aa24-019f-4e38-8733-65c5aa93b3b1/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:06",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/1793887e-275b-47de-b7ff-995d76ccfb13.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0c39028a27c84c54a747f740461446d9",
+        "product_asin": "B0DPHQRLJC",
+        "parent_asin": "B0DVXNMGZT",
+        "related_products": "B0DPHQRLJC",
+        "title": "Vanilla Cashmere Shower Heaven Review",
+        "profile_image_url": "https://m.media-amazon.com/images/I/61yg3snSR1L._CR0,0,1100,1100_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/irishshanny13",
+        "public_name": "Shannon Aquino",
+        "vendor_code": "irishshanny13:shop",
+        "vendor_name": "Shannon Aquino",
+        "vendor_tracking_id": "onamzshan00c0-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/B19GV9+-yuL._CR0,0,3024,1707_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/B19GV9+-yuL.jpg",
+        "video_image_width": "3024",
+        "video_image_height": "4032",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/193718ef-1618-4ea2-97e5-8c0718e3bf1d/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/46fdee50-479f-406a-a059-3109d2c146d4/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/46fdee50-479f-406a-a059-3109d2c146d4/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:30",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/427af1fd-81fe-49f5-bd81-80cb45a65e6e.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0508a6a0a976475db76bff2f32ed550c",
+        "product_asin": "B0DPHQRLJC",
+        "parent_asin": "B0DVXNMGZT",
+        "related_products": "B0CSTCYSF7,B0CRQYQBZ4,B0DPHQRLJC",
+        "title": "EOS Vanilla Cashmere scent is everything",
+        "profile_image_url": "https://m.media-amazon.com/images/I/51yyd2y2k6L._CR0,0,702,702_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/influencer-d62c132e",
+        "public_name": "Sabrina Perkins",
+        "vendor_code": "influencer-d62c132e:shop",
+        "vendor_name": "Sabrina Perkins",
+        "vendor_tracking_id": "seriouslyna09-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/61IGwKbZrmL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61IGwKbZrmL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1137",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/0608a727-7579-4da0-b957-161b80cf1872/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/0ffb3eba-fda3-4740-9389-f6c4000f1ce1/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/0ffb3eba-fda3-4740-9389-f6c4000f1ce1/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:03",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/1d7c166f-6a4f-4305-8b5d-5ad34c7d6a78.vtt"
+      }
+    ],
+    "is_bundle": false,
+    "feature_bullets": [
+      "VANILLA CASHMERE FRAGRANCE: Features rich notes of whipped vanilla, soft musk, and cozy caramel for a warm, nuzzly scent",
+      "MOISTURIZING BODY WASH: A creamy, foaming formula that gently cleanses while helping skin feel hydrated, smooth, and comforted after every shower",
+      "SKIN-LOVING INGREDIENTS: Powered by glycerin, cocoa seed butter, shea butter & oil, sunflower seed oil, and vitamin E to nourish, soften, and help lock in moisture",
+      "SKIN-SAFE & pH-BALANCED: Dermatologist recommended, gynecologist and bikini area–approved with a pH-balanced formula suitable for sensitive skin",
+      "MADE TO LAYER: Pair with Vanilla Cashmere Body Lotion and Body Mist to build a long-lasting fragrance routine",
+      "GENTLE & KIND FORMULA: Vegan, cruelty-free, and made without parabens, phthalates, gluten, or synthetic dyes"
+    ],
+    "feature_bullets_count": 6,
+    "feature_bullets_flat": "GENTLE & KIND FORMULA: Vegan, cruelty-free, and made without parabens, phthalates, gluten, or synthetic dyes. MADE TO LAYER: Pair with Vanilla Cashmere Body Lotion and Body Mist to build a long-lasting fragrance routine. SKIN-SAFE & pH-BALANCED: Dermatologist recommended, gynecologist and bikini area–approved with a pH-balanced formula suitable for sensitive skin. SKIN-LOVING INGREDIENTS: Powered by glycerin, cocoa seed butter, shea butter & oil, sunflower seed oil, and vitamin E to nourish, soften, and help lock in moisture. MOISTURIZING BODY WASH: A creamy, foaming formula that gently cleanses while helping skin feel hydrated, smooth, and comforted after every shower. VANILLA CASHMERE FRAGRANCE: Features rich notes of whipped vanilla, soft musk, and cozy caramel for a warm, nuzzly scent.",
+    "top_reviews": [
+      {
+        "id": "R3F6JX1JFYN348",
+        "title": "Great bodywash",
+        "body": "Smells great and cleans well! A good value and lathers up very well. This will definitely help make your skin softer and shinning! Definitely recommend to use with the lotion EOS can't go wrong with anything they make that I've tried..",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on February 27, 2026"
+        },
+        "profile": {
+          "name": "CJ"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 9,
+        "link": "https://www.amazon.com/gp/customer-reviews/R3F6JX1JFYN348/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R3TSMEWHB9F62Y",
+        "title": "Great body wash for all baths , showers, and cleansing usage",
+        "body": "This is a great lather; it does leave skin soft, smells good, locks in moisture after wash. The price is comparable to other high end body washes, it scent mix’s well with variety of body lotion and sprays for days work. Its consistency works well with other body perfumes",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on March 8, 2026"
+        },
+        "profile": {
+          "name": "Renee"
+        },
+        "verified_purchase": true,
+        "helpful_votes": null,
+        "link": "https://www.amazon.com/gp/customer-reviews/R3TSMEWHB9F62Y/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R104UC1ETLQCF9",
+        "title": "Lovely smell and soft on intimate areas , no burn.",
+        "body": "Love this stuff. Will need to buy some soon. Makes my skin and intimate so nice.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on March 4, 2026"
+        },
+        "profile": {
+          "name": "Vanessa Hamilton"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 3,
+        "link": "https://www.amazon.com/gp/customer-reviews/R104UC1ETLQCF9/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "RQBE6HDSKUA1K",
+        "title": "Fabulous",
+        "body": "Great lather. A little goes a long way. It really leaves me feeling clean and moisturized.  The smell is nice but not overwhelming.  It's such a rich gathering product. Will always use this probably for the rest of my life.  Great value for the money and the perfect size to squeeze in the shower.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on February 27, 2026"
+        },
+        "profile": {
+          "name": "Keenan Cochran"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 7,
+        "link": "https://www.amazon.com/gp/customer-reviews/RQBE6HDSKUA1K/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "RW8K2JL0WBKGB",
+        "title": "Smells Delicious",
+        "body": "Smells like heaven and is worth the money! Makes me so soft and smell so good. It’s a big bottle that lasts me and I love how foamy it gets, makes me feel extra clean when I lather up!",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on February 22, 2026"
+        },
+        "profile": {
+          "name": "dev"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 9,
+        "link": "https://www.amazon.com/gp/customer-reviews/RW8K2JL0WBKGB/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "RUNZK7NI2JTI5",
+        "title": "Love Love Love",
+        "body": "I absolutely am hooked!!!!A friend of mine gifted me a travel size of the lotion for Christmas & since then I've been on this big adventure to ensure I always smell like this!I have eczema and I've always struggled finding a body wash that doesn't make my skin feel like it's going to crack and fall off right after a shower, until I found this! This leaves my skin incredibly soft, especially when used with the matching 24h hydration lotion, its all super moisturizing!I leave the shower feeling like the softest, cleanest person on the planet.The formula is really good, a little goes a long way.The smell is just about the best part. It smells like a warm, cozy, toasted marshmallow! It's AMAZINGMy boyfriend would like to add that he loves it as well, as he doesn't tend to like strong perfumes. This scent is the 'perfect amount of scent' according to him lol.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on January 21, 2026"
+        },
+        "profile": {
+          "name": "Shyanna Crawford"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 25,
+        "link": "https://www.amazon.com/gp/customer-reviews/RUNZK7NI2JTI5/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R5CYGGWAG9B74",
+        "title": "Super Moisturizing & Soothing",
+        "body": "The eos Cashmere Body Wash – Vanilla Cashmere is honestly one of my favorite body washes I’ve used. From the moment you open the bottle, the warm vanilla cashmere scent feels cozy and comforting without being too strong.The gel formula feels smooth and luxurious on the skin, kind of like a soft, creamy lather that doesn’t dry you out. With shea butter, glycerin, and vitamin E, it leaves my skin feeling moisturized and soft even after rinsing. There’s no tight or dry feeling at all. It cleans well without stripping your skin of moisture, making it perfect for daily shower routines.If you want a body wash that cleanses gently, smells amazing, and keeps your skin soft and moisturized, this is a great pick. It turns an ordinary shower into a little self‑care moment, highly recommend.",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in the United States on March 3, 2026"
+        },
+        "profile": {
+          "name": "Ayoka Coleman"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 6,
+        "link": "https://www.amazon.com/gp/customer-reviews/R5CYGGWAG9B74/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R3UGEIBI2H9KYY",
+        "title": "Great Body Wash!",
+        "body": "This body wash is likely one of the best ones I have been used. The smell is phenomenal and is invigorating with early AM showers. The scent is appropriate for male or female! It's thick and goes a long way. The bottle is easy to handle with wet hands in the shower. High quality and great size bottle that lasts. The price is a bit high but, I will pay it because of the high quality wash.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on February 3, 2026"
+        },
+        "profile": {
+          "name": "JustAmom76"
+        },
+        "verified_purchase": true,
+        "link": "https://www.amazon.com/gp/customer-reviews/R3UGEIBI2H9KYY/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R28VZ2RERSLKF1",
+        "title": "Smell",
+        "body": "Good",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Saudi Arabia on March 9, 2026"
+        },
+        "profile": {
+          "name": "Maruf Ahmed"
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "R2G8I714LEH34",
+        "body": "Riecht sehr sehr gut. Schnelle Lieferung und es zieht schnell ein mach dem eincremen.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Germany on February 5, 2026"
+        },
+        "profile": {
+          "name": "Lena"
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "R2VCJ4QJV0EZNB",
+        "body": "El gel de baño huele muy bien y te deja un olor agradable",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Spain on December 21, 2025"
+        },
+        "profile": {
+          "name": "Arashay castañeda garcia"
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "R2VO7THJV6YHIO",
+        "title": "Must have!",
+        "body": "Showed up right on time and in perfect shape! Smells absolutely amazing! My husband said I smelt like a vanilla cookie!",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Belgium on October 1, 2025"
+        },
+        "profile": {
+          "name": "Sage Sundstrom"
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "R3B0M9WXJJJ6JE",
+        "body": "Excelente producto huele rico súper humectante sin dejar la piel grasosa",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Mexico on March 11, 2026"
+        },
+        "profile": {
+          "name": "María del Carmen Nuñez cota"
+        },
+        "verified_purchase": true
+      }
+    ],
+    "bestsellers_rank": [
+      {
+        "rank": 12,
+        "category": "Beauty & Personal Care",
+        "link": "https://www.amazon.com/gp/bestsellers/beauty/ref=pd_zg_ts_beauty"
+      },
+      {
+        "rank": 1,
+        "category": "Bath & Shower Gels",
+        "link": "https://www.amazon.com/gp/bestsellers/beauty/11056291/ref=pd_zg_hrsr_beauty"
+      }
+    ],
+    "a_plus_content": {
+      "has_a_plus_content": true,
+      "has_brand_story": true,
+      "brand_story": {
+        "hero_image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7e125709-ab28-4695-a262-b336655bb37a.__CR0,0,2012,859_PT0_SX1464_V1___.jpg",
+        "brand_store": {
+          "link": "/stores/page/4B23CF70-7626-4369-8178-57DB9B745715",
+          "id": "4B23CF70-7626-4369-8178-57DB9B745715"
+        },
+        "images": [
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7e125709-ab28-4695-a262-b336655bb37a.__CR0,0,2012,859_PT0_SX1464_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/fcd2d5f8-9c80-4fc6-8801-52fa77a3309b.__CR0,0,1508,1887_PT0_SX362_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b4b0c400-41a2-47d8-91c7-0781723b3e1c.__CR0,0,1508,1887_PT0_SX362_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/68085766-7a78-4903-a36d-de533a0f5728.__CR0,0,754,944_PT0_SX362_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c7042e82-8df7-42aa-8020-7a3f64ef9a59.__CR0,0,1508,1887_PT0_SX362_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/68050c57-3e9b-4f06-b2c7-064817efa342.__CR0,0,1508,1887_PT0_SX362_V1___.jpg"
+        ]
+      },
+      "all_images": [
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/dfe93366-ca06-4b6d-9e1b-9996cf8f2e26.__CR0,0,1940,600_PT0_SX970_V1___.png",
+          "name": "Vanilla Cashmere Body Wash"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/692a1497-e55f-410d-ae3f-f02a84e1d36a.__CR0,0,1940,600_PT0_SX970_V1___.png",
+          "name": "vanilla cashmere scent notes"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ad263bba-62e4-48f7-8ae1-afc07f506df3.__CR0,0,1940,1200_PT0_SX970_V1___.png",
+          "name": "the benefits"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/738bed05-e263-45fe-a73c-ae2123e50fd7.__CR0,0,1940,1200_PT0_SX970_V1___.png",
+          "name": "made to be layered"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/05c13630-7e70-4df0-8393-91c9cf786f6c.__AC_SR150,300___.jpg",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/512f5aed-5af6-4fe8-900a-6c3b2cafb8ec.__AC_SR150,300___.jpg",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ec828b9d-08b0-4ac0-bf34-97a07a0c6e37.__AC_SR150,300___.jpg",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/49211d0d-cf47-4d5c-b641-c995d8829cd4.__AC_SR150,300___.jpg",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f260ebac-ffbb-49e6-8a5f-c05aeb754a1f.__AC_SR150,300___.jpg",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8e511e3d-1790-4b33-a226-fbb161cd2688.__AC_SR150,300___.jpg",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7e125709-ab28-4695-a262-b336655bb37a.__CR0,0,2012,859_PT0_SX1464_V1___.jpg",
+          "name": "eos vanilla cashmere collection"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/fcd2d5f8-9c80-4fc6-8801-52fa77a3309b.__CR0,0,1508,1887_PT0_SX362_V1___.jpg",
+          "name": "About us"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b4b0c400-41a2-47d8-91c7-0781723b3e1c.__CR0,0,1508,1887_PT0_SX362_V1___.jpg",
+          "name": "our ingredients"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/68085766-7a78-4903-a36d-de533a0f5728.__CR0,0,754,944_PT0_SX362_V1___.jpg",
+          "name": "customer review"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c7042e82-8df7-42aa-8020-7a3f64ef9a59.__CR0,0,1508,1887_PT0_SX362_V1___.jpg",
+          "name": "sustainability"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/68050c57-3e9b-4f06-b2c7-064817efa342.__CR0,0,1508,1887_PT0_SX362_V1___.jpg",
+          "name": "our promises"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f3ac80a6-325f-4e4e-8838-0591b86f3511.__CR0,0,691,758_PT0_SX166_V1___.jpg",
+          "name": "eos vanilla cashmere body lotion"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/fa90f386-525d-43ec-9d1d-e6afc8088d52.__CR0,0,691,758_PT0_SX166_V1___.jpg",
+          "name": "eos vanilla cashmere body wash"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/94a5ca37-328d-4e6e-8efc-496afb07197d.__CR0,0,691,758_PT0_SX166_V1___.jpg",
+          "name": "vanilla cashmere body oil"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/22ca802b-32f2-48ce-b568-cd457faae980.__CR0,0,691,758_PT0_SX166_V1___.jpg",
+          "name": "whipped oil butter"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/76301fe1-a5de-4485-80dc-371bd502f27b.__CR0,0,691,758_PT0_SX166_V1___.jpg",
+          "name": "eos lip balm"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5b0dc45b-db61-4b2a-bc06-c8879352fbbc.__CR0,0,691,758_PT0_SX166_V1___.jpg",
+          "name": "eos lip butter"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/fffbafc6-641a-4400-a791-0f5b57c7948c.__CR0,0,691,758_PT0_SX166_V1___.jpg",
+          "name": "watermelon frose stick"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/cc0965f5-74a8-4ab6-aa08-c25cf791bac7.__CR0,0,691,758_PT0_SX166_V1___.jpg",
+          "name": "eos vanilla cashmere shave oil"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/aef72c74-7b85-4198-8691-4459b2bc2c5a.__CR0,0,691,758_PT0_SX166_V1___.jpg",
+          "name": "eos shave cream"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/905d65b9-efcb-4bb9-a61d-27d62a4de518.__CR0,0,691,758_PT0_SX166_V1___.jpg",
+          "name": "eos shave butter"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a3154ee5-5a8d-41da-8a24-844ca14f6dff.__CR0,0,691,758_PT0_SX166_V1___.jpg",
+          "name": "eos sensitive skin shave cream"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media/sota/78393bfe-4ff4-40f7-ac88-7e831cfa3cc0.__CR0,0,970,300_PT0_SX970_V1___.png",
+          "name": "Compact by design from Climate pledge friendly. Certified by Amazon."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media/sota/1e0ff922-c654-46bd-a9d0-3efbd8f58a77.__CR0,0,220,220_PT0_SX220_V1___.png",
+          "name": "Less packaging"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media/sota/222429e1-959f-4451-bd8a-87c197e023fd.__CR0,0,220,220_PT0_SX220_V1___.png",
+          "name": "Less air in container"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media/sota/09657283-93e2-4c86-9ed3-e6a5c42d818d.__CR0,0,220,220_PT0_SX220_V1___.png",
+          "name": "More efficient shape"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media/sota/477f70b2-e109-4474-870a-c9f2bc0ead96.__CR0,0,220,220_PT0_SX220_V1___.png",
+          "name": "Waterless technology"
+        }
+      ],
+      "third_party": false
+    },
+    "buybox_winner": {
+      "maximum_order_quantity": {
+        "value": 30,
+        "hard_maximum": true
+      },
+      "subscribe_and_save": {
+        "base_discount_percentage": 5,
+        "tiered_discount_percentage": 15,
+        "delivery_message": "Save 5% now and up to 15% on repeat deliveries.  No fees Cancel anytime",
+        "default_delivery": "2 months (Most common)",
+        "base_price": {
+          "value": 9.48,
+          "currency": "USD",
+          "symbol": "$",
+          "raw": "9.48"
+        },
+        "tiered_price": {
+          "value": 8.48,
+          "currency": "USD",
+          "symbol": "$",
+          "raw": "8.48"
+        }
+      },
+      "price_only_available_in_cart": false,
+      "new_offers_count": 10,
+      "new_offers_from": {
+        "raw": "New"
+      },
+      "trade_in_and_save": true,
+      "return_policy": {
+        "duration_days": 30,
+        "type": "refund/replacement",
+        "seller": "Amazon"
+      },
+      "is_prime": true,
+      "is_prime_exclusive_deal": false,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "In Stock",
+        "dispatch_days": 1
+      },
+      "fulfillment": {
+        "type": "p1",
+        "standard_delivery": {
+          "date": "Sunday, March 22",
+          "name": "FREE"
+        },
+        "fastest_delivery": {
+          "date": "Thursday, March 19",
+          "name": "Or Prime members get FREE delivery Thursday, March 19. Order within 13 hrs 23 mins. Join Prime"
+        },
+        "is_sold_by_amazon": true,
+        "amazon_seller": {
+          "name": "Amazon"
+        },
+        "is_fulfilled_by_amazon": true,
+        "is_fulfilled_by_third_party": false,
+        "is_sold_by_third_party": false
+      },
+      "price": {
+        "symbol": "$",
+        "value": 9.98,
+        "currency": "USD",
+        "raw": "$9.98"
+      },
+      "rrp": {
+        "symbol": "$",
+        "value": 11.99,
+        "currency": "USD",
+        "raw": "$11.99"
+      },
+      "unit_price": {
+        "symbol": "$",
+        "value": 0.62,
+        "currency": "USD",
+        "raw": "$0.62 / fluid ounce"
+      },
+      "shipping": {
+        "raw": "FREE"
+      }
+    },
+    "specifications": [
+      {
+        "name": "Product Dimensions",
+        "value": "7.24 x 3.82 x 1.54 inches; 1.2 Pounds"
+      },
+      {
+        "name": "UPC",
+        "value": "840044714163"
+      },
+      {
+        "name": "Manufacturer",
+        "value": "eos"
+      },
+      {
+        "name": "ASIN",
+        "value": "B0DPHQRLJC"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "See Top 100 in Beauty & Personal Care"
+      },
+      {
+        "name": "Scent Name",
+        "value": "Vanilla Cashmere"
+      },
+      {
+        "name": "Skin Type",
+        "value": "All, Combination, Dry, Oily, Sensitive"
+      },
+      {
+        "name": "Product Benefits",
+        "value": "Hydrating, Moisturizing, Nourishing"
+      },
+      {
+        "name": "Additional Features",
+        "value": "Nourishing, Scented"
+      },
+      {
+        "name": "Active Ingredients",
+        "value": "Shea Butter, Vitamin E"
+      },
+      {
+        "name": "Item Form",
+        "value": "Liquid"
+      },
+      {
+        "name": "Special Ingredients",
+        "value": "Glycerin, Shea Butter, Vitamin E"
+      },
+      {
+        "name": "Target Use Body Part",
+        "value": "Body"
+      },
+      {
+        "name": "Recommended Uses For Product",
+        "value": "Body"
+      },
+      {
+        "name": "Skin Cleaning Agent Use",
+        "value": "Body Cleanser"
+      },
+      {
+        "name": "Skin Tone",
+        "value": "All"
+      },
+      {
+        "name": "Item Weight",
+        "value": "1.2 Pounds"
+      },
+      {
+        "name": "Item Dimensions",
+        "value": "7.24 x 3.82 x 1.54 inches"
+      },
+      {
+        "name": "Package Quantity",
+        "value": "1"
+      },
+      {
+        "name": "Number of Items",
+        "value": "1"
+      },
+      {
+        "name": "Unit Count",
+        "value": "16.0 Fluid Ounces"
+      },
+      {
+        "name": "Brand Name",
+        "value": "eos"
+      },
+      {
+        "name": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "name": "Included Components",
+        "value": "Body Wash"
+      },
+      {
+        "name": "Global Trade Identification Number",
+        "value": "00840044714163"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "#12 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #1 in Bath & Shower Gels"
+      },
+      {
+        "name": "Customer Reviews",
+        "value": "4.8    4.8 out of 5 stars         (14,667)           4.8 out of 5 stars"
+      },
+      {
+        "name": "Material Features",
+        "value": "Cruelty Free, Gluten Free, Vegan"
+      },
+      {
+        "name": "Material Type Free",
+        "value": "Gluten Free, Paraben Free, Phthalate Free"
+      },
+      {
+        "name": "Color",
+        "value": "White"
+      },
+      {
+        "name": "GTIN",
+        "value": "840044714163"
+      }
+    ],
+    "specifications_flat": "GTIN: 840044714163. Color: White. Material Type Free: Gluten Free, Paraben Free, Phthalate Free. Material Features: Cruelty Free, Gluten Free, Vegan. Customer Reviews: 4.8    4.8 out of 5 stars         (14,667)           4.8 out of 5 stars. Best Sellers Rank: #12 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #1 in Bath & Shower Gels. Global Trade Identification Number: 00840044714163. Included Components: Body Wash. Age Range Description: Adult. Brand Name: eos. Unit Count: 16.0 Fluid Ounces. Number of Items: 1. Package Quantity: 1. Item Dimensions: 7.24 x 3.82 x 1.54 inches. Item Weight: 1.2 Pounds. Skin Tone: All. Skin Cleaning Agent Use: Body Cleanser. Recommended Uses For Product: Body. Target Use Body Part: Body. Special Ingredients: Glycerin, Shea Butter, Vitamin E. Item Form: Liquid. Active Ingredients: Shea Butter, Vitamin E. Additional Features: Nourishing, Scented. Product Benefits: Hydrating, Moisturizing, Nourishing. Skin Type: All, Combination, Dry, Oily, Sensitive. Scent Name: Vanilla Cashmere. Best Sellers Rank: See Top 100 in Beauty & Personal Care. ASIN: B0DPHQRLJC. Manufacturer: eos. UPC: 840044714163. Product Dimensions: 7.24 x 3.82 x 1.54 inches; 1.2 Pounds.",
+    "recent_sales": "60K+ bought in past month",
+    "gift_guide_badge": {
+      "badge_text": "60K+ bought in past month"
+    },
+    "ingredients": [
+      "For external use only.Water/Eau",
+      "Sodium C14-16 Olefin Sulfonate",
+      "Glycerin",
+      "Sodium Laureth Sulfate",
+      "Cocamidopropyl Betaine",
+      "Fragrance/Parfum",
+      "Theobroma Cacao (Cocoa) Seed Butter",
+      "Butyrospermum Parkii (Shea) Butter",
+      "Butyrospermum Parkii (Shea) Oil",
+      "Helianthus Annuus (Sunflower) Seed Oil",
+      "Cetyl Alcohol",
+      "Lauramide MIPA",
+      "Glycol Distearate",
+      "Guar Hydroxypropyltrimonium Chloride",
+      "Phenoxyethanol",
+      "Ethylhexylglycerin",
+      "Disodium EDTA",
+      "Sodium Chloride",
+      "Sodium Bicarbonate",
+      "Sodium Benzoate",
+      "Sodium Citrate",
+      "PEG-150 Pentaerythrityl Tetrastearate",
+      "Acrylates Copolymer",
+      "Polysorbate 20",
+      "Tocopheryl Acetate",
+      "Citric Acid",
+      "Benzyl BenzoateLather up & catch all the feels. Layer on some smooth with Vanilla Cashmere Body Lotion and transform into a literal cupcake."
+    ],
+    "ingredients_flat": "For external use only.Water/Eau, Sodium C14-16 Olefin Sulfonate, Glycerin, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Fragrance/Parfum, Theobroma Cacao (Cocoa) Seed Butter, Butyrospermum Parkii (Shea) Butter, Butyrospermum Parkii (Shea) Oil, Helianthus Annuus (Sunflower) Seed Oil, Cetyl Alcohol, Lauramide MIPA, Glycol Distearate, Guar Hydroxypropyltrimonium Chloride, Phenoxyethanol, Ethylhexylglycerin, Disodium EDTA, Sodium Chloride, Sodium Bicarbonate, Sodium Benzoate, Sodium Citrate, PEG-150 Pentaerythrityl Tetrastearate, Acrylates Copolymer, Polysorbate 20, Tocopheryl Acetate, Citric Acid, Benzyl BenzoateLather up & catch all the feels. Layer on some smooth with Vanilla Cashmere Body Lotion and transform into a literal cupcake.",
+    "color": "White",
+    "material": "Gluten Free, Paraben Free, Phthalate Free",
+    "manufacturer": "eos",
+    "weight": "1.2 Pounds",
+    "dimensions": "7.24 x 3.82 x 1.54 inches; 1.2 Pounds",
+    "bestsellers_rank_flat": "Category: Beauty & Personal Care | Rank: 12, Category: Bath & Shower Gels | Rank: 1"
+  },
+  "brand_store": {
+    "id": "93EADE0D-F5E1-496B-9A38-50F0CA6D4FDA",
+    "link": "https://www.amazon.com/stores/eosproducts/page/93EADE0D-F5E1-496B-9A38-50F0CA6D4FDA"
+  }
+}

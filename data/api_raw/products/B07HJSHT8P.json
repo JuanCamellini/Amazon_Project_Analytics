@@ -1,0 +1,935 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 26,
+    "credits_remaining": 74,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "type": "product",
+    "asin": "B07HJSHT8P",
+    "amazon_domain": "amazon.com"
+  },
+  "request_metadata": {
+    "created_at": "2026-03-17T15:40:35.955Z",
+    "processed_at": "2026-03-17T15:40:42.097Z",
+    "total_time_taken": 6.14,
+    "amazon_url": "https://www.amazon.com/dp/B07HJSHT8P?th=1&psc=1"
+  },
+  "product": {
+    "title": "Franklin Sports Grow-with-Me Kids Baseball Batting Tee + Stand Set for Youth + Toddlers - Youth Baseball, Softball + Teeball Hitting Tee Set for Boys + Girls Grow With Me Tee - MLB Baseball",
+    "search_alias": {
+      "title": "All Departments",
+      "value": "search-alias=aps"
+    },
+    "title_excluding_variant_name": "Franklin Sports Grow-with-Me Kids Baseball Batting Tee + Stand Set for Youth + Toddlers - Youth Baseball, Softball + Teeball Hitting Tee Set for Boys + Girls",
+    "keywords": "Franklin Sports Grow-with-Me Kids Baseball Batting Tee + Stand Set for Youth + Toddlers - Youth Baseball, Softball + Teeball Hitting Tee Set for Boys + Girls Grow With Me Tee - MLB Baseball",
+    "keywords_list": [
+      "Franklin Sports Grow-with-Me Kids Baseball Batting Tee + Stand Set for Youth + Toddlers - Youth Baseball",
+      "Softball + Teeball Hitting Tee Set for Boys + Girls Grow With Me Tee - MLB Baseball"
+    ],
+    "is_collection": false,
+    "asin": "B07HJSHT8P",
+    "parent_asin": "B08HK4WRSN",
+    "link": "https://www.amazon.com/dp/B07HJSHT8P?_encoding=UTF8&psc=1",
+    "brand": "‎Franklin Sports",
+    "sell_on_amazon": false,
+    "bestseller_badge": {
+      "link": "https://www.amazon.com/gp/bestsellers/sporting-goods/3395831/ref=zg_b_bs_3395831_1",
+      "category": "Baseball & Softball Batting Tees",
+      "badge_text": "#1 Best Seller"
+    },
+    "variants": [
+      {
+        "asin": "B09FYDX7H4",
+        "title": "Grow With Me Tee - Usa Softball",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09FYDX7H4?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Style Name",
+            "value": "Grow With Me Tee - Usa Softball"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/61cQw-f+1sL._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/61cQw-f+1sL._AC_SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B07HJSHT8P",
+        "title": "Grow With Me Tee - MLB Baseball",
+        "is_current_product": true,
+        "link": "https://www.amazon.com/dp/B07HJSHT8P?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Style Name",
+            "value": "Grow With Me Tee - MLB Baseball"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/61-axin60NL._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/61-axin60NL._AC_SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B08DJTSCJ6",
+        "title": "Replacement Self Stick Baseballs - Grow With Me Tee - Replacement Baseballs",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08DJTSCJ6?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Style Name",
+            "value": "Replacement Self Stick Baseballs - Grow With Me Tee - Replacement Baseballs"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/91edL3rJMhL._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/91edL3rJMhL._AC_SL1500_.jpg"
+          }
+        ]
+      }
+    ],
+    "variant_asins_flat": "B09FYDX7H4,B07HJSHT8P,B08DJTSCJ6",
+    "proposition_65_warning": false,
+    "has_size_guide": true,
+    "add_on_item": {
+      "is_add_on_item": true
+    },
+    "categories": [
+      {
+        "name": "All Departments"
+      },
+      {
+        "name": "Sports & Outdoors",
+        "link": "https://www.amazon.com/sports-outdoors/b/ref=dp_bc_1?ie=UTF8&node=3375251",
+        "category_id": "3375251"
+      },
+      {
+        "name": "Sports",
+        "link": "https://www.amazon.com/Sports-Fitness/b/ref=dp_bc_2?ie=UTF8&node=10971181011",
+        "category_id": "10971181011"
+      },
+      {
+        "name": "Team Sports",
+        "link": "https://www.amazon.com/team-sports/b/ref=dp_bc_3?ie=UTF8&node=706809011",
+        "category_id": "706809011"
+      },
+      {
+        "name": "Baseball",
+        "link": "https://www.amazon.com/b/ref=dp_bc_4?ie=UTF8&node=19574751011",
+        "category_id": "19574751011"
+      },
+      {
+        "name": "Training Equipment",
+        "link": "https://www.amazon.com/Rawlings-Demarini/b/ref=dp_bc_5?ie=UTF8&node=3396431",
+        "category_id": "3396431"
+      },
+      {
+        "name": "Batting Tees",
+        "link": "https://www.amazon.com/Baseball-Softball-Batting-Tees/b/ref=dp_bc_6?ie=UTF8&node=3395831",
+        "category_id": "3395831"
+      }
+    ],
+    "categories_flat": "All Departments > Sports & Outdoors > Sports > Team Sports > Baseball > Training Equipment > Batting Tees",
+    "description": "The Franklin Sports Self-Stick Baseballs were designed for little athletes to make learning fun! Each self-stick baseball pairs perfectly with the Franklin Sports 2-in-1 Grow-with-Me Batting Tee, which uses self-stick technology to hang the ball off of the tee as well as store the balls on the vertical tee post! Offered in a bright white color, the balls are vibrant enough so kids can easily hit each ball with ease, promoting hand-eye coordination at a young age! Perfect for ages 3+, your future major leaguers will immediately start to learn the fundamentals of baseball. The set includes 4 self-stick covered baseballs to get the game started!. The Franklin Future Champs MLB 2-in-1 Grow-with-Me Baseball Tee is designed for first-time athletes learning to play teeball or baseball. The set is engineered to offer a 2-step process to truly train as you grow. Kids start with the beginner Hanging Baseball Tee, and eventually work their way up to the Traditional Baseball Tee Trainer. The Hanging Ball Tee suspends the ball 18\" to 26\" from the ground for smaller, first-time players. Simply attach the baseball to end of the hanging arm using self-stick technology and swing away! The hanging design is perfect for teaching young players how to swing while improving hand eye coordination! Once younger players gain confidence and start to grow, the hanging arm can be removed and replaced with the traditional ball tee topper in seconds. The traditional style tee adjusts from 25\" to 36\" so young players can continue to practice as they grow! The set comes with (1) 21\" plastic bat and (4) baseballs with self-stick covers so you have everything you need to get the game started. Start helping your young slugger learn the game today with the MLB Grow-with-Me Batting Tee!.",
+    "sub_title": {
+      "text": "Visit the Franklin Sports Store",
+      "link": "https://www.amazon.com/stores/FranklinSports/page/F0991D51-A901-4C5D-A4C9-57EAA907EB99?lp_asin=B07HJSHT8P&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto"
+    },
+    "amazons_choice": {
+      "link": "https://www.amazon.com/s?k=2+year+old+boy+birthday+gift"
+    },
+    "marketplace_id": "ATVPDKIKX0DER",
+    "rating": 4.4,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 68,
+        "count": 12211
+      },
+      "four_star": {
+        "percentage": 15,
+        "count": 2694
+      },
+      "three_star": {
+        "percentage": 9,
+        "count": 1616
+      },
+      "two_star": {
+        "percentage": 3,
+        "count": 539
+      },
+      "one_star": {
+        "percentage": 5,
+        "count": 898
+      }
+    },
+    "ratings_total": 17958,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/61-axin60NL.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/710Qjzy0UEL._AC_SL1500_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71XSfi1Fq-L._AC_SL1500_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/91xh9GtMeyL._AC_SL1500_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/A1gEa7dUOrL._AC_SL1500_.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/916Np1vcEgL._AC_SL1500_.jpg",
+        "variant": "PT05"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/91teHQ8TuML._AC_SL1500_.jpg",
+        "variant": "PT06"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81qd449i7sL._AC_SL1500_.jpg",
+        "variant": "PT07"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/A1gEa7dUOrL._AC_SL1500_.jpg",
+        "variant": "PT08"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81HUx8M5i2L._AC_SL1500_.jpg",
+        "variant": "PT09"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81rjJ2qs-uL._AC_SL1500_.jpg",
+        "variant": "PT10"
+      }
+    ],
+    "images_count": 10,
+    "images_flat": "https://m.media-amazon.com/images/I/710Qjzy0UEL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71XSfi1Fq-L._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/91xh9GtMeyL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/A1gEa7dUOrL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/916Np1vcEgL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/91teHQ8TuML._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81qd449i7sL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/A1gEa7dUOrL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81HUx8M5i2L._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81rjJ2qs-uL._AC_SL1500_.jpg",
+    "videos_count": 7,
+    "videos_additional": [
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.075630cbc42449d6ac396f138435ffa3",
+        "product_asin": "B07HJSHT8P",
+        "parent_asin": "B08HK4WRSN",
+        "related_products": "B07HJSHT8P",
+        "title": "CLOSER LOOK at this tee ball stand!",
+        "profile_image_url": "https://m.media-amazon.com/images/I/C1lWPnPztqL._CR817,952,901,902_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/casitadekai",
+        "public_name": "Isaac & Kate Foster",
+        "vendor_code": "casitadekai:shop",
+        "vendor_name": "Isaac & Kate Foster",
+        "vendor_tracking_id": "onamzkate0f7a-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/A1ekYdphMFL._CR2,0,1276,720_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/A1ekYdphMFL.png",
+        "video_image_width": "1280",
+        "video_image_height": "720",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/86a39a4c-cd17-4576-9869-ea90066d414e/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/bf6da3cf-e063-4e3c-9304-718ac7dc8c18/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/bf6da3cf-e063-4e3c-9304-718ac7dc8c18/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/bf6da3cf-e063-4e3c-9304-718ac7dc8c18/540d2a55-0512-46de-b76f-5fa0f9706d06/075630cbc42449d6ac396f138435ffa3_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:00",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/7166e374-e90b-41ec-bcd4-fb244d7b73e8.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.024c8de0ff31478a908b9011b2d06b3d",
+        "product_asin": "B07HJSHT8P",
+        "parent_asin": "B08HK4WRSN",
+        "related_products": "B07HJSHT8P",
+        "title": "Product Review, We Love This Tee",
+        "profile_image_url": "https://m.media-amazon.com/images/I/61ZllDQ42DL._CR0,0,1242,1242_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/bec986",
+        "public_name": "Good_Deals_Here",
+        "vendor_code": "bec986:shop",
+        "vendor_name": "Good_Deals_Here",
+        "vendor_tracking_id": "onamzbeccajan-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/B1G1b7tIOHL._CR0,0,1290,728_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/B1G1b7tIOHL.jpg",
+        "video_image_width": "1290",
+        "video_image_height": "2257",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/30959878-cf56-49f6-92fd-c57d0473aafd/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/de934d8a-9b86-4021-9eb5-d5c0726f61c9/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/de934d8a-9b86-4021-9eb5-d5c0726f61c9/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:20",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/e2b08153-997a-40b4-8ef7-22e6266fdff9.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.05bb8a614fbf4871972bca32d0fec3fe",
+        "product_asin": "B07HJSHT8P",
+        "parent_asin": "B08HK4WRSN",
+        "related_products": "B07HJSHT8P",
+        "title": "Grow with me Tee is a HOMERUN!",
+        "profile_image_url": "https://m.media-amazon.com/images/I/6136EH85HhL._CR0,0,720,720_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/theturnerhomestead",
+        "public_name": "Cassie Turner",
+        "vendor_code": "theturnerhomestead:shop",
+        "vendor_name": "Cassie Turner",
+        "vendor_tracking_id": "onamzcas0d13e-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/A1zfVpEDAPL._CR0,0,753,425_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/A1zfVpEDAPL.png",
+        "video_image_width": "753",
+        "video_image_height": "1122",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c68539c1-6728-481a-9a1a-870ae51b360e/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3a516cd5-e199-459c-b10d-ccebc84ed015/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3a516cd5-e199-459c-b10d-ccebc84ed015/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:58",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/86175eca-a853-4581-a3b0-8136b2d57818.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.05d0cb1390a9431a8fcd0c9a197ee06f",
+        "product_asin": "B07HJSHT8P",
+        "parent_asin": "B08HK4WRSN",
+        "related_products": "B07HJSHT8P",
+        "title": "Honest Review From Mom Of Five! ",
+        "profile_image_url": "https://m.media-amazon.com/images/I/81in0rhVt8L._CR0,0,1219,1219_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/nikkibleekek",
+        "public_name": "Nikki Bleeker",
+        "vendor_code": "nikkibleekek:shop",
+        "vendor_name": "Nikki Bleeker",
+        "vendor_tracking_id": "onamznico040a-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/B1EqLe7kfLL._CR0,0,1140,643_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/B1EqLe7kfLL.jpg",
+        "video_image_width": "1140",
+        "video_image_height": "1737",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/159d275a-b4a4-4c21-b396-83bb7657bbcb/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f04e7b24-ae38-47cd-a9d6-4d00e8d02dea/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f04e7b24-ae38-47cd-a9d6-4d00e8d02dea/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f04e7b24-ae38-47cd-a9d6-4d00e8d02dea/70a30a91-fa86-4b7b-8559-32caa760efde/05d0cb1390a9431a8fcd0c9a197ee06f_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:49",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/fbb010bb-cea1-4d4b-a668-9d9d81ca9b24.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.087367c1d9d4463b9c52ad7d6e0cbaf7",
+        "product_asin": "B07HJSHT8P",
+        "parent_asin": "B08HK4WRSN",
+        "related_products": "B07HJSHT8P",
+        "title": "Only one complaint with this product ",
+        "profile_image_url": "https://m.media-amazon.com/images/I/A1r5QeRlnDL._CR0,0,2316,2316_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/taylorisaacks",
+        "public_name": "Tay",
+        "vendor_code": "taylorisaacks:shop",
+        "vendor_name": "Tay",
+        "vendor_tracking_id": "onamztayl06b1-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/61EF2GTD-3L._CR1,0,638,360_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61EF2GTD-3L.jpg",
+        "video_image_width": "640",
+        "video_image_height": "360",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/08dff1b7-e846-405a-8f9c-cf5de36076e3/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f454a009-08ec-4a5d-b5a7-3a3bc79d2395/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f454a009-08ec-4a5d-b5a7-3a3bc79d2395/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f454a009-08ec-4a5d-b5a7-3a3bc79d2395/3ba9313c-e556-4ee1-95fc-6edd51cad540/087367c1d9d4463b9c52ad7d6e0cbaf7_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:58",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/8202ba5c-6770-4843-90f8-a14cf863640d.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.04a4ced562b74ca8bfe6705928bfcfe4",
+        "product_asin": "B07HJSHT8P",
+        "parent_asin": "B08HK4WRSN",
+        "related_products": "B07HJSHT8P",
+        "title": "Unboxing of the Franklin 2 in 1 Grow With Me Batting Tee",
+        "profile_image_url": "https://m.media-amazon.com/images/I/91-MMSJm3fL._CR0,0,1512,1512_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/shilobradleyphotography",
+        "public_name": "👉 World's Greatest Dad 👈",
+        "vendor_code": "shilobradleyphotography:shop",
+        "vendor_name": "👉 World's Greatest Dad 👈",
+        "vendor_tracking_id": "onamzhomebcom-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/91cdA6mIKmL._CR3,0,1467,828_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/91cdA6mIKmL.jpg",
+        "video_image_width": "1473",
+        "video_image_height": "828",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/72f7d751-cd66-474a-a6a0-45b86c54cd5b/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/41666532-c872-47f0-8bef-25213c0b532f/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/41666532-c872-47f0-8bef-25213c0b532f/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/41666532-c872-47f0-8bef-25213c0b532f/2c928512-3857-43d9-a5fe-ab6f7570c15a/04a4ced562b74ca8bfe6705928bfcfe4_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "2:45",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/277c0774-dec1-47a9-97a0-2657b1e2439d.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.095438e7c2d7483eaf694fe5d68b2b84",
+        "product_asin": "B07HJSHT8P",
+        "parent_asin": "B08HK4WRSN",
+        "related_products": "B07HJSHT8P",
+        "title": "Great gift",
+        "profile_image_url": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SL34_.png",
+        "profile_link": "/gp/profile/amzn1.account.AGAH6YPR5FLNUAVT2XFNVRWMKWMA",
+        "public_name": "Amazon Customer",
+        "vendor_code": "AOD60",
+        "vendor_name": "Amazon Customer",
+        "video_image_url": "https://m.media-amazon.com/images/I/71eaqAXT16L._CR0,0,1080,609_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/71eaqAXT16L.jpg",
+        "video_image_width": "1080",
+        "video_image_height": "1920",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/232f79cf-df54-4591-b2d0-049c42e1c67c/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/0fcd89fe-ee62-4761-b055-0a02706bcd6f/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/0fcd89fe-ee62-4761-b055-0a02706bcd6f/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:11",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/975edfb6-f52b-4e92-bc19-889c0b8f28c7.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0bf1e1ab5f4f4d9bb97a095e5b9fc49f",
+        "product_asin": "B07HJSHT8P",
+        "parent_asin": "B08HK4WRSN",
+        "related_products": "B07HJSHT8P",
+        "title": "Should you buy? Quick Product Demo",
+        "profile_image_url": "https://m.media-amazon.com/images/I/61XfqbG23VL._CR0,0,802,802_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/influencer-feaf66d7",
+        "public_name": "The Parent Game",
+        "vendor_code": "influencer-feaf66d7:shop",
+        "vendor_name": "The Parent Game",
+        "vendor_tracking_id": "onamzlittledi-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/51x23yzv6JL._CR2,0,1276,720_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/51x23yzv6JL.jpg",
+        "video_image_width": "1280",
+        "video_image_height": "720",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/bef3178c-a087-4d72-8461-a20c2d34b54c/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/9ec6299b-d9cc-448c-bf6c-22b6d7c6bfa6/videopreview.jobtemplate.mp4.342X192P_20HZ_350KBPS_VER_1_0.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/9ec6299b-d9cc-448c-bf6c-22b6d7c6bfa6/64aa0361-0657-4a50-8c1c-b339bf13dff9/0bf1e1ab5f4f4d9bb97a095e5b9fc49f_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:33",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/96941637-d399-42fa-99e0-2accc8db3c15.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.08f93a230b0940f6b4aaaedf619fcb02",
+        "product_asin": "B07HJSHT8P",
+        "parent_asin": "B08HK4WRSN",
+        "related_products": "B07HJSHT8P",
+        "title": "Great toy",
+        "profile_image_url": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SL34_.png",
+        "profile_link": "/gp/profile/amzn1.account.AGOQFUZSVRR5UURQ6AFZYSY3CCRQ",
+        "public_name": "Linda Lou",
+        "vendor_code": "AOD60",
+        "vendor_name": "Linda Lou",
+        "video_image_url": "https://m.media-amazon.com/images/I/81B4cCWM2dL._CR0,0,1080,609_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/81B4cCWM2dL.jpg",
+        "video_image_width": "1080",
+        "video_image_height": "1920",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c234978e-f7af-4969-8ce2-2c62d37766a5/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c9e3d91c-563d-47ad-8acc-dff345acba9f/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c9e3d91c-563d-47ad-8acc-dff345acba9f/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:05",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/c2e70610-149d-49fa-a206-48d8e959b49f.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0eccba14d2cd4dfaa1ad8d8c87da24f7",
+        "product_asin": "B07HJSHT8P",
+        "parent_asin": "B08HK4WRSN",
+        "related_products": "B07HJSHT8P",
+        "title": "My honest review on this kids batting tee!",
+        "profile_image_url": "https://m.media-amazon.com/images/I/91zI17dQSbL._CR0,0,1284,1284_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/homeofemilyv",
+        "public_name": "Emily Vance",
+        "vendor_code": "homeofemilyv:shop",
+        "vendor_name": "Emily Vance",
+        "vendor_tracking_id": "onamzemil0613-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/81w9VI32rBL._CR2,0,1276,720_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/81w9VI32rBL.png",
+        "video_image_width": "1280",
+        "video_image_height": "720",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/dd8c63c8-c6dd-4da3-b90d-2eb016a93396/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/b8cf0aea-7109-46aa-9824-2d7d074e3430/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/b8cf0aea-7109-46aa-9824-2d7d074e3430/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:17",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/34acc199-1194-4117-8531-751e3b74085f.vtt"
+      }
+    ],
+    "is_bundle": false,
+    "feature_bullets": [
+      "2-in-1 BASEBALL TEE easily converts in seconds! specifically designed to offer a 2-step process that truly trains kids as they grow",
+      "DYNAMIC hanging Tee ball design makes learning to play fun",
+      "EASILY ADJUSTABLE HEIGHT: Made with growing players in mind, the set changes heights with ease! the beginner hanging baseball tee adjusts from 18\"-26\", while the traditional tee adjusts from 25\"-36\"",
+      "INCLUDES (1) 21 inch plastic bat & (4) baseballs with self-stick covers",
+      "SIZE: Assembles to 25.5\" x 25.5\" x 45.5\"; ages 3+"
+    ],
+    "feature_bullets_count": 5,
+    "feature_bullets_flat": "SIZE: Assembles to 25.5\" x 25.5\" x 45.5\"; ages 3+. INCLUDES (1) 21 inch plastic bat & (4) baseballs with self-stick covers. EASILY ADJUSTABLE HEIGHT: Made with growing players in mind, the set changes heights with ease! the beginner hanging baseball tee adjusts from 18\"-26\", while the traditional tee adjusts from 25\"-36\". DYNAMIC hanging Tee ball design makes learning to play fun. 2-in-1 BASEBALL TEE easily converts in seconds! specifically designed to offer a 2-step process that truly trains kids as they grow.",
+    "top_reviews": [
+      {
+        "id": "R2K6TLQIOA7T5T",
+        "title": "Love it!",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on February 18, 2024"
+        },
+        "profile": {
+          "name": "Sam Schubert"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 60,
+        "link": "https://www.amazon.com/gp/customer-reviews/R2K6TLQIOA7T5T/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R354E0TBT7HI3O",
+        "title": "Another amazon win",
+        "body": "Easy set up, even easier for my 3 year old to do all by herself. Absolutely great, and with the sale price it is totally worth it!!",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on March 10, 2026"
+        },
+        "profile": {
+          "name": "Debi"
+        },
+        "verified_purchase": true,
+        "link": "https://www.amazon.com/gp/customer-reviews/R354E0TBT7HI3O/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R2Y47JDQG2PQLO",
+        "title": "Good, but only lasts a couple months.",
+        "body": "Falls apart after about couple months and hours of play. Just be aware that this thing is temporary, and may last only a couple months.",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in the United States on November 24, 2025"
+        },
+        "profile": {
+          "name": "Derek S"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 6,
+        "link": "https://www.amazon.com/gp/customer-reviews/R2Y47JDQG2PQLO/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R3Q0UOTA4DNE2E",
+        "title": "Great for all ages",
+        "body": "My kids love this thing! They’re 4 and 7 and enjoy playing baseball together.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on February 19, 2026"
+        },
+        "profile": {
+          "name": "Amanda"
+        },
+        "verified_purchase": true,
+        "helpful_votes": null,
+        "link": "https://www.amazon.com/gp/customer-reviews/R3Q0UOTA4DNE2E/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R2RIJ7EPKO1SFW",
+        "title": "Really cool!",
+        "body": "This is awesome. The balls stick even after a year of use.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on March 8, 2026"
+        },
+        "profile": {
+          "name": "Jarrod Mcpeek"
+        },
+        "verified_purchase": true,
+        "link": "https://www.amazon.com/gp/customer-reviews/R2RIJ7EPKO1SFW/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R3HG1SG497J711",
+        "title": "Not worth the money",
+        "body": "I returned this item. The overall quality and build of this are not that great and it won't last the test of time. Additionally, the stability is sub par. Lastly, the balls themselves are very cheaply made and will not last. Overall, not a good value for the price point.",
+        "rating": 3,
+        "date": {
+          "raw": "Reviewed in the United States on September 29, 2025"
+        },
+        "profile": {
+          "name": "Jenson"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 6,
+        "link": "https://www.amazon.com/gp/customer-reviews/R3HG1SG497J711/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "RXFWWVGSK1BUC",
+        "title": "Fun practice toy for ball players!",
+        "body": "I bought this for my nephews 4th birthday! He loves to play ball! This product is going to help him get in lots of practice!!",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on February 9, 2026"
+        },
+        "profile": {
+          "name": "Alexis M. Burgess"
+        },
+        "verified_purchase": true,
+        "link": "https://www.amazon.com/gp/customer-reviews/RXFWWVGSK1BUC/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R3M1CAOY0SRNNL",
+        "title": "Great baseball tee",
+        "body": "Kid loves this and I think it will only get better as he gets older. Super easy to use and stable.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on January 30, 2026"
+        },
+        "profile": {
+          "name": "Jon DiVita"
+        },
+        "verified_purchase": true,
+        "helpful_votes": null,
+        "link": "https://www.amazon.com/gp/customer-reviews/R3M1CAOY0SRNNL/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R119AMRWJKJEU3",
+        "title": "Great gift",
+        "body": "My brothers loved it played with it through the whole summer",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Canada on November 24, 2025"
+        },
+        "profile": {
+          "name": "Annie"
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "R1BWC3KLZ4GQR4",
+        "title": "Poor quality",
+        "body": "Poor quality",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in Australia on May 19, 2025"
+        },
+        "profile": {
+          "name": "Anam"
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "R3TXJXNEHSYMVE",
+        "body": "Lo compre con expectativas bajas porque lei las reseñas y había varias personas decepcionadas, la verdad que no fue mi caso, al papa de mi hijo y a mi hijo les encanto, los materiales si son de buena calidad, aunque llega en una caja genérica de cartón normal, llega bien protegido, al menos a mi me llego bien empacado, eso si, me llego con polvo, no tenia manchas ni roturas ni marcas de uso, solo polvo, como si estuviera expuesta la caja abierta, para mi no fue un problema porque este juguete era para mi hijo pero nose si en un regalo sea algo agradable. Yo si lo volvería a comprar pero a decir por los materiales  se ve que va a durar bastantes años",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Mexico on June 27, 2022"
+        },
+        "profile": {
+          "name": "Santa"
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "R8C049P0C6VPV",
+        "title": "My 3 and 6 year olds love it.",
+        "body": "Great basement toy, easy enough that my 3 year old can hit it, and put the ball back on the Velcro dangling thing. 6 year old likes it too. The balls are soft enough to use indoors.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Canada on December 30, 2023"
+        },
+        "profile": {
+          "name": "Peter"
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "R9653CE2670R6",
+        "body": "Increíble para niños",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Mexico on July 18, 2025"
+        },
+        "profile": {
+          "name": "Haydee"
+        },
+        "verified_purchase": true
+      }
+    ],
+    "bestsellers_rank": [
+      {
+        "rank": 107,
+        "category": "Sports & Outdoors",
+        "link": "https://www.amazon.com/gp/bestsellers/sporting-goods/ref=pd_zg_ts_sporting-goods"
+      },
+      {
+        "rank": 1,
+        "category": "Baseball & Softball Batting Tees",
+        "link": "https://www.amazon.com/gp/bestsellers/sporting-goods/3395831/ref=pd_zg_hrsr_sporting-goods"
+      }
+    ],
+    "a_plus_content": {
+      "has_a_plus_content": true,
+      "has_brand_story": false,
+      "all_images": [
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a1ff5382-6da9-4517-908c-e1e2e0daa227.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+          "name": "tball tball set tee ball set baseball tee t ball tee ball kids baseball 3 year old boy gift toddler"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2ebe2f7e-cf67-4c29-a02b-b1d2585f3ba6.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+          "name": "tball tball set tee ball set baseball tee t ball tee ball kids baseball 3 year old boy gift toddler"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9f4019a1-156e-4dda-b84c-4548c09f7fc9.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+          "name": "tball tball set tee ball set baseball tee t ball tee ball kids baseball 3 year old boy gift toddler"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/669539ec-f9ca-48fb-a5d4-b62e26d84d74.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+          "name": "tball tball set tee ball set baseball tee t ball tee ball kids baseball 3 year old boy gift toddler"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e581ae11-b566-4b43-b5f9-80f9a9858906.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+          "name": "tball tball set tee ball set baseball tee t ball tee ball kids baseball 3 year old boy gift toddler"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/16d3156e-478e-4e7e-9f03-2a5f8a6be2e4.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+          "name": "tball tball set tee ball set baseball tee t ball tee ball kids baseball 3 year old boy gift toddler"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media/vc/44507387-7740-4884-8ebe-e5b52b3e10c1.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media/vc/f093e0b4-353a-4a39-8ede-ce0c417ca647.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media/vc/165c89ed-a0d2-4805-b855-9027ebc9a89d.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media/vc/be52d3be-565d-47ac-a29d-68bbf2112e39.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media/vc/4336d749-93a4-4f47-8b28-acd5bec661a8.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+          "name": ""
+        }
+      ],
+      "third_party": false
+    },
+    "buybox_winner": {
+      "maximum_order_quantity": {
+        "value": 4,
+        "hard_maximum": true
+      },
+      "secondary_buybox": {
+        "offer_id": "L1QR2HC8VyhXEdHiViT5eM7ise87cN4zm0ErhNRzSLN2Lb3ICsaxr5ZX2GddbyHB%2BBD4CRylwSwVkqszoti7oLdkCDCHtJA4%2FseSDtY66DQ2BjXRpL7bGcpfhwrgZVnsoWHmxKBs3jB5GfMAyFNJmTFHb4AUBksRJTEQuSw7sxo0xTnB2ws02xOh7IcU7Rmu",
+        "caption": "Save with Used - Like New",
+        "availability": {
+          "raw": "Only 1 left in stock - order soon.",
+          "type": "in_stock"
+        },
+        "product_condition": "Looks and functions as if it were new. Packaging shows minimal signs of wear, consistent with being opened.",
+        "condition": {
+          "raw": "Save with Used - Like New",
+          "isNew": false
+        },
+        "price": {
+          "symbol": "$",
+          "value": 21.83,
+          "currency": "USD",
+          "raw": "$21.83"
+        },
+        "fulfillment": {
+          "standard_delivery": {
+            "date": "March 23 - 26",
+            "name": "FREE"
+          },
+          "fastest_delivery": {
+            "date": "March 23 - 24",
+            "name": "Or fastest delivery March 23 - 24"
+          },
+          "amazon_seller": {
+            "name": "Amazon Resale"
+          },
+          "is_sold_by_amazon": true,
+          "is_sold_by_third_party": false,
+          "fulfilled_by": "Fulfilled by Amazon",
+          "is_fulfilled_by_amazon": true,
+          "is_fulfilled_by_third_party": false,
+          "fulfillment_type": "p1"
+        },
+        "ship_details": "Sold by Amazon Resale and Fulfilled by Amazon.",
+        "accept_free_return": true
+      },
+      "price_only_available_in_cart": false,
+      "offer_id": "L1QR2HC8VyhXEdHiViT5eM7ise87cN4zm0ErhNRzSLN2Lb3ICsaxr5ZX2GddbyHB+BD4CRylwSwVkqszoti7oLdkCDCHtJA4/seSDtY66DQ2BjXRpL7bGcpfhwrgZVnsoWHmxKBs3jB5GfMAyFNJmTFHb4AUBksRJTEQuSw7sxo0xTnB2ws02xOh7IcU7Rmu",
+      "mixed_offers_count": 7,
+      "mixed_offers_from": {
+        "symbol": "$",
+        "value": 35,
+        "currency": "USD",
+        "raw": "FREE Shipping on orders over $35.00 shipped by Amazon."
+      },
+      "trade_in_and_save": true,
+      "return_policy": {
+        "duration_days": 30,
+        "type": "refund/replacement",
+        "seller": "Amazon"
+      },
+      "is_prime": true,
+      "is_prime_exclusive_deal": false,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "In Stock",
+        "dispatch_days": 1
+      },
+      "fulfillment": {
+        "type": "p1",
+        "standard_delivery": {
+          "date": "Sunday, March 22",
+          "name": "FREE"
+        },
+        "fastest_delivery": {
+          "date": "Friday, March 20",
+          "name": "Or Prime members get FREE delivery Friday, March 20. Order within 13 hrs 19 mins. Join Prime"
+        },
+        "is_sold_by_amazon": true,
+        "amazon_seller": {
+          "name": "Amazon",
+          "link": "https://www.amazon.com/b?node=10158976011"
+        },
+        "is_fulfilled_by_amazon": true,
+        "is_fulfilled_by_third_party": false,
+        "is_sold_by_third_party": false
+      },
+      "price": {
+        "symbol": "$",
+        "value": 29.96,
+        "currency": "USD",
+        "raw": "$29.96"
+      },
+      "rrp": {
+        "symbol": "$",
+        "value": 49.99,
+        "currency": "USD",
+        "raw": "$49.99"
+      },
+      "shipping": {
+        "raw": "FREE"
+      }
+    },
+    "specifications": [
+      {
+        "name": "Item Package Dimensions L x W x H",
+        "value": "‎22.2 x 9.6 x 4 inches"
+      },
+      {
+        "name": "Package Weight",
+        "value": "‎1.84 Kilograms"
+      },
+      {
+        "name": "Item Dimensions LxWxH",
+        "value": "‎25.5 x 25.5 x 45.5 inches"
+      },
+      {
+        "name": "Item Weight",
+        "value": "‎2.5 Pounds"
+      },
+      {
+        "name": "Brand Name",
+        "value": "‎Franklin Sports"
+      },
+      {
+        "name": "Warranty Description",
+        "value": "‎90 Day Limited"
+      },
+      {
+        "name": "Model Name",
+        "value": "‎Grow-with-Me Batting Tee Set"
+      },
+      {
+        "name": "Color",
+        "value": "‎Multi"
+      },
+      {
+        "name": "Material",
+        "value": "‎Ploypropylene"
+      },
+      {
+        "name": "Suggested Users",
+        "value": "‎Unisex Youth"
+      },
+      {
+        "name": "Number of Items",
+        "value": "‎1"
+      },
+      {
+        "name": "Manufacturer",
+        "value": "‎Franklin Sports, Inc."
+      },
+      {
+        "name": "Part Number",
+        "value": "‎64119"
+      },
+      {
+        "name": "Style",
+        "value": "‎Grow With Me Tee - MLB Baseball"
+      },
+      {
+        "name": "Included Components",
+        "value": "‎Batting Tee, Fabric Baseballs(4), Plastic Bat"
+      },
+      {
+        "name": "Size",
+        "value": "‎One Size"
+      },
+      {
+        "name": "Sport Type",
+        "value": "‎Baseball"
+      },
+      {
+        "name": "ASIN",
+        "value": "B07HJSHT8P"
+      },
+      {
+        "name": "Customer Reviews",
+        "value": "4.4    4.4 out of 5 stars         (17,958)           4.4 out of 5 stars"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "#107 in Sports & Outdoors (See Top 100 in Sports & Outdoors) #1 in Baseball & Softball Batting Tees"
+      },
+      {
+        "name": "Date First Available",
+        "value": "September 20, 2018"
+      }
+    ],
+    "specifications_flat": "Date First Available: September 20, 2018. Best Sellers Rank: #107 in Sports & Outdoors (See Top 100 in Sports & Outdoors) #1 in Baseball & Softball Batting Tees. Customer Reviews: 4.4    4.4 out of 5 stars         (17,958)           4.4 out of 5 stars. ASIN: B07HJSHT8P. Sport Type: ‎Baseball. Size: ‎One Size. Included Components: ‎Batting Tee, Fabric Baseballs(4), Plastic Bat. Style: ‎Grow With Me Tee - MLB Baseball. Part Number: ‎64119. Manufacturer: ‎Franklin Sports, Inc. Number of Items: ‎1. Suggested Users: ‎Unisex Youth. Material: ‎Ploypropylene. Color: ‎Multi. Model Name: ‎Grow-with-Me Batting Tee Set. Warranty Description: ‎90 Day Limited. Brand Name: ‎Franklin Sports. Item Weight: ‎2.5 Pounds. Item Dimensions LxWxH: ‎25.5 x 25.5 x 45.5 inches. Package Weight: ‎1.84 Kilograms. Item Package Dimensions L x W x H: ‎22.2 x 9.6 x 4 inches.",
+    "recent_sales": "10K+ bought in past month",
+    "gift_guide_badge": {
+      "badge_text": "10K+ bought in past month"
+    },
+    "color": "‎Multi",
+    "material": "‎Ploypropylene",
+    "manufacturer": "‎Franklin Sports, Inc.",
+    "weight": "‎2.5 Pounds",
+    "first_available": {
+      "raw": "September 20, 2018",
+      "utc": "2018-09-20T00:00:00.000Z"
+    },
+    "model_number": "‎64119",
+    "bestsellers_rank_flat": "Category: Sports & Outdoors | Rank: 107, Category: Baseball & Softball Batting Tees | Rank: 1",
+    "whats_in_the_box": [
+      "Batting Tee",
+      "Plastic Bat",
+      "Fabric Baseballs(4)"
+    ]
+  },
+  "brand_store": {
+    "id": "F0991D51-A901-4C5D-A4C9-57EAA907EB99",
+    "link": "https://www.amazon.com/stores/FranklinSports/page/F0991D51-A901-4C5D-A4C9-57EAA907EB99"
+  }
+}

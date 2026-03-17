@@ -1,0 +1,1577 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 24,
+    "credits_remaining": 76,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "type": "product",
+    "asin": "B0F43VY6TC",
+    "amazon_domain": "amazon.com"
+  },
+  "request_metadata": {
+    "created_at": "2026-03-17T15:40:15.306Z",
+    "processed_at": "2026-03-17T15:40:21.008Z",
+    "total_time_taken": 5.7,
+    "amazon_url": "https://www.amazon.com/dp/B0F43VY6TC?th=1&psc=1"
+  },
+  "product": {
+    "title": "2Pack Multi Charging Cable Cord for Travel Vacation Essentials,Apple Watch Charger,iPhone 17 Charger,[3-in-2] USB A/Type C/Lightning Cable for iWatch,iPhone 17-11,Xbox Series X&S,Airpods,Home,Office 2Pack-4FT Gray",
+    "search_alias": {
+      "title": "Electronics",
+      "value": "search-alias=electronics"
+    },
+    "title_excluding_variant_name": "2Pack Multi Charging Cable Cord for Travel Vacation Essentials,Apple Watch Charger,iPhone 17 Charger,[3-in-2] USB A/Type C/Lightning Cable for iWatch,iPhone 17-11,Xbox Series X&S,Airpods,Home,Office",
+    "keywords": "2Pack Multi Charging Cable Cord for Travel Vacation Essentials,Apple Watch Charger,iPhone 17 Charger,[3-in-2] USB A/Type C/Lightning Cable for iWatch,iPhone 17-11,Xbox Series X&S,Airpods,Home,Office 2Pack-4FT Gray",
+    "keywords_list": [
+      "2Pack Multi Charging Cable Cord for Travel Vacation Essentials",
+      "Apple Watch Charger",
+      "iPhone 17 Charger",
+      "[3-in-2] USB A/Type C/Lightning Cable for iWatch",
+      "iPhone 17-11",
+      "Xbox Series X&S",
+      "Airpods",
+      "Home",
+      "Office 2Pack-4FT Gray"
+    ],
+    "is_collection": false,
+    "asin": "B0F43VY6TC",
+    "parent_asin": "B0G49167ZM",
+    "link": "https://www.amazon.com/Charging-Vacation-Essentials-Charger-Lightning/dp/B0F43VY6TC",
+    "brand": "‎xiwxi",
+    "sell_on_amazon": false,
+    "variants": [
+      {
+        "asin": "B0G3X4L641",
+        "title": "2Pack-5 FT Pink",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0G3X4L641?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "2Pack-5 FT"
+          },
+          {
+            "name": "Color",
+            "value": "Pink"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71RgaXySF9L._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71RgaXySF9L._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0FDW7BPGJ",
+        "title": "2Pack-4FT Yellow",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0FDW7BPGJ?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "2Pack-4FT"
+          },
+          {
+            "name": "Color",
+            "value": "Yellow"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71QancQUsNL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71QancQUsNL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0FY65QL9P",
+        "title": "2Pack-6 FT Gray",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0FY65QL9P?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "2Pack-6 FT"
+          },
+          {
+            "name": "Color",
+            "value": "Gray"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71jCejzBV+L._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71jCejzBV+L._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0G3WVV95B",
+        "title": "1Pack-5 FT Pink",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0G3WVV95B?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "1Pack-5 FT"
+          },
+          {
+            "name": "Color",
+            "value": "Pink"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/614fu8avKHL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/614fu8avKHL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0G3X5CZ3G",
+        "title": "2Pack-5 FT Purple",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0G3X5CZ3G?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "2Pack-5 FT"
+          },
+          {
+            "name": "Color",
+            "value": "Purple"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/713mgskTt-L._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/713mgskTt-L._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0F43VY6TC",
+        "title": "2Pack-4FT Gray",
+        "is_current_product": true,
+        "link": "https://www.amazon.com/dp/B0F43VY6TC?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "2Pack-4FT"
+          },
+          {
+            "name": "Color",
+            "value": "Gray"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71zbZrNvOmL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71zbZrNvOmL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0F48CSFQH",
+        "title": "2Pack-4FT White",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0F48CSFQH?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "2Pack-4FT"
+          },
+          {
+            "name": "Color",
+            "value": "White"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/719xEsovgcL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/719xEsovgcL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0FY5RRX2V",
+        "title": "2Pack-6 FT Black",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0FY5RRX2V?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "2Pack-6 FT"
+          },
+          {
+            "name": "Color",
+            "value": "Black"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71f3ct5c2GL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71f3ct5c2GL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0F48DKN6J",
+        "title": "1Pack-4FT Blue",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0F48DKN6J?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "1Pack-4FT"
+          },
+          {
+            "name": "Color",
+            "value": "Blue"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/615JkV9YrOL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/615JkV9YrOL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0FY62K4XN",
+        "title": "1Pack-6 FT Black",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0FY62K4XN?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "1Pack-6 FT"
+          },
+          {
+            "name": "Color",
+            "value": "Black"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/718UJcuAmEL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/718UJcuAmEL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0G3X2PX6X",
+        "title": "1Pack-5 FT White",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0G3X2PX6X?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "1Pack-5 FT"
+          },
+          {
+            "name": "Color",
+            "value": "White"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/61XXK+ZxHgL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/61XXK+ZxHgL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0FDVZ58PT",
+        "title": "1Pack-4FT Yellow",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0FDVZ58PT?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "1Pack-4FT"
+          },
+          {
+            "name": "Color",
+            "value": "Yellow"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/61ClwyIiA3L._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/61ClwyIiA3L._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0F62VKMBW",
+        "title": "1Pack-4FT Black",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0F62VKMBW?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "1Pack-4FT"
+          },
+          {
+            "name": "Color",
+            "value": "Black"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71a1lrmo3rL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71a1lrmo3rL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0G3X22YJH",
+        "title": "2Pack-5 FT Black",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0G3X22YJH?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "2Pack-5 FT"
+          },
+          {
+            "name": "Color",
+            "value": "Black"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71zTBZQOQLL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71zTBZQOQLL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0F48BQK8K",
+        "title": "2Pack-4FT Purple",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0F48BQK8K?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "2Pack-4FT"
+          },
+          {
+            "name": "Color",
+            "value": "Purple"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/7162SBGUyBL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/7162SBGUyBL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0F62S6425",
+        "title": "2Pack-4FT Black",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0F62S6425?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "2Pack-4FT"
+          },
+          {
+            "name": "Color",
+            "value": "Black"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71c2Skcc-+L._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71c2Skcc-+L._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0G3WXJR85",
+        "title": "1Pack-5 FT Blue",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0G3WXJR85?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "1Pack-5 FT"
+          },
+          {
+            "name": "Color",
+            "value": "Blue"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/61Een4omHgL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/61Een4omHgL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0F48FB639",
+        "title": "1Pack-4FT White",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0F48FB639?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "1Pack-4FT"
+          },
+          {
+            "name": "Color",
+            "value": "White"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/61V9J1E7woL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/61V9J1E7woL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0F48CMQFT",
+        "title": "1Pack-4FT Purple",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0F48CMQFT?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "1Pack-4FT"
+          },
+          {
+            "name": "Color",
+            "value": "Purple"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/61xM0kdwOQL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/61xM0kdwOQL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0FDVYV9G9",
+        "title": "1Pack-4FT Orange",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0FDVYV9G9?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "1Pack-4FT"
+          },
+          {
+            "name": "Color",
+            "value": "Orange"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71A8X5QQ2NL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71A8X5QQ2NL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0G3X73F19",
+        "title": "2Pack-5 FT Gray",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0G3X73F19?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "2Pack-5 FT"
+          },
+          {
+            "name": "Color",
+            "value": "Gray"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71jjFnb1HXL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71jjFnb1HXL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0F48FLCGR",
+        "title": "2Pack-4FT Blue",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0F48FLCGR?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "2Pack-4FT"
+          },
+          {
+            "name": "Color",
+            "value": "Blue"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71Hi1vHWeOL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71Hi1vHWeOL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0G3X2PXJ6",
+        "title": "2Pack-5 FT White",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0G3X2PXJ6?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "2Pack-5 FT"
+          },
+          {
+            "name": "Color",
+            "value": "White"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71hSpMRgHpL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71hSpMRgHpL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0FY63KK9Q",
+        "title": "1Pack-6 FT Gray",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0FY63KK9Q?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "1Pack-6 FT"
+          },
+          {
+            "name": "Color",
+            "value": "Gray"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71jNfp+BY4L._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71jNfp+BY4L._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0G3WYNKR3",
+        "title": "1Pack-5 FT Gray",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0G3WYNKR3?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "1Pack-5 FT"
+          },
+          {
+            "name": "Color",
+            "value": "Gray"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/61E7ji0bY6L._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/61E7ji0bY6L._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0F3XFCBHW",
+        "title": "2Pack-4FT Green",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0F3XFCBHW?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "2Pack-4FT"
+          },
+          {
+            "name": "Color",
+            "value": "Green"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71sAXGi8doL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71sAXGi8doL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0F48DJ4MT",
+        "title": "1Pack-4FT Pink",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0F48DJ4MT?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "1Pack-4FT"
+          },
+          {
+            "name": "Color",
+            "value": "Pink"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/610ONRZeMWL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/610ONRZeMWL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0F48B7V3C",
+        "title": "2Pack-4FT Pink",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0F48B7V3C?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "2Pack-4FT"
+          },
+          {
+            "name": "Color",
+            "value": "Pink"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71ezU1lpj0L._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71ezU1lpj0L._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0FDVZX994",
+        "title": "2Pack-4FT Orange",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0FDVZX994?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "2Pack-4FT"
+          },
+          {
+            "name": "Color",
+            "value": "Orange"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71IX6L3dO2L._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71IX6L3dO2L._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0FDWK33XM",
+        "title": "1Pack-4FT Green",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0FDWK33XM?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "1Pack-4FT"
+          },
+          {
+            "name": "Color",
+            "value": "Green"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/61EpE8rxwLL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/61EpE8rxwLL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0G3X53GCV",
+        "title": "2Pack-5 FT Blue",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0G3X53GCV?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "2Pack-5 FT"
+          },
+          {
+            "name": "Color",
+            "value": "Blue"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71B1sRcEnuL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71B1sRcEnuL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0F48GDZG5",
+        "title": "1Pack-4FT Gray",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0F48GDZG5?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "1Pack-4FT"
+          },
+          {
+            "name": "Color",
+            "value": "Gray"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/618HwT4sa9L._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/618HwT4sa9L._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0G3WGZP8Z",
+        "title": "1Pack-5 FT Black",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0G3WGZP8Z?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "1Pack-5 FT"
+          },
+          {
+            "name": "Color",
+            "value": "Black"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71fbLmYPgwL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71fbLmYPgwL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0G3X1VKGD",
+        "title": "1Pack-5 FT Purple",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0G3X1VKGD?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "1Pack-5 FT"
+          },
+          {
+            "name": "Color",
+            "value": "Purple"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/61+LBLCV5rL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/61+LBLCV5rL._SL1500_.jpg"
+          }
+        ]
+      }
+    ],
+    "variant_asins_flat": "B0G3X4L641,B0FDW7BPGJ,B0FY65QL9P,B0G3WVV95B,B0G3X5CZ3G,B0F43VY6TC,B0F48CSFQH,B0FY5RRX2V,B0F48DKN6J,B0FY62K4XN,B0G3X2PX6X,B0FDVZ58PT,B0F62VKMBW,B0G3X22YJH,B0F48BQK8K,B0F62S6425,B0G3WXJR85,B0F48FB639,B0F48CMQFT,B0FDVYV9G9,B0G3X73F19,B0F48FLCGR,B0G3X2PXJ6,B0FY63KK9Q,B0G3WYNKR3,B0F3XFCBHW,B0F48DJ4MT,B0F48B7V3C,B0FDVZX994,B0FDWK33XM,B0G3X53GCV,B0F48GDZG5,B0G3WGZP8Z,B0G3X1VKGD",
+    "proposition_65_warning": false,
+    "has_size_guide": true,
+    "add_on_item": {
+      "is_add_on_item": true
+    },
+    "categories": [
+      {
+        "name": "Electronics"
+      },
+      {
+        "name": "Video Games",
+        "link": "https://www.amazon.com/computer-video-games-hardware-accessories/b/ref=dp_bc_1?ie=UTF8&node=468642",
+        "category_id": "468642"
+      },
+      {
+        "name": "Xbox Series X & S",
+        "link": "https://www.amazon.com/b/ref=dp_bc_2?ie=UTF8&node=20972798011",
+        "category_id": "20972798011"
+      },
+      {
+        "name": "Accessories",
+        "link": "https://www.amazon.com/b/ref=dp_bc_3?ie=UTF8&node=20972799011",
+        "category_id": "20972799011"
+      },
+      {
+        "name": "Batteries & Chargers",
+        "link": "https://www.amazon.com/b/ref=dp_bc_4?ie=UTF8&node=20972800011",
+        "category_id": "20972800011"
+      }
+    ],
+    "categories_flat": "Electronics > Video Games > Xbox Series X & S > Accessories > Batteries & Chargers",
+    "sub_title": {
+      "text": "Visit the xiwxi Store",
+      "link": "https://www.amazon.com/stores/Accessoriesforphoneandelectricproducts/page/6057A3FA-67BB-4DA3-8CAD-F842DF24E976?lp_asin=B0F43VY6TC&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto"
+    },
+    "amazons_choice": {
+      "link": "https://www.amazon.com/Charging-Vacation-Essentials-Charger-Lightning/dp/B0F43VY6TC",
+      "badge_text": "Amazon's  Choice"
+    },
+    "marketplace_id": "ATVPDKIKX0DER",
+    "rating": 4.3,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 69,
+        "count": 1715
+      },
+      "four_star": {
+        "percentage": 13,
+        "count": 323
+      },
+      "three_star": {
+        "percentage": 5,
+        "count": 124
+      },
+      "two_star": {
+        "percentage": 3,
+        "count": 75
+      },
+      "one_star": {
+        "percentage": 10,
+        "count": 249
+      }
+    },
+    "ratings_total": 2485,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/71zbZrNvOmL.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/71nAFenwctL._SL1500_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71jYJ18yvJL._SL1500_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71Ru1N3uIfL._SL1500_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71YCWZkEFlL._SL1500_.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71SN-g1j-jL._SL1500_.jpg",
+        "variant": "PT05"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/717EPXwzLQL._SL1500_.jpg",
+        "variant": "PT06"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71ZtfVJb43L._SL1500_.jpg",
+        "variant": "PT07"
+      }
+    ],
+    "images_count": 7,
+    "images_flat": "https://m.media-amazon.com/images/I/71nAFenwctL._SL1500_.jpg,https://m.media-amazon.com/images/I/71jYJ18yvJL._SL1500_.jpg,https://m.media-amazon.com/images/I/71Ru1N3uIfL._SL1500_.jpg,https://m.media-amazon.com/images/I/71YCWZkEFlL._SL1500_.jpg,https://m.media-amazon.com/images/I/71SN-g1j-jL._SL1500_.jpg,https://m.media-amazon.com/images/I/717EPXwzLQL._SL1500_.jpg,https://m.media-amazon.com/images/I/71ZtfVJb43L._SL1500_.jpg",
+    "videos_count": 8,
+    "videos_additional": [
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.08045ab0aa764561bec5fb130cae37a4",
+        "product_asin": "B0F43VY6TC",
+        "parent_asin": "B0G49167ZM",
+        "related_products": "B0F43VY6TC,B0G49167ZM",
+        "title": "The last charging cable you'll ever need?",
+        "profile_image_url": "https://m.media-amazon.com/images/I/61CtAtaiOhL._CR0,0,576,576_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/auststew",
+        "public_name": "The Stewart Review Realm",
+        "vendor_code": "auststew:shop",
+        "vendor_name": "The Stewart Review Realm",
+        "vendor_tracking_id": "onamzausti0be-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/A1X2kXWWUOL._CR0,0,1080,609_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/A1X2kXWWUOL.png",
+        "video_image_width": "1080",
+        "video_image_height": "1080",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/20b486c5-b949-42a8-9f53-67e0e5020cb0/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/641368b6-b80b-4c32-8f32-8f7314ecd48b/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/641368b6-b80b-4c32-8f32-8f7314ecd48b/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/641368b6-b80b-4c32-8f32-8f7314ecd48b/cab49a7c-6040-4088-bd06-09b789e60a40/08045ab0aa764561bec5fb130cae37a4_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:52",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/4bb72472-4f1e-40f1-8c9e-5288cdf5d1eb.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.073decdc5c2c48ecb26bfa1e9b7a88df",
+        "product_asin": "B0F43VY6TC",
+        "parent_asin": "B0G49167ZM",
+        "related_products": "B0F43VY6TC",
+        "title": "No More Fighting Over Chargers",
+        "profile_image_url": "https://m.media-amazon.com/images/I/61d-CrJbABL._CR0,0,682,682_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/interprepedia",
+        "public_name": "Rosa O.",
+        "vendor_code": "interprepedia:shop",
+        "vendor_name": "Rosa O.",
+        "vendor_tracking_id": "onamzinterpre-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/81IENJjubGL._CR2,0,1276,720_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/81IENJjubGL.png",
+        "video_image_width": "1280",
+        "video_image_height": "720",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/70794d5f-574f-4edf-a83d-41bd0219da09/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3cb568fa-a2c9-4680-aed2-a6188e320481/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3cb568fa-a2c9-4680-aed2-a6188e320481/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:19",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/fc954340-a4f6-46ae-a8ec-5337501e6e87.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.04bc4fee4a4741ff8899ad706482b3cc",
+        "product_asin": "B0F43VY6TC",
+        "parent_asin": "B0G49167ZM",
+        "related_products": "B0F43VY6TC,B0FF48Y87N",
+        "title": "What I noticed about these multi charging cords",
+        "profile_image_url": "https://m.media-amazon.com/images/I/61E0Y70efCL._CR2,142,327,327_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/1amazonmama",
+        "public_name": "Nicole",
+        "vendor_code": "1amazonmama:shop",
+        "vendor_name": "Nicole",
+        "vendor_tracking_id": "onamznic06484-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/91EXtnM8fmL._CR0,0,4032,2275_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/91EXtnM8fmL.jpg",
+        "video_image_width": "4032",
+        "video_image_height": "3024",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/b69ad93b-f262-44ba-bd2d-be13af9a9027/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/829d4ec9-33e2-44b0-acef-179fccb4931d/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/829d4ec9-33e2-44b0-acef-179fccb4931d/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:21",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/b8e77383-c42f-410e-b2c1-569a9faea277.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0eb49d1231f34f21b4e78083f4237b55",
+        "product_asin": "B0F43VY6TC",
+        "parent_asin": "B0G49167ZM",
+        "related_products": "B0F43VY6TC,B0G49167ZM",
+        "title": "Multi Charging Cable Full Review - Watch Before Buying!",
+        "profile_image_url": "https://m.media-amazon.com/images/I/41rxP7nViJL._CR0,0,289,289_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/discgolfdummy",
+        "public_name": "Andrew Cestra",
+        "vendor_code": "discgolfdummy:shop",
+        "vendor_name": "Andrew Cestra",
+        "vendor_tracking_id": "onamzandrewce-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/811atG+8BrL._CR1,0,1772,1000_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/811atG+8BrL.jpg",
+        "video_image_width": "1775",
+        "video_image_height": "1000",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/85b1c5f5-e82d-4c9e-9b2d-0accd0355dfd/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f4e73b60-5039-40b8-adf5-9c0926e83651/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f4e73b60-5039-40b8-adf5-9c0926e83651/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "2:56",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/5f67d0a9-341a-4f3d-b992-a76b2abbb992.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.00e657b3df3a4468866f47da688e75e6",
+        "product_asin": "B0F43VY6TC",
+        "parent_asin": "B0G49167ZM",
+        "related_products": "B0D7Z9JHMX,B0F43VY6TC,B0DSW1VDY3,B0GK8Z3981,B0FXDZ1J6F",
+        "title": "Lightning, Apple Watch and USBC 3 in 1 Cable Review Unboxing",
+        "profile_image_url": "https://m.media-amazon.com/images/I/817EWj4ZyWL._CR0,0,1780,1780_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/nealrap",
+        "public_name": "Reviews & Unboxing by Neal💎",
+        "vendor_code": "nealrap:shop",
+        "vendor_name": "Reviews & Unboxing by Neal💎",
+        "vendor_tracking_id": "onamznealrapo-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/61qL4lyTVnL._CR1,0,638,360_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61qL4lyTVnL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "360",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d6bc5e44-bc27-4b2e-b087-a24adb2eaacd/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a1ee6ccb-4a42-44d8-be05-a812b82beeb4/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a1ee6ccb-4a42-44d8-be05-a812b82beeb4/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:22",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/dca7aea8-0fc8-42bd-a0e3-76683cf2b616.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0e9c173306964f23bf53c2b7bb7ed45c",
+        "product_asin": "B0F43VY6TC",
+        "parent_asin": "B0G49167ZM",
+        "related_products": "B0F43VY6TC",
+        "title": "3in2 Charging Cable",
+        "public_name": "zttamzusd",
+        "vendor_code": "Z7AX4",
+        "vendor_name": "zttamzusd",
+        "video_image_url": "https://m.media-amazon.com/images/I/61hptJKiwJL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61hptJKiwJL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1137",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/27f2263c-40ea-41c5-8454-078eca70aaff/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/16a6aa74-5869-46b8-bdc2-bce3b8e33600/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/16a6aa74-5869-46b8-bdc2-bce3b8e33600/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:15"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0ed8744762674d78a2fe74815bbca4b1",
+        "product_asin": "B0F43VY6TC",
+        "parent_asin": "B0G49167ZM",
+        "related_products": "B0FF48Y87N,B0F43VY6TC",
+        "title": "*EVERYTHING You Need to Know About This Charging Cable*",
+        "profile_image_url": "https://m.media-amazon.com/images/I/61jhsQhdmSL._CR0,0,783,783_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/saramarie982",
+        "public_name": "Chasing Deals and Sunshine",
+        "vendor_code": "saramarie982:shop",
+        "vendor_name": "Chasing Deals and Sunshine",
+        "vendor_tracking_id": "onamzsarar03e-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/71NgtZ9uCxL._CR0,0,940,530_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/71NgtZ9uCxL.jpg",
+        "video_image_width": "940",
+        "video_image_height": "788",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/96870b34-cb8f-4911-a8ce-1b582f5c5428/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/0a18c2da-9629-465d-a280-456fea36ffa2/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/0a18c2da-9629-465d-a280-456fea36ffa2/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:36",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/fcf95d17-7dca-442b-b661-98a6a1466a4d.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.04358b30c1fc4adea33c25be1cce4a31",
+        "product_asin": "B0F43VY6TC",
+        "parent_asin": "B0G49167ZM",
+        "related_products": "B0F43VY6TC",
+        "title": "Convenient. Fast charging if only one device is plugged in.",
+        "profile_image_url": "https://m.media-amazon.com/images/S/amazon-avatars-global/6e0a193c-c34a-4073-8aad-7780828fd661._CR0%2C0%2C640%2C640_SX460_._SL34_.jpg",
+        "profile_link": "/gp/profile/amzn1.account.AG5L6IEWYCWGUJ2MF5YXJSCQH4MA",
+        "public_name": "JrsyGal",
+        "vendor_code": "AOD60",
+        "vendor_name": "JrsyGal",
+        "video_image_url": "https://m.media-amazon.com/images/I/31ItxA25jnL._CR0,0,360,203_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/31ItxA25jnL.jpg",
+        "video_image_width": "360",
+        "video_image_height": "480",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/7eb8d112-5b60-4db1-9a72-80cad1fb7a0f/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e838a3fc-0ad4-44e5-b2ef-9c6f9375a981/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e838a3fc-0ad4-44e5-b2ef-9c6f9375a981/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:35",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/9cd4fea1-2f7b-40e6-8ada-cc9b1e601c32.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.08b2a68e153f4d5cb70e4296969df59a",
+        "product_asin": "B0F43VY6TC",
+        "parent_asin": "B0G49167ZM",
+        "related_products": "B0F43VY6TC",
+        "title": "Charging Cable for Apple Watch Charger, iPhone 17 Charger",
+        "profile_image_url": "https://m.media-amazon.com/images/I/A11xGy5wvwL._CR0,0,3024,3024_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/olesea_gheorghian.ugc",
+        "public_name": "Olesea Gheorghian | Mom of 4 • Honest Reviews • UGC for Family Brands",
+        "vendor_code": "olesea_gheorghian.ugc:shop",
+        "vendor_name": "Olesea Gheorghian | Mom of 4 • Honest Reviews • UGC for Family Brands",
+        "vendor_tracking_id": "onamzolesea-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/91C+eDIxVbL._CR6,0,1308,738_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/91C+eDIxVbL.jpg",
+        "video_image_width": "1320",
+        "video_image_height": "738",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f984985c-9394-4a15-9d4e-f18c33e1aa89/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/00037b57-d2ef-4fd4-ba18-cc3523aa627b/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/00037b57-d2ef-4fd4-ba18-cc3523aa627b/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/00037b57-d2ef-4fd4-ba18-cc3523aa627b/d1c6efa2-3fee-4c62-96df-ec3157fa0ea4/08b2a68e153f4d5cb70e4296969df59a_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:03",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/977766e3-0e0f-43b6-99c2-08fcba790b56.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.004095976c5d4efd9aee89102c40d1e4",
+        "product_asin": "B0F43VY6TC",
+        "parent_asin": "B0G49167ZM",
+        "related_products": "B0F43VY6TC,B0G49167ZM",
+        "title": "Does this really charge my phone / watch at the same time?",
+        "profile_image_url": "https://m.media-amazon.com/images/I/71YbnbPmy+L._CR0,0,788,788_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/sarahhpollardd1",
+        "public_name": "Sarah Pollard ",
+        "vendor_code": "sarahhpollardd1:shop",
+        "vendor_name": "Sarah Pollard ",
+        "vendor_tracking_id": "onamzsara09f7-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/A189Z-12hQL._CR2,0,1276,720_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/A189Z-12hQL.png",
+        "video_image_width": "1280",
+        "video_image_height": "720",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/7b16c2a6-c6b6-4c39-98ec-55836d35781f/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/4d8e85b5-b930-41b9-bda6-894c79df9ed1/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/4d8e85b5-b930-41b9-bda6-894c79df9ed1/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:40",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/585ae499-d4f6-416f-a236-154fd37bda36.vtt"
+      }
+    ],
+    "is_bundle": false,
+    "feature_bullets": [
+      "【Advanced Safe & Fast Stable Charging】Experience enhanced safety and fast,delivering efficient power output to your devices.This certified multi charger cable supports USB Type C cable fast charging and USB lightning cable compatibility, delivering rapid power to iPhone cable, USB C cable pack, and for Apple Watch and Xbox Series X & S .(3A+ adapter recommended for best results). Note: *Charging speed depends on your device's capabilities, battery status, and the power adapter used",
+      "【3 in 2 Multi Charging Cable】Includes a 4ft 3 in 2 charging cable that features USB C/USB A input ports and three output ports: Type-C,and for apple watch charger.The multi charger cable is compatible with both USB C and USB A chargers, making it a versatile option for various devices（designed for iWatch Series 2-10,SE/Ultra models,compatible with iPhone 16-11 and newer models,and alos for iPads,Samsung Galaxy S25-21,Airpods,car charging,Xbox 360 Headset etc.)Note:Not for samsung watch!!!Xbox Series X&S",
+      "【Portable Travel Camping Essentials&Car accessories】This 1.25M/4ft 3 in 2 charging cable is convenient to carry around with lightweight and portable design.It fits seamlessly into travel vocation essentials like bags and suitcases so it is a perfect choice when going on holiday,business trip,travel,office,dorm life,apartment living, college campuses,and hiking adventures. Ideal for charging in car,Charge iPhone, iWatch, and USB A to C cable-compatible devices simultaneously—no adapters needed.Xbox Series X&S",
+      "【Strong Magnetic Adsorption】The iWatch Charger with built-in magnet has strong adsorption perfectly snaps and centers to the charging coil on the back of your watch,stable and will not fall off,you will get wonderful charging experience(Note: no iwatch case for better charging speed).",
+      "【High Quality Material】Crafted with 48-strand nylon braided and aluminum alloy shell,the charging cables for multiple devices resist breakage,lint and pulling.The multi charging cable ensures long-lasting durability and flexibility for everyday use.We provide 12-Month Quality Assurance-As a responsible brand seller,you will receive xiwxi's 12-month Quality assurance and lifetime friendly customer service!",
+      "【Safe Smart Protection】Equipped with MFI-certified advanced safety mechanisms including over-current,over-voltage,short-circuit,and over-temperature protection. This charging cord for multiple devices features nylon braided shielding and sandblasted aluminum connectors to prevent fraying and overheating. Alos,this 3 in 2 Cable possesses excellent corrosion resistance,allowing it to be used safely and reliably in outdoor environments."
+    ],
+    "feature_bullets_count": 6,
+    "feature_bullets_flat": "【Safe Smart Protection】Equipped with MFI-certified advanced safety mechanisms including over-current,over-voltage,short-circuit,and over-temperature protection. This charging cord for multiple devices features nylon braided shielding and sandblasted aluminum connectors to prevent fraying and overheating. Alos,this 3 in 2 Cable possesses excellent corrosion resistance,allowing it to be used safely and reliably in outdoor environments. 【High Quality Material】Crafted with 48-strand nylon braided and aluminum alloy shell,the charging cables for multiple devices resist breakage,lint and pulling.The multi charging cable ensures long-lasting durability and flexibility for everyday use.We provide 12-Month Quality Assurance-As a responsible brand seller,you will receive xiwxi's 12-month Quality assurance and lifetime friendly customer service!. 【Strong Magnetic Adsorption】The iWatch Charger with built-in magnet has strong adsorption perfectly snaps and centers to the charging coil on the back of your watch,stable and will not fall off,you will get wonderful charging experience(Note: no iwatch case for better charging speed). 【Portable Travel Camping Essentials&Car accessories】This 1.25M/4ft 3 in 2 charging cable is convenient to carry around with lightweight and portable design.It fits seamlessly into travel vocation essentials like bags and suitcases so it is a perfect choice when going on holiday,business trip,travel,office,dorm life,apartment living, college campuses,and hiking adventures. Ideal for charging in car,Charge iPhone, iWatch, and USB A to C cable-compatible devices simultaneously—no adapters needed.Xbox Series X&S. 【3 in 2 Multi Charging Cable】Includes a 4ft 3 in 2 charging cable that features USB C/USB A input ports and three output ports: Type-C,and for apple watch charger.The multi charger cable is compatible with both USB C and USB A chargers, making it a versatile option for various devices（designed for iWatch Series 2-10,SE/Ultra models,compatible with iPhone 16-11 and newer models,and alos for iPads,Samsung Galaxy S25-21,Airpods,car charging,Xbox 360 Headset etc.)Note:Not for samsung watch!!!Xbox Series X&S. 【Advanced Safe & Fast Stable Charging】Experience enhanced safety and fast,delivering efficient power output to your devices.This certified multi charger cable supports USB Type C cable fast charging and USB lightning cable compatibility, delivering rapid power to iPhone cable, USB C cable pack, and for Apple Watch and Xbox Series X & S .(3A+ adapter recommended for best results). Note: *Charging speed depends on your device's capabilities, battery status, and the power adapter used.",
+    "top_reviews": [
+      {
+        "id": "R18Y267FB6QODP",
+        "title": "So versatile with quality construction. Unclutter your charging cord station!",
+        "body": "I'm very happy with these universal chargers.  I love the usb c and usb a adapters to make these different charger types useful.  The quality seems great and the apple watch charging works great.  It's so nice to have lightning, usb c and apple watch charging all in one cable and you can charge multiple devices at one time with one charger connection.  Of course the charge times will be slower if charging more than one device at a time, as expected.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on February 28, 2026"
+        },
+        "profile": {
+          "name": "Maximus Dad"
+        },
+        "verified_purchase": true,
+        "link": "https://www.amazon.com/gp/customer-reviews/R18Y267FB6QODP/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R3HSZNMZN6VJ2Z",
+        "title": "Perfect Travel Companion — One Cable Does It All!",
+        "body": "I bought this 2-pack before a family trip, and I honestly wish I had found it sooner. Between iPhones, Apple Watches, AirPods, and a gaming controller, our charging situation used to be a tangled mess. This cable completely solved that.Each cord has a USB-A and USB-C input plus Lightning and Apple Watch connectors, so no matter what device I need to charge, I’m covered. It’s compact, durable, and eliminates the need to pack multiple cables — a huge win for travel or keeping things simple around the house or office.The Apple Watch charger works perfectly and snaps in magnetically just like the original. It even handles fast charging for my iPhone 15 without any hiccups. The braided cable feels high quality and hasn’t frayed or kinked, even after being stuffed into a backpack and carry-on.Highly recommend this if you travel often or just want to declutter your charging setup. It’s a small purchase that makes a big difference in convenience and peace of mind.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on October 25, 2025"
+        },
+        "profile": {
+          "name": "Mitch F"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 10,
+        "link": "https://www.amazon.com/gp/customer-reviews/R3HSZNMZN6VJ2Z/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R33ETFLP1WHX7X",
+        "title": "That’ll do…",
+        "body": "These actually work not the highest quality chargers in general but the best with multiple chargers worked into one cord.  Perfect for travel.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on February 5, 2026"
+        },
+        "profile": {
+          "name": "Brunt"
+        },
+        "verified_purchase": true,
+        "link": "https://www.amazon.com/gp/customer-reviews/R33ETFLP1WHX7X/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R1Q4X7QHFMLO4I",
+        "title": "Works for android, but not my iPad",
+        "body": "I like that this charging cable comes in a convenient 2-pack, which is great for keeping one at home and one for travel. The multi-charging design is really handy and makes it easy to charge several different electronics without carrying multiple cords.It works well for my Samsung phone and has been reliable for everyday use. However, it did not charge my iPad, so that’s something to keep in mind. I also don’t have an iPhone to test how it performs with that device. Overall, it’s a useful travel essential—especially if you’re mainly using it for Samsung devices or other compatible electronics—but compatibility may vary depending on what you’re charging. For that reason, I only have it 4 stars.",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in the United States on December 27, 2025"
+        },
+        "profile": {
+          "name": "D. Pace"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 3,
+        "link": "https://www.amazon.com/gp/customer-reviews/R1Q4X7QHFMLO4I/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R2WMBG823ZYM1U",
+        "title": "The perfect charging cable for our Apple products.",
+        "body": "We cruise quite often and this multi-charging cable has simplified our travels. We have 5 packs of these in several lengths and all over the house. These are seriously durable and look great.  We have experienced fantastic connectivity with every single one of our cables.  These have never failed us. We purchased 6' cables to go in our cars. We have 4' cables beside our beds, our living room chairs, one on each side of our guestroom bed, and we each have one in our personal go-bag. The variety of lengths is especially appealing and welcomed. I don't know why, but these do not tangle. A great buy.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on February 24, 2026"
+        },
+        "profile": {
+          "name": "Katididnt"
+        },
+        "verified_purchase": true,
+        "link": "https://www.amazon.com/gp/customer-reviews/R2WMBG823ZYM1U/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R1LL4RO43ONY1G",
+        "title": "Charging cable",
+        "body": "Works well. Saves space when packing. Really like adapter on end for USB or C type chargers. It’s sturdy but flexible",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on March 3, 2026"
+        },
+        "profile": {
+          "name": "PA Fischer"
+        },
+        "verified_purchase": true,
+        "link": "https://www.amazon.com/gp/customer-reviews/R1LL4RO43ONY1G/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R2AJ8B2QSIS11I",
+        "title": "Multi charging charger",
+        "body": "Fast charging and able to use on different devices at the same time. I mostly use for my Apple Watch and it works great.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on February 25, 2026"
+        },
+        "profile": {
+          "name": "Monica"
+        },
+        "verified_purchase": true,
+        "link": "https://www.amazon.com/gp/customer-reviews/R2AJ8B2QSIS11I/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R1WONGFPJVU7O",
+        "title": "Versatile charger",
+        "body": "Good charger but not too fast of a charge. I like the fact that it has the different charger unit for my watch , iPad and iPhone. Charging speed about average",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in the United States on February 28, 2026"
+        },
+        "profile": {
+          "name": "Juliwuli"
+        },
+        "verified_purchase": true,
+        "link": "https://www.amazon.com/gp/customer-reviews/R1WONGFPJVU7O/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      }
+    ],
+    "bestsellers_rank": [
+      {
+        "rank": 27,
+        "category": "Video Games",
+        "link": "https://www.amazon.com/gp/bestsellers/videogames/ref=pd_zg_ts_videogames"
+      },
+      {
+        "rank": 1,
+        "category": "Xbox Series X & S Batteries & Chargers",
+        "link": "https://www.amazon.com/gp/bestsellers/videogames/20972800011/ref=pd_zg_hrsr_videogames"
+      }
+    ],
+    "a_plus_content": {
+      "has_a_plus_content": true,
+      "has_brand_story": false,
+      "all_images": [
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2659974e-18a0-41ef-a2e5-fcc46ab87a3d.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "1"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7ee2f4b2-afac-4684-88d2-3d643aea9789.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "2"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b3f84306-7326-486c-ab50-8a426f5c709f.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "8"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6c15ff4b-be8a-404b-940d-4da357edae96.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "1"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/dbbfbc9f-eeba-4612-b044-eeadb852144e.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "3"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/642a320f-0bf4-4840-8afe-5ba939476a99.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "6"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d8ae083c-a338-41bd-b9a0-e6f72b85600b.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "7"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9b616b54-b028-4760-a3f4-1c47443069a9.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "apple watch charger"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5321b976-1e65-4b47-b530-86272ecfb49f.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "6"
+        }
+      ],
+      "third_party": false
+    },
+    "buybox_winner": {
+      "maximum_order_quantity": {
+        "value": 30,
+        "hard_maximum": true
+      },
+      "price_only_available_in_cart": false,
+      "mixed_offers_count": 4,
+      "mixed_offers_from": {
+        "symbol": "$",
+        "value": 35,
+        "currency": "USD",
+        "raw": "FREE Shipping on orders over $35.00 shipped by Amazon."
+      },
+      "trade_in_and_save": true,
+      "return_policy": {
+        "duration_days": 30,
+        "type": "refund/replacement"
+      },
+      "is_prime": true,
+      "is_prime_exclusive_deal": false,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "In Stock",
+        "dispatch_days": 1
+      },
+      "fulfillment": {
+        "type": "p2",
+        "standard_delivery": {
+          "date": "Sunday, March 22",
+          "name": "FREE"
+        },
+        "fastest_delivery": {
+          "date": "Thursday, March 19",
+          "name": "Or Prime members get FREE delivery Thursday, March 19. Order within 13 hrs 19 mins. Join Prime"
+        },
+        "is_sold_by_amazon": false,
+        "is_fulfilled_by_amazon": true,
+        "is_fulfilled_by_third_party": false,
+        "is_sold_by_third_party": true,
+        "third_party_seller": {
+          "name": "zttamzusd",
+          "link": "https://www.amazon.com/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1K92WSYLD2FRV&asin=B0F43VY6TC&ref_=dp_merchant_link&isAmazonFulfilled=1",
+          "id": "A1K92WSYLD2FRV"
+        }
+      },
+      "price": {
+        "symbol": "$",
+        "value": 15.99,
+        "currency": "USD",
+        "raw": "$15.99"
+      },
+      "shipping": {
+        "raw": "FREE"
+      }
+    },
+    "specifications": [
+      {
+        "name": "Brand",
+        "value": "‎xiwxi"
+      },
+      {
+        "name": "Connector Type",
+        "value": "‎USB Type A, USB Type C"
+      },
+      {
+        "name": "Cable Type",
+        "value": "‎USB,USB C,Lightning"
+      },
+      {
+        "name": "Compatible Devices",
+        "value": "‎Compatible with iPhone17/17Air/17 Pro/17Pro Max/iPhone 16/16 Pro/16 Plus/16 Pro Max/iPhone 15/15 Pro/15 Plus/15 Pro Max/iPhone 14 /14 Plus /14 Pro / 14 Pro Max / iPhone 13 / iPhone 12 / iPhone 11, iPad pro 12.9 (2017 2018 2020 2021) / iPad pro 11 (2018 2020 2021) / iPad Air (2019 2020 2022) / iPad pro (2015 2016 2017) / iPad mini (2015 2019 2021) / iPad (2017 2018 2019 2020 2021 2022) /AirPods / AirPods pro / AirPods Max, Apple Watch Ultra 2/Ultra, Series SE/9/8/7/6/5/4/3/2/1,Samsung Galaxy S25/S25+/S25 Ultra/S24/S24+/S24 Ultra/S23/S23+/S23 Ultra/ S22/ S22+ / S22 Ultra / S21/ S21+ / S21 Ultra / S20/ S20+/ S20 Ultra/ Note20/ Note20/ Note20 Ultra/ Note10/ Note10+/ S10/ S10+/ S10E/ S9/ S9+/ S8/ S8+/ Note 8(Not for Samsung Watch)"
+      },
+      {
+        "name": "Special Feature",
+        "value": "‎Portable,Lightweight,Wireless,Magnetic,Fast Charging"
+      },
+      {
+        "name": "Compatible Phone Models",
+        "value": "‎Compatible with Apple Watch Ultra/SE/9/8/7/6/5/4/3/2/1,Compatible with iPhone 17/17 Pro/17 Air/17 Pro Max/iPhone 16/16 Pro/16 Plus/16 Pro Max/iPhone 15/15 Pro/15 Plus/15 Pro Max/iPhone 14 /14 Plus /14 Pro / 14 Pro Max / iPhone 13 / iPhone 12 / iPhone 11, iPad pro 12.9 (2017 2018 2020 2021) / iPad pro 11 (2018 2020 2021) / iPad Air (2019 2020 2022) / iPad pro (2015 2016 2017) / iPad mini (2015 2019 2021) / iPad (2017 2018 2019 2020 2021 2022) /AirPods / AirPods pro / AirPods Max,Compatible with Samsung Galaxy S22/ S22+/S22 Ultra / S21/ S21+ / S21 Ultra / S20/ S20+/ S20 Ultra/ Note20/ Note20/ Note20 Ultra/ Note10/ Note10+/ S10/ S10+/ S10E/ S9/ S9+/ S8/ S8+/ Note 8"
+      },
+      {
+        "name": "Recommended Uses For Product",
+        "value": "‎Charging"
+      },
+      {
+        "name": "Color",
+        "value": "‎Gray"
+      },
+      {
+        "name": "Connector Gender",
+        "value": "‎Male-to-Female"
+      },
+      {
+        "name": "Shape",
+        "value": "‎Rectangle"
+      },
+      {
+        "name": "Number of Pins",
+        "value": "‎7"
+      },
+      {
+        "name": "AC Adapter Current",
+        "value": "‎1 Amps"
+      },
+      {
+        "name": "Item Weight",
+        "value": "‎25 Grams"
+      },
+      {
+        "name": "Model Name",
+        "value": "‎3-in-2 Charging Cable"
+      },
+      {
+        "name": "Specification Met",
+        "value": "‎MFI, UL"
+      },
+      {
+        "name": "Indoor/Outdoor Usage",
+        "value": "‎Indoor, Outdoor"
+      },
+      {
+        "name": "Number of Items",
+        "value": "‎2"
+      },
+      {
+        "name": "Manufacturer",
+        "value": "‎xiwxi"
+      },
+      {
+        "name": "Package Dimensions",
+        "value": "‎8.5 x 4.57 x 0.16 inches"
+      },
+      {
+        "name": "Item Weight",
+        "value": "‎0.882 ounces"
+      },
+      {
+        "name": "ASIN",
+        "value": "‎B0F43VY6TC"
+      },
+      {
+        "name": "Item model number",
+        "value": "‎3-in-2 Charging Cable"
+      },
+      {
+        "name": "Date First Available",
+        "value": "‎April 8, 2025"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "#27 in Video Games (See Top 100 in Video Games) #1 in Xbox Series X & S Batteries & Chargers"
+      },
+      {
+        "name": "Brand",
+        "value": "xiwxi"
+      },
+      {
+        "name": "Connector Type",
+        "value": "USB Type A, USB Type C"
+      },
+      {
+        "name": "Cable Type",
+        "value": "USB,USB C,Lightning"
+      },
+      {
+        "name": "Compatible Devices",
+        "value": "Compatible with iPhone17/17Air/17 Pro/17Pro Max/iPhone 16/16 Pro/16 Plus/16 Pro Max/iPhone 15/15 Pro/15 Plus/15 Pro Max/iPhone 14 /14 Plus /14 Pro / 14 Pro Max / iPhone 13 / iPhone 12 / iPhone 11, iPad pro 12.9 (2017 2018 2020 2021) / iPad pro 11 (2018 2020 2021) / iPad Air (2019 2020 2022) / iPad pro (2015 2016 2017) / iPad mini (2015 2019 2021) / iPad (2017 2018 2019 2020 2021 2022) /AirPods / AirPods pro / AirPods Max, Apple Watch Ultra 2/Ultra, Series SE/9/8/7/6/5/4/3/2/1,Samsung Galaxy S25/S25+/S25 Ultra/S24/S24+/S24 Ultra/S23/S23+/S23 Ultra/ S22/ S22+ / S22 Ultra / S21/ S21+ / S21 Ultra / S20/ S20+/ S20 Ultra/ Note20/ Note20/ Note20 Ultra/ Note10/ Note10+/ S10/ S10+/ S10E/ S9/ S9+/ S8/ S8+/ Note 8(Not for Samsung Watch) See more"
+      },
+      {
+        "name": "Special Feature",
+        "value": "Portable,Lightweight,Wireless,Magnetic,Fast Charging"
+      }
+    ],
+    "specifications_flat": "Special Feature: Portable,Lightweight,Wireless,Magnetic,Fast Charging. Compatible Devices: Compatible with iPhone17/17Air/17 Pro/17Pro Max/iPhone 16/16 Pro/16 Plus/16 Pro Max/iPhone 15/15 Pro/15 Plus/15 Pro Max/iPhone 14 /14 Plus /14 Pro / 14 Pro Max / iPhone 13 / iPhone 12 / iPhone 11, iPad pro 12.9 (2017 2018 2020 2021) / iPad pro 11 (2018 2020 2021) / iPad Air (2019 2020 2022) / iPad pro (2015 2016 2017) / iPad mini (2015 2019 2021) / iPad (2017 2018 2019 2020 2021 2022) /AirPods / AirPods pro / AirPods Max, Apple Watch Ultra 2/Ultra, Series SE/9/8/7/6/5/4/3/2/1,Samsung Galaxy S25/S25+/S25 Ultra/S24/S24+/S24 Ultra/S23/S23+/S23 Ultra/ S22/ S22+ / S22 Ultra / S21/ S21+ / S21 Ultra / S20/ S20+/ S20 Ultra/ Note20/ Note20/ Note20 Ultra/ Note10/ Note10+/ S10/ S10+/ S10E/ S9/ S9+/ S8/ S8+/ Note 8(Not for Samsung Watch) See more. Cable Type: USB,USB C,Lightning. Connector Type: USB Type A, USB Type C. Brand: xiwxi. Best Sellers Rank: #27 in Video Games (See Top 100 in Video Games) #1 in Xbox Series X & S Batteries & Chargers. Date First Available: ‎April 8, 2025. Item model number: ‎3-in-2 Charging Cable. ASIN: ‎B0F43VY6TC. Item Weight: ‎0.882 ounces. Package Dimensions: ‎8.5 x 4.57 x 0.16 inches. Manufacturer: ‎xiwxi. Number of Items: ‎2. Indoor/Outdoor Usage: ‎Indoor, Outdoor. Specification Met: ‎MFI, UL. Model Name: ‎3-in-2 Charging Cable. Item Weight: ‎25 Grams. AC Adapter Current: ‎1 Amps. Number of Pins: ‎7. Shape: ‎Rectangle. Connector Gender: ‎Male-to-Female. Color: ‎Gray. Recommended Uses For Product: ‎Charging. Compatible Phone Models: ‎Compatible with Apple Watch Ultra/SE/9/8/7/6/5/4/3/2/1,Compatible with iPhone 17/17 Pro/17 Air/17 Pro Max/iPhone 16/16 Pro/16 Plus/16 Pro Max/iPhone 15/15 Pro/15 Plus/15 Pro Max/iPhone 14 /14 Plus /14 Pro / 14 Pro Max / iPhone 13 / iPhone 12 / iPhone 11, iPad pro 12.9 (2017 2018 2020 2021) / iPad pro 11 (2018 2020 2021) / iPad Air (2019 2020 2022) / iPad pro (2015 2016 2017) / iPad mini (2015 2019 2021) / iPad (2017 2018 2019 2020 2021 2022) /AirPods / AirPods pro / AirPods Max,Compatible with Samsung Galaxy S22/ S22+/S22 Ultra / S21/ S21+ / S21 Ultra / S20/ S20+/ S20 Ultra/ Note20/ Note20/ Note20 Ultra/ Note10/ Note10+/ S10/ S10+/ S10E/ S9/ S9+/ S8/ S8+/ Note 8. Special Feature: ‎Portable,Lightweight,Wireless,Magnetic,Fast Charging. Compatible Devices: ‎Compatible with iPhone17/17Air/17 Pro/17Pro Max/iPhone 16/16 Pro/16 Plus/16 Pro Max/iPhone 15/15 Pro/15 Plus/15 Pro Max/iPhone 14 /14 Plus /14 Pro / 14 Pro Max / iPhone 13 / iPhone 12 / iPhone 11, iPad pro 12.9 (2017 2018 2020 2021) / iPad pro 11 (2018 2020 2021) / iPad Air (2019 2020 2022) / iPad pro (2015 2016 2017) / iPad mini (2015 2019 2021) / iPad (2017 2018 2019 2020 2021 2022) /AirPods / AirPods pro / AirPods Max, Apple Watch Ultra 2/Ultra, Series SE/9/8/7/6/5/4/3/2/1,Samsung Galaxy S25/S25+/S25 Ultra/S24/S24+/S24 Ultra/S23/S23+/S23 Ultra/ S22/ S22+ / S22 Ultra / S21/ S21+ / S21 Ultra / S20/ S20+/ S20 Ultra/ Note20/ Note20/ Note20 Ultra/ Note10/ Note10+/ S10/ S10+/ S10E/ S9/ S9+/ S8/ S8+/ Note 8(Not for Samsung Watch). Cable Type: ‎USB,USB C,Lightning. Connector Type: ‎USB Type A, USB Type C. Brand: ‎xiwxi.",
+    "recent_sales": "10K+ bought in past month",
+    "gift_guide_badge": {
+      "badge_text": "10K+ bought in past month"
+    },
+    "ingredients": [
+      "3-in-2 Multi Charging Cable4-in-2 Multi Charging Cable"
+    ],
+    "ingredients_flat": "3-in-2 Multi Charging Cable4-in-2 Multi Charging Cable",
+    "color": "‎Gray",
+    "manufacturer": "‎xiwxi",
+    "weight": "‎0.882 ounces",
+    "first_available": {
+      "raw": "April 8, 2025",
+      "utc": "2025-04-08T00:00:00.000Z"
+    },
+    "model_number": "‎3-in-2 Charging Cable",
+    "bestsellers_rank_flat": "Category: Video Games | Rank: 27, Category: Xbox Series X & S Batteries & Chargers | Rank: 1",
+    "whats_in_the_box": [
+      "2in3 Charger"
+    ]
+  },
+  "climate_pledge_friendly": {
+    "certifications": [
+      {
+        "name": "Sustainability features  Carbon impact",
+        "image": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+      },
+      {
+        "name": "Sustainability features",
+        "image": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+      },
+      {
+        "name": "Sustainability features",
+        "image": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+      },
+      {
+        "name": "Sustainability features"
+      },
+      {
+        "name": "Carbon impact",
+        "image": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+      },
+      {
+        "name": "Carbon impact"
+      }
+    ]
+  },
+  "brand_store": {
+    "id": "6057A3FA-67BB-4DA3-8CAD-F842DF24E976",
+    "link": "https://www.amazon.com/stores/Accessoriesforphoneandelectricproducts/page/6057A3FA-67BB-4DA3-8CAD-F842DF24E976"
+  }
+}

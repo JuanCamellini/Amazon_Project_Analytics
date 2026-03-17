@@ -1,0 +1,977 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 21,
+    "credits_remaining": 79,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "type": "product",
+    "asin": "B0FLXY2CBC",
+    "amazon_domain": "amazon.com"
+  },
+  "request_metadata": {
+    "created_at": "2026-03-17T15:39:36.528Z",
+    "processed_at": "2026-03-17T15:39:41.533Z",
+    "total_time_taken": 5,
+    "amazon_url": "https://www.amazon.com/dp/B0FLXY2CBC?th=1&psc=1"
+  },
+  "product": {
+    "title": "8 Blade All-in-1 Vegetable Chopper Mandoline Slicer with Container, Food Chopper, Onion Chopper, Veggie Cutter for Salad, Kitchen Gadgets Accessories Essentials, White White 8-Blade",
+    "search_alias": {
+      "title": "Home & Kitchen",
+      "value": "search-alias=garden"
+    },
+    "title_excluding_variant_name": "8 Blade All-in-1 Vegetable Chopper Mandoline Slicer with Container, Food Chopper, Onion Chopper, Veggie Cutter for Salad, Kitchen Gadgets Accessories Essentials, White",
+    "keywords": "8 Blade All-in-1 Vegetable Chopper Mandoline Slicer with Container, Food Chopper, Onion Chopper, Veggie Cutter for Salad, Kitchen Gadgets Accessories Essentials, White White 8-Blade",
+    "keywords_list": [
+      "8 Blade All-in-1 Vegetable Chopper Mandoline Slicer with Container",
+      "Food Chopper",
+      "Onion Chopper",
+      "Veggie Cutter for Salad",
+      "Kitchen Gadgets Accessories Essentials",
+      "White White 8-Blade"
+    ],
+    "is_collection": false,
+    "asin": "B0FLXY2CBC",
+    "parent_asin": "B0FX29WD7W",
+    "gtin": "602835559632",
+    "link": "https://www.amazon.com/Vegetable-Mandoline-Container-Accessories-Essentials/dp/B0FLXY2CBC",
+    "brand": "ukeetap",
+    "sell_on_amazon": false,
+    "bestseller_badge": {
+      "link": "https://www.amazon.com/gp/bestsellers/kitchen/678514011/ref=zg_b_bs_678514011_1",
+      "category": "Seasoning & Spice Choppers",
+      "badge_text": "#1 Best Seller"
+    },
+    "variants": [
+      {
+        "asin": "B0FLXT5RXT",
+        "title": "Black 12-Blade",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0FLXT5RXT?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Black"
+          },
+          {
+            "name": "Size",
+            "value": "12-Blade"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71K7VCjardL._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71K7VCjardL._AC_SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0FLXYVL81",
+        "title": "Black 8-Blade",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0FLXYVL81?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Black"
+          },
+          {
+            "name": "Size",
+            "value": "8-Blade"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71yM51+THIL._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71yM51+THIL._AC_SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0FLXXYK21",
+        "title": "White 12-Blade",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0FLXXYK21?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "White"
+          },
+          {
+            "name": "Size",
+            "value": "12-Blade"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71nsWyR4H4L._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71nsWyR4H4L._AC_SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0FLXY2CBC",
+        "title": "White 8-Blade",
+        "is_current_product": true,
+        "link": "https://www.amazon.com/dp/B0FLXY2CBC?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "White"
+          },
+          {
+            "name": "Size",
+            "value": "8-Blade"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71oEi5leWdL._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71oEi5leWdL._AC_SL1500_.jpg"
+          }
+        ]
+      }
+    ],
+    "variant_asins_flat": "B0FLXT5RXT,B0FLXYVL81,B0FLXXYK21,B0FLXY2CBC",
+    "proposition_65_warning": false,
+    "has_size_guide": true,
+    "add_on_item": {
+      "is_add_on_item": true
+    },
+    "categories": [
+      {
+        "name": "Home & Kitchen",
+        "link": "https://www.amazon.com/home-garden-kitchen-furniture-bedding/b/ref=dp_bc_1?ie=UTF8&node=1055398",
+        "category_id": "1055398"
+      },
+      {
+        "name": "Kitchen & Dining",
+        "link": "https://www.amazon.com/kitchen-dining/b/ref=dp_bc_2?ie=UTF8&node=284507",
+        "category_id": "284507"
+      },
+      {
+        "name": "Kitchen Utensils & Gadgets",
+        "link": "https://www.amazon.com/tools-gadgets/b/ref=dp_bc_3?ie=UTF8&node=289754",
+        "category_id": "289754"
+      },
+      {
+        "name": "Seasoning & Spice Tools",
+        "link": "https://www.amazon.com/seasoning-spice-tools/b/ref=dp_bc_4?ie=UTF8&node=289779",
+        "category_id": "289779"
+      },
+      {
+        "name": "Choppers & Mincers",
+        "link": "https://www.amazon.com/Choppers-Mincers/b/ref=dp_bc_5?ie=UTF8&node=289780",
+        "category_id": "289780"
+      },
+      {
+        "name": "Choppers",
+        "link": "https://www.amazon.com/Seasoning-Spice-Choppers/b/ref=dp_bc_6?ie=UTF8&node=678514011",
+        "category_id": "678514011"
+      }
+    ],
+    "categories_flat": "Home & Kitchen > Kitchen & Dining > Kitchen Utensils & Gadgets > Seasoning & Spice Tools > Choppers & Mincers > Choppers",
+    "sub_title": {
+      "text": "Visit the ukeetap Store",
+      "link": "https://www.amazon.com/stores/ukeetap/page/E3146BD1-BC07-4016-B180-3A036453FC0A?lp_asin=B0FLXY2CBC&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto"
+    },
+    "amazons_choice": {
+      "link": "https://www.amazon.com/Vegetable-Mandoline-Container-Accessories-Essentials/dp/B0FLXY2CBC"
+    },
+    "marketplace_id": "ATVPDKIKX0DER",
+    "rating": 4.4,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 74,
+        "count": 689
+      },
+      "four_star": {
+        "percentage": 12,
+        "count": 112
+      },
+      "three_star": {
+        "percentage": 5,
+        "count": 47
+      },
+      "two_star": {
+        "percentage": 2,
+        "count": 19
+      },
+      "one_star": {
+        "percentage": 7,
+        "count": 65
+      }
+    },
+    "ratings_total": 931,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/71oEi5leWdL.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/71R0PK5he8L._AC_SL1500_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71B1d4PaGTL._AC_SL1500_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71nYJXbl9YL._AC_SL1500_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71PjNUi4HRL._AC_SL1500_.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71Q-FV2jpnL._AC_SL1500_.jpg",
+        "variant": "PT05"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/710qD-20qRL._AC_SL1500_.jpg",
+        "variant": "PT06"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71Y4DwXwmJL._AC_SL1500_.jpg",
+        "variant": "PT07"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71eFYvnrOdL._AC_SL1500_.jpg",
+        "variant": "PT08"
+      }
+    ],
+    "images_count": 8,
+    "images_flat": "https://m.media-amazon.com/images/I/71R0PK5he8L._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71B1d4PaGTL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71nYJXbl9YL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71PjNUi4HRL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71Q-FV2jpnL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/710qD-20qRL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71Y4DwXwmJL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71eFYvnrOdL._AC_SL1500_.jpg",
+    "videos_additional": [
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0da1664d63cb4a1b98c38c9d0f7ffac1",
+        "product_asin": "B0FLXY2CBC",
+        "parent_asin": "B0FX29WD7W",
+        "related_products": "B0FLXYVL81",
+        "title": "Does it really save time with little effort?",
+        "profile_image_url": "https://m.media-amazon.com/images/I/71djh+Gq7ML._CR0,0,953,953_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/butitwasonsale",
+        "public_name": "✅Kim Ashworth",
+        "vendor_code": "butitwasonsale:shop",
+        "vendor_name": "✅Kim Ashworth",
+        "vendor_tracking_id": "onamztwinsaga-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/51VJ7cgkPLL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/51VJ7cgkPLL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "368",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3635aea0-9b39-465c-a449-547e95944976/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e035a70e-58fe-4511-8d91-1add2231c2a5/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e035a70e-58fe-4511-8d91-1add2231c2a5/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "3:35",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/4fb751c9-056e-47bb-a383-cf9e9b3b3dc2.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.01b69b9537e44e8ab7a1333af8099ba6",
+        "product_asin": "B0FLXY2CBC",
+        "parent_asin": "B0FX29WD7W",
+        "related_products": "B0FLXY2CBC",
+        "title": "How to cut vegetables without crying",
+        "profile_image_url": "https://m.media-amazon.com/images/I/B1j0NWopTYL._CR0,0,3024,3024_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/abby.k.orton",
+        "public_name": "Abby Orton",
+        "vendor_code": "abby.k.orton:shop",
+        "vendor_name": "Abby Orton",
+        "vendor_tracking_id": "onamzabbyorto-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/51-6i8w4T-L._CR1,0,638,360_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/51-6i8w4T-L.jpg",
+        "video_image_width": "640",
+        "video_image_height": "360",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/5000a365-0c93-43c3-b111-394a54dd8dba/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/dc358fd5-5152-44e9-a3ce-fab5e6715218/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/dc358fd5-5152-44e9-a3ce-fab5e6715218/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:00",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/90c5b93c-9e14-491a-bd25-ff829f97fcb3.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.07ec1c6d57d54c9d88672db23b111e19",
+        "product_asin": "B0FLXY2CBC",
+        "parent_asin": "B0FX29WD7W",
+        "related_products": "B0FLXY2CBC,B0FX29WD7W",
+        "title": "Cut Down Prep Time With This Handy Chopper",
+        "profile_image_url": "https://m.media-amazon.com/images/I/B1SQa39rQML._CR0,0,4896,4896_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/queenpower.24",
+        "public_name": "Dee C",
+        "vendor_code": "queenpower.24:shop",
+        "vendor_name": "Dee C",
+        "vendor_tracking_id": "onamzdyoncamp-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/61GOYjrk7cL._CR13,0,1054,595_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61GOYjrk7cL.jpg",
+        "video_image_width": "1080",
+        "video_image_height": "595",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e3bdc445-50b7-48fb-8d87-d0d2babc8ef2/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/117d6adf-38dc-425c-adc5-b72902d874d6/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/117d6adf-38dc-425c-adc5-b72902d874d6/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:16",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/2921c6ea-1eee-4a0c-a4bb-33d8571e963d.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.05d2ff1adbda4f7ebecda2b1febecd6b",
+        "product_asin": "B0FLXY2CBC",
+        "parent_asin": "B0FX29WD7W",
+        "related_products": "B0FLXY2CBC",
+        "title": "Why do things the hard way anymore? ",
+        "profile_image_url": "https://m.media-amazon.com/images/I/B1UCHY4yi5L._CR21,721,1310,1310_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/kathrynsevera",
+        "public_name": "Katie Severa",
+        "vendor_code": "kathrynsevera:shop",
+        "vendor_name": "Katie Severa",
+        "vendor_tracking_id": "onamzkathryk.-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/71t0ms4mDRL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/71t0ms4mDRL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1137",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/949753c2-541c-4fe0-b1c4-e27c070728e8/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e62c3ce9-498e-4556-8cc0-ba22b6eca18b/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e62c3ce9-498e-4556-8cc0-ba22b6eca18b/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e62c3ce9-498e-4556-8cc0-ba22b6eca18b/23604c3c-6703-4b50-bcda-4807c5c00fbc/05d2ff1adbda4f7ebecda2b1febecd6b_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:11",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/d4650df1-09f1-4de5-a58f-d93be0384dd2.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0d9c357b25ae455984445d2ef3610b39",
+        "product_asin": "B0FLXY2CBC",
+        "parent_asin": "B0FX29WD7W",
+        "related_products": "B0F3L3B4D5,B0FQTV5B8T,B0DJWHXQK4",
+        "title": "Great addition to my Kitchen!",
+        "profile_image_url": "https://m.media-amazon.com/images/I/B1aaX0INPdL._CR0,0,3024,3024_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/nukdaynazar",
+        "public_name": "Ayjemal’s Treasures ✨",
+        "vendor_code": "nukdaynazar:shop",
+        "vendor_name": "Ayjemal’s Treasures ✨",
+        "vendor_tracking_id": "onamzayjemalg-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/A1OH-3dkc6L._CR2,0,1276,720_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/A1OH-3dkc6L.png",
+        "video_image_width": "1280",
+        "video_image_height": "720",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/817489af-6a12-4a4a-868e-9be415bcd128/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/853b80c3-fd26-4137-b4a2-9ad8a377a176/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/853b80c3-fd26-4137-b4a2-9ad8a377a176/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/853b80c3-fd26-4137-b4a2-9ad8a377a176/5d7db55d-154d-47d7-acb6-c2b3daf02434/0d9c357b25ae455984445d2ef3610b39_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:03",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/55622010-01a4-4760-915b-1eae68eef6b0.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.061ba27019464d12bd52a7fe78ff24ea",
+        "product_asin": "B0FLXY2CBC",
+        "parent_asin": "B0FX29WD7W",
+        "related_products": "B0DCKCK326,B0FLXY2CBC,B0D8764385,B0DNKJ9L7K,B0DDKNQGCT",
+        "title": "Meal prep just got easier.",
+        "profile_image_url": "https://m.media-amazon.com/images/I/61ejmUmiRGL._CR0,0,704,704_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/cyenlis_gsoto",
+        "public_name": "Yenlis G. Soto",
+        "vendor_code": "cyenlis_gsoto:shop",
+        "vendor_name": "Yenlis G. Soto",
+        "vendor_tracking_id": "onamzcarm07ac-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/614fVKbQbDL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/614fVKbQbDL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1137",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/796eca89-54f0-4ba3-8c0e-27b4d42f87d9/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c2d597b6-f511-4924-9daf-f6fbc867116a/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c2d597b6-f511-4924-9daf-f6fbc867116a/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:51",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/ba3286c5-d0c7-4806-a443-ebdb0c65cd9f.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.065479e20acb4e99a155fe6700f0956b",
+        "product_asin": "B0FLXY2CBC",
+        "parent_asin": "B0FX29WD7W",
+        "related_products": "B0FLXY2CBC",
+        "title": "How well does this chopper work?",
+        "profile_image_url": "https://m.media-amazon.com/images/I/31ZrTH9+83L._CR0,0,216,216_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/twistedoliver2",
+        "public_name": "Oliver Reviews",
+        "vendor_code": "twistedoliver2:shop",
+        "vendor_name": "Oliver Reviews",
+        "vendor_tracking_id": "onamzshan03fd-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/81Ug3hXuEqL._CR2,0,1914,1080_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/81Ug3hXuEqL.jpg",
+        "video_image_width": "1918",
+        "video_image_height": "1080",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/b02d7da5-bac2-4cb4-b8cd-cb6f2eddd880/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a31ada5c-e3e2-4b69-814f-96c8ab60cbc4/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a31ada5c-e3e2-4b69-814f-96c8ab60cbc4/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:35",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/f355d983-d1ac-46eb-b989-e40b89af0e19.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0e51745d2f004f1c90a133f611ce28bb",
+        "product_asin": "B0FLXY2CBC",
+        "parent_asin": "B0FX29WD7W",
+        "related_products": "B0FLXY2CBC",
+        "title": "Unboxing of Vegetable Chopper",
+        "profile_image_url": "https://m.media-amazon.com/images/I/C1hJtJmOJ8L._CR0,154,2316,2316_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/riddleswithrachelrollins",
+        "public_name": "✅ Rachel’s Reviews",
+        "vendor_code": "riddleswithrachelrollins:shop",
+        "vendor_name": "✅ Rachel’s Reviews",
+        "vendor_tracking_id": "onamzrac09227-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/A1ElhFYDaHL._CR3,0,1914,1080_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/A1ElhFYDaHL.png",
+        "video_image_width": "1920",
+        "video_image_height": "1080",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f121ec1d-9fb5-40ea-befa-d30bc5dfb246/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/348a375e-b11a-44ba-806d-c3fc86318de8/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/348a375e-b11a-44ba-806d-c3fc86318de8/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "2:25",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/a5dbe602-f803-4e0f-a505-ef4d2df051a5.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.01cb186296c44fd19b1605feae92b0f9",
+        "product_asin": "B0FLXY2CBC",
+        "parent_asin": "B0FX29WD7W",
+        "related_products": "B0FLXXYK21,B0FX29WD7W",
+        "title": "Chop veggies with ease!",
+        "profile_image_url": "https://m.media-amazon.com/images/I/A1X87hoBzCL._CR0,0,2186,2186_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/lynnmedinaoficial",
+        "public_name": "Lynn Medina",
+        "vendor_code": "lynnmedinaoficial:shop",
+        "vendor_name": "Lynn Medina",
+        "vendor_tracking_id": "onamzanaefern-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/91iAhyyimHL._CR0,0,1000,564_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/91iAhyyimHL.png",
+        "video_image_width": "1000",
+        "video_image_height": "1500",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ab6b94e5-03c9-437e-84dc-ddadc82b93f3/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/9cb63d3a-f3e7-4534-bba9-dd28fc010fed/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/9cb63d3a-f3e7-4534-bba9-dd28fc010fed/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:24",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/3223b707-69a6-423b-8d15-29f043f859d3.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.01288087a9b5427b8d0dcf7a4fa6aa34",
+        "product_asin": "B0FLXY2CBC",
+        "parent_asin": "B0FX29WD7W",
+        "related_products": "B0FLXY2CBC",
+        "title": "Unimpressive but affordable",
+        "profile_image_url": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SL34_.png",
+        "profile_link": "/gp/profile/amzn1.account.AEMAIOMVE6ZZBF57MZVIL5W6FGPQ",
+        "public_name": "SanDiego8383",
+        "vendor_code": "AOD60",
+        "vendor_name": "SanDiego8383",
+        "video_image_url": "https://m.media-amazon.com/images/I/51kIEfjnsgL._CR0,0,1080,609_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/51kIEfjnsgL.jpg",
+        "video_image_width": "1080",
+        "video_image_height": "1920",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/b8b5fbe7-a150-444f-854b-31c48f0ff9e7/embedded.cc.default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/208afec8-3331-48f7-82e2-abc09817cdcf/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/208afec8-3331-48f7-82e2-abc09817cdcf/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:46",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/8b33ce8f-f99d-441d-8df5-234f0907451f.vtt"
+      }
+    ],
+    "is_bundle": false,
+    "feature_bullets": [
+      "【Game Changer for Cooking】This 8-Blade All in One vegetable chopper makes slicing, dicing, and chopping quick and effortless, it’s a time saver and game changer for how you prep food in the kitchen.",
+      "【Premium Materials】Crafted from food-safe, BPA-free ABS plastic and sharp stainless steel, the sturdy veggie chopper delivers a smooth cutting experience and ensures long-lasting use.",
+      "【Neat and Stable】Comes with a 17L container, it keeps everything neat so there’s no mess on the counter. And the non-slip rubber base of the container keeps the chopper steady during use.",
+      "【Dishwasher Safe】All the parts and accessories of the chopper are dishwasher-safe, you can just toss it in the dishwasher for easy cleaning.",
+      "【Multi-Functional】The food chopper is great for onions, peppers, tomatoes, cucumbers, carrots, and more, and it handles them all with ease."
+    ],
+    "feature_bullets_count": 5,
+    "feature_bullets_flat": "【Multi-Functional】The food chopper is great for onions, peppers, tomatoes, cucumbers, carrots, and more, and it handles them all with ease. 【Dishwasher Safe】All the parts and accessories of the chopper are dishwasher-safe, you can just toss it in the dishwasher for easy cleaning. 【Neat and Stable】Comes with a 17L container, it keeps everything neat so there’s no mess on the counter. And the non-slip rubber base of the container keeps the chopper steady during use. 【Premium Materials】Crafted from food-safe, BPA-free ABS plastic and sharp stainless steel, the sturdy veggie chopper delivers a smooth cutting experience and ensures long-lasting use. 【Game Changer for Cooking】This 8-Blade All in One vegetable chopper makes slicing, dicing, and chopping quick and effortless, it’s a time saver and game changer for how you prep food in the kitchen.",
+    "top_reviews": [
+      {
+        "id": "R2SN2CDZ4PS52J",
+        "title": "Extremely sharp, use cut gloves unless you want to lose a finger.",
+        "body": "This is incredibly sharp and comes with tons of attachments that are easy to use. It works very well and makes cutting veggies a quick task. I highly recommend wearing cut gloves while using it. Yesterday my husband was cutting a cucumber, he was utilizing the safety guard however it was too flimsy to use with a cucumber so he had to place his fingers closer than he wanted and he ended up cutting off a significant portion of his pinky finger. It got him on the side of his pinky from tip to first knuckle and nearly to the bone in depth. Urgent care cauterized the wound to stop the bleeding but there was nothing more they could do. He said it cut through his finger like butter. So the product is excellent and does exactly as advertised however please use incredible caution as according to urgent care it is very common for people to lose fingers to this device. I highly recommend buying a pair of kitchen cut gloves to go with this. Your fingers will thank you.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on February 2, 2026"
+        },
+        "profile": {
+          "name": "Kate"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 33,
+        "link": "https://www.amazon.com/gp/customer-reviews/R2SN2CDZ4PS52J/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "RVZUQA26TEK3L",
+        "title": "Nice chopper without breaking the bank!",
+        "body": "Nice chopper that I bought to replace a cheaper one that I got at Dollar General for $12. (You get what you pay for!) Be careful as the blades are SHARP! Even on the chopper blades. You could easily cut your finger(s) even while washing. (Don’t ask how I know!) Fairly easy to clean with the included “comb” and brushes. It gets the job done quickly!",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on February 11, 2026"
+        },
+        "profile": {
+          "name": "Dean in SC"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 7,
+        "link": "https://www.amazon.com/gp/customer-reviews/RVZUQA26TEK3L/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R3TL8JWEC1WKNK",
+        "title": "Less cutting. Better dice.",
+        "body": "It’s sharp so just be careful. I bought this to help me prep food faster. I still have to chop vegetables down to the right size but it did actually shorten the amount of time it takes to chop and it produces a beautiful dice. The slicer makes quick work of a potato and while the tomato gets messy its slices them beautifully thin. The cleaning tools are very useful.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on March 11, 2026"
+        },
+        "profile": {
+          "name": "J Lloyd"
+        },
+        "verified_purchase": true,
+        "helpful_votes": null,
+        "link": "https://www.amazon.com/gp/customer-reviews/R3TL8JWEC1WKNK/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R3NWJGVY19C3YB",
+        "title": "Useable for onions and soft veggies",
+        "body": "I am updating my review.  The seller was very concerned about the problem I had and offered a full refund.  Very nice.Best for softer veggies.  I love this for onions.  Very fast and easy and does a great job.",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in the United States on February 8, 2026"
+        },
+        "profile": {
+          "name": "Customer since 1999"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 4,
+        "link": "https://www.amazon.com/gp/customer-reviews/R3NWJGVY19C3YB/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R36BOVUMMZO2YC",
+        "title": "Chopper!",
+        "body": "I have used it a couple times and I love it.  It makes chopping vegetables quick and so easy.  I would highly recommend this chopper especially if you eat a lot of fruits and vegetables like I do.  10 out of 10!!!",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on March 1, 2026"
+        },
+        "profile": {
+          "name": "Deb F."
+        },
+        "verified_purchase": true,
+        "helpful_votes": null,
+        "link": "https://www.amazon.com/gp/customer-reviews/R36BOVUMMZO2YC/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R2RKJMCUYFMH4H",
+        "title": "Tip of finger, gone during first use!  But great product.",
+        "body": "This is very, very sharp!  My wife bought this and I helped assemble it to slice a zucchini.  Like an idiot I held the zucchini with my hand because it was too long to use the safety handle.  We should have cut it down to shorter pieces to put into the holder but didn't.  On the 4th slice, my pinky finger dragged over the blade and the tip of my finger was gone, clean slice.  I recommend to anyone, cut down the size of your veggie, and never use this without the safety handle!  Very good item with a variety of blades, they fall right into the bowl underneath which is nice.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on February 9, 2026"
+        },
+        "profile": {
+          "name": "Brad W."
+        },
+        "verified_purchase": true,
+        "helpful_votes": 5,
+        "link": "https://www.amazon.com/gp/customer-reviews/R2RKJMCUYFMH4H/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R2XA4563GB9BKH",
+        "title": "Got it on a whim, but glad that I did...",
+        "body": "I got this on a whim on sale after seeing numerous social media posters talking about similar units. I've used it primarily to chop cucumbers and apples for salads so far, but its handled those tasks very well. I'm going to be using the slicer and julienne blades this weekend as I'm making soup and it should make very short work of the celery and carrots.The device is sturdy and the blades are VERY sharp. The blade packs were initially a bit of a problem to get in and out of the cover, but after a few uses that became easier.Cleaning is a bit of a chore, especially the pusher fingers, but the included cleaning comb and brush do a good job.To be honest, I really thought that I'd use it a couple of times and then go back to a cutting board and knife, but I don't think that's going to happen, especially if I have a lot of stuff to chop.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on February 14, 2026"
+        },
+        "profile": {
+          "name": "Michael R. Irwin"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 3,
+        "link": "https://www.amazon.com/gp/customer-reviews/R2XA4563GB9BKH/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R6NJ7UFFQF49E",
+        "title": "It seems functional, see inside for more details.",
+        "body": "In general, it seems like a decent product.  I tried it.  It seems to work.But there are 2 things I don't love about it.Summary1.Plastic container.2.The water gets inside the cutting mesh housing**\"Next day***: I could not hear any water swooshing inside.  Not sure if it never got in, or if it somehow got out.  Increasing rating fr.3stars to 4 stars.See details below.1.Plastic container.Honestly, it is probably fine.  Given intricate shapes, something has to be plastic.  And if something is plastic, what is the difference if the container is plastic.Basically, if I want to use one of these, I have to agree to use plastic.The advertisement does say food safe, and bpa free.So, it is what it is, for this point.2.**\"Next day***: I could not hear any water swooshing inside.  Not sure if it never got in, or if it somehow got out.  Increasing rating fr.3stars to 4 stars.From 1st day:This quality I really do not like:I splashed the cutting plain under the sink water to wash it.  Then I shook it to give it head start to dry.When I did that, I heard water swooshing inside the housing of cutting mesh.Let's project what will happen now.The water seeped in through some tiny opening between the blades and the plastic.Now that water is stuck inside until it will somehow evaporate.Given prolonged time being stuck inside that plastic, the mold might, and almost certainly will, grow.So next time I am going to use it, it might potentially dispurse mold spores onto my food I am cutting.The holes through which it has to immerge are small.I don't know how certain this to happen.  But I think there is some chance, maybe even a good chance.This one quality I do not love about it at all.In general, a tool like this, should either seal the holes to prevent water from entering, or give an ability to open the plastic to allow the water to evaporate.  This brand did the worst possible choice.**\"Next day***: I could not hear any water swooshing inside.  Not sure if it never got in, or if it somehow got out.  Increasing rating fr.3stars to 4 stars.Full disclosure:I got it for a great price.I seldom use it.Now that I know this, I will be more careful washing it by hand, and making sure the water will not sleep inside the cutter.So I am deciding to keep it.Anyway,I generally give one star to things that are not functional.This thing is functional if one can avoid growing mold inside cutters.  But that is challenging.  In addition, considering the price,I settled on 3 stars.But you deside how many stars it is worth to you.**\"Next day***: I could not hear any water swooshing inside.  Not sure if it never got in, or if it somehow got out.  Increasing rating fr.3stars to 4 stars.",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in the United States on February 27, 2026"
+        },
+        "profile": {
+          "name": "SeeAndSay"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 2,
+        "link": "https://www.amazon.com/gp/customer-reviews/R6NJ7UFFQF49E/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R1A5GKRX6F9B0T",
+        "title": "Makes meal prep quick and easy",
+        "body": "This chopper really saves me a lot of time. I don't have a ton of space in my small apartment so I can have a ton of different devices for food preparation. I like that it comes with inserts for juicing and slicing different veggies and even cutting french fries. The stainless steel blades make quick work of whatever I've thrown at them so far I especially like it for making salads and chopping veggies to add to a delicious stir fry. Best of all it does all this without taking up much space and it's quite easy to keep clean. Couldn't be happier.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Canada on February 7, 2026"
+        },
+        "profile": {
+          "name": "Pete M."
+        }
+      },
+      {
+        "id": "R24LEXPJ38WFJX",
+        "title": "Everyone needs this",
+        "body": "Wow. What a time saver. The blades on this are so sharp, put a carrot in there and it cubes it, no problem. There are multiple different blade types and you can even use it to shave the veggies instead. It takes seconds to do whole vegetables, and clean up is pretty easy. It comes with a brush that gets really into the blades.It's such an amazing gadget, worth the buy 100%",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Canada on February 3, 2026"
+        },
+        "profile": {
+          "name": "Steven Day"
+        }
+      },
+      {
+        "id": "R27VOAYM77C2JB",
+        "title": "Bad item received",
+        "body": "They send me 16 in 1 very bad product i asked return",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in Egypt on March 13, 2026"
+        },
+        "profile": {
+          "name": "abdou"
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "R35TTN17J79X47",
+        "title": "Huge time-saver. Various cool and useful attachments. Just watch your fingers on the sharp blades!",
+        "body": "I’ve wanted a vegetable chopper like this for ages, and I’m so glad I finally got one. This thing is awesome. It cuts prep time down quite a bit, especially if you’re preparing simple diced or sliced pieces. The set includes a bunch of attachments, each for different uses, such as various-sized cubes, slices, shreds, grates, spirals, etc. I love that it includes a little organizer for the blades — they’re very sharp and having them stored neatly makes a huge difference. If it didn’t, I could see these sharp blades ending up loose in drawers and cabinets, which is an accident waiting to happen. The chopper itself takes up a bit of space, but the base holds a good amount, so you’re not constantly emptying it. It’s a very practical tool for anyone who cooks regularly or just likes to save time in the kitchen. It also arrives in a nice (nothing special but nice) box with images showing the product and what it can do, so it’s something you could gift.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Canada on December 31, 2025"
+        },
+        "profile": {
+          "name": "Customer"
+        }
+      },
+      {
+        "id": "R9588KESLIL00",
+        "title": "Time saver & works well",
+        "body": "I LOVE this chopper. It makes meal prep / slicing and dicing a breeze. It comes with a couple of different sized attachments so you can pick the size you want for your veggies / fruit or whatever it is you are chopping. It also comes with a slicer. All of the blades are QUITE sharp - I already cut myself - so be careful and store them out of reach of children. You can also toss the whole thing (taken apart) into the dishwasher if you so choose - I prefer to wash things like this by hand. The top part can be a little bit tricky to clean (food gets stuck on the roof) but it comes with tools to help making cleaning easier and to get in between the cracks and scrape food out. You have to press down quite hard when using tougher vegetables but that is to be expected. For the price, I'm very impressed with the quality and the amount of attachments it comes with.  I recently made salsa with it and it cut my prep time from about 10 minutes to less than two. I would definitely recommend this if you spend a lot of time cutting up veggies in the kitchen.  It would also make a nice gift for a chef in your life.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Canada on December 11, 2025"
+        },
+        "profile": {
+          "name": "Petra Arnold-Bowen"
+        }
+      }
+    ],
+    "bestsellers_rank": [
+      {
+        "rank": 22,
+        "category": "Kitchen & Dining",
+        "link": "https://www.amazon.com/gp/bestsellers/kitchen/ref=pd_zg_ts_kitchen"
+      },
+      {
+        "rank": 1,
+        "category": "Seasoning & Spice Choppers",
+        "link": "https://www.amazon.com/gp/bestsellers/kitchen/678514011/ref=pd_zg_hrsr_kitchen"
+      }
+    ],
+    "a_plus_content": {
+      "has_a_plus_content": true,
+      "has_brand_story": true,
+      "brand_story": {
+        "brand_logo": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7fa14768-5a1a-4612-aba4-a82416899104.__CR0,162,600,276_PT0_SX315_V1___.jpg",
+        "hero_image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/80d358bc-30c8-43b7-bc57-2f53e32ec062.__CR0,0,1464,625_PT0_SX1464_V1___.jpg",
+        "description": "Fromspacestoragetokitchenpreparation,Ukeetapcreatesanorderly,comfortableandwarmidealhomewiththoughtfulcraftsmanshipandcarefuldetails,lettingtidinessandbeautyblendintoeverymomentofdailylife.",
+        "brand_store": {
+          "link": "/stores/page/E3146BD1-BC07-4016-B180-3A036453FC0A",
+          "id": "E3146BD1-BC07-4016-B180-3A036453FC0A"
+        },
+        "images": [
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/80d358bc-30c8-43b7-bc57-2f53e32ec062.__CR0,0,1464,625_PT0_SX1464_V1___.jpg"
+        ]
+      },
+      "all_images": [
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/80d358bc-30c8-43b7-bc57-2f53e32ec062.__CR0,0,1464,625_PT0_SX1464_V1___.jpg",
+          "name": "background PC"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7fa14768-5a1a-4612-aba4-a82416899104.__CR0,162,600,276_PT0_SX315_V1___.jpg",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/511FD2AOmwL.__AC_SR166,182___.jpg",
+          "name": "ukeetap Extra Large Expandable Silverware Organizer, BPA-Free Food-Safe Cutlery Flatware Organize..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/41R3gBowyRL.__AC_SR166,182___.jpg",
+          "name": "ukeetap Extra Large Expandable Silverware Organizer, BPA-Free Food-Safe Cutlery Flatware Organize..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/41XYCsM8N4L.__AC_SR166,182___.jpg",
+          "name": "ukeetap Extra Large Expandable Silverware Organizer, BPA-Free Food-Safe Cutlery Flatware Organize..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/41LXnQGK4FL.__AC_SR166,182___.jpg",
+          "name": "ukeetap Extra Large Expandable Silverware Organizer, BPA-Free Food-Safe Cutlery Flatware Organize..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/51ELVCH-XwL.__AC_SR166,182___.jpg",
+          "name": "8 Blade All-in-1 Vegetable Chopper Mandoline Slicer with Container, Food Chopper, Onion Chopper, ..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/51cqC93ORUL.__AC_SR166,182___.jpg",
+          "name": "12 Blade All-in-1 Vegetable Chopper Mandoline Slicer with Container, Spiralizer with Containers, ..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/51cJCoBxEzL.__AC_SR166,182___.jpg",
+          "name": "8 Blade All-in-1 Vegetable Chopper Mandoline Slicer with Container, Food Chopper, Onion Chopper, ..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/I/51bePdWSqML.__AC_SR166,182___.jpg",
+          "name": "12 Blade All-in-1 Vegetable Chopper Mandoline Slicer with Container, Spiralizer with Containers, ..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/06d0c4bc-3079-4609-aec6-2d571c8fb90b.__AC_SR166,182___.jpg",
+          "name": "8 Pack Extra Large Heavy Duty Moving Bags, Clear Storage Bins with Lids, Reinforced Handles &amp; Hea..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d00c3650-dfb9-4ade-8e44-1df64f7cad78.__AC_SR166,182___.jpg",
+          "name": "8 Pack Extra Large Heavy Duty Moving Bags, Pink Storage Bins with Lids, Reinforced Handles &amp; Heav..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/173fdd02-a4a0-4bf9-980a-78211c38df73.__AC_SR166,182___.jpg",
+          "name": "8 Pack Extra Large Heavy Duty Moving Bags, Blue Storage Bins with Lids, Reinforced Handles &amp; Heav..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1c7a80ba-b938-448f-af34-7b93092e5bad.__AC_SR166,182___.jpg",
+          "name": "8 Pack Extra Large Heavy Duty Moving Bags, Black Storage Bins with Lids, Reinforced Handles &amp; Hea..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/81d80f8b-2511-4604-9434-76b5504a72d6.__AC_SR166,182___.jpg",
+          "name": "ukeetap Extra Thick Silicone Mat Waterproof with Raised Edge 34&#34; x 22&#34;, Under Sink Mat for Kitche..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ed00b7ca-34fb-460a-88e1-610aae547646.__AC_SR166,182___.jpg",
+          "name": "ukeetap Extra Thick Silicone Mat Waterproof with Raised Edge 34&#34; x 22&#34;, Under Sink Mat for Kitche..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1e757053-4b97-45e2-ad0d-d3e35710a8bd.__AC_SR166,182___.jpg",
+          "name": "ukeetap Extra Thick Silicone Mat Waterproof with Raised Edge 34&#34; x 22&#34;, Under Sink Mat for Kitche..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/750c422a-1f7a-46d1-af29-15270d8a6464.__AC_SR166,182___.jpg",
+          "name": "ukeetap Extra Thick Silicone Mat Waterproof with Raised Edge 34&#34; x 22&#34;, Under Sink Mat for Kitche..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b8e5f112-7a58-4bae-8ab7-2e21c733f2ee.__AC_SR166,182___.jpg",
+          "name": "Ukeetap Multi-Purpose Pull-Out Storage Organizers, Under Sink/Cabinet Organizers and Storage for ..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/28f98d94-715d-4d85-8d6d-87450e18ca24.__AC_SR166,182___.jpg",
+          "name": "Ukeetap 2 Pack Multi-Purpose Pull-Out Storage Organizers, Under Sink &amp; Cabinet Storage, 12.8 Inch..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5849f414-b77b-4d75-8b6c-b6865a48355f.__AC_SR166,182___.jpg",
+          "name": "Ukeetap 2 Pack Multi-Purpose Pull-Out Storage Organizers, Under Sink &amp; Cabinet Organizers, 12.8 I..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/afa504b1-d092-4730-a586-688a14b50db4.__AC_SR166,182___.jpg",
+          "name": "Ukeetap 2 Pack Multi-Purpose Pull-Out Storage Organizers, Under Sink Organizers and Storage for B..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7a28dca6-622f-43f8-95c9-98b2315970d1.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+          "name": "vegetable chopper 12blade"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1f492ad4-f826-49a0-8e83-acd7c1523438.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+          "name": "vegetable chopper 12blade"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9ac35617-f560-4361-8b24-cc41c7a88730.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+          "name": "vegetable chopper 8blade"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ff2ced90-8009-4c50-b1e0-7cbc03328091.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+          "name": "vegetable chopper 12blade"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/340d9fea-86b3-4ed1-86aa-377482fecb31.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+          "name": "vegetable chopper 12blade"
+        }
+      ],
+      "third_party": true,
+      "company_logo": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7fa14768-5a1a-4612-aba4-a82416899104.__CR0,162,600,276_PT0_SX315_V1___.jpg",
+      "company_description_text": "From space storage to kitchen preparation, Ukeetap creates an orderly, comfortable and warm ideal home with thoughtful craftsmanship and careful details, letting tidiness and beauty blend into every moment of daily life. We select multifunctional storage solutions and convenient kitchen gadgets to help you get rid of clutter, free up space, make your home fresher and cooking easier."
+    },
+    "buybox_winner": {
+      "maximum_order_quantity": {
+        "value": 5,
+        "hard_maximum": true
+      },
+      "price_only_available_in_cart": false,
+      "trade_in_and_save": true,
+      "return_policy": {
+        "duration_days": 30,
+        "type": "refund/replacement"
+      },
+      "is_prime": true,
+      "is_prime_exclusive_deal": false,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "In Stock",
+        "dispatch_days": 1
+      },
+      "fulfillment": {
+        "type": "p2",
+        "standard_delivery": {
+          "date": "Sunday, March 22",
+          "name": "FREE"
+        },
+        "fastest_delivery": {
+          "date": "Thursday, March 19",
+          "name": "Or Prime members get FREE delivery Thursday, March 19. Order within 13 hrs 20 mins. Join Prime"
+        },
+        "is_sold_by_amazon": false,
+        "is_fulfilled_by_amazon": true,
+        "is_fulfilled_by_third_party": false,
+        "is_sold_by_third_party": true,
+        "third_party_seller": {
+          "name": "Ukeetap",
+          "link": "https://www.amazon.com/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AC1ICLMVEM1X7&asin=B0FLXY2CBC&ref_=dp_merchant_link&isAmazonFulfilled=1",
+          "id": "AC1ICLMVEM1X7"
+        }
+      },
+      "price": {
+        "symbol": "$",
+        "value": 19.99,
+        "currency": "USD",
+        "raw": "$19.99"
+      },
+      "shipping": {
+        "raw": "FREE"
+      }
+    },
+    "specifications": [
+      {
+        "name": "Brand",
+        "value": "ukeetap"
+      },
+      {
+        "name": "Product Dimensions",
+        "value": "10.6\"L x 5.5\"W x 5.3\"H"
+      },
+      {
+        "name": "Material",
+        "value": "Plastic, Stainless Steel"
+      },
+      {
+        "name": "Color",
+        "value": "White"
+      },
+      {
+        "name": "Special Feature",
+        "value": "Dishwasher Safe"
+      },
+      {
+        "name": "Recommended Uses For Product",
+        "value": "Kitchen"
+      },
+      {
+        "name": "Product Care Instructions",
+        "value": "Dishwasher Safe"
+      },
+      {
+        "name": "Blade Material",
+        "value": "Stainless Steel"
+      },
+      {
+        "name": "Item Weight",
+        "value": "2.5 Pounds"
+      },
+      {
+        "name": "Operation Mode",
+        "value": "Manual"
+      },
+      {
+        "name": "Manufacturer",
+        "value": "Ukeetap"
+      },
+      {
+        "name": "UPC",
+        "value": "602835559632"
+      },
+      {
+        "name": "Item Weight",
+        "value": "2.5 pounds"
+      },
+      {
+        "name": "ASIN",
+        "value": "B0FLXY2CBC"
+      },
+      {
+        "name": "Item model number",
+        "value": "VC001"
+      },
+      {
+        "name": "Customer Reviews",
+        "value": "4.4    4.4 out of 5 stars         (931)           4.4 out of 5 stars"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "#22 in Kitchen & Dining (See Top 100 in Kitchen & Dining) #1 in Seasoning & Spice Choppers"
+      },
+      {
+        "name": "Date First Available",
+        "value": "October 14, 2025"
+      },
+      {
+        "name": "GTIN",
+        "value": "602835559632"
+      }
+    ],
+    "specifications_flat": "GTIN: 602835559632. Date First Available: October 14, 2025. Best Sellers Rank: #22 in Kitchen & Dining (See Top 100 in Kitchen & Dining) #1 in Seasoning & Spice Choppers. Customer Reviews: 4.4    4.4 out of 5 stars         (931)           4.4 out of 5 stars. Item model number: VC001. ASIN: B0FLXY2CBC. Item Weight: 2.5 pounds. UPC: 602835559632. Manufacturer: Ukeetap. Operation Mode: Manual. Item Weight: 2.5 Pounds. Blade Material: Stainless Steel. Product Care Instructions: Dishwasher Safe. Recommended Uses For Product: Kitchen. Special Feature: Dishwasher Safe. Color: White. Material: Plastic, Stainless Steel. Product Dimensions: 10.6\"L x 5.5\"W x 5.3\"H. Brand: ukeetap.",
+    "recent_sales": "10K+ bought in past month",
+    "gift_guide_badge": {
+      "badge_text": "10K+ bought in past month"
+    },
+    "color": "White",
+    "material": "Stainless Steel",
+    "manufacturer": "Ukeetap",
+    "weight": "2.5 pounds",
+    "first_available": {
+      "raw": "October 14, 2025",
+      "utc": "2025-10-14T00:00:00.000Z"
+    },
+    "dimensions": "10.6\"L x 5.5\"W x 5.3\"H",
+    "model_number": "VC001",
+    "bestsellers_rank_flat": "Category: Kitchen & Dining | Rank: 22, Category: Seasoning & Spice Choppers | Rank: 1"
+  },
+  "brand_store": {
+    "id": "E3146BD1-BC07-4016-B180-3A036453FC0A",
+    "link": "https://www.amazon.com/stores/ukeetap/page/E3146BD1-BC07-4016-B180-3A036453FC0A"
+  }
+}

@@ -1,0 +1,1111 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 12,
+    "credits_remaining": 88,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "type": "product",
+    "asin": "B07PZF3QS3",
+    "amazon_domain": "amazon.com"
+  },
+  "request_metadata": {
+    "created_at": "2026-03-17T15:37:31.400Z",
+    "processed_at": "2026-03-17T15:37:36.787Z",
+    "total_time_taken": 5.39,
+    "amazon_url": "https://www.amazon.com/dp/B07PZF3QS3?th=1&psc=1"
+  },
+  "product": {
+    "title": "KitchenAid All Purpose Kitchen Shears with Protective Sheath Durable Stainless Steel Scissors, Dishwasher Safe, Soft Grip Comfort Handle, 8.72 Inch, Black Black 1 Pack",
+    "search_alias": {
+      "title": "Home & Kitchen",
+      "value": "search-alias=garden"
+    },
+    "title_excluding_variant_name": "KitchenAid All Purpose Kitchen Shears with Protective Sheath Durable Stainless Steel Scissors, Dishwasher Safe, Soft Grip Comfort Handle, 8.72 Inch, Black",
+    "keywords": "KitchenAid All Purpose Kitchen Shears with Protective Sheath Durable Stainless Steel Scissors, Dishwasher Safe, Soft Grip Comfort Handle, 8.72 Inch, Black Black 1 Pack",
+    "keywords_list": [
+      "KitchenAid All Purpose Kitchen Shears with Protective Sheath Durable Stainless Steel Scissors",
+      "Dishwasher Safe",
+      "Soft Grip Comfort Handle",
+      "8.72 Inch",
+      "Black Black 1 Pack"
+    ],
+    "is_collection": false,
+    "asin": "B07PZF3QS3",
+    "parent_asin": "B0GF7PLPZX",
+    "gtin": "‎822093014920 024131405602",
+    "link": "https://www.amazon.com/KitchenAid-Protective-Dishwasher-Stainless-8-72-Inch/dp/B07PZF3QS3",
+    "brand": "‎KitchenAid",
+    "sell_on_amazon": false,
+    "variants": [
+      {
+        "asin": "B07TLNSW1S",
+        "title": "Aqua Sky 1 Pack",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B07TLNSW1S?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Aqua Sky"
+          },
+          {
+            "name": "Size",
+            "value": "1 Pack"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/6178wL2jBGL._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/6178wL2jBGL._AC_SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B07TMR7S38",
+        "title": "Pistachio 1 Pack",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B07TMR7S38?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Pistachio"
+          },
+          {
+            "name": "Size",
+            "value": "1 Pack"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/61cIoaSxkkL._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/61cIoaSxkkL._AC_SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B07TPYDDC9",
+        "title": "Gray 1 Pack",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B07TPYDDC9?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Gray"
+          },
+          {
+            "name": "Size",
+            "value": "1 Pack"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/51RAfN55MtL._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/51RAfN55MtL._AC_SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0D8H1NTXH",
+        "title": "Black/Red 2 Pack",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0D8H1NTXH?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Black/Red"
+          },
+          {
+            "name": "Size",
+            "value": "2 Pack"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/61L+goDR82L._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/61L+goDR82L._AC_SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B07Q2WDMCM",
+        "title": "Red 1 Pack",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B07Q2WDMCM?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Red"
+          },
+          {
+            "name": "Size",
+            "value": "1 Pack"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/51bfAT26hNL._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/51bfAT26hNL._AC_SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0GHDJ3113",
+        "title": "Pistachio 2 Pack",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0GHDJ3113?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Pistachio"
+          },
+          {
+            "name": "Size",
+            "value": "2 Pack"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/5187nVwObmL._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/5187nVwObmL._AC_SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0FGQGQNFQ",
+        "title": "Lavendar Cream 2 Pack",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0FGQGQNFQ?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Lavendar Cream"
+          },
+          {
+            "name": "Size",
+            "value": "2 Pack"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/61Ir7eqYJlL._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/61Ir7eqYJlL._AC_SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B082JRQ77R",
+        "title": "Lavendar Cream 1 Pack",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B082JRQ77R?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Lavendar Cream"
+          },
+          {
+            "name": "Size",
+            "value": "1 Pack"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/61xbAI0wIgL._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/61xbAI0wIgL._AC_SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B082JRVBPG",
+        "title": "Ink Blue 1 Pack",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B082JRVBPG?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Ink Blue"
+          },
+          {
+            "name": "Size",
+            "value": "1 Pack"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/51GbxJgNZiL._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/51GbxJgNZiL._AC_SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B07PZF3QS3",
+        "title": "Black 1 Pack",
+        "is_current_product": true,
+        "link": "https://www.amazon.com/dp/B07PZF3QS3?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Black"
+          },
+          {
+            "name": "Size",
+            "value": "1 Pack"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/51Byq+vTy1L._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/51Byq+vTy1L._AC_SL1500_.jpg"
+          }
+        ]
+      }
+    ],
+    "variant_asins_flat": "B07TLNSW1S,B07TMR7S38,B07TPYDDC9,B0D8H1NTXH,B07Q2WDMCM,B0GHDJ3113,B0FGQGQNFQ,B082JRQ77R,B082JRVBPG,B07PZF3QS3",
+    "proposition_65_warning": false,
+    "has_size_guide": true,
+    "add_on_item": {
+      "is_add_on_item": true
+    },
+    "categories": [
+      {
+        "name": "Home & Kitchen",
+        "link": "https://www.amazon.com/home-garden-kitchen-furniture-bedding/b/ref=dp_bc_1?ie=UTF8&node=1055398",
+        "category_id": "1055398"
+      },
+      {
+        "name": "Kitchen & Dining",
+        "link": "https://www.amazon.com/kitchen-dining/b/ref=dp_bc_2?ie=UTF8&node=284507",
+        "category_id": "284507"
+      },
+      {
+        "name": "Kitchen Utensils & Gadgets",
+        "link": "https://www.amazon.com/tools-gadgets/b/ref=dp_bc_3?ie=UTF8&node=289754",
+        "category_id": "289754"
+      },
+      {
+        "name": "Shears",
+        "link": "https://www.amazon.com/Kitchen-Shears/b/ref=dp_bc_4?ie=UTF8&node=289860",
+        "category_id": "289860"
+      }
+    ],
+    "categories_flat": "Home & Kitchen > Kitchen & Dining > Kitchen Utensils & Gadgets > Shears",
+    "description": "These all-purpose shears from KitchenAid are a valuable addition to your kitchen utensils set and ideal for a variety of tasks throughout the home, from slicing poultry and pizza to clipping coupons. The blade edges feature micro-serrations to provide a superior cutting experience. Durable and strong, these kitchen scissors are made from heavy-duty stainless steel that withstands daily use, with soft-grip handles that provide comfort and control while using. The shears come with a blade guard to protect blades when stored. Dishwasher safe; hand washing is recommended.",
+    "sub_title": {
+      "text": "Visit the KitchenAid Store",
+      "link": "https://www.amazon.com/stores/KitchenAid/page/E0E5CA8C-FED3-4CE0-8CA9-3F4C3B226FD5?lp_asin=B07PZF3QS3&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto"
+    },
+    "amazons_choice": {
+      "link": "https://www.amazon.com/KitchenAid-Protective-Dishwasher-Stainless-8-72-Inch/dp/B07PZF3QS3",
+      "badge_text": "Amazon's  Choice"
+    },
+    "marketplace_id": "ATVPDKIKX0DER",
+    "rating": 4.7,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 86,
+        "count": 60160
+      },
+      "four_star": {
+        "percentage": 9,
+        "count": 6296
+      },
+      "three_star": {
+        "percentage": 2,
+        "count": 1399
+      },
+      "two_star": {
+        "percentage": 1,
+        "count": 700
+      },
+      "one_star": {
+        "percentage": 2,
+        "count": 1399
+      }
+    },
+    "ratings_total": 69953,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/51Byq+vTy1L.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/31cOYTffJpL._AC_.jpg",
+        "variant": "FRNT"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/310GPmDmEqL._AC_.jpg",
+        "variant": "BACK"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71OsNubcwDL._AC_SL1500_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61MgRRdbtJL._AC_SL1500_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71szm74vSuL._AC_SL1500_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71ldFWMzQgL._AC_SL1500_.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61NAgCu6WuL._AC_SL1500_.jpg",
+        "variant": "PT05"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/615Rolz2qVL._AC_SL1500_.jpg",
+        "variant": "PT06"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/710B9HpzMPL._AC_SL1500_.jpg",
+        "variant": "PT07"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/218nwbsNc8L._AC_.jpg",
+        "variant": "BOTT"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/2177IGoDKCL._AC_.jpg",
+        "variant": "LEFT"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/21CHrgtoWiL._AC_.jpg",
+        "variant": "RGHT"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/21NzI94gw+L._AC_.jpg",
+        "variant": "TOPP"
+      }
+    ],
+    "images_count": 13,
+    "images_flat": "https://m.media-amazon.com/images/I/31cOYTffJpL._AC_.jpg,https://m.media-amazon.com/images/I/310GPmDmEqL._AC_.jpg,https://m.media-amazon.com/images/I/71OsNubcwDL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/61MgRRdbtJL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71szm74vSuL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71ldFWMzQgL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/61NAgCu6WuL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/615Rolz2qVL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/710B9HpzMPL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/218nwbsNc8L._AC_.jpg,https://m.media-amazon.com/images/I/2177IGoDKCL._AC_.jpg,https://m.media-amazon.com/images/I/21CHrgtoWiL._AC_.jpg,https://m.media-amazon.com/images/I/21NzI94gw+L._AC_.jpg",
+    "videos_count": 6,
+    "videos_additional": [
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0d8eb671353a47e697b1e464b74cf940",
+        "product_asin": "B07PZF3QS3",
+        "parent_asin": "B0GF7PLPZX",
+        "related_products": "B07PZF3QS3,B0D4V1YS21",
+        "title": "The most used tool in my kitchen ",
+        "profile_image_url": "https://images-na.ssl-images-amazon.com/images/S/influencer-profile-image-prod/logo/influencer-a6cb50ea_1580504424875_original._CR0,0,2667,2667_._FMjpg_._SL34_.jpeg",
+        "profile_link": "/shop/influencer-a6cb50ea",
+        "public_name": "RunLikeKale",
+        "vendor_code": "influencer-a6cb50ea:shop",
+        "vendor_name": "RunLikeKale",
+        "vendor_tracking_id": "onamzrunlikek-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/51oxO0CwXHL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/51oxO0CwXHL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1137",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f5c0b751-5078-4819-adcc-4dc958cf086c/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e332a24a-484f-40e4-84e0-d29083e6ff43/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e332a24a-484f-40e4-84e0-d29083e6ff43/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:12",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/1206ad46-3270-453a-be5d-f7f74ccf535a.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.03079dbacaca4631b7447d38e4848d19",
+        "product_asin": "B07PZF3QS3",
+        "parent_asin": "B0GF7PLPZX",
+        "related_products": "B07PZF3QS3,B0D4V1YS21",
+        "title": "quality kitchen scissors for food, packaging, kitchen use",
+        "profile_image_url": "https://m.media-amazon.com/images/I/B1lqaaMPdTL._CR474,522,1715,1715_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/h7370794",
+        "public_name": "Heidi O",
+        "vendor_code": "h7370794:shop",
+        "vendor_name": "Heidi O",
+        "vendor_tracking_id": "onamzheidif04-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/71Yy+5nKQIL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/71Yy+5nKQIL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1137",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/7a3dd31d-1840-4b90-8724-3edf1d68fa70/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e706e7f0-7f93-48a4-a723-ebe70a077a8c/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e706e7f0-7f93-48a4-a723-ebe70a077a8c/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:36",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/c963b915-d1d9-43c7-b5db-d8f720635df7.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.06283bfdac2048a18ab6878ea412753d",
+        "product_asin": "B07PZF3QS3",
+        "parent_asin": "B0GF7PLPZX",
+        "related_products": "B07PZF3QS3,B0D4V1YS21",
+        "title": "They are so sharp",
+        "profile_image_url": "https://m.media-amazon.com/images/I/C1u+9WMYR6L._CR0,168,2316,2316_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/simplytimefreedom",
+        "public_name": "Cassidy Fackrell",
+        "vendor_code": "simplytimefreedom:shop",
+        "vendor_name": "Cassidy Fackrell",
+        "vendor_tracking_id": "onamzcass0d71-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/61mL5JNgTBL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61mL5JNgTBL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1137",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c39f3f8d-78a8-4d01-97e9-e65327e17a67/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/63badd0d-08bb-4699-9f06-8bc76a32f67d/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/63badd0d-08bb-4699-9f06-8bc76a32f67d/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:22",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/d7d88b03-96ee-4f4b-a004-031f5149aa19.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0fdaf9c8e1374c6cb31b0a23a383cc94",
+        "product_asin": "B07PZF3QS3",
+        "parent_asin": "B0GF7PLPZX",
+        "related_products": "B07PZF3QS3,B0D4V1YS21",
+        "title": "Honest review! Are they cutting well?",
+        "profile_image_url": "https://m.media-amazon.com/images/I/71t+poQHliL._CR0,0,1067,1067_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/tomdw",
+        "public_name": "✅ Wever Family Reviews ✅",
+        "vendor_code": "tomdw:shop",
+        "vendor_name": "✅ Wever Family Reviews ✅",
+        "vendor_tracking_id": "onamzthoma0d6-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/61raLh7aObL._CR3,0,1914,1080_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61raLh7aObL.jpg",
+        "video_image_width": "1920",
+        "video_image_height": "1080",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d7009bff-0f53-4b02-a88e-c921965e8cd9/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/813d84d4-df8e-4990-b5a4-5160e10cef0c/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/813d84d4-df8e-4990-b5a4-5160e10cef0c/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:29",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/369d16f7-4216-4ecc-8fc9-fb997d18b524.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.06404b6407344df5bb2cc298d895e45a",
+        "product_asin": "B07PZF3QS3",
+        "parent_asin": "B0GF7PLPZX",
+        "related_products": "B07PZF3QS3,B0D4V1YS21",
+        "title": "Are there better scissors better than these? ",
+        "profile_image_url": "https://m.media-amazon.com/images/I/B1f2VlsApwL._CR0,0,3175,3175_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/danakhoffman",
+        "public_name": "D’s Favorite Things ",
+        "vendor_code": "danakhoffman:shop",
+        "vendor_name": "D’s Favorite Things ",
+        "vendor_tracking_id": "onamzdsfavori-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/81gStPoop9L._CR2,0,1276,720_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/81gStPoop9L.png",
+        "video_image_width": "1280",
+        "video_image_height": "720",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2013ed54-21f7-4d36-9bb9-7013b243ec26/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a5876dc3-5797-4b80-86c7-2e1069c78c18/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a5876dc3-5797-4b80-86c7-2e1069c78c18/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:23",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/dd425a07-44cf-4573-9b18-532a80182b17.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.06b7586cc9f1482b8364d3fd0db5ed57",
+        "product_asin": "B07PZF3QS3",
+        "parent_asin": "B0GF7PLPZX",
+        "related_products": "B07PZF3QS3,B0D4V1YS21",
+        "title": "Why I got another pair of these utility shears",
+        "profile_image_url": "https://m.media-amazon.com/images/I/B1+NKPNxUqL._CR259,757,1715,1715_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/influencer-6d907473",
+        "public_name": "Steph Graham",
+        "vendor_code": "influencer-6d907473:shop",
+        "vendor_name": "Steph Graham",
+        "vendor_tracking_id": "onamzstep0f72-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/71xmkLZzU-L._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/71xmkLZzU-L.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1137",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e60f0b29-2ddc-4df3-9ccd-72f96e73ea96/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/1079d3d1-60d6-47c3-9997-335bc9bef577/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/1079d3d1-60d6-47c3-9997-335bc9bef577/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:28",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/387aa86f-b212-4af4-86da-942d349d9afa.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.04538f719eec48f481c433d7bb819d5c",
+        "product_asin": "B07PZF3QS3",
+        "parent_asin": "B0GF7PLPZX",
+        "related_products": "B07PZF3QS3,B08TK5RYXZ",
+        "title": "KitcheAid Scissors - Perfect for any kitchen project! ",
+        "profile_image_url": "https://m.media-amazon.com/images/I/A16JjH80ZiL._CR0,0,2316,2316_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/growwithangie",
+        "public_name": "Angie Christine",
+        "vendor_code": "growwithangie:shop",
+        "vendor_name": "Angie Christine",
+        "vendor_tracking_id": "onamzgrowwi0b-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/A1EOeHQz0dL._CR0,0,3024,1707_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/A1EOeHQz0dL.jpg",
+        "video_image_width": "3024",
+        "video_image_height": "4032",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ff39fc97-b9b3-43da-a932-f9b14fc34225/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/fdf401d8-fe16-4fd9-a3d4-c33e3fdbf627/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/fdf401d8-fe16-4fd9-a3d4-c33e3fdbf627/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/fdf401d8-fe16-4fd9-a3d4-c33e3fdbf627/6346387f-0fdb-40e8-8e03-91c5e4136d37/04538f719eec48f481c433d7bb819d5c_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:29",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/4f69fedb-4836-4f9f-954b-0c77a2f915ec.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.07af06e2d49141e2bddaf54c160da57c",
+        "product_asin": "B07PZF3QS3",
+        "parent_asin": "B0GF7PLPZX",
+        "related_products": "B07PZF3QS3,B08TK5RYXZ",
+        "title": "Review of KitchenAid utility Shears",
+        "profile_image_url": "https://m.media-amazon.com/images/I/D1PaWJLMn9L._CR0,822,3024,3024_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/oliveinaustin",
+        "public_name": "Olive and Afrand",
+        "vendor_code": "oliveinaustin:shop",
+        "vendor_name": "Olive and Afrand",
+        "vendor_tracking_id": "onamzafrandra-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/913QPeHFvCL._CR10,0,1150,649_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/913QPeHFvCL.jpg",
+        "video_image_width": "1170",
+        "video_image_height": "649",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/373a1ed5-0276-42ae-95a1-c5bf310feb26/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/4819190c-251c-48fb-8d3d-cf16af825834/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/4819190c-251c-48fb-8d3d-cf16af825834/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:22",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/7bcddfdf-0cf8-41d4-86e8-cfcfc689f91d.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.06975e48aeee4261bc2655b2194be9cb",
+        "product_asin": "B07PZF3QS3",
+        "parent_asin": "B0GF7PLPZX",
+        "related_products": "B082JRQ77R,B0FGQGQNFQ",
+        "title": "Kitchen Scissors You Need!",
+        "profile_image_url": "https://m.media-amazon.com/images/I/51cfI4P5hYL._CR0,0,718,718_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/influencer-60270b72",
+        "public_name": "It's Aya and Yahya",
+        "vendor_code": "influencer-60270b72:shop",
+        "vendor_name": "It's Aya and Yahya",
+        "vendor_tracking_id": "onamznailanoa-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/91XiND3G71L._CR0,0,922,520_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/91XiND3G71L.png",
+        "video_image_width": "922",
+        "video_image_height": "1640",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ed67a286-c9b2-474a-a524-05cbbef243ae/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/1be238c2-d18c-4053-bf6d-b6c5c28c5bac/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/1be238c2-d18c-4053-bf6d-b6c5c28c5bac/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/1be238c2-d18c-4053-bf6d-b6c5c28c5bac/84961612-91a6-4b43-8989-ee34e8aa0fa7/06975e48aeee4261bc2655b2194be9cb_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:15",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/51e1980f-f702-4ec5-a797-8427725dce32.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0d5cce0157134601becb25c3be66073e",
+        "product_asin": "B07PZF3QS3",
+        "parent_asin": "B0GF7PLPZX",
+        "related_products": "B07PZF3QS3,B07Q2WDMCM,B0BHSJZRCC,B0BSTJBJKT,B0GHDPS2B9",
+        "title": "HONEST Review of KitchenAid Scissors",
+        "profile_image_url": "https://m.media-amazon.com/images/I/91LZFF0rs0L._CR269,229,587,587_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/carolinestravels",
+        "public_name": "⭐️Caroline⭐️",
+        "vendor_code": "carolinestravels:shop",
+        "vendor_name": "⭐️Caroline⭐️",
+        "vendor_tracking_id": "onamzcaro0b51-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/B1Td0j77OWL._CR0,0,1758,992_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/B1Td0j77OWL.png",
+        "video_image_width": "1758",
+        "video_image_height": "1168",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/7460d29f-b15b-4f2d-b743-c37c417b26f5/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/366dd8c6-82d4-49b7-9004-a9fc0248e62f/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/366dd8c6-82d4-49b7-9004-a9fc0248e62f/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/366dd8c6-82d4-49b7-9004-a9fc0248e62f/79d92426-3ba8-4dff-b592-e9436a112a94/0d5cce0157134601becb25c3be66073e_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:28",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/74498016-cee6-4ee3-8d73-07e094f5da16.vtt"
+      }
+    ],
+    "is_bundle": false,
+    "feature_bullets": [
+      "PREMIUM STAINLESS STEEL BLADES: Built to resist rust and maintain sharpness, these stainless steel blades easily cut through everyday kitchen items like vegetables, herbs, meat, and packaging with clean, precise cuts.",
+      "ENHANCED CUTTING PERFORMANCE: Featuring micro serrated edges, the blades offer a superior grip on food and materials, minimizing slips for effortless, smooth cutting every time. Extra thick blades add strength and durability, ideal for frequent use.",
+      "SOFT, COMFORT GRIP HANDLE: Designed for extended use, the handle provides a comfortable, secure grip with a soft, non slip coating, reducing hand fatigue and ensuring control while cutting.",
+      "INCLUDES PROTECTIVE SHEATH: Comes with a convenient, sturdy plastic sheath to protect the blades when not in use, ensuring safety and blade longevity.",
+      "DISHWASHER SAFE FOR EASY CLEANING: While hand washing is recommended to maintain blade quality, these shears are dishwasher safe for hassle free cleaning."
+    ],
+    "feature_bullets_count": 5,
+    "feature_bullets_flat": "DISHWASHER SAFE FOR EASY CLEANING: While hand washing is recommended to maintain blade quality, these shears are dishwasher safe for hassle free cleaning. INCLUDES PROTECTIVE SHEATH: Comes with a convenient, sturdy plastic sheath to protect the blades when not in use, ensuring safety and blade longevity. SOFT, COMFORT GRIP HANDLE: Designed for extended use, the handle provides a comfortable, secure grip with a soft, non slip coating, reducing hand fatigue and ensuring control while cutting. ENHANCED CUTTING PERFORMANCE: Featuring micro serrated edges, the blades offer a superior grip on food and materials, minimizing slips for effortless, smooth cutting every time. Extra thick blades add strength and durability, ideal for frequent use. PREMIUM STAINLESS STEEL BLADES: Built to resist rust and maintain sharpness, these stainless steel blades easily cut through everyday kitchen items like vegetables, herbs, meat, and packaging with clean, precise cuts.",
+    "top_reviews": [
+      {
+        "id": "R82C9OZF6BOX",
+        "title": "Fantastic scissors!",
+        "body": "These scissors are extremely sharp, feel good in the hand, and do the job for me.  Each time I pull them out of the drawer I am impressed.  (I suffered for years with lousy scissors. WHY?)  The fact that they are dishwasher safe and come apart (but don't fall apart) is a plus!  They are a great value - certainly worth 3x as much!",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on February 12, 2026"
+        },
+        "profile": {
+          "name": "KQ"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 8,
+        "link": "https://www.amazon.com/gp/customer-reviews/R82C9OZF6BOX/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R3VA70Y2DJ0AWX",
+        "title": "Great value on sturdy and sharp kitchen scissors",
+        "body": "Wow nice and sharp, great kitchen scissors! Very sturdy, good price, I got the red ones, each to find in the drawer and has a nice sheath for the blades.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on February 25, 2026"
+        },
+        "profile": {
+          "name": "Lisa Beeutiful"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 2,
+        "link": "https://www.amazon.com/gp/customer-reviews/R3VA70Y2DJ0AWX/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R1TMK296OZ1DAV",
+        "title": "Sharp, comfortable, and reliable kitchen shears",
+        "body": "I’ve been using these KitchenAid all-purpose kitchen shears regularly, and they’ve been very reliable for everyday kitchen tasks.The stainless steel blades are sharp and cut cleanly through herbs, vegetables, meat packaging, and even thicker materials without slipping. The micro-serrated edges really help keep food in place, which makes cutting feel controlled and effortless.The soft grip handle is comfortable to hold, even during longer prep sessions. It provides a secure, non-slip grip and helps reduce hand fatigue, which I appreciate when doing a lot of cutting at once.I also like that the shears come with a protective sheath. It keeps the blades safe when stored in a drawer and adds an extra layer of safety.Overall, these are well-made, durable kitchen shears that perform consistently and feel comfortable to use. A solid addition to any kitchen.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on December 13, 2025"
+        },
+        "profile": {
+          "name": "Jenny LEE"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 16,
+        "link": "https://www.amazon.com/gp/customer-reviews/R1TMK296OZ1DAV/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "RRS8STRJSSPO6",
+        "title": "Super sharp!",
+        "body": "I have pretty much been using regular scissors for kitchen shears(no I do not switch them back-and-forth) since my pampered chef ones broke 10 years ago. These are so nice. They are sturdy. They clean easy. I lay them flat and open to dry and they dry well. No rust. Nice, heavy duty handles.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on January 30, 2026"
+        },
+        "profile": {
+          "name": "Ajs"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 8,
+        "link": "https://www.amazon.com/gp/customer-reviews/RRS8STRJSSPO6/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R3AYMITD31DP64",
+        "title": "Great buy !",
+        "body": "Excellent machine work tight workings ambidextrous and very sharp",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on February 15, 2026"
+        },
+        "profile": {
+          "name": "Fantastic sun block heat insulation material 100% sun block 95% heat block"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 2,
+        "link": "https://www.amazon.com/gp/customer-reviews/R3AYMITD31DP64/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "RQJU85STY2Y4U",
+        "title": "Satisfied",
+        "body": "Work great",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in the United States on February 11, 2026"
+        },
+        "profile": {
+          "name": "jojo"
+        },
+        "verified_purchase": true,
+        "link": "https://www.amazon.com/gp/customer-reviews/RQJU85STY2Y4U/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R3S8G298480XSV",
+        "title": "Ideal ROI",
+        "body": "I love these for use in the kitchen. Perfect for cutting salad greens into smaller pieces right in the bowl. They feel good in my hand, smooth cutting, easy to clean, great value for the price.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on February 7, 2026"
+        },
+        "profile": {
+          "name": "Gwen S"
+        },
+        "verified_purchase": true,
+        "helpful_votes": null,
+        "link": "https://www.amazon.com/gp/customer-reviews/R3S8G298480XSV/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R2OYQ147Y61ARO",
+        "title": "Project Farm Recommended!",
+        "body": "Who else is here from Project Farm? Definitely the best \"bang for buck\" scissors. While not technically as sharp or with the super comfortable grip of the more premium one he showed off, this is a mighty fine and sharp set of scissors.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on March 12, 2026"
+        },
+        "profile": {
+          "name": "Jacob Wheeler"
+        },
+        "verified_purchase": true,
+        "link": "https://www.amazon.com/gp/customer-reviews/R2OYQ147Y61ARO/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R10SB25E147JZ6",
+        "title": "Great scissors",
+        "body": "Great kitchen scissors to have. Very sharp and works really well. Love that it comes with a cover.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Australia on December 29, 2025"
+        },
+        "profile": {
+          "name": "Amazon Customer"
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "R13UPDZBEBRH09",
+        "title": "super buena",
+        "body": "super buena",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Mexico on January 28, 2026"
+        },
+        "profile": {
+          "name": "ABAFOR"
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "R1C83AZXK96AV1",
+        "title": "Separates the men from the boys",
+        "body": "This is a pair of scissors designed for tough kitchen work. Use it everyday for simple things like opening packets to cutting through tough flower stems. Well made and comfortable to grip. Worth the premium.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in India on January 8, 2026"
+        },
+        "profile": {
+          "name": "Gautam Dev"
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "R1FWEF2EYD3C22",
+        "body": "Me gustaron muy buenas, afiladas, lo que yo buscaba para la cocina",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Mexico on September 22, 2025"
+        },
+        "profile": {
+          "name": "Se me rompió a los dos dos de usarlo de saco la pinta que va a la corriente eléctrica muy frágil"
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "R1GOEBFLGAF6WN",
+        "title": "Really sharp!",
+        "body": "I must say that they have quickly become an indispensable tool in my kitchen. These shears are not just ordinary kitchen scissors; they are a versatile and high-quality addition to my culinary arsenal.First and foremost, the shears are incredibly sharp, making them perfect for a wide range of kitchen tasks. From cutting herbs to trimming meat and poultry, they effortlessly glide through various ingredients, saving me both time and effort. The serrated edge adds extra grip, ensuring precise cuts every time.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Singapore on October 22, 2023"
+        },
+        "profile": {
+          "name": "K Pang"
+        },
+        "verified_purchase": true
+      }
+    ],
+    "bestsellers_rank": [
+      {
+        "rank": 14,
+        "category": "Kitchen & Dining",
+        "link": "https://www.amazon.com/gp/bestsellers/kitchen/ref=pd_zg_ts_kitchen"
+      },
+      {
+        "rank": 1,
+        "category": "Kitchen Shears",
+        "link": "https://www.amazon.com/gp/bestsellers/kitchen/289860/ref=pd_zg_hrsr_kitchen"
+      }
+    ],
+    "a_plus_content": {
+      "has_a_plus_content": true,
+      "has_brand_story": false,
+      "all_images": [
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a456d82c-80f6-4b1a-b09f-f1b6dc889030.__CR0,0,970,300_PT0_SX970_V1___.jpg",
+          "name": "kitchenaid tools and gadget set "
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2b3139be-e137-4604-9145-847ad9e9e9a2.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+          "name": "kitchenaid tools and gadget set "
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/30c72c41-2eae-4951-9074-dbb11acc6434.__CR0,0,220,220_PT0_SX220_V1___.jpg",
+          "name": "kitchenaid tools and gadget set "
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/61bfad03-67ac-4c33-a596-ca9db2cefcf8.__CR0,0,220,220_PT0_SX220_V1___.jpg",
+          "name": "kitchenaid tools and gadget set "
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/289d0422-1a97-4255-9258-999796d60a99.__CR0,0,220,220_PT0_SX220_V1___.jpg",
+          "name": "kitchenaid tools and gadget set "
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/136a90e0-92e9-42cf-84e2-7de6db2fb55b.__CR0,0,220,220_PT0_SX220_V1___.jpg",
+          "name": "kitchenaid tools and gadget set "
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/52cd8fa0-9dcc-423e-b5ef-e870394a964b.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+          "name": "kitchenaid"
+        }
+      ],
+      "third_party": false
+    },
+    "buybox_winner": {
+      "maximum_order_quantity": {
+        "value": 27,
+        "hard_maximum": true
+      },
+      "price_only_available_in_cart": false,
+      "trade_in_and_save": true,
+      "return_policy": {
+        "duration_days": 30,
+        "type": "refund/replacement",
+        "seller": "Amazon"
+      },
+      "is_prime": true,
+      "is_prime_exclusive_deal": false,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "In Stock",
+        "dispatch_days": 1
+      },
+      "fulfillment": {
+        "type": "p1",
+        "standard_delivery": {
+          "date": "Sunday, March 22",
+          "name": "FREE"
+        },
+        "fastest_delivery": {
+          "date": "Thursday, March 19",
+          "name": "Or Prime members get FREE delivery Thursday, March 19. Order within 13 hrs 22 mins. Join Prime"
+        },
+        "is_sold_by_amazon": true,
+        "amazon_seller": {
+          "name": "Amazon"
+        },
+        "is_fulfilled_by_amazon": true,
+        "is_fulfilled_by_third_party": false,
+        "is_sold_by_third_party": false
+      },
+      "price": {
+        "symbol": "$",
+        "value": 7.99,
+        "currency": "USD",
+        "raw": "$7.99"
+      },
+      "rrp": {
+        "symbol": "$",
+        "value": 8.99,
+        "currency": "USD",
+        "raw": "$8.99"
+      },
+      "shipping": {
+        "raw": "FREE"
+      }
+    },
+    "specifications": [
+      {
+        "name": "Color",
+        "value": "‎Black"
+      },
+      {
+        "name": "Material",
+        "value": "‎Stainless Steel"
+      },
+      {
+        "name": "Brand",
+        "value": "‎KitchenAid"
+      },
+      {
+        "name": "Blade Material",
+        "value": "‎Stainless Steel"
+      },
+      {
+        "name": "Product Dimensions",
+        "value": "‎8.73\"L x 3.62\"W"
+      },
+      {
+        "name": "Style",
+        "value": "‎Classic"
+      },
+      {
+        "name": "Item Weight",
+        "value": "‎4.8 Ounces"
+      },
+      {
+        "name": "Blade Length",
+        "value": "‎4.7 Inches"
+      },
+      {
+        "name": "Blade Edge",
+        "value": "‎Bevel"
+      },
+      {
+        "name": "Finish Type",
+        "value": "‎Brushed"
+      },
+      {
+        "name": "Handle Material",
+        "value": "‎Stainless Steel"
+      },
+      {
+        "name": "Hand Orientation",
+        "value": "‎Ambidextrous"
+      },
+      {
+        "name": "Global Trade Identification Number",
+        "value": "‎00024131405602, 00822093014920"
+      },
+      {
+        "name": "Unit Count",
+        "value": "‎1.0 Count"
+      },
+      {
+        "name": "UPC",
+        "value": "‎822093014920 024131405602"
+      },
+      {
+        "name": "Number of Items",
+        "value": "‎1"
+      },
+      {
+        "name": "Manufacturer",
+        "value": "‎Lifetime Brands Inc."
+      },
+      {
+        "name": "Part Number",
+        "value": "‎KE351OHOBA"
+      },
+      {
+        "name": "Item Weight",
+        "value": "‎4.8 ounces"
+      },
+      {
+        "name": "Item model number",
+        "value": "‎KE351OHOBA"
+      },
+      {
+        "name": "Size",
+        "value": "‎1 Pack"
+      },
+      {
+        "name": "Finish",
+        "value": "‎Brushed"
+      },
+      {
+        "name": "Item Package Quantity",
+        "value": "‎1"
+      },
+      {
+        "name": "Number Of Pieces",
+        "value": "‎1"
+      },
+      {
+        "name": "Included Components",
+        "value": "‎Shears"
+      },
+      {
+        "name": "Batteries Included?",
+        "value": "‎No"
+      },
+      {
+        "name": "Batteries Required?",
+        "value": "‎No"
+      },
+      {
+        "name": "Warranty Description",
+        "value": "‎Warranty"
+      },
+      {
+        "name": "ASIN",
+        "value": "B07PZF3QS3"
+      },
+      {
+        "name": "Customer Reviews",
+        "value": "4.7    4.7 out of 5 stars         (69,953)           4.7 out of 5 stars"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "#14 in Kitchen & Dining (See Top 100 in Kitchen & Dining) #1 in Kitchen Shears"
+      },
+      {
+        "name": "Date First Available",
+        "value": "March 26, 2019"
+      },
+      {
+        "name": "Color",
+        "value": "Black"
+      },
+      {
+        "name": "Material",
+        "value": "Stainless Steel"
+      },
+      {
+        "name": "Brand",
+        "value": "KitchenAid"
+      },
+      {
+        "name": "Blade Material",
+        "value": "Stainless Steel"
+      },
+      {
+        "name": "Product Dimensions",
+        "value": "8.73\"L x 3.62\"W"
+      },
+      {
+        "name": "GTIN",
+        "value": "‎822093014920 024131405602"
+      }
+    ],
+    "specifications_flat": "GTIN: ‎822093014920 024131405602. Product Dimensions: 8.73\"L x 3.62\"W. Blade Material: Stainless Steel. Brand: KitchenAid. Material: Stainless Steel. Color: Black. Date First Available: March 26, 2019. Best Sellers Rank: #14 in Kitchen & Dining (See Top 100 in Kitchen & Dining) #1 in Kitchen Shears. Customer Reviews: 4.7    4.7 out of 5 stars         (69,953)           4.7 out of 5 stars. ASIN: B07PZF3QS3. Warranty Description: ‎Warranty. Batteries Required?: ‎No. Batteries Included?: ‎No. Included Components: ‎Shears. Number Of Pieces: ‎1. Item Package Quantity: ‎1. Finish: ‎Brushed. Size: ‎1 Pack. Item model number: ‎KE351OHOBA. Item Weight: ‎4.8 ounces. Part Number: ‎KE351OHOBA. Manufacturer: ‎Lifetime Brands Inc. Number of Items: ‎1. UPC: ‎822093014920 024131405602. Unit Count: ‎1.0 Count. Global Trade Identification Number: ‎00024131405602, 00822093014920. Hand Orientation: ‎Ambidextrous. Handle Material: ‎Stainless Steel. Finish Type: ‎Brushed. Blade Edge: ‎Bevel. Blade Length: ‎4.7 Inches. Item Weight: ‎4.8 Ounces. Style: ‎Classic. Product Dimensions: ‎8.73\"L x 3.62\"W. Blade Material: ‎Stainless Steel. Brand: ‎KitchenAid. Material: ‎Stainless Steel. Color: ‎Black.",
+    "recent_sales": "30K+ bought in past month",
+    "gift_guide_badge": {
+      "badge_text": "30K+ bought in past month"
+    },
+    "color": "‎Black",
+    "material": "‎Stainless Steel",
+    "manufacturer": "‎Lifetime Brands Inc.",
+    "weight": "‎4.8 ounces",
+    "first_available": {
+      "raw": "March 26, 2019",
+      "utc": "2019-03-26T00:00:00.000Z"
+    },
+    "dimensions": "‎8.73\"L x 3.62\"W",
+    "model_number": "‎KE351OHOBA",
+    "bestsellers_rank_flat": "Category: Kitchen & Dining | Rank: 14, Category: Kitchen Shears | Rank: 1"
+  },
+  "brand_store": {
+    "id": "E0E5CA8C-FED3-4CE0-8CA9-3F4C3B226FD5",
+    "link": "https://www.amazon.com/stores/KitchenAid/page/E0E5CA8C-FED3-4CE0-8CA9-3F4C3B226FD5"
+  }
+}

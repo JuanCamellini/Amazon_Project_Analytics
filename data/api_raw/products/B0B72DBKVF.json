@@ -1,0 +1,945 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 22,
+    "credits_remaining": 78,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "type": "product",
+    "asin": "B0B72DBKVF",
+    "amazon_domain": "amazon.com"
+  },
+  "request_metadata": {
+    "created_at": "2026-03-17T15:39:49.535Z",
+    "processed_at": "2026-03-17T15:39:55.557Z",
+    "total_time_taken": 6.02,
+    "amazon_url": "https://www.amazon.com/dp/B0B72DBKVF?th=1&psc=1"
+  },
+  "product": {
+    "title": "Duracell Coppertop 9V Battery, 6 Count (Pack of 1), 9 Volt with Long-lasting Power, All-Purpose Alkaline 9V Battery for Household and Office Devices 9V - 6 Count (pack of 1)",
+    "search_alias": {
+      "title": "Health, Household & Baby Care",
+      "value": "search-alias=hpc"
+    },
+    "title_excluding_variant_name": "Duracell Coppertop 9V Battery, 6 Count (Pack of 1), 9 Volt with Long-lasting Power, All-Purpose Alkaline 9V Battery for Household and Office Devices",
+    "keywords": "Duracell Coppertop 9V Battery, 6 Count (Pack of 1), 9 Volt with Long-lasting Power, All-Purpose Alkaline 9V Battery for Household and Office Devices 9V - 6 Count (pack of 1)",
+    "keywords_list": [
+      "Duracell Coppertop 9V Battery",
+      "6 Count (Pack of 1)",
+      "9 Volt with Long-lasting Power",
+      "All-Purpose Alkaline 9V Battery for Household and Office Devices 9V - 6 Count (pack of 1)"
+    ],
+    "is_collection": false,
+    "asin": "B0B72DBKVF",
+    "parent_asin": "B0DWXY13TK",
+    "link": "https://www.amazon.com/Duracell-Coppertop-Long-lasting-All-Purpose-Household/dp/B0B72DBKVF",
+    "brand": "DURACELL",
+    "sell_on_amazon": false,
+    "variants": [
+      {
+        "asin": "B0GB2D3443",
+        "title": "9V - 16 Count (pack of 1)",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0GB2D3443?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "9V - 16 Count (pack of 1)"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/31JTaZRuNEL._AC_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/31JTaZRuNEL._AC_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0GP42ZY86",
+        "title": "AAA - 80 Count (pack of 1)",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0GP42ZY86?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "AAA - 80 Count (pack of 1)"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/31I1cRe3hfL._AC_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/31I1cRe3hfL._AC_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0GRC3X1TX",
+        "title": "AA - 80 Count (Pack of 1)",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0GRC3X1TX?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "AA - 80 Count (Pack of 1)"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/61Q8xkvnbHL._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/61Q8xkvnbHL._AC_SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0B2KWHKYT",
+        "title": "AAA - 28 Count (pack of 1)",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0B2KWHKYT?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "AAA - 28 Count (pack of 1)"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71p62Go+X0L._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71p62Go+X0L._AC_SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0B72DBKVF",
+        "title": "9V - 6 Count (pack of 1)",
+        "is_current_product": true,
+        "link": "https://www.amazon.com/dp/B0B72DBKVF?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "9V - 6 Count (pack of 1)"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/61ZSfHGJ2bL._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/61ZSfHGJ2bL._AC_SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0B1DF9NVJ",
+        "title": "AA - 28 Count (pack of 1)",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0B1DF9NVJ?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "AA - 28 Count (pack of 1)"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71E-3tmsR6L._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71E-3tmsR6L._AC_SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0GHDK4BQ3",
+        "title": "AAA - 28 Count (pack of 2)",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0GHDK4BQ3?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "AAA - 28 Count (pack of 2)"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/718VnxSYtBL._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/718VnxSYtBL._AC_SL1500_.jpg"
+          }
+        ]
+      }
+    ],
+    "variant_asins_flat": "B0GB2D3443,B0GP42ZY86,B0GRC3X1TX,B0B2KWHKYT,B0B72DBKVF,B0B1DF9NVJ,B0GHDK4BQ3",
+    "proposition_65_warning": false,
+    "has_size_guide": true,
+    "add_on_item": {
+      "is_add_on_item": true
+    },
+    "categories": [
+      {
+        "name": "Health, Household & Baby Care"
+      },
+      {
+        "name": "Health & Household",
+        "link": "https://www.amazon.com/health-personal-care-nutrition-fitness/b/ref=dp_bc_1?ie=UTF8&node=3760901",
+        "category_id": "3760901"
+      },
+      {
+        "name": "Household Supplies",
+        "link": "https://www.amazon.com/Household-Supplies-Products/b/ref=dp_bc_2?ie=UTF8&node=15342811",
+        "category_id": "15342811"
+      },
+      {
+        "name": "Household Batteries",
+        "link": "https://www.amazon.com/Household-Batteries/b/ref=dp_bc_3?ie=UTF8&node=15745581",
+        "category_id": "15745581"
+      },
+      {
+        "name": "9V",
+        "link": "https://www.amazon.com/9V-Batteries/b/ref=dp_bc_4?ie=UTF8&node=389576011",
+        "category_id": "389576011"
+      }
+    ],
+    "categories_flat": "Health, Household & Baby Care > Health & Household > Household Supplies > Household Batteries > 9V",
+    "description": "Duracell Coppertop 9 Volt alkaline batteries deliver reliable, long-lasting power to your everyday devices throughout the home, such as toys, remote controls, smoke detectors, flashlights, calculators, clocks, radios, wireless mice, keyboards, and more. With a guarantee of 5 years in storage, you can rest assured they will be ready when you need them most. Duracell also guarantees these batteries against defects in material and workmanship, ensuring quality you can trust. From storm season to holiday needs, Duracell is the #1 trusted battery brand for all your essential devices. You can count on Duracell for ultra reliable power, keeping your life running smoothly in the moments that matter most.",
+    "sub_title": {
+      "text": "Visit the DURACELL Store",
+      "link": "https://www.amazon.com/stores/Duracell/page/38DFE378-654B-430E-8C52-79BF261ED7DD?lp_asin=B0B72DBKVF&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto&bl_grd_status=override"
+    },
+    "amazons_choice": {
+      "link": "https://www.amazon.com/Duracell-Coppertop-Long-lasting-All-Purpose-Household/dp/B0B72DBKVF",
+      "badge_text": "Amazon's  Choice"
+    },
+    "marketplace_id": "ATVPDKIKX0DER",
+    "rating": 4.8,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 89,
+        "count": 5781
+      },
+      "four_star": {
+        "percentage": 8,
+        "count": 520
+      },
+      "three_star": {
+        "percentage": 2,
+        "count": 130
+      },
+      "two_star": {
+        "percentage": 0,
+        "count": 0
+      },
+      "one_star": {
+        "percentage": 1,
+        "count": 65
+      }
+    },
+    "ratings_total": 6495,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/61ZSfHGJ2bL.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/71lg3GEiY7L._AC_SL1500_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71mH37ZrUQL._AC_SL1500_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71x+94OwzgL._AC_SL1500_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71TvUnQJ-uL._AC_SL1500_.jpg",
+        "variant": "PT04"
+      }
+    ],
+    "images_count": 4,
+    "images_flat": "https://m.media-amazon.com/images/I/71lg3GEiY7L._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71mH37ZrUQL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71x+94OwzgL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71TvUnQJ-uL._AC_SL1500_.jpg",
+    "videos_count": 6,
+    "videos_additional": [
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0a4cdd994b97447d83b7549eb128ca64",
+        "product_asin": "B0B72DBKVF",
+        "parent_asin": "B0DWXY13TK",
+        "related_products": "B0B72DBKVF",
+        "title": "Duracell Batteries- perfect for beeping smoke detectors!",
+        "profile_image_url": "https://m.media-amazon.com/images/I/B1QWr3WAMjL._CR0,0,3024,3024_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/lia_miller",
+        "public_name": "Lia Miller",
+        "vendor_code": "lia_miller:shop",
+        "vendor_name": "Lia Miller",
+        "vendor_tracking_id": "onamzliamille-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/61SR1hFAKkL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61SR1hFAKkL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1137",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/50a5f6c7-5729-4c8c-8da2-a03e5f8ee52f/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/7af00a0c-e0f2-48ec-ade8-51e7f90a2517/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/7af00a0c-e0f2-48ec-ade8-51e7f90a2517/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:15",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/a9878879-10b8-486a-9ca7-3b3f7a132400.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.044226ae1c884cdaabc5e3d144ddbe78",
+        "product_asin": "B0B72DBKVF",
+        "parent_asin": "B0DWXY13TK",
+        "related_products": "B00G06TYQE,B0B72DBKVF,B00000JHQG,B0DBJ922C8,B0CHTM828V",
+        "title": "Why I buy these batteries....",
+        "profile_image_url": "https://m.media-amazon.com/images/I/C1HF9ei4i5L._CR392,896,2240,2240_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/earlgreysshoppe",
+        "public_name": "Mark Grey",
+        "vendor_code": "earlgreysshoppe:shop",
+        "vendor_name": "Mark Grey",
+        "vendor_tracking_id": "onamzeagreyss-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/51caOXAcfFL._CR1,0,638,360_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/51caOXAcfFL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "360",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e6a089c4-e760-4a3c-8548-943ac87de5dc/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/cab04f23-2c98-43ae-9132-85045b9e70fe/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/cab04f23-2c98-43ae-9132-85045b9e70fe/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/cab04f23-2c98-43ae-9132-85045b9e70fe/77b173e8-4b02-4358-86cb-2f21c0cc02a1/044226ae1c884cdaabc5e3d144ddbe78_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:12",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/63d50f93-e902-498e-9fff-f1a7bc644c2f.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0b39ba475312449babf0b3cb96efbb18",
+        "product_asin": "B0B72DBKVF",
+        "parent_asin": "B0DWXY13TK",
+        "related_products": "B0B2KWHKYT,B004M7YC8S,B0GHDJJNGN,B0DWXY13TK",
+        "title": "Love these AAA batteries! Multi-use and long-lasting.",
+        "profile_image_url": "https://m.media-amazon.com/images/I/91Ru+DxZFxL._CR0,0,2316,2316_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/mrdrewyoung1",
+        "public_name": "Drew’s Amazon Reviews",
+        "vendor_code": "mrdrewyoung1:shop",
+        "vendor_name": "Drew’s Amazon Reviews",
+        "vendor_tracking_id": "onamzandr07f6-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/71b-ei5+zZL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/71b-ei5+zZL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1137",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/1eca69a7-4362-444c-a614-9d7d5c15829a/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/b7b4f833-f849-44aa-86e0-93c6d5ff9fbb/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/b7b4f833-f849-44aa-86e0-93c6d5ff9fbb/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/b7b4f833-f849-44aa-86e0-93c6d5ff9fbb/29804699-0d1b-48ed-aa2e-53fa0766166e/0b39ba475312449babf0b3cb96efbb18_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:28",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/31fdf850-9ee2-4d73-aa01-39b4f26f44ff.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0115fbdc8a6f462abf394625b561349a",
+        "product_asin": "B0B72DBKVF",
+        "parent_asin": "B0DWXY13TK",
+        "related_products": "B0B72DBKVF,B0BZF3FMCF",
+        "title": "Everyone needs Coppertop 9V Battery, 6 Count Pack",
+        "profile_image_url": "https://images-na.ssl-images-amazon.com/images/S/influencer-profile-image-prod/logo/stephanieskitchen_1681355813344_original._FMjpg_._SL34_.jpeg",
+        "profile_link": "/shop/stephanieskitchen",
+        "public_name": "Stephanie's Kitchen",
+        "vendor_code": "stephanieskitchen:shop",
+        "vendor_name": "Stephanie's Kitchen",
+        "vendor_tracking_id": "onamzthesteph-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/91zJHnK56yL._CR2,0,1276,720_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/91zJHnK56yL.png",
+        "video_image_width": "1280",
+        "video_image_height": "720",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/32b885a5-6f74-4446-a7ef-12536bcd9001/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d2f07c91-4034-4768-b930-6a25ed889d09/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d2f07c91-4034-4768-b930-6a25ed889d09/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d2f07c91-4034-4768-b930-6a25ed889d09/49a0ff05-fbcc-43fe-b328-6b291e11c7c3/0115fbdc8a6f462abf394625b561349a_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:00",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/87ce2091-0847-41ec-8f21-d89d862115e4.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0ac4bc7df6234258961a3d763c3163d0",
+        "product_asin": "B0B72DBKVF",
+        "parent_asin": "B0DWXY13TK",
+        "related_products": "B0B1DF9NVJ",
+        "title": "These are high quality batter all are fully charged",
+        "profile_image_url": "https://m.media-amazon.com/images/I/91smO5hK7oL._CR0,0,2304,2304_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/shinchi42",
+        "public_name": "Shinchi42",
+        "vendor_code": "shinchi42:shop",
+        "vendor_name": "Shinchi42",
+        "vendor_tracking_id": "onamzthomsbry-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/61eUOm0ZYJL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61eUOm0ZYJL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1137",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/021f4dac-ec5f-48a5-821e-535716fc4132/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3b247c9a-a5aa-4c8f-bccc-3b1e160b82a4/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3b247c9a-a5aa-4c8f-bccc-3b1e160b82a4/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:38",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/6188e372-0aab-4ccb-930a-ed7c4975e767.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0f872db1e3074c248046936e6ecef9f4",
+        "product_asin": "B0B72DBKVF",
+        "parent_asin": "B0DWXY13TK",
+        "related_products": "B0B2KX374T,B0B1DF9NVJ,B0BGXH6XT2,B0FJG1VTZC",
+        "title": "Are they worth the extra money?",
+        "profile_image_url": "https://m.media-amazon.com/images/I/61iMMfkJz5L._CR75,150,250,250_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/virtualtravelvideosincaseyourewondering",
+        "public_name": "In Case You're Wondering",
+        "vendor_code": "virtualtravelvideosincaseyourewondering:shop",
+        "vendor_name": "In Case You're Wondering",
+        "vendor_tracking_id": "onamzegroupll-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/A1ZYCf0eJYL._CR2,0,1276,720_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/A1ZYCf0eJYL.png",
+        "video_image_width": "1280",
+        "video_image_height": "720",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/06402432-a638-403c-8b42-ac44eacef5b6/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/6996a8d0-68ad-407f-b19a-bdcd6009c79c/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/6996a8d0-68ad-407f-b19a-bdcd6009c79c/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:49",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/7f9795f8-2c68-4ab3-9c64-88c68a1833a3.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.023e86faf07f4954b175bbddb12fb4b7",
+        "product_asin": "B0B72DBKVF",
+        "parent_asin": "B0DWXY13TK",
+        "related_products": "B0B2KWHKYT,B0GHDK4BQ3,B0DWXY13TK",
+        "title": "Check out this 28 count pack of AAA batteries!",
+        "profile_image_url": "https://m.media-amazon.com/images/I/61lfSpxQjlL._CR0,0,642,642_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/cherishrunningmom",
+        "public_name": "CherishAm & All the Things",
+        "vendor_code": "cherishrunningmom:shop",
+        "vendor_name": "CherishAm & All the Things",
+        "vendor_tracking_id": "onamzcheri093-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/A1DshqvqqsL._CR7,0,4019,2268_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/A1DshqvqqsL.jpg",
+        "video_image_width": "4032",
+        "video_image_height": "2268",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/9b6896a6-134a-4e3c-a4cd-1789322613eb/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/7d17e9ea-f142-4d46-86e7-d947890f07f4/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/7d17e9ea-f142-4d46-86e7-d947890f07f4/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:40",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/43e1b704-d76c-40c9-a410-a40d897787c1.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.08f330b5189344aeaa8312c631cab99c",
+        "product_asin": "B0B72DBKVF",
+        "parent_asin": "B0DWXY13TK",
+        "related_products": "B0B1DF9NVJ,B000IZQO7U,B002UXRXEG,B0DWY189WB,B0CX26V3JF",
+        "title": "Gamers Love It! - Duracell AA Batteries ",
+        "profile_image_url": "https://m.media-amazon.com/images/I/81JUp5MQHZL._CR0,0,1934,1934_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/benglishawwww",
+        "public_name": "Just the Good Stuff",
+        "vendor_code": "benglishawwww:shop",
+        "vendor_name": "Just the Good Stuff",
+        "vendor_tracking_id": "onamzbrianeng-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/71XyPhJVAUL._CR2,0,1276,720_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/71XyPhJVAUL.png",
+        "video_image_width": "1280",
+        "video_image_height": "720",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/12dd482d-b31a-4917-acf7-de0f90c70612/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/b3f9ca1c-d202-45bb-b1d3-b2671f993379/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/b3f9ca1c-d202-45bb-b1d3-b2671f993379/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/b3f9ca1c-d202-45bb-b1d3-b2671f993379/cc71ba0c-5723-4e6c-880e-adc15c0a762c/08f330b5189344aeaa8312c631cab99c_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:47",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/6bb2629f-50dc-42ba-be13-94cc00b22b62.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.007c82a71950431babbf0bcdbfd37b92",
+        "product_asin": "B0B72DBKVF",
+        "parent_asin": "B0DWXY13TK",
+        "related_products": "B0B1DF9NVJ",
+        "title": "Why I Always Keep These AA Batteries at Home",
+        "profile_image_url": "https://m.media-amazon.com/images/I/61clrKuCS3L._CR0,0,873,872_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/bryanguerraecommercetutorials",
+        "public_name": "Tom Jones",
+        "vendor_code": "bryanguerraecommercetutorials:shop",
+        "vendor_name": "Tom Jones",
+        "vendor_tracking_id": "onamzbryangue-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/71DuzZ1t26L._CR2,0,1276,720_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/71DuzZ1t26L.png",
+        "video_image_width": "1280",
+        "video_image_height": "720",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/66b8d383-e8eb-4ca2-8f58-1b0a1b6b37cc/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/86830108-e934-4e87-8785-78428bd6ec5f/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/86830108-e934-4e87-8785-78428bd6ec5f/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:46",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/87cd3ac7-c9fa-4d14-9da8-87a9733e7a12.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.07f3908422244bd993193cda0713c768",
+        "product_asin": "B0B72DBKVF",
+        "parent_asin": "B0DWXY13TK",
+        "related_products": "B000K2NW08,B0B72DBKVF,B00000JHQG,B0BJ14WKRP,B0CHTM828V",
+        "title": "We relay on Durcell 9v in our special effects",
+        "profile_image_url": "https://m.media-amazon.com/images/I/A1xWpAd202L._CR0,0,2320,2320_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/thebeemanjay",
+        "public_name": "The Bee Man Jay",
+        "vendor_code": "thebeemanjay:shop",
+        "vendor_name": "The Bee Man Jay",
+        "vendor_tracking_id": "onamzjayhesel-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/614+bWUYf9L._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/614+bWUYf9L.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1137",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/50a47b20-60ca-4da3-a6d4-2904cd782286/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f146627f-7ce8-439d-9dc6-a7086f73aaf3/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f146627f-7ce8-439d-9dc6-a7086f73aaf3/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:20",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/9894b2cd-eeac-4d88-bc85-bdcbd6039430.vtt"
+      }
+    ],
+    "is_bundle": false,
+    "feature_bullets": [
+      "LONG-LASTING BATTERIES DESIGNED FOR DEPENDABILITY: Duracell Coppertop 9 Volt alkaline batteries deliver the lasting power and performance you can count on for electronic devices throughout the home or on-the-go.",
+      "GUARANTEED FOR 5 YEARS IN STORAGE: Duracell guarantees each Coppertop 9 Volt alkaline battery to last 5 years in storage, so you can be confident these batteries will be ready when you need them.",
+      "# 1 TRUSTED BATTERY BRAND: From storm prep to holiday needs, Duracell is the # 1 trusted battery brand.",
+      "QUALITY ASSURANCE: With Duracell batteries, quality is assured; every Duracell product is guaranteed against defects in material and workmanship.Duracell product is safe against defects in material and workmanship",
+      "AVALIBLE SIZES: Duracell Coppertop alkaline batteries are available in C batteries, D batteries and 9V batteries sizes. AA & AAA batteries are also available with PowerBoost ingredients."
+    ],
+    "feature_bullets_count": 5,
+    "feature_bullets_flat": "AVALIBLE SIZES: Duracell Coppertop alkaline batteries are available in C batteries, D batteries and 9V batteries sizes. AA & AAA batteries are also available with PowerBoost ingredients. QUALITY ASSURANCE: With Duracell batteries, quality is assured; every Duracell product is guaranteed against defects in material and workmanship.Duracell product is safe against defects in material and workmanship. # 1 TRUSTED BATTERY BRAND: From storm prep to holiday needs, Duracell is the # 1 trusted battery brand. GUARANTEED FOR 5 YEARS IN STORAGE: Duracell guarantees each Coppertop 9 Volt alkaline battery to last 5 years in storage, so you can be confident these batteries will be ready when you need them. LONG-LASTING BATTERIES DESIGNED FOR DEPENDABILITY: Duracell Coppertop 9 Volt alkaline batteries deliver the lasting power and performance you can count on for electronic devices throughout the home or on-the-go.",
+    "top_reviews": [
+      {
+        "id": "R3REYAC5OJC09J",
+        "title": "It is Duracell,  come on and buy",
+        "body": "Duracell batteries are, in my opinion, the best choice for batteries. Long life.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on March 6, 2026"
+        },
+        "profile": {
+          "name": "Lorraine Mullen"
+        },
+        "verified_purchase": true,
+        "link": "https://www.amazon.com/gp/customer-reviews/R3REYAC5OJC09J/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R2WHBXVWS0BFIS",
+        "title": "Reliable",
+        "body": "I rely on Duracell products for a lot of reasons and uses. They may cost more but they are worth it.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on January 12, 2026"
+        },
+        "profile": {
+          "name": "Marie"
+        },
+        "verified_purchase": true,
+        "link": "https://www.amazon.com/gp/customer-reviews/R2WHBXVWS0BFIS/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R38YNXR2WVFD2",
+        "title": "Great Product",
+        "body": "Great batteries as expected. A little pricey.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on March 4, 2026"
+        },
+        "profile": {
+          "name": "Tom C"
+        },
+        "verified_purchase": true,
+        "link": "https://www.amazon.com/gp/customer-reviews/R38YNXR2WVFD2/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R2GA1DVRNUCX4U",
+        "title": "GOOD DEAL",
+        "body": "excellent batteries for a fair price. very satisfied here.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on January 13, 2026"
+        },
+        "profile": {
+          "name": "Donnie Mac"
+        },
+        "verified_purchase": true,
+        "link": "https://www.amazon.com/gp/customer-reviews/R2GA1DVRNUCX4U/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R154Q844VY4EPZ",
+        "title": "Duracell Coppertop 9V Batteries work well, long lasting and dependable.",
+        "body": "Duracell Coppertop 9V Batteries work well, I recommend them for use in smoke detectors.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on March 6, 2026"
+        },
+        "profile": {
+          "name": "Amazon Customer"
+        },
+        "verified_purchase": true,
+        "link": "https://www.amazon.com/gp/customer-reviews/R154Q844VY4EPZ/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R3CHJJ853TCTNI",
+        "title": "Trusted Power That Lasts",
+        "body": "These 9V Duracell batteries are dependable and long-lasting. Perfect for smoke detectors, remotes, and other devices where reliability matters most. They hold power well in storage and deliver consistent performance. A great value with this 6-pack",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on October 1, 2025"
+        },
+        "profile": {
+          "name": "Stephanie Brill"
+        },
+        "verified_purchase": true,
+        "link": "https://www.amazon.com/gp/customer-reviews/R3CHJJ853TCTNI/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R11WL1GKTREJ90",
+        "title": "No problem",
+        "body": "They work fine.",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in the United States on January 30, 2026"
+        },
+        "profile": {
+          "name": "Kindle Customer"
+        },
+        "verified_purchase": true,
+        "helpful_votes": null,
+        "link": "https://www.amazon.com/gp/customer-reviews/R11WL1GKTREJ90/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R3BVHJYHPL5MSN",
+        "title": "You Get What You Pay For!",
+        "body": "It's always easy to purchase cheaper batteries, but you get what you pay for.  I had some cheap 9 volts in the past and they not only don't last as long, the terminal plugs rust and break off in the battery holder causing another issue to address.  Stick with the brand that 'makes' batteries - Duracell.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on October 2, 2025"
+        },
+        "profile": {
+          "name": "B. Haidri"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 4,
+        "link": "https://www.amazon.com/gp/customer-reviews/R3BVHJYHPL5MSN/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R3MP9XGMGKXK0N",
+        "body": "Poca duración",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in Mexico on December 12, 2024"
+        },
+        "profile": {
+          "name": "Excelente producto. Gran Calidad. Ajusta de maravilla"
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "R1PBGZAAJ45OC7",
+        "title": "I like them because they work good",
+        "body": "I like them because they are cool",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Canada on March 7, 2026"
+        },
+        "profile": {
+          "name": "Tamara Twa"
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "R31XK30YX5TVB7",
+        "title": "Good.",
+        "body": "Good batteries at a reasonable price.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Canada on September 29, 2025"
+        },
+        "profile": {
+          "name": "Jim Robertson"
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "R19BK3REQTHN1S",
+        "title": "Lasts long",
+        "body": "Does its job!",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Canada on October 6, 2025"
+        },
+        "profile": {
+          "name": "Priyanka"
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "R19MAS9DX3LOXG",
+        "title": "Good batteries",
+        "body": "Use them for my garage door panel. They work great. Last all season long.",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in Canada on May 19, 2025"
+        },
+        "profile": {
+          "name": "Amazon Customer"
+        },
+        "verified_purchase": true
+      }
+    ],
+    "bestsellers_rank": [
+      {
+        "rank": 90,
+        "category": "Health & Household",
+        "link": "https://www.amazon.com/gp/bestsellers/hpc/ref=pd_zg_ts_hpc"
+      },
+      {
+        "rank": 3,
+        "category": "9V Batteries",
+        "link": "https://www.amazon.com/gp/bestsellers/hpc/389576011/ref=pd_zg_hrsr_hpc"
+      }
+    ],
+    "a_plus_content": {
+      "has_a_plus_content": true,
+      "has_brand_story": false,
+      "all_images": [
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/922c37da-59d8-44e2-bfdb-310449adae53.__CR0,13,2910,873_PT0_SX600_V1___.jpg",
+          "name": "9V top"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ad2be3f0-dc73-4097-8ba8-c0a8afaceb32.__CR0,0,2910,900_PT0_SX970_V1___.jpg",
+          "name": "9v middle"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1ca8f576-a813-4940-8529-da1a487e7ce5.__CR0,0,2910,900_PT0_SX970_V1___.jpg",
+          "name": "9V bottom"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/068d9eae-cf04-4200-b509-3d81b3407c6d.__CR0,24,546,1092_PT0_SX150_V1___.png",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/06e21ea8-6fb2-466c-af86-b0e94fb3f9c7.__CR12,0,572,1143_PT0_SX150_V1___.png",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0c59e4e0-ee3e-4848-9ffb-fb5fbe24287e.__CR26,0,574,1147_PT0_SX150_V1___.png",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9fedcb7a-0285-4368-858e-34e20b1c90ab.__CR17,0,570,1139_PT0_SX150_V1___.png",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9fedcb7a-0285-4368-858e-34e20b1c90ab.__CR27,0,570,1139_PT0_SX150_V1___.png",
+          "name": ""
+        }
+      ],
+      "third_party": true,
+      "company_logo": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/922c37da-59d8-44e2-bfdb-310449adae53.__CR0,13,2910,873_PT0_SX600_V1___.jpg"
+    },
+    "buybox_winner": {
+      "maximum_order_quantity": {
+        "value": 30,
+        "hard_maximum": true
+      },
+      "secondary_buybox": {
+        "offer_id": "f9Rx%2BRp6nbCS9kK9mP5VWaVyZrFicNuZwSdp2gSfnKJzdvTqJ%2Bg9fcGsDw7kplkGdvU7P%2FBBf732W4Ygp%2FtPlgtjZ8QI3ZFUpQuN2DRDHoaG7y1QREb7eEAePjjWVcPn6fba%2FM30kll501T%2F8ATaTZv0ha2tGzxklQicS7WkHNXAcKaCllzlDJFrmPVV8onT",
+        "caption": "Save with Used - Like New",
+        "availability": {
+          "raw": "Only 1 left in stock - order soon.",
+          "type": "in_stock"
+        },
+        "product_condition": "Looks and functions as if it were new. Item will come in original packaging.",
+        "condition": {
+          "raw": "Save with Used - Like New",
+          "isNew": false
+        },
+        "price": {
+          "symbol": "$",
+          "value": 23.34,
+          "currency": "USD",
+          "raw": "$23.34"
+        },
+        "fulfillment": {
+          "standard_delivery": {
+            "date": "Monday, March 23",
+            "name": "FREE"
+          },
+          "amazon_seller": {
+            "name": "Amazon Resale"
+          },
+          "is_sold_by_amazon": true,
+          "is_sold_by_third_party": false,
+          "fulfilled_by": "Fulfilled by Amazon",
+          "is_fulfilled_by_amazon": true,
+          "is_fulfilled_by_third_party": false,
+          "fulfillment_type": "p1"
+        },
+        "ship_details": "Sold by Amazon Resale and Fulfilled by Amazon.",
+        "accept_free_return": true
+      },
+      "subscribe_and_save": {
+        "base_discount_percentage": 5,
+        "tiered_discount_percentage": 10,
+        "delivery_message": "Save 5% now and up to 10% on repeat deliveries.  No fees Cancel anytime",
+        "default_delivery": "6 months (Most common)",
+        "base_price": {
+          "value": 24.1,
+          "currency": "USD",
+          "symbol": "$",
+          "raw": "24.1"
+        },
+        "tiered_price": {
+          "value": 22.83,
+          "currency": "USD",
+          "symbol": "$",
+          "raw": "22.83"
+        }
+      },
+      "price_only_available_in_cart": false,
+      "offer_id": "f9Rx+Rp6nbCS9kK9mP5VWaVyZrFicNuZwSdp2gSfnKJzdvTqJ+g9fcGsDw7kplkGdvU7P/BBf732W4Ygp/tPlgtjZ8QI3ZFUpQuN2DRDHoaG7y1QREb7eEAePjjWVcPn6fba/M30kll501T/8ATaTZv0ha2tGzxklQicS7WkHNXAcKaCllzlDJFrmPVV8onT",
+      "mixed_offers_count": 2,
+      "mixed_offers_from": {
+        "symbol": "$",
+        "value": 35,
+        "currency": "USD",
+        "raw": "FREE Shipping on orders over $35.00 shipped by Amazon."
+      },
+      "trade_in_and_save": true,
+      "return_policy": {
+        "duration_days": 30,
+        "type": "refund/replacement",
+        "seller": "Amazon"
+      },
+      "is_prime": true,
+      "is_prime_exclusive_deal": false,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "In Stock",
+        "dispatch_days": 1
+      },
+      "fulfillment": {
+        "type": "p1",
+        "standard_delivery": {
+          "date": "Monday, March 23",
+          "name": "FREE"
+        },
+        "is_sold_by_amazon": true,
+        "amazon_seller": {
+          "name": "Amazon",
+          "link": "https://www.amazon.com/b?node=10158976011"
+        },
+        "is_fulfilled_by_amazon": true,
+        "is_fulfilled_by_third_party": false,
+        "is_sold_by_third_party": false
+      },
+      "price": {
+        "symbol": "$",
+        "value": 25.37,
+        "currency": "USD",
+        "raw": "$25.37"
+      },
+      "rrp": {
+        "symbol": "$",
+        "value": 25.37,
+        "currency": "USD",
+        "raw": "$25.37"
+      },
+      "unit_price": {
+        "symbol": "$",
+        "value": 4.23,
+        "currency": "USD",
+        "raw": "$4.23 / count"
+      },
+      "shipping": {
+        "raw": "FREE"
+      }
+    },
+    "specifications": [
+      {
+        "name": "Product Dimensions",
+        "value": "0.63 x 6.26 x 1.81 inches"
+      },
+      {
+        "name": "Item Weight",
+        "value": "9.9 ounces"
+      },
+      {
+        "name": "ASIN",
+        "value": "B0B72DBKVF"
+      },
+      {
+        "name": "Batteries",
+        "value": "6 9V batteries required. (included)"
+      },
+      {
+        "name": "Customer Reviews",
+        "value": "4.8    4.8 out of 5 stars         (6,495)           4.8 out of 5 stars"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "#90 in Health & Household (See Top 100 in Health & Household) #3 in 9V Batteries"
+      },
+      {
+        "name": "Date First Available",
+        "value": "July 19, 2022"
+      },
+      {
+        "name": "Manufacturer",
+        "value": "Duracell"
+      },
+      {
+        "name": "Number of Batteries",
+        "value": "6 9V batteries required. (included)"
+      },
+      {
+        "name": "Brand",
+        "value": "DURACELL"
+      },
+      {
+        "name": "Battery Cell Composition",
+        "value": "Alkaline"
+      },
+      {
+        "name": "Battery Capacity",
+        "value": "9 Volts"
+      },
+      {
+        "name": "Recommended Uses For Product",
+        "value": "Clock, Fire Alarm, Radio"
+      }
+    ],
+    "specifications_flat": "Recommended Uses For Product: Clock, Fire Alarm, Radio. Battery Capacity: 9 Volts. Battery Cell Composition: Alkaline. Brand: DURACELL. Number of Batteries: 6 9V batteries required. (included). Manufacturer: Duracell. Date First Available: July 19, 2022. Best Sellers Rank: #90 in Health & Household (See Top 100 in Health & Household) #3 in 9V Batteries. Customer Reviews: 4.8    4.8 out of 5 stars         (6,495)           4.8 out of 5 stars. Batteries: 6 9V batteries required. (included). ASIN: B0B72DBKVF. Item Weight: 9.9 ounces. Product Dimensions: 0.63 x 6.26 x 1.81 inches.",
+    "recent_sales": "10K+ bought in past month",
+    "gift_guide_badge": {
+      "badge_text": "10K+ bought in past month"
+    },
+    "manufacturer": "Duracell",
+    "weight": "9.9 ounces",
+    "first_available": {
+      "raw": "July 19, 2022",
+      "utc": "2022-07-19T00:00:00.000Z"
+    },
+    "dimensions": "0.63 x 6.26 x 1.81 inches",
+    "bestsellers_rank_flat": "Category: Health & Household | Rank: 90, Category: 9V Batteries | Rank: 3",
+    "whats_in_the_box": [
+      "9V batteries (6 count)"
+    ]
+  },
+  "brand_store": {
+    "id": "38DFE378-654B-430E-8C52-79BF261ED7DD",
+    "link": "https://www.amazon.com/stores/Duracell/page/38DFE378-654B-430E-8C52-79BF261ED7DD"
+  }
+}

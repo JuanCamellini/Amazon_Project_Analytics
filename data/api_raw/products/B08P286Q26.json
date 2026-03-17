@@ -1,0 +1,836 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 31,
+    "credits_remaining": 69,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "type": "product",
+    "asin": "B08P286Q26",
+    "amazon_domain": "amazon.com"
+  },
+  "request_metadata": {
+    "created_at": "2026-03-17T15:41:39.989Z",
+    "processed_at": "2026-03-17T15:41:45.697Z",
+    "total_time_taken": 5.71,
+    "amazon_url": "https://www.amazon.com/dp/B08P286Q26?th=1&psc=1"
+  },
+  "product": {
+    "title": "Nerf Pro Grip Football, Blue, Classic Foam Ball, Easy to Catch & Throw, Sports Toys, Christmas Gifts or Stocking Stuffers for Kids",
+    "search_alias": {
+      "title": "Toys & Games",
+      "value": "search-alias=toys-and-games"
+    },
+    "keywords": "Nerf Pro Grip Football, Blue, Classic Foam Ball, Easy to Catch & Throw, Sports Toys, Christmas Gifts or Stocking Stuffers for Kids",
+    "keywords_list": [
+      "Nerf Pro Grip Football",
+      "Blue",
+      "Classic Foam Ball",
+      "Easy to Catch & Throw",
+      "Sports Toys",
+      "Christmas Gifts or Stocking Stuffers for Kids"
+    ],
+    "is_collection": false,
+    "asin": "B08P286Q26",
+    "parent_asin": "B0CV9DYHPQ",
+    "gtin": "025725584581 195166119311",
+    "link": "https://www.amazon.com/Football-Classic-Catch-Indoor-Outdoor/dp/B08P286Q26",
+    "brand": "Nerf",
+    "sell_on_amazon": false,
+    "variants": [
+      {
+        "asin": "B08P286Q26",
+        "title": "Blue",
+        "is_current_product": true,
+        "link": "https://www.amazon.com/dp/B08P286Q26?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Blue"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71Qi3kHL4lL._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71Qi3kHL4lL._AC_SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B08SR58NCS",
+        "title": "Red",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08SR58NCS?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Red"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71eib78wdrL._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71eib78wdrL._AC_SL1500_.jpg"
+          }
+        ]
+      }
+    ],
+    "variant_asins_flat": "B08P286Q26,B08SR58NCS",
+    "proposition_65_warning": false,
+    "has_size_guide": true,
+    "add_on_item": {
+      "is_add_on_item": true
+    },
+    "categories": [
+      {
+        "name": "Toys & Games",
+        "link": "https://www.amazon.com/toys/b/ref=dp_bc_1?ie=UTF8&node=165793011",
+        "category_id": "165793011"
+      },
+      {
+        "name": "Sports & Outdoor Play",
+        "link": "https://www.amazon.com/outdoor-toys-kids-play/b/ref=dp_bc_2?ie=UTF8&node=166420011",
+        "category_id": "166420011"
+      },
+      {
+        "name": "Toy Sports",
+        "link": "https://www.amazon.com/Toy-Sports-Products/b/ref=dp_bc_3?ie=UTF8&node=166453011",
+        "category_id": "166453011"
+      },
+      {
+        "name": "Toy Football",
+        "link": "https://www.amazon.com/Toy-Football-Products/b/ref=dp_bc_4?ie=UTF8&node=166456011",
+        "category_id": "166456011"
+      }
+    ],
+    "categories_flat": "Toys & Games > Sports & Outdoor Play > Toy Sports > Toy Football",
+    "description": "Kickoff the football fun and jump in the game today with the NERF Pro Grip Kids Foam Football! These junior footballs are constructed with NERF semi-soft foam so all players can have fun playing football indoors and out. Designed for smaller hands, this 9\" inch junior sized football is easy for kids to grip, throw and catch so they can easily get in on the football fun. The soft foam interior is protected by an outer layer that helps make this ball perfect for both indoor and outdoor football games. Fun and durable enough for indoor and outdoor games in the backyard or at the beach, the NERF Pro Grip Kids Football is the perfect football to take on the go anywhere. This ball is perfect for touch football games at the park, playing catch at the tailgate, or helping kids practice the basics while having a ton of fun. If your kids are ready to get in the action or kickoff their football careers, grab them a NERF Pro Grip Kids Foam Football and start playing today!",
+    "sub_title": {
+      "text": "Visit the Nerf Store",
+      "link": "https://www.amazon.com/stores/NERF/page/25BD06DA-67EB-46E3-B5DE-82B3CB88F7A3?lp_asin=B08P286Q26&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto"
+    },
+    "amazons_choice": {
+      "link": "https://www.amazon.com/Football-Classic-Catch-Indoor-Outdoor/dp/B08P286Q26",
+      "badge_text": "Amazon's  Choice"
+    },
+    "marketplace_id": "ATVPDKIKX0DER",
+    "rating": 4.7,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 83,
+        "count": 6567
+      },
+      "four_star": {
+        "percentage": 12,
+        "count": 949
+      },
+      "three_star": {
+        "percentage": 3,
+        "count": 237
+      },
+      "two_star": {
+        "percentage": 1,
+        "count": 79
+      },
+      "one_star": {
+        "percentage": 1,
+        "count": 79
+      }
+    },
+    "ratings_total": 7912,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/71Qi3kHL4lL.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/91xwlB2DkYL._AC_SL1500_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/91ZBqIeCZ-L._AC_SL1500_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/91mJKLpZNrL._AC_SL1500_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/91ELNvBEWVL._AC_SL1500_.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/91TJBnKWpWL._AC_SL1500_.jpg",
+        "variant": "PT05"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81a+2Wg4JVL._AC_SL1500_.jpg",
+        "variant": "PT06"
+      }
+    ],
+    "images_count": 6,
+    "images_flat": "https://m.media-amazon.com/images/I/91xwlB2DkYL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/91ZBqIeCZ-L._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/91mJKLpZNrL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/91ELNvBEWVL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/91TJBnKWpWL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81a+2Wg4JVL._AC_SL1500_.jpg",
+    "videos_count": 7,
+    "videos_additional": [
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0e430be4c7f040a7933d624e56fc8009",
+        "product_asin": "B08P286Q26",
+        "parent_asin": "B0CV9DYHPQ",
+        "related_products": "B08P286Q26,B08SR58NCS",
+        "title": "Why I bought the Nerf Pro Grip Football!",
+        "profile_image_url": "https://m.media-amazon.com/images/I/91fV0kdKWhL._CR0,0,2316,2316_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/pghpridepicks",
+        "public_name": "ItsMeAndGummyBear",
+        "vendor_code": "pghpridepicks:shop",
+        "vendor_name": "ItsMeAndGummyBear",
+        "vendor_tracking_id": "onamzjoha0aad-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/61dMQvN0JWL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61dMQvN0JWL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1137",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ca7d9900-f882-4909-aafd-4ee92a32ac18/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d05aa29d-584a-4447-b9c0-5f9bb6f893be/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d05aa29d-584a-4447-b9c0-5f9bb6f893be/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:36",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/16f0a23d-5375-4a72-bb7c-82e0abe22476.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0ce5c5608d0f43399319f7b3f70088b0",
+        "product_asin": "B08P286Q26",
+        "parent_asin": "B0CV9DYHPQ",
+        "related_products": "B08P286Q26",
+        "title": "The best football for toddlers!",
+        "profile_image_url": "https://m.media-amazon.com/images/I/B12SJOkEGWL._CR0,0,4672,4672_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/influencer-cb61d5ce",
+        "public_name": "Midwest Money Saving Mommas",
+        "vendor_code": "influencer-cb61d5ce:shop",
+        "vendor_name": "Midwest Money Saving Mommas",
+        "vendor_tracking_id": "onamzmmsm00a-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/61EczXJG8QL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61EczXJG8QL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1137",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/349a04f2-a2e4-4890-93ef-b63cd0ba81fc/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/dbe134e1-e6fa-49e5-8407-03eb212e2f4f/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/dbe134e1-e6fa-49e5-8407-03eb212e2f4f/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/dbe134e1-e6fa-49e5-8407-03eb212e2f4f/66428417-e60c-41b4-9e28-1d8f91b8656b/0ce5c5608d0f43399319f7b3f70088b0_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:16",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/a0aca332-8fd1-4223-bea9-84f18be51ca6.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.01f2210af7b243c69258230bbcc963ea",
+        "product_asin": "B08P286Q26",
+        "parent_asin": "B0CV9DYHPQ",
+        "related_products": "B08P286Q26",
+        "title": "Easy t grip and throw!",
+        "profile_image_url": "https://images-na.ssl-images-amazon.com/images/S/influencer-profile-image-prod/logo/earringsbyemma_1684589312532_original._FMjpg_._SL34_.jpeg",
+        "profile_link": "/shop/earringsbyemma",
+        "public_name": "🎉 Shelto Review Crew 🎉",
+        "vendor_code": "earringsbyemma:shop",
+        "vendor_name": "🎉 Shelto Review Crew 🎉",
+        "vendor_tracking_id": "onamzsarahl.s-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/515zjV7DuAL._CR1,0,638,360_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/515zjV7DuAL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "360",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d989489e-74d0-45ea-b0ff-4dd954d3a00a/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/38247c05-9813-45be-8b79-196cae34cea6/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/38247c05-9813-45be-8b79-196cae34cea6/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/38247c05-9813-45be-8b79-196cae34cea6/70f5f729-8511-4d00-aefc-360c4947a86a/01f2210af7b243c69258230bbcc963ea_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:41",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/3ad9c085-76a6-4bc7-a798-6bde51352b18.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.095dad40494d468c8d5176178e23eb25",
+        "product_asin": "B08P286Q26",
+        "parent_asin": "B0CV9DYHPQ",
+        "related_products": "B08SR58NCS",
+        "title": "Watch before you purchase",
+        "profile_image_url": "https://m.media-amazon.com/images/I/B1eUYzpkWJL._CR256,1029,1715,1716_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/everydaywithnorma",
+        "public_name": "Norma & Steve's Shop",
+        "vendor_code": "everydaywithnorma:shop",
+        "vendor_name": "Norma & Steve's Shop",
+        "vendor_tracking_id": "onamznormabra-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/A1kfwb2RYvL._CR2,0,1276,720_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/A1kfwb2RYvL.png",
+        "video_image_width": "1280",
+        "video_image_height": "720",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c4565a15-a603-4b47-a3ab-589b19a0a339/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/6795d59e-6dca-4ef9-a20a-efe82c3c99a8/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/6795d59e-6dca-4ef9-a20a-efe82c3c99a8/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/6795d59e-6dca-4ef9-a20a-efe82c3c99a8/4fad911c-ac0f-4213-899c-1705e626db97/095dad40494d468c8d5176178e23eb25_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:39",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/cc4638f3-a80d-428c-8671-a9b72109f4eb.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.09f05e4248e647d88b28dd2d013868cb",
+        "product_asin": "B08P286Q26",
+        "parent_asin": "B0CV9DYHPQ",
+        "related_products": "B08P286Q26,B09GNRB4FF,B0BHFBQYWW,B0FFC9TT11",
+        "title": "Honest review on another great product",
+        "profile_image_url": "https://m.media-amazon.com/images/I/41bkaHS39OL._CR0,0,494,493_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/brandondockendorf",
+        "public_name": "Brandon",
+        "vendor_code": "brandondockendorf:shop",
+        "vendor_name": "Brandon",
+        "vendor_tracking_id": "onamzbran0d19-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/719GfnN31sL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/719GfnN31sL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1137",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/149b4521-ec86-4b5d-b03c-56f41ee3ee73/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/b0edf3ac-e66f-49c2-9bd7-287cbef7b3ca/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/b0edf3ac-e66f-49c2-9bd7-287cbef7b3ca/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:10"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.020fc51492b9480ab884a486db9a1cc9",
+        "product_asin": "B08P286Q26",
+        "parent_asin": "B0CV9DYHPQ",
+        "related_products": "B08P286Q26",
+        "title": "Squishy! Nerf Pro Grip Football",
+        "profile_image_url": "https://m.media-amazon.com/images/I/A12vTdLT++L._CR0,0,2316,2316_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/mannnnsssssssss",
+        "public_name": "Zach & Natalie",
+        "vendor_code": "mannnnsssssssss:shop",
+        "vendor_name": "Zach & Natalie",
+        "vendor_tracking_id": "onamzzachsilv-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/51iVq-IqmVL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/51iVq-IqmVL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "480",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/8ff9354c-75a7-40c6-95f8-5d6fc8e8e623/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/b7682f26-8cb6-45b3-bc25-e28523b0fd02/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/b7682f26-8cb6-45b3-bc25-e28523b0fd02/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:52",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/cc55ddfe-0ba6-4e07-9737-d73cbb67b0f0.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.083ce40a2a2e49c0b429cf38adaac02e",
+        "product_asin": "B08P286Q26",
+        "parent_asin": "B0CV9DYHPQ",
+        "related_products": "B08P286Q26",
+        "title": "A few things about this nerf football ",
+        "profile_image_url": "https://m.media-amazon.com/images/I/B1X5Uo-ZPTL._CR0,0,1337,1337_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/organicwellnessmama",
+        "public_name": "Anneliese Reagan",
+        "vendor_code": "organicwellnessmama:shop",
+        "vendor_name": "Anneliese Reagan",
+        "vendor_tracking_id": "onamzannel0e7-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/91tNJqcLk0L._CR3,0,1178,665_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/91tNJqcLk0L.jpg",
+        "video_image_width": "1184",
+        "video_image_height": "665",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/0df48ce7-e1ee-43d9-bc5f-79d07379fe88/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/121b0ec3-78ca-44c8-a13e-eefcd3b04985/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/121b0ec3-78ca-44c8-a13e-eefcd3b04985/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/121b0ec3-78ca-44c8-a13e-eefcd3b04985/ac06577e-04f2-448a-bb67-1d3008c6cada/083ce40a2a2e49c0b429cf38adaac02e_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:31",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/486f5bc4-8aa2-493a-a992-e6e6f833fb25.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0b58718e11de4608af1c79acedf0770c",
+        "product_asin": "B08P286Q26",
+        "parent_asin": "B0CV9DYHPQ",
+        "related_products": "B08P286Q26",
+        "title": "Product Overview Video",
+        "public_name": "Amazon Product Imaging",
+        "vendor_code": "Z7AX4",
+        "vendor_name": "Amazon Product Imaging",
+        "video_image_url": "https://m.media-amazon.com/images/I/61-bSrN2-mL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61-bSrN2-mL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1137",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/b5803d69-8a71-4938-8d81-60444bcd789d/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/4e47a10c-9eda-41c0-b468-df865b1fde25/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/4e47a10c-9eda-41c0-b468-df865b1fde25/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/4e47a10c-9eda-41c0-b468-df865b1fde25/a9f2a4cd-da13-4263-9860-6a8f2bfe66e5/0b58718e11de4608af1c79acedf0770c_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:28",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/acc6dca5-2f8d-4881-b942-d19030eb6fcd.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0278c082ffc344148d028c09f9c24404",
+        "product_asin": "B08P286Q26",
+        "parent_asin": "B0CV9DYHPQ",
+        "related_products": "B08P286Q26",
+        "title": "Easy to throw and fun Nerf Football",
+        "profile_image_url": "https://m.media-amazon.com/images/I/A1SlAEOdlxL._CR20,20,1781,1781_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/big_gmoney",
+        "public_name": "Griffin Lichtenson",
+        "vendor_code": "big_gmoney:shop",
+        "vendor_name": "Griffin Lichtenson",
+        "vendor_tracking_id": "onamzgriffi02-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/91LfAl8iE4L._CR0,0,1170,660_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/91LfAl8iE4L.jpg",
+        "video_image_width": "1170",
+        "video_image_height": "866",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/143a41b7-4212-451d-86f0-28e0af9c18ea/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/1a8a6d42-f131-47d3-bb76-2ea04175a39f/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/1a8a6d42-f131-47d3-bb76-2ea04175a39f/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/1a8a6d42-f131-47d3-bb76-2ea04175a39f/40db4d93-f214-45fc-8211-077d5dcad562/0278c082ffc344148d028c09f9c24404_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:37",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/cc71539a-7345-420e-9186-c636bc66a103.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0dd801184cce486384a95c0639cf6db2",
+        "product_asin": "B08P286Q26",
+        "parent_asin": "B0CV9DYHPQ",
+        "related_products": "B08P29SC84,B08P295C9G,B08P28VTDL,B0083TXZCA,B00JUTWH4O",
+        "title": "Nerf Brand Video",
+        "public_name": "Hasbro Toys - Domestic",
+        "vendor_code": "137GO",
+        "vendor_name": "Hasbro Toys - Domestic",
+        "video_image_url": "https://m.media-amazon.com/images/I/81lhHRJm6eL._CR3,0,1914,1080_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/81lhHRJm6eL.jpg",
+        "video_image_width": "1920",
+        "video_image_height": "1080",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3acdfea2-a834-4ac5-95d7-d44292014976/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/5cda2b83-1795-4202-9754-79b89c12e11e/videopreview.jobtemplate.mp4.342X192P_20HZ_350KBPS_VER_1_0.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/5cda2b83-1795-4202-9754-79b89c12e11e/ad60164d-f86b-4fef-8d29-718727b2f617/0dd801184cce486384a95c0639cf6db2_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:15",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/369eea12-4847-48c0-85ac-6488b50d8ac1.vtt,es,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/es_369eea12-4847-48c0-85ac-6488b50d8ac1.vtt"
+      }
+    ],
+    "is_bundle": false,
+    "feature_bullets": [
+      "NERF FOAM: This mini football is made with soft NERF foam, which makes it perfect for kids to throw and catch with ease",
+      "MINI SIZE: Designed for kids, this 9\" inch junior size foam football is perfect for small hands to grip",
+      "INDOOR + OUTDOOR: The soft but durable foam construction makes it safe for kids to use indoors while still being rugged enough for backyard football games",
+      "PERFECT FIRST FOOTBALL: This kids football is the perfect toy for young sports fans who are looking to learn the basics of football",
+      "FUN FOR ALL PLAYERS: This football is perfect to bring to the beach, cookouts, tailgates and more for players to get in the game and toss the football around!"
+    ],
+    "feature_bullets_count": 5,
+    "feature_bullets_flat": "FUN FOR ALL PLAYERS: This football is perfect to bring to the beach, cookouts, tailgates and more for players to get in the game and toss the football around!. PERFECT FIRST FOOTBALL: This kids football is the perfect toy for young sports fans who are looking to learn the basics of football. INDOOR + OUTDOOR: The soft but durable foam construction makes it safe for kids to use indoors while still being rugged enough for backyard football games. MINI SIZE: Designed for kids, this 9\" inch junior size foam football is perfect for small hands to grip. NERF FOAM: This mini football is made with soft NERF foam, which makes it perfect for kids to throw and catch with ease.",
+    "top_reviews": [
+      {
+        "id": "R222J9B3BHECU1",
+        "title": "Great Quality Nerf Football for Fun Occasions",
+        "body": "We used this Nerf football during our wedding, and it was a huge hit! The ball is soft, easy to throw, and feels very well made. It’s perfect for indoor or outdoor fun, and we even had a custom print added with our wedding date, which made it a memorable keepsake for our guests. The quality is excellent, and it’s safe for all ages.Pros:Soft and safe to throw.High-quality and durable.Fun addition to special events.Can be customized or personalized.Cons:Not suitable for competitive football play.Slightly small for older kids or adults wanting a regulation-size ball.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on August 20, 2025"
+        },
+        "profile": {
+          "name": "Gustavo Sierras"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 6,
+        "link": "https://www.amazon.com/gp/customer-reviews/R222J9B3BHECU1/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R2Z2MC3KKY1DUC",
+        "title": "This Is The Classic Nerf Football!",
+        "body": "Get the kids out there!  This is the classic Nerf football, the perfect size and weight for anyone of any age and size.  It heavy enough to throw long distances but easy and soft to catch.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on January 18, 2026"
+        },
+        "profile": {
+          "name": "EarlyBird"
+        },
+        "verified_purchase": true,
+        "link": "https://www.amazon.com/gp/customer-reviews/R2Z2MC3KKY1DUC/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R3GFPHAFDYS69",
+        "title": "Good size and quality",
+        "body": "Good size and is durable, perfect for the lake or just to toss around",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on January 3, 2026"
+        },
+        "profile": {
+          "name": "Hannah VanDerveer"
+        },
+        "verified_purchase": true,
+        "link": "https://www.amazon.com/gp/customer-reviews/R3GFPHAFDYS69/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R3TN12MJVNTYMV",
+        "title": "It's nerf but I miss the old turbo.",
+        "body": "Ball is a bit slick and gets easily damaged but is easy to throw and catch.  Better than the basic nerf football but not as fun as the old style nerf turbo from the 90s.",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in the United States on December 28, 2025"
+        },
+        "profile": {
+          "name": "CivilWarTV"
+        },
+        "verified_purchase": true,
+        "link": "https://www.amazon.com/gp/customer-reviews/R3TN12MJVNTYMV/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R3LX55GTTQ15XQ",
+        "title": "Great for indoors. Hut! Hut!",
+        "body": "How can you go wrong with Nerf!Nice football. Good value for money. Use it indoors with middle school kids.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on January 14, 2026"
+        },
+        "profile": {
+          "name": "Brett Paradise"
+        },
+        "verified_purchase": true,
+        "link": "https://www.amazon.com/gp/customer-reviews/R3LX55GTTQ15XQ/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R1ORA091SBHCY6",
+        "title": "Perfect spiral, small hands, pain free!!",
+        "body": "Purchased: May 2025.Fun, easy to throw & catch Nerf foam football.Soft. The best part is: Pain free!  Great for throwing a perfect spiral & can travel a distance.Great for small hands!  Makes a great gift.  Fun outdoor activity with family & friends.I recommend this Nerf football & I will purchase again.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on November 27, 2025"
+        },
+        "profile": {
+          "name": "Jillian"
+        },
+        "verified_purchase": true,
+        "helpful_votes": null,
+        "link": "https://www.amazon.com/gp/customer-reviews/R1ORA091SBHCY6/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R2KMPYA053462P",
+        "title": "Great football for kids",
+        "body": "Great sized football for kids.  Soft.  Your kids fingers won’t get destroyed.  Slippery when new.  You should wash it to remote any manufacturing oils.Since it is foam, it’ll get beat up for use.  I’m on my 2nd one.  The first one is starting to show its age.  Chunks of foam are falling off",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on January 30, 2026"
+        },
+        "profile": {
+          "name": "S. Choy"
+        },
+        "verified_purchase": true,
+        "link": "https://www.amazon.com/gp/customer-reviews/R2KMPYA053462P/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R201NU2592KOVR",
+        "title": "Just like original !",
+        "body": "Quality and fun !",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on January 19, 2026"
+        },
+        "profile": {
+          "name": "troy grady"
+        },
+        "verified_purchase": true,
+        "link": "https://www.amazon.com/gp/customer-reviews/R201NU2592KOVR/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R1W7FS64FIZBEZ",
+        "title": "Great Product",
+        "body": "My daughter now wants to play catch and has more success with catch and not being afraid to be hit",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United Kingdom on April 3, 2025"
+        },
+        "profile": {
+          "name": "coldpepper65"
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "R27XKTDKPOB1D7",
+        "body": "Está muy bonita y muy práctica de buen tamaño",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Mexico on November 15, 2025"
+        },
+        "profile": {
+          "name": "Nataly Godoy"
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "R2UM1WKN6J01JX",
+        "body": "Comparada com uma bola de futebol americano oficial, esta da NERF é menor. Outro diferencial é que esta bola é muito macia!Para brincadeiras dentro e fora de casa. Deixa a criançada curtir e brincar com jogos de arremesso, mirar em caixas para acertar, ou outros alvos como baldes, arcos... Enfim! O que você e a criançada curtirem!Meu filho curtiu muito desde quando viu a foto da bola pela tela. Onde quer que levemos, a criançada se diverte com esta bola.Como a estrutura de espuma é macia, torna segura a diversão dentro de casa em dias chuvosos, claro evitando locais com objetos que poderiam quebrar ou estragar com a jogatina.Medidas aproximadas: 23cm de altura e 12cm largura.Idade: indicado para crianças acima de 04 anos.Recomendo!",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Brazil on January 18, 2024"
+        },
+        "profile": {
+          "name": "Alexandre"
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "R3F2PUA6Q1Z8S0",
+        "title": "good ol nerf",
+        "body": "just like when I was a kid.  Good way to start kids catching the ball",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United Kingdom on August 27, 2023"
+        },
+        "profile": {
+          "name": "Mooky dees"
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "R3TU62GIO8N2Z0",
+        "title": "Excellent",
+        "body": "Great ball, nice and light",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Canada on March 23, 2024"
+        },
+        "profile": {
+          "name": "PSue"
+        },
+        "verified_purchase": true
+      }
+    ],
+    "bestsellers_rank": [
+      {
+        "rank": 829,
+        "category": "Toys & Games",
+        "link": "https://www.amazon.com/gp/bestsellers/toys-and-games/ref=pd_zg_ts_toys-and-games"
+      },
+      {
+        "rank": 4,
+        "category": "Toy Football Products",
+        "link": "https://www.amazon.com/gp/bestsellers/toys-and-games/166456011/ref=pd_zg_hrsr_toys-and-games"
+      }
+    ],
+    "a_plus_content": {
+      "has_a_plus_content": true,
+      "has_brand_story": false,
+      "all_images": [
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f5cf2fa9-13fd-4eee-a35e-3ff2331be451.__CR15,0,970,300_PT0_SX970_V1___.jpg",
+          "name": "NERF logo"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2aba869c-845f-420d-868b-6634a57fa6aa.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+          "name": "NERF Kids Foam Football indoor outdoor play soft foam ultra grip boy holding football"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/76af9c6a-b735-4627-b2d3-5947c396fc1a.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+          "name": "textured surface black half football"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0493b903-fe0c-49e2-990e-024f8911d00b.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+          "name": "hand squishing foam football "
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8384a542-8831-4f30-8ccc-209de518e4c1.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+          "name": "football laying in grass"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/77e36ee4-0c4d-4bf1-b69a-703c000fcb24.__CR15,0,970,300_PT0_SX970_V1___.jpg",
+          "name": "its nerf or nothing slogan"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b53677bd-a366-4183-8291-40d93166d428.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/fffe4b43-78f8-49b9-ad59-dc6dddf94e96.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7a562b3f-79f0-44d8-bbba-f0778790a6f6.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7aaa9e00-0f03-4cfd-ace9-97467a2e5a63.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d34d9073-d488-47a0-9486-30cf1ff24afa.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+          "name": ""
+        }
+      ],
+      "third_party": false
+    },
+    "buybox_winner": {
+      "maximum_order_quantity": {
+        "value": 30,
+        "hard_maximum": true
+      },
+      "price_only_available_in_cart": false,
+      "mixed_offers_count": 2,
+      "mixed_offers_from": {
+        "symbol": "$",
+        "value": 35,
+        "currency": "USD",
+        "raw": "FREE Shipping on orders over $35.00 shipped by Amazon."
+      },
+      "trade_in_and_save": true,
+      "return_policy": {
+        "duration_days": 30,
+        "type": "refund/replacement",
+        "seller": "Amazon"
+      },
+      "is_prime": true,
+      "is_prime_exclusive_deal": false,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "In Stock",
+        "dispatch_days": 1
+      },
+      "fulfillment": {
+        "type": "p1",
+        "standard_delivery": {
+          "date": "Monday, March 23",
+          "name": "FREE"
+        },
+        "fastest_delivery": {
+          "date": "Thursday, March 19",
+          "name": "Or Prime members get FREE delivery Thursday, March 19. Order within 13 hrs 18 mins. Join Prime"
+        },
+        "is_sold_by_amazon": true,
+        "amazon_seller": {
+          "name": "Amazon"
+        },
+        "is_fulfilled_by_amazon": true,
+        "is_fulfilled_by_third_party": false,
+        "is_sold_by_third_party": false
+      },
+      "price": {
+        "symbol": "$",
+        "value": 14.97,
+        "currency": "USD",
+        "raw": "$14.97"
+      },
+      "shipping": {
+        "raw": "FREE"
+      }
+    },
+    "specifications": [
+      {
+        "name": "Brand",
+        "value": "Nerf"
+      },
+      {
+        "name": "Material",
+        "value": "Foam"
+      },
+      {
+        "name": "Color",
+        "value": "Blue"
+      },
+      {
+        "name": "Age Range (Description)",
+        "value": "Kid"
+      },
+      {
+        "name": "Item Weight",
+        "value": "0.57 Pounds"
+      },
+      {
+        "name": "Sport",
+        "value": "American Football"
+      },
+      {
+        "name": "Item Diameter",
+        "value": "9 Inches"
+      },
+      {
+        "name": "Number of Items",
+        "value": "1"
+      },
+      {
+        "name": "Construction Type",
+        "value": "Foam"
+      },
+      {
+        "name": "Global Trade Identification Number",
+        "value": "00025725584581"
+      },
+      {
+        "name": "UPC",
+        "value": "025725584581 195166119311"
+      },
+      {
+        "name": "Unit Count",
+        "value": "1.0 Count"
+      },
+      {
+        "name": "Item Weight",
+        "value": "9.1 ounces"
+      },
+      {
+        "name": "ASIN",
+        "value": "B08P286Q26"
+      },
+      {
+        "name": "Item model number",
+        "value": "F2864"
+      },
+      {
+        "name": "Manufacturer recommended age",
+        "value": "3 years and up"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "#829 in Toys & Games (See Top 100 in Toys & Games) #4 in Toy Football Products"
+      },
+      {
+        "name": "Customer Reviews",
+        "value": "4.7    4.7 out of 5 stars         (7,912)           4.7 out of 5 stars"
+      },
+      {
+        "name": "Release date",
+        "value": "February 1, 2021"
+      },
+      {
+        "name": "Department",
+        "value": "unisex-teen"
+      },
+      {
+        "name": "Manufacturer",
+        "value": "Franklin Sports"
+      },
+      {
+        "name": "GTIN",
+        "value": "025725584581 195166119311"
+      }
+    ],
+    "specifications_flat": "GTIN: 025725584581 195166119311. Manufacturer: Franklin Sports. Department: unisex-teen. Release date: February 1, 2021. Customer Reviews: 4.7    4.7 out of 5 stars         (7,912)           4.7 out of 5 stars. Best Sellers Rank: #829 in Toys & Games (See Top 100 in Toys & Games) #4 in Toy Football Products. Manufacturer recommended age: 3 years and up. Item model number: F2864. ASIN: B08P286Q26. Item Weight: 9.1 ounces. Unit Count: 1.0 Count. UPC: 025725584581 195166119311. Global Trade Identification Number: 00025725584581. Construction Type: Foam. Number of Items: 1. Item Diameter: 9 Inches. Sport: American Football. Item Weight: 0.57 Pounds. Age Range (Description): Kid. Color: Blue. Material: Foam. Brand: Nerf.",
+    "recent_sales": "2K+ bought in past month",
+    "gift_guide_badge": {
+      "badge_text": "2K+ bought in past month"
+    },
+    "ingredients": [
+      "WARNING: CHOKING HAZARD - Small parts may be generated. Not for children under 3 years."
+    ],
+    "ingredients_flat": "WARNING: CHOKING HAZARD - Small parts may be generated. Not for children under 3 years.",
+    "release_date": "February 1, 2021",
+    "color": "Blue",
+    "material": "Foam",
+    "manufacturer": "Franklin Sports",
+    "weight": "9.1 ounces",
+    "model_number": "F2864",
+    "recommended_age": "3 years and up",
+    "bestsellers_rank_flat": "Category: Toys & Games | Rank: 829, Category: Toy Football Products | Rank: 4",
+    "whats_in_the_box": [
+      "1 foam ball."
+    ]
+  },
+  "brand_store": {
+    "id": "25BD06DA-67EB-46E3-B5DE-82B3CB88F7A3",
+    "link": "https://www.amazon.com/stores/NERF/page/25BD06DA-67EB-46E3-B5DE-82B3CB88F7A3"
+  }
+}

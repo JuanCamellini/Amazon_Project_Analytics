@@ -1,0 +1,834 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 28,
+    "credits_remaining": 72,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "type": "product",
+    "asin": "B0009KF59W",
+    "amazon_domain": "amazon.com"
+  },
+  "request_metadata": {
+    "created_at": "2026-03-17T15:41:06.172Z",
+    "processed_at": "2026-03-17T15:41:13.001Z",
+    "total_time_taken": 6.83,
+    "amazon_url": "https://www.amazon.com/dp/B0009KF59W?th=1&psc=1"
+  },
+  "product": {
+    "title": "WILSON NCAA Final Four Basketball - 29.5\" and 28.5\" Size 6 - 28.5\"",
+    "search_alias": {
+      "title": "Sports & Outdoors",
+      "value": "search-alias=sporting"
+    },
+    "title_excluding_variant_name": "WILSON NCAA Final Four Basketball - 29.5\" and 28.5\"",
+    "keywords": "WILSON NCAA Final Four Basketball - 29.5\" and 28.5\" Size 6 - 28.5\"",
+    "is_collection": false,
+    "asin": "B0009KF59W",
+    "parent_asin": "B0C6KQYJ7G",
+    "gtin": "‎026388362516",
+    "link": "https://www.amazon.com/dp/B0009KF59W?_encoding=UTF8&psc=1",
+    "brand": "‎WILSON",
+    "sell_on_amazon": false,
+    "bestseller_badge": {
+      "link": "https://www.amazon.com/gp/bestsellers/sporting-goods/374932011/ref=zg_b_bs_374932011_1",
+      "category": "Sports Fan Basketballs",
+      "badge_text": "#1 Best Seller"
+    },
+    "variants": [
+      {
+        "asin": "B0009KF59W",
+        "title": "Size 6 - 28.5\"",
+        "is_current_product": true,
+        "link": "https://www.amazon.com/dp/B0009KF59W?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "Size 6 - 28.5\""
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/81ATTfCvMIL._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/81ATTfCvMIL._AC_SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0009KF59M",
+        "title": "Size 7 - 29.5\"",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0009KF59M?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "Size 7 - 29.5\""
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/81vAICC23vL._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/81vAICC23vL._AC_SL1500_.jpg"
+          }
+        ]
+      }
+    ],
+    "variant_asins_flat": "B0009KF59W,B0009KF59M",
+    "proposition_65_warning": false,
+    "has_size_guide": true,
+    "add_on_item": {
+      "is_add_on_item": true
+    },
+    "categories": [
+      {
+        "name": "Sports & Outdoors",
+        "link": "https://www.amazon.com/sports-outdoors/b/ref=dp_bc_1?ie=UTF8&node=3375251",
+        "category_id": "3375251"
+      },
+      {
+        "name": "Fan Shop",
+        "link": "https://www.amazon.com/Fan-Shop-Sports-Outdoors/b/ref=dp_bc_2?ie=UTF8&node=3386071",
+        "category_id": "3386071"
+      },
+      {
+        "name": "Sports Equipment",
+        "link": "https://www.amazon.com/Sports-Fan-Sports-Equipment/b/ref=dp_bc_3?ie=UTF8&node=374927011",
+        "category_id": "374927011"
+      },
+      {
+        "name": "Basketball Equipment",
+        "link": "https://www.amazon.com/Sports-Fan-Basketball-Equipment/b/ref=dp_bc_4?ie=UTF8&node=2311328011",
+        "category_id": "2311328011"
+      },
+      {
+        "name": "Basketballs",
+        "link": "https://www.amazon.com/Sports-Fan-Basketballs/b/ref=dp_bc_5?ie=UTF8&node=374932011",
+        "category_id": "374932011"
+      }
+    ],
+    "categories_flat": "Sports & Outdoors > Fan Shop > Sports Equipment > Basketball Equipment > Basketballs",
+    "sub_title": {
+      "text": "Visit the WILSON Store",
+      "link": "https://www.amazon.com/stores/WilsonSportingGoods/page/812B80AE-20B6-4150-8303-FD761F703291?lp_asin=B0009KF59W&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto"
+    },
+    "amazons_choice": {
+      "link": "https://www.amazon.com/s?k=basketball"
+    },
+    "marketplace_id": "ATVPDKIKX0DER",
+    "rating": 4.7,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 84,
+        "count": 7722
+      },
+      "four_star": {
+        "percentage": 10,
+        "count": 919
+      },
+      "three_star": {
+        "percentage": 3,
+        "count": 276
+      },
+      "two_star": {
+        "percentage": 1,
+        "count": 92
+      },
+      "one_star": {
+        "percentage": 2,
+        "count": 184
+      }
+    },
+    "ratings_total": 9193,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/81ATTfCvMIL.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/813rj3L+r9L._AC_SL1500_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/819HVk8c6xL._AC_SL1500_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81aSaAZzVUL._AC_SL1500_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/817Mplvyg-L._AC_SL1500_.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71mgJcSCSdL._AC_SL1500_.jpg",
+        "variant": "PT05"
+      }
+    ],
+    "images_count": 5,
+    "images_flat": "https://m.media-amazon.com/images/I/813rj3L+r9L._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/819HVk8c6xL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81aSaAZzVUL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/817Mplvyg-L._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71mgJcSCSdL._AC_SL1500_.jpg",
+    "videos_count": 6,
+    "videos_additional": [
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0a8c7c3845474d97be4a824670b8c71a",
+        "product_asin": "B0009KF59W",
+        "parent_asin": "B0C6KQYJ7G",
+        "related_products": "B0009KF59W",
+        "title": "Happy review of Wilson Basketball",
+        "profile_image_url": "https://m.media-amazon.com/images/I/414p6yLTxXL._CR0,0,295,295_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/caryschram1",
+        "public_name": "Coach Cary",
+        "vendor_code": "caryschram1:shop",
+        "vendor_name": "Coach Cary",
+        "vendor_tracking_id": "onamzcaryrsch-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/91WPDJNO8eL._CR2,0,1276,720_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/91WPDJNO8eL.png",
+        "video_image_width": "1280",
+        "video_image_height": "720",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/26172318-4ec7-4d53-8a7e-4b81ef38ba5a/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/99c789cd-7562-4074-80d1-6cfc5551061d/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/99c789cd-7562-4074-80d1-6cfc5551061d/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:02",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/6a7a4031-746b-4886-8d7a-673ad175bfae.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.08b3a14d826d44aaa666bab1a9965f53",
+        "product_asin": "B0009KF59W",
+        "parent_asin": "B0C6KQYJ7G",
+        "related_products": "B091MLGVKX,B0009KF59W,B0DCBYJXCK",
+        "title": "Review youth basketball",
+        "profile_image_url": "https://m.media-amazon.com/images/I/A15yRfC41uL._CR200,0,1500,1500_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/natindahat",
+        "public_name": "Natalie Fehr",
+        "vendor_code": "natindahat:shop",
+        "vendor_name": "Natalie Fehr",
+        "vendor_tracking_id": "onamznata0d0b-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/91BTZPnMiSL._CR2,0,1276,720_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/91BTZPnMiSL.png",
+        "video_image_width": "1280",
+        "video_image_height": "720",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/cfdb8ff1-8d19-400f-9e5b-049a6d89eb82/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/79a41ae6-ea3d-4ae7-b197-1efa8ad637f1/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/79a41ae6-ea3d-4ae7-b197-1efa8ad637f1/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/79a41ae6-ea3d-4ae7-b197-1efa8ad637f1/13063fd1-3e67-4880-ab24-20d357e4c97f/08b3a14d826d44aaa666bab1a9965f53_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:18",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/0dcd7156-2abe-4b8d-b22c-c16f9b50e885.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.08240a90c8e14472b77abb4b9047caaf",
+        "product_asin": "B0009KF59W",
+        "parent_asin": "B0C6KQYJ7G",
+        "related_products": "B0009KF59M",
+        "title": "ONE DETAIL You MUST Know BEFORE You Buy This Basketball!",
+        "profile_image_url": "https://m.media-amazon.com/images/I/A1jX2lCzXUL._CR0,0,2320,2320_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/influencer-8625b548",
+        "public_name": "Reviews by DAD",
+        "vendor_code": "influencer-8625b548:shop",
+        "vendor_name": "Reviews by DAD",
+        "vendor_tracking_id": "onamzsuperfun-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/91+a81N22uL._CR0,0,1931,1090_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/91+a81N22uL.jpg",
+        "video_image_width": "1931",
+        "video_image_height": "1290",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a6bf2f50-991e-4fbf-a2f9-e838c391e069/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/60678e5f-eb21-4d3f-92b7-286b93da457a/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/60678e5f-eb21-4d3f-92b7-286b93da457a/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:26",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/2ee8b2c1-a276-4888-8837-45bfe1e7f007.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0778223606824141bf77a232338eeaf9",
+        "product_asin": "B0009KF59W",
+        "parent_asin": "B0C6KQYJ7G",
+        "related_products": "B0009KF59M",
+        "title": "Worth the hype? My honest thoughts...",
+        "profile_image_url": "https://m.media-amazon.com/images/I/71sKFqdFQ4L._CR0,0,1096,1096_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/backdropoutlet",
+        "public_name": "Sara Victoria",
+        "vendor_code": "backdropoutlet:shop",
+        "vendor_name": "Sara Victoria",
+        "vendor_tracking_id": "onamzsaraon08-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/91NGQP9l45L._CR2,0,1276,720_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/91NGQP9l45L.png",
+        "video_image_width": "1280",
+        "video_image_height": "720",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/891d632c-c039-4e40-981d-de11b49407e3/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/47091934-07b5-4189-8388-72eebd8cec1b/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/47091934-07b5-4189-8388-72eebd8cec1b/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/47091934-07b5-4189-8388-72eebd8cec1b/dd988fec-f137-4984-baf1-03a2f23e18ce/0778223606824141bf77a232338eeaf9_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:43",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/1be8881a-9f4b-4eb0-8394-a4954ee74204.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0e9816dd3b6f4a90b7952918937d8515",
+        "product_asin": "B0009KF59W",
+        "parent_asin": "B0C6KQYJ7G",
+        "related_products": "B0009KF59W",
+        "title": "Awesome everyday basketball",
+        "profile_image_url": "https://m.media-amazon.com/images/I/B1e6i-CZT+L._CR0,0,2316,2316_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/tallbamamomfashion",
+        "public_name": "Paris Green",
+        "vendor_code": "tallbamamomfashion:shop",
+        "vendor_name": "Paris Green",
+        "vendor_tracking_id": "onamzparisg00-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/51ihUgE12XL._CR1,0,638,360_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/51ihUgE12XL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "360",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/520a9321-f2fd-4050-8141-4cf9721cc0c7/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ddb4ab43-fabc-4205-aed7-2f959be9e2f9/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ddb4ab43-fabc-4205-aed7-2f959be9e2f9/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:39",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/d068c1b2-e09c-47c2-bee4-3f0fa0e4bc66.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.08c81344f10445558e04d81be9789f84",
+        "product_asin": "B0009KF59W",
+        "parent_asin": "B0C6KQYJ7G",
+        "related_products": "B0009KF59M",
+        "title": "Youth Basketball Review - Coach Review Buy or Not?",
+        "profile_image_url": "https://m.media-amazon.com/images/I/C1gH3h3F7YL._CR257,48,2734,2734_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/mcduffiesgarage",
+        "public_name": "Alex McDuffie",
+        "vendor_code": "mcduffiesgarage:shop",
+        "vendor_name": "Alex McDuffie",
+        "vendor_tracking_id": "onamzmcduffsg-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/A1fP54TgH2L._CR2,0,1276,720_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/A1fP54TgH2L.png",
+        "video_image_width": "1280",
+        "video_image_height": "720",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c8c4078f-82c0-49fa-b383-15542d778b8a/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/dd1b2d36-4287-49e0-aa3a-c70edccaf6cb/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/dd1b2d36-4287-49e0-aa3a-c70edccaf6cb/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/dd1b2d36-4287-49e0-aa3a-c70edccaf6cb/16d6cea2-58ee-43eb-9f6a-3b3c5201585f/08c81344f10445558e04d81be9789f84_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:18",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/4090f825-9830-4dc1-8070-7ddd499a47c3.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.031c6c19cf7a457c8ed309f8a4841a41",
+        "product_asin": "B0009KF59W",
+        "parent_asin": "B0C6KQYJ7G",
+        "related_products": "B0009KF59M",
+        "title": "Review - Wilson NCAA Ball",
+        "profile_image_url": "https://images-na.ssl-images-amazon.com/images/S/amazon-avatars-global/default._SL34_.png",
+        "public_name": "Influencer Video",
+        "vendor_code": "vikklein:shop",
+        "vendor_name": "Influencer Video",
+        "vendor_tracking_id": "onamzvict0274-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/61LFGwQuV4L._CR2,0,1276,720_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61LFGwQuV4L.jpg",
+        "video_image_width": "1280",
+        "video_image_height": "720",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/5f70cb5c-46cb-4664-9b36-11a3f7d55099/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/84cc14c2-efc1-468b-af28-6527c669749a/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/84cc14c2-efc1-468b-af28-6527c669749a/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/84cc14c2-efc1-468b-af28-6527c669749a/f7e9ee4d-316e-4eee-ac27-40bb4fc3714b/031c6c19cf7a457c8ed309f8a4841a41_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:27",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/c60b8454-42e2-4aa2-901a-2543a3352654.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.083657f1422d46ac962e9bb86a04f434",
+        "product_asin": "B0009KF59W",
+        "parent_asin": "B0C6KQYJ7G",
+        "related_products": "B01C4PO1N0,B0009KF59W,B01C4PNYZQ",
+        "title": "WILSON Sporting Goods NCAA",
+        "public_name": "Merchant Video",
+        "vendor_code": "V3MSA",
+        "vendor_name": "Merchant Video",
+        "video_image_url": "https://m.media-amazon.com/images/I/31WGLdEvi7L._CR2,0,716,404_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/31WGLdEvi7L.jpg",
+        "video_image_width": "720",
+        "video_image_height": "404",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/6801ee0e-d87d-4e14-a528-11b912a51458/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/eccedac8-2c52-400c-b257-8e15290f5ea4/videopreview.jobtemplate.mp4.342X192P_20HZ_350KBPS_VER_1_0.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:30",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/ab9958a9-8c24-4235-90fb-560f38274142.vtt,es,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/es_ab9958a9-8c24-4235-90fb-560f38274142.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0ae93b386e9140cc97eff69bd22f1dda",
+        "product_asin": "B0009KF59W",
+        "parent_asin": "B0C6KQYJ7G",
+        "title": "REVIEW years later - WILSON NCAA Final Four Basketball",
+        "profile_image_url": "https://m.media-amazon.com/images/I/71SKJsTMZML._CR108,101,264,264_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/zooritafam",
+        "public_name": "ZooritaFam",
+        "vendor_code": "zooritafam:shop",
+        "vendor_name": "ZooritaFam",
+        "vendor_tracking_id": "onamzyvettezu-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/51HlhgaagFL._CR65,0,510,288_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/51HlhgaagFL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "288",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/74d5c599-00da-47bd-886f-87a4fdbb457a/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/855fe3bf-d196-4057-b7eb-56acab5a83ae/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/855fe3bf-d196-4057-b7eb-56acab5a83ae/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/855fe3bf-d196-4057-b7eb-56acab5a83ae/bc60854d-fee6-45d8-bc45-7e40885737fa/0ae93b386e9140cc97eff69bd22f1dda_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:35",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/1ae15106-5d97-4388-a0d9-a3a31d4a079d.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0f9863bbcd1c4400a733a93e7dcf1022",
+        "product_asin": "B0009KF59W",
+        "parent_asin": "B0C6KQYJ7G",
+        "related_products": "B0009KF59W",
+        "title": "Do you really want to buy this brand?",
+        "profile_image_url": "https://m.media-amazon.com/images/I/81lK9Yhob4L._CR0,0,1170,1170_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/videoleg",
+        "public_name": "We Review For You",
+        "vendor_code": "videoleg:shop",
+        "vendor_name": "We Review For You",
+        "vendor_tracking_id": "onamzolegmikh-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/613XX8+2UiL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/613XX8+2UiL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1137",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ac7a6d0f-0c76-4dbd-a7e9-872a0e719c1f/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/6bb83953-81d4-4da8-80d2-3a2f0feab06f/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/6bb83953-81d4-4da8-80d2-3a2f0feab06f/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:39",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/22d51bae-35d8-43bc-8f21-c15cd210bdd5.vtt"
+      }
+    ],
+    "is_bundle": false,
+    "feature_bullets": [
+      "Wilson NCAA Final Four Edition Indoor/Outdoor Basketball - Size 6 - 28.5'",
+      "Brown,High Performance Composite Leather: The high-performance composite cover features a top coating that strengthens the layers and optimizes durability",
+      "Deep Channels: Deeper channels between the panels of the ball allow for more grip points and better ball control when dribbling and shooting",
+      "Air Retention: A specialized inflation retention lining creates longer lasting air retention",
+      "NCAA Official: Wilson is the official ball of March Madness"
+    ],
+    "feature_bullets_count": 5,
+    "feature_bullets_flat": "NCAA Official: Wilson is the official ball of March Madness. Air Retention: A specialized inflation retention lining creates longer lasting air retention. Deep Channels: Deeper channels between the panels of the ball allow for more grip points and better ball control when dribbling and shooting. Brown,High Performance Composite Leather: The high-performance composite cover features a top coating that strengthens the layers and optimizes durability. Wilson NCAA Final Four Edition Indoor/Outdoor Basketball - Size 6 - 28.5'.",
+    "top_reviews": [
+      {
+        "id": "R4ODAIJVI4XO8",
+        "title": "Perfect Basketball for Young Kids",
+        "body": "I bought this NCAA basketball for my sons, and it’s been a great purchase. The ball has a high-quality feel right out of the box—nice grip, solid construction, and it doesn’t feel cheap at all. The size is perfect for younger kids, making it easy for them to handle, dribble, and shoot without getting frustrated.They love practicing with a “real” basketball that looks just like what they see on TV, and it’s held up well to regular indoor and outdoor use so far. Great value for the price and an excellent choice for kids who love basketball. Highly recommend for young players getting started! 🏀",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on January 31, 2026"
+        },
+        "profile": {
+          "name": "Anthony Brown"
+        },
+        "verified_purchase": true,
+        "link": "https://www.amazon.com/gp/customer-reviews/R4ODAIJVI4XO8/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R2TX1NPUN1QXNB",
+        "title": "Good Ball Would Buy It Again",
+        "body": "Really good ball Durable and has a good grip Good price. And its already pumped up for you. Size is really good as well. It look good to and it has a good color.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on February 26, 2026"
+        },
+        "profile": {
+          "name": "Ashley T."
+        },
+        "verified_purchase": true,
+        "helpful_votes": null,
+        "link": "https://www.amazon.com/gp/customer-reviews/R2TX1NPUN1QXNB/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R1JQUTC9LK2SQ9",
+        "title": "GREAT basketball for our rec league",
+        "body": "This ball is so good, I keep buying this same model as we grow in sizes. It's too nice to use on pavement or outdoor courts. It has a very rich color tone. It feels substantial in the hands. You can sense the quality. The skin and seams give the ball a great grip. The weight and balance are perfect and the bounce was great right out of the box. This ball is so good, that the referees in our recreation league ask to use it as a game ball. My son's friends comment about what a nice ball it is. I'm extremely pleased with the quality and price. I have yet to wear one out. It's such a good ball, that we can give his friends identical balls for their birthdays and everyone will be happy.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on August 18, 2025"
+        },
+        "profile": {
+          "name": "MVS"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 9,
+        "link": "https://www.amazon.com/gp/customer-reviews/R1JQUTC9LK2SQ9/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "RBV83U37XQ1NT",
+        "title": "This is a great basketball",
+        "body": "This is a great basketball. The guys I play with weekly now always want to use this ball when we play. Great grip and feel makes it easy to handle. I definitely recommend this basketball for high level play.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on March 6, 2026"
+        },
+        "profile": {
+          "name": "JS"
+        },
+        "verified_purchase": true,
+        "link": "https://www.amazon.com/gp/customer-reviews/RBV83U37XQ1NT/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R3NCG4Z9XD9YCH",
+        "title": "Not bad for price",
+        "body": "Not a bad ball. Not soft like an evolution but for the price csnt beat it. Very grippy which makes up for brickish feel.",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in the United States on March 3, 2026"
+        },
+        "profile": {
+          "name": "kmay"
+        },
+        "verified_purchase": true,
+        "link": "https://www.amazon.com/gp/customer-reviews/R3NCG4Z9XD9YCH/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R1YX3LZIBPF578",
+        "title": "Perfect basketball!",
+        "body": "Here’s a smooth, simple review for you:Review:This basketball is great quality sturdy, well-made, and performs exactly the way it should. The grip and bounce are consistent, making it perfect for real play. It came perfectly inflated and was easy to use! I also loved that I was able to customize and design it later for a loved one who plays the sport. It turned out amazing and made the gift even more special.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on November 30, 2025"
+        },
+        "profile": {
+          "name": "Maia.Alexa"
+        },
+        "verified_purchase": true,
+        "helpful_votes": null,
+        "link": "https://www.amazon.com/gp/customer-reviews/R1YX3LZIBPF578/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R334M8G9O1A3K8",
+        "title": "Quality and durability",
+        "body": "Very good quality and durability for daily use in the driveway over a two month period",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on February 28, 2026"
+        },
+        "profile": {
+          "name": "Esther"
+        },
+        "verified_purchase": true,
+        "link": "https://www.amazon.com/gp/customer-reviews/R334M8G9O1A3K8/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R97NN5AMNYFJH",
+        "title": "way better than what you pay for!",
+        "body": "fantastic ball! i love the feel and I have spent many hours shooting with this ball. definitely worth the price!",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on December 17, 2025"
+        },
+        "profile": {
+          "name": "David"
+        },
+        "verified_purchase": true,
+        "link": "https://www.amazon.com/gp/customer-reviews/R97NN5AMNYFJH/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R1966JO4FOC5TH",
+        "title": "Great Ball",
+        "body": "as advertised, well packed, thanks!",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Australia on July 7, 2022"
+        },
+        "profile": {
+          "name": "Ken"
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "R1AK6OWBB7GZN2",
+        "title": "Great basketball.",
+        "body": "Have only been using it indoors and the quality has been great so far.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Canada on December 23, 2025"
+        },
+        "profile": {
+          "name": "P."
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "R1AKWDUO0OY5WY",
+        "body": "Excelente balón en el exterior",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Mexico on May 9, 2025"
+        },
+        "profile": {
+          "name": "Héctor Figueroa Fiscal"
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "R1IQ31N7FOOIFX",
+        "title": "The best b ball I’ve come across",
+        "body": "This is the ball you want, you can bin that dominate ball after this gets to your door.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United Kingdom on February 26, 2026"
+        },
+        "profile": {
+          "name": "Ibrahim Khan"
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "R1SF7WLA1NPJ5P",
+        "body": "Bonne balle, mais prix trop haut",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in France on August 10, 2025"
+        },
+        "profile": {
+          "name": "FactorMars"
+        },
+        "verified_purchase": true
+      }
+    ],
+    "bestsellers_rank": [
+      {
+        "rank": 90,
+        "category": "Sports & Outdoors",
+        "link": "https://www.amazon.com/gp/bestsellers/sporting-goods/ref=pd_zg_ts_sporting-goods"
+      },
+      {
+        "rank": 1,
+        "category": "Sports Fan Basketballs",
+        "link": "https://www.amazon.com/gp/bestsellers/sporting-goods/374932011/ref=pd_zg_hrsr_sporting-goods"
+      }
+    ],
+    "a_plus_content": {
+      "has_a_plus_content": true,
+      "has_brand_story": false,
+      "all_images": [
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/41b758bb-dd1a-4b8f-ab3a-77defd0073d5.__CR0,0,4043,1250_PT0_SX970_V1___.jpg",
+          "name": "Wilson Basketball; NCAA Basketball"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ebc0cfaf-57cd-4f25-982c-57cb65c2b5cc.__CR0,209,1251,1251_PT0_SX300_V1___.jpg",
+          "name": "Wilson Basketball; NCAA Basketball"
+        }
+      ],
+      "third_party": false
+    },
+    "buybox_winner": {
+      "maximum_order_quantity": {
+        "value": 4,
+        "hard_maximum": true
+      },
+      "price_only_available_in_cart": false,
+      "new_offers_count": 2,
+      "new_offers_from": {
+        "raw": "New"
+      },
+      "trade_in_and_save": true,
+      "return_policy": {
+        "duration_days": 30,
+        "type": "refund/replacement",
+        "seller": "Amazon"
+      },
+      "is_prime": true,
+      "is_prime_exclusive_deal": false,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "In Stock",
+        "dispatch_days": 1
+      },
+      "fulfillment": {
+        "type": "p1",
+        "standard_delivery": {
+          "date": "Sunday, March 22",
+          "name": "FREE"
+        },
+        "fastest_delivery": {
+          "date": "Friday, March 20",
+          "name": "Or Prime members get FREE delivery Friday, March 20. Order within 1 hr 18 mins. Join Prime"
+        },
+        "is_sold_by_amazon": true,
+        "amazon_seller": {
+          "name": "Amazon"
+        },
+        "is_fulfilled_by_amazon": true,
+        "is_fulfilled_by_third_party": false,
+        "is_sold_by_third_party": false
+      },
+      "price": {
+        "symbol": "$",
+        "value": 19.99,
+        "currency": "USD",
+        "raw": "$19.99"
+      },
+      "rrp": {
+        "symbol": "$",
+        "value": 26.95,
+        "currency": "USD",
+        "raw": "$26.95"
+      },
+      "shipping": {
+        "raw": "FREE"
+      }
+    },
+    "specifications": [
+      {
+        "name": "Brand",
+        "value": "‎WILSON"
+      },
+      {
+        "name": "Material",
+        "value": "‎Faux Leather"
+      },
+      {
+        "name": "Color",
+        "value": "‎Brown"
+      },
+      {
+        "name": "Age Range (Description)",
+        "value": "‎All Ages and Sizes: Official, Intermediate, Youth"
+      },
+      {
+        "name": "Item Weight",
+        "value": "‎19 Ounces"
+      },
+      {
+        "name": "Sport",
+        "value": "‎Basketball"
+      },
+      {
+        "name": "Item Diameter",
+        "value": "‎28.5 Inches"
+      },
+      {
+        "name": "Number of Items",
+        "value": "‎1"
+      },
+      {
+        "name": "League",
+        "value": "‎NCAA"
+      },
+      {
+        "name": "Construction Type",
+        "value": "‎Deep Channel"
+      },
+      {
+        "name": "Size",
+        "value": "‎Size 6 - 28.5\""
+      },
+      {
+        "name": "Global Trade Identification Number",
+        "value": "‎00026388362516"
+      },
+      {
+        "name": "Stitching Type",
+        "value": "‎Molded/Seamless"
+      },
+      {
+        "name": "UPC",
+        "value": "‎026388362516"
+      },
+      {
+        "name": "Unit Count",
+        "value": "‎1.0 Count"
+      },
+      {
+        "name": "Item Package Dimensions L x W x H",
+        "value": "‎10 x 9.81 x 9.7 inches"
+      },
+      {
+        "name": "Package Weight",
+        "value": "‎0.73 Kilograms"
+      },
+      {
+        "name": "Item Dimensions LxWxH",
+        "value": "‎9 x 8 x 8 inches"
+      },
+      {
+        "name": "Brand Name",
+        "value": "‎WILSON"
+      },
+      {
+        "name": "Manufacturer",
+        "value": "‎Wilson Sporting Goods"
+      },
+      {
+        "name": "Part Number",
+        "value": "‎WTB1239"
+      },
+      {
+        "name": "ASIN",
+        "value": "B0009KF59W"
+      },
+      {
+        "name": "Customer Reviews",
+        "value": "4.7    4.7 out of 5 stars         (9,193)           4.7 out of 5 stars"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "#90 in Sports & Outdoors (See Top 100 in Sports & Outdoors) #1 in Sports Fan Basketballs"
+      },
+      {
+        "name": "Date First Available",
+        "value": "May 4, 2005"
+      },
+      {
+        "name": "Brand",
+        "value": "WILSON"
+      },
+      {
+        "name": "Material",
+        "value": "Faux Leather"
+      },
+      {
+        "name": "Color",
+        "value": "Brown"
+      },
+      {
+        "name": "Age Range (Description)",
+        "value": "All Ages and Sizes: Official, Intermediate, Youth"
+      },
+      {
+        "name": "Item Weight",
+        "value": "19 Ounces"
+      },
+      {
+        "name": "GTIN",
+        "value": "‎026388362516"
+      }
+    ],
+    "specifications_flat": "GTIN: ‎026388362516. Item Weight: 19 Ounces. Age Range (Description): All Ages and Sizes: Official, Intermediate, Youth. Color: Brown. Material: Faux Leather. Brand: WILSON. Date First Available: May 4, 2005. Best Sellers Rank: #90 in Sports & Outdoors (See Top 100 in Sports & Outdoors) #1 in Sports Fan Basketballs. Customer Reviews: 4.7    4.7 out of 5 stars         (9,193)           4.7 out of 5 stars. ASIN: B0009KF59W. Part Number: ‎WTB1239. Manufacturer: ‎Wilson Sporting Goods. Brand Name: ‎WILSON. Item Dimensions LxWxH: ‎9 x 8 x 8 inches. Package Weight: ‎0.73 Kilograms. Item Package Dimensions L x W x H: ‎10 x 9.81 x 9.7 inches. Unit Count: ‎1.0 Count. UPC: ‎026388362516. Stitching Type: ‎Molded/Seamless. Global Trade Identification Number: ‎00026388362516. Size: ‎Size 6 - 28.5\". Construction Type: ‎Deep Channel. League: ‎NCAA. Number of Items: ‎1. Item Diameter: ‎28.5 Inches. Sport: ‎Basketball. Item Weight: ‎19 Ounces. Age Range (Description): ‎All Ages and Sizes: Official, Intermediate, Youth. Color: ‎Brown. Material: ‎Faux Leather. Brand: ‎WILSON.",
+    "recent_sales": "4K+ bought in past month",
+    "gift_guide_badge": {
+      "badge_text": "4K+ bought in past month"
+    },
+    "color": "‎Brown",
+    "material": "‎Faux Leather",
+    "manufacturer": "‎Wilson Sporting Goods",
+    "weight": "‎19 Ounces",
+    "first_available": {
+      "raw": "May 4, 2005",
+      "utc": "2005-05-04T00:00:00.000Z"
+    },
+    "model_number": "‎WTB1239",
+    "bestsellers_rank_flat": "Category: Sports & Outdoors | Rank: 90, Category: Sports Fan Basketballs | Rank: 1"
+  },
+  "brand_store": {
+    "id": "812B80AE-20B6-4150-8303-FD761F703291",
+    "link": "https://www.amazon.com/stores/WilsonSportingGoods/page/812B80AE-20B6-4150-8303-FD761F703291"
+  }
+}

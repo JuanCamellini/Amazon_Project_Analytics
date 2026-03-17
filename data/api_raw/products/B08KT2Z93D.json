@@ -1,0 +1,1320 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 3,
+    "credits_remaining": 97,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "type": "product",
+    "asin": "B08KT2Z93D",
+    "amazon_domain": "amazon.com"
+  },
+  "request_metadata": {
+    "created_at": "2026-03-17T15:35:35.521Z",
+    "processed_at": "2026-03-17T15:35:41.538Z",
+    "total_time_taken": 6.02,
+    "amazon_url": "https://www.amazon.com/dp/B08KT2Z93D?th=1&psc=1"
+  },
+  "product": {
+    "title": "eos Shea Better Body Lotion Vanilla Cashmere, 24-Hour Moisture Skin Care, Lightweight & Non-Greasy, Natural Shea, Vegan, Vanilla Body Lotion, 16 fl oz Vanilla Cashmere 16 Fl Oz (Pack of 1)",
+    "search_alias": {
+      "title": "Beauty & Personal Care",
+      "value": "search-alias=beauty"
+    },
+    "title_excluding_variant_name": "eos Shea Better Body Lotion Vanilla Cashmere, 24-Hour Moisture Skin Care, Lightweight & Non-Greasy, Natural Shea, Vegan, Vanilla Body Lotion, 16 fl oz",
+    "keywords": "eos Shea Better Body Lotion Vanilla Cashmere, 24-Hour Moisture Skin Care, Lightweight & Non-Greasy, Natural Shea, Vegan, Vanilla Body Lotion, 16 fl oz Vanilla Cashmere 16 Fl Oz (Pack of 1)",
+    "keywords_list": [
+      "eos Shea Better Body Lotion Vanilla Cashmere",
+      "24-Hour Moisture Skin Care",
+      "Lightweight & Non-Greasy",
+      "Natural Shea",
+      "Vegan",
+      "Vanilla Body Lotion",
+      "16 fl oz Vanilla Cashmere 16 Fl Oz (Pack of 1)"
+    ],
+    "is_collection": false,
+    "asin": "B08KT2Z93D",
+    "parent_asin": "B0CZ4NMVD6",
+    "gtin": "840044714668 840044707011",
+    "link": "https://www.amazon.com/eos-Cashmere-Moisture-Lightweight-Non-Greasy/dp/B08KT2Z93D",
+    "brand": "eos",
+    "sell_on_amazon": false,
+    "variants": [
+      {
+        "asin": "B0D466J46H",
+        "title": "Strawberry Dream 16 Fl Oz (Pack of 1)",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0D466J46H?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Scent",
+            "value": "Strawberry Dream"
+          },
+          {
+            "name": "Size",
+            "value": "16 Fl Oz (Pack of 1)"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/51KWZNqyXCL._SL1000_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/51KWZNqyXCL._SL1000_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0C7WTPT64",
+        "title": "Fragrance Free 16 Fl Oz (Pack of 1)",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0C7WTPT64?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Scent",
+            "value": "Fragrance Free"
+          },
+          {
+            "name": "Size",
+            "value": "16 Fl Oz (Pack of 1)"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/61DFRVhP8zL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/61DFRVhP8zL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0BZGRCBY4",
+        "title": "Fresh & Cozy 16 Fl Oz (Pack of 1)",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0BZGRCBY4?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Scent",
+            "value": "Fresh & Cozy"
+          },
+          {
+            "name": "Size",
+            "value": "16 Fl Oz (Pack of 1)"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/51ZNB3skixL._SL1000_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/51ZNB3skixL._SL1000_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B08KT5KYJ1",
+        "title": "Jasmine Peach 16 Fl Oz (Pack of 1)",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08KT5KYJ1?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Scent",
+            "value": "Jasmine Peach"
+          },
+          {
+            "name": "Size",
+            "value": "16 Fl Oz (Pack of 1)"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/517lV0NWJ+L._SL1000_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/517lV0NWJ+L._SL1000_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0CR3458QW",
+        "title": "Pink Champagne 16 Fl Oz (Pack of 1)",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0CR3458QW?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Scent",
+            "value": "Pink Champagne"
+          },
+          {
+            "name": "Size",
+            "value": "16 Fl Oz (Pack of 1)"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/51OCmfhjlML._SL1000_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/51OCmfhjlML._SL1000_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0G1V32TGP",
+        "title": "Cashmere Lotion + Body Butter Bundle",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0G1V32TGP?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Scent",
+            "value": "Cashmere Lotion + Body Butter"
+          },
+          {
+            "name": "Size",
+            "value": "Bundle"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71nbisQZw5L._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71nbisQZw5L._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0G1TWJ81F",
+        "title": "Cashmere Lotion + Shave Oil Bundle",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0G1TWJ81F?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Scent",
+            "value": "Cashmere Lotion + Shave Oil"
+          },
+          {
+            "name": "Size",
+            "value": "Bundle"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71Uc8YNDFkL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71Uc8YNDFkL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B08KT2Z93D",
+        "title": "Vanilla Cashmere 16 Fl Oz (Pack of 1)",
+        "is_current_product": true,
+        "link": "https://www.amazon.com/dp/B08KT2Z93D?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Scent",
+            "value": "Vanilla Cashmere"
+          },
+          {
+            "name": "Size",
+            "value": "16 Fl Oz (Pack of 1)"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/51lP01--ejL._SL1000_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/51lP01--ejL._SL1000_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0G1V16B1R",
+        "title": "Cashmere Lotion + Oil Bundle",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0G1V16B1R?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Scent",
+            "value": "Cashmere Lotion + Oil"
+          },
+          {
+            "name": "Size",
+            "value": "Bundle"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71qg8Fu2DiL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71qg8Fu2DiL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0F8RCW6PN",
+        "title": "Creme de Pistachio 16 Fl Oz (Pack of 1)",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0F8RCW6PN?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Scent",
+            "value": "Creme de Pistachio"
+          },
+          {
+            "name": "Size",
+            "value": "16 Fl Oz (Pack of 1)"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/61o55Ah4ibL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/61o55Ah4ibL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0G6349K5V",
+        "title": "Pomegranate Raspberry 16 Fl Oz (Pack of 2)",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0G6349K5V?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Scent",
+            "value": "Pomegranate Raspberry"
+          },
+          {
+            "name": "Size",
+            "value": "16 Fl Oz (Pack of 2)"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/61LydlQN8IL._SL1020_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/61LydlQN8IL._SL1020_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B08KT5HM98",
+        "title": "Coconut Waters 16 Fl Oz (Pack of 1)",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08KT5HM98?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Scent",
+            "value": "Coconut Waters"
+          },
+          {
+            "name": "Size",
+            "value": "16 Fl Oz (Pack of 1)"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/51Bgkt7ibkL._SL1000_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/51Bgkt7ibkL._SL1000_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B08KT2Y49F",
+        "title": "Pomegranate Raspberry 16 Fl Oz (Pack of 1)",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B08KT2Y49F?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Scent",
+            "value": "Pomegranate Raspberry"
+          },
+          {
+            "name": "Size",
+            "value": "16 Fl Oz (Pack of 1)"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/51cnO8brKWL._SL1000_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/51cnO8brKWL._SL1000_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0DVMLK1MG",
+        "title": "Vanilla Cashmere Body wash + Lotion 16 Fl Oz (Pack of 2)",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0DVMLK1MG?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Scent",
+            "value": "Vanilla Cashmere Body wash + Lotion"
+          },
+          {
+            "name": "Size",
+            "value": "16 Fl Oz (Pack of 2)"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/710oklv1KSL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/710oklv1KSL._SL1500_.jpg"
+          }
+        ]
+      }
+    ],
+    "variant_asins_flat": "B0D466J46H,B0C7WTPT64,B0BZGRCBY4,B08KT5KYJ1,B0CR3458QW,B0G1V32TGP,B0G1TWJ81F,B08KT2Z93D,B0G1V16B1R,B0F8RCW6PN,B0G6349K5V,B08KT5HM98,B08KT2Y49F,B0DVMLK1MG",
+    "proposition_65_warning": false,
+    "has_size_guide": true,
+    "add_on_item": {
+      "is_add_on_item": true
+    },
+    "categories": [
+      {
+        "name": "Beauty & Personal Care",
+        "link": "https://www.amazon.com/Beauty-Makeup-Skin-Hair-Products/b/ref=dp_bc_1?ie=UTF8&node=3760911",
+        "category_id": "3760911"
+      },
+      {
+        "name": "Skin Care",
+        "link": "https://www.amazon.com/Skin-Body-Face-Products/b/ref=dp_bc_2?ie=UTF8&node=11060451",
+        "category_id": "11060451"
+      },
+      {
+        "name": "Body",
+        "link": "https://www.amazon.com/Body-Skin-Care-Products-Beauty/b/ref=dp_bc_3?ie=UTF8&node=11060521",
+        "category_id": "11060521"
+      },
+      {
+        "name": "Moisturizers",
+        "link": "https://www.amazon.com/Body-Moisturizers/b/ref=dp_bc_4?ie=UTF8&node=11060661",
+        "category_id": "11060661"
+      },
+      {
+        "name": "Lotions",
+        "link": "https://www.amazon.com/Body-Lotions/b/ref=dp_bc_5?ie=UTF8&node=14024031",
+        "category_id": "14024031"
+      }
+    ],
+    "categories_flat": "Beauty & Personal Care > Skin Care > Body > Moisturizers > Lotions",
+    "description": "Our sweet and nuzzly Vanilla Cashmere shea butter lotion for women captures the warmth of whipped vanilla, the softness of musk, and the coziness of caramel for a rich, luxurious fragrance with a sensual twist. eos 24 hour moisture body lotion with instantly moisturizing Shea Oil + lasting protection Shea Butter quickly absorbs for 24-hour hydration. Say hello to fast-absorption, lightweight, soft skin, and sustainable shea. Say goodbye to body lotions with greasiness, heaviness, and sticky residue. Enjoy the soothing benefits of this moisturizing lotion, exquisitely designed for lightweight, non-greasy, fast-absorbing application.",
+    "sub_title": {
+      "text": "Visit the eos Store",
+      "link": "https://www.amazon.com/stores/eosproducts/page/93EADE0D-F5E1-496B-9A38-50F0CA6D4FDA?lp_asin=B08KT2Z93D&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto"
+    },
+    "amazons_choice": {
+      "link": "https://www.amazon.com/eos-Cashmere-Moisture-Lightweight-Non-Greasy/dp/B08KT2Z93D",
+      "badge_text": "Amazon's  Choice"
+    },
+    "marketplace_id": "ATVPDKIKX0DER",
+    "has_coupon": true,
+    "coupon_text": "Save 25%: Coupon available when you select Subscribe & Save .",
+    "rating": 4.7,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 85,
+        "count": 56360
+      },
+      "four_star": {
+        "percentage": 9,
+        "count": 5968
+      },
+      "three_star": {
+        "percentage": 3,
+        "count": 1989
+      },
+      "two_star": {
+        "percentage": 1,
+        "count": 663
+      },
+      "one_star": {
+        "percentage": 2,
+        "count": 1326
+      }
+    },
+    "ratings_total": 66306,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/51lP01--ejL.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/51Vj0sUojCL._SL1000_.jpg",
+        "variant": "FRNT"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81tuLo3kwML._SL1500_.jpg",
+        "variant": "SIDE"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/716ylHcFz3L._SL1500_.jpg",
+        "variant": "BACK"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/7178MCCUJhL._SL1500_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71BFhDi6Z6L._SL1500_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/41T3BVzagTL.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71EtNwz7gcL._SL1500_.jpg",
+        "variant": "PT05"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81GD7xWTptL._SL1500_.jpg",
+        "variant": "PT06"
+      }
+    ],
+    "images_count": 8,
+    "images_flat": "https://m.media-amazon.com/images/I/51Vj0sUojCL._SL1000_.jpg,https://m.media-amazon.com/images/I/81tuLo3kwML._SL1500_.jpg,https://m.media-amazon.com/images/I/716ylHcFz3L._SL1500_.jpg,https://m.media-amazon.com/images/I/7178MCCUJhL._SL1500_.jpg,https://m.media-amazon.com/images/I/71BFhDi6Z6L._SL1500_.jpg,https://m.media-amazon.com/images/I/41T3BVzagTL.jpg,https://m.media-amazon.com/images/I/71EtNwz7gcL._SL1500_.jpg,https://m.media-amazon.com/images/I/81GD7xWTptL._SL1500_.jpg",
+    "videos_count": 7,
+    "videos_additional": [
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.056223a359034ed9800e6e1f7a7e8652",
+        "product_asin": "B08KT2Z93D",
+        "parent_asin": "B0CZ4NMVD6",
+        "related_products": "B08KT2Z93D",
+        "title": "If you want to smell edible.. like a vanilla cupcake.. watch this!",
+        "profile_image_url": "https://m.media-amazon.com/images/I/A1I+6yqhG1L._CR0,528,1080,1080_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/kylaa_rae",
+        "public_name": "Kylaaaa",
+        "vendor_code": "kylaa_rae:shop",
+        "vendor_name": "Kylaaaa",
+        "vendor_tracking_id": "onamzkylade0f-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/71tqWXtItbL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/71tqWXtItbL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1137",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/99ea575b-fdeb-47f7-a737-500715bab956/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d6dd7dbc-e439-4cff-8247-270e6c474967/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d6dd7dbc-e439-4cff-8247-270e6c474967/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:23",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/d63d4c90-2ab6-4efa-969a-ea1ee9b5b636.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.04c85fc163ee40d8ba8ada5fd439275b",
+        "product_asin": "B08KT2Z93D",
+        "parent_asin": "B0CZ4NMVD6",
+        "related_products": "B0CR3458QW",
+        "title": "Keep your skin moisturized with EOS body lotion",
+        "profile_image_url": "https://m.media-amazon.com/images/I/61rwT3K5JiL._CR0,0,884,884_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/motherhoodandpearls",
+        "public_name": "Angelica",
+        "vendor_code": "motherhoodandpearls:shop",
+        "vendor_name": "Angelica",
+        "vendor_tracking_id": "onamzang0b38e-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/41U0oNtJ5jL._CR1,0,638,360_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/41U0oNtJ5jL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "360",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/de1fa2cc-4584-435d-8134-6246fb9cd1a8/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e0911f07-12fc-433a-893c-74f3a2ea0e86/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e0911f07-12fc-433a-893c-74f3a2ea0e86/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:41",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/36456ef8-a0fa-4a77-9d0f-d7eae25a88fd.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.057663d388a440acb547f06c1fce1330",
+        "product_asin": "B08KT2Z93D",
+        "parent_asin": "B0CZ4NMVD6",
+        "related_products": "B08KT2Z93D,B0CZ4NMVD6",
+        "title": "What to know about this lotion ",
+        "profile_image_url": "https://m.media-amazon.com/images/I/913DpHGqZLL._CR0,0,2316,2316_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/enjoyinglifewithamy",
+        "public_name": "Enjoying Life With Amy",
+        "vendor_code": "enjoyinglifewithamy:shop",
+        "vendor_name": "Enjoying Life With Amy",
+        "vendor_tracking_id": "onamzamyebank-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/71BSFCtGcgL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/71BSFCtGcgL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1137",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/7d4b51ab-250f-4400-817a-531ff285caa1/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e3ccf799-f782-435a-986a-81d8dd077eea/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e3ccf799-f782-435a-986a-81d8dd077eea/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e3ccf799-f782-435a-986a-81d8dd077eea/198245bd-f649-4a7b-9493-f17fd338238d/057663d388a440acb547f06c1fce1330_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:58",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/a9da59d5-67a1-4403-b16c-6b7735942b4c.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.06b597aba5c1450ba21a37ff66c1320f",
+        "product_asin": "B08KT2Z93D",
+        "parent_asin": "B0CZ4NMVD6",
+        "related_products": "B08KT2Z93D",
+        "title": "My favorite lotion for daily wear",
+        "profile_image_url": "https://m.media-amazon.com/images/I/71ClSiH7S8L._CR0,0,1221,1221_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/lindssmoothies",
+        "public_name": "Linds",
+        "vendor_code": "lindssmoothies:shop",
+        "vendor_name": "Linds",
+        "vendor_tracking_id": "onamzlind0d6b-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/A1u7-dgGzQL._CR0,0,1159,654_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/A1u7-dgGzQL.jpg",
+        "video_image_width": "1159",
+        "video_image_height": "1758",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/35bb7c01-a4c4-4226-b37d-3711e11a32af/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/397259ca-a682-4011-825a-4040d8109554/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/397259ca-a682-4011-825a-4040d8109554/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:18",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/e8f18410-3f53-4122-b995-d1426fc2f6e0.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.097f9902b940430e93fc09b7ae168c21",
+        "product_asin": "B08KT2Z93D",
+        "parent_asin": "B0CZ4NMVD6",
+        "related_products": "B08KT2Z93D",
+        "title": "the BEST body lotion from EOS",
+        "profile_image_url": "https://m.media-amazon.com/images/I/D1ET9PK+x2L._CR0,0,2667,2667_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/influencer-5dd30c6c",
+        "public_name": "Julianna",
+        "vendor_code": "influencer-5dd30c6c:shop",
+        "vendor_name": "Julianna",
+        "vendor_tracking_id": "onamzjul03086-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/A10HrfTP3TL._CR0,0,1170,660_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/A10HrfTP3TL.jpg",
+        "video_image_width": "1170",
+        "video_image_height": "1937",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/59136b97-0e35-417b-91b4-43bc938ad6b3/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ee47f229-3bf6-4582-845b-8fb33df93291/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ee47f229-3bf6-4582-845b-8fb33df93291/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:11",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/78f9e769-bf43-4a58-b86c-b29033218026.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.095768f1e94f4f799cf42070b52a3136",
+        "product_asin": "B08KT2Z93D",
+        "parent_asin": "B0CZ4NMVD6",
+        "related_products": "B08KT2Z93D",
+        "title": "Check out the EOS Shea Better Body Lotion/Vanilla Cashmere",
+        "profile_image_url": "https://m.media-amazon.com/images/I/71523NG4izL._CR139,0,635,634_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/tksagan",
+        "public_name": "Top Trevor Tips",
+        "vendor_code": "tksagan:shop",
+        "vendor_name": "Top Trevor Tips",
+        "vendor_tracking_id": "onamztrevs0a6-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/61tOG1JYCCL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61tOG1JYCCL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1137",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ec4900ba-7029-4b8c-9a9c-fcfdd6725122/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/b9a540a6-7c23-441c-9e5f-dd816b47f887/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/b9a540a6-7c23-441c-9e5f-dd816b47f887/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:25",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/a29a4107-dad5-4889-be36-0b1248f7d1e1.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0abeee372b674eb18471087d1a89380e",
+        "product_asin": "B08KT2Z93D",
+        "parent_asin": "B0CZ4NMVD6",
+        "related_products": "B08KT2Z93D",
+        "title": "Top pick for dry skin, eos body lotion!",
+        "profile_image_url": "https://m.media-amazon.com/images/I/71JEG-MB4zL._CR0,0,956,956_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/felaikysolano",
+        "public_name": "Felaiki Solano",
+        "vendor_code": "felaikysolano:shop",
+        "vendor_name": "Felaiki Solano",
+        "vendor_tracking_id": "onamzfelaikis-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/61NG822J+CL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61NG822J+CL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1137",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/1f2b40bb-71dc-47ab-883b-a37a7b20ff53/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/0759c029-a36b-4af3-9f9b-8dbaa74bb57c/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/0759c029-a36b-4af3-9f9b-8dbaa74bb57c/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:30",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/4c0d4679-6a05-4364-b011-6c261a11d3f9.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0fad9cb14ebb427ab2f006308c78cc6f",
+        "product_asin": "B08KT2Z93D",
+        "parent_asin": "B0CZ4NMVD6",
+        "related_products": "B08KT2Z93D",
+        "title": "The best smelling lotion!",
+        "profile_image_url": "https://m.media-amazon.com/images/I/C1K0mNAIXCL._CR1719,343,2735,2735_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/rogandivy",
+        "public_name": "Ellie T.",
+        "vendor_code": "rogandivy:shop",
+        "vendor_name": "Ellie T.",
+        "vendor_tracking_id": "onamzeliz025f-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/61EM12tZMlL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61EM12tZMlL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1137",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/84b9e879-56c8-4e0c-b8d8-ff20ed570887/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/148b56a3-fb75-4fc4-920a-35518d6d5d08/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/148b56a3-fb75-4fc4-920a-35518d6d5d08/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:21",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/90a60b04-4eea-41b1-a943-f5c85f8cdfa4.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.02351b6f85a24b1eb26b1bce9c8fae50",
+        "product_asin": "B08KT2Z93D",
+        "parent_asin": "B0CZ4NMVD6",
+        "related_products": "B08KT2Z93D",
+        "title": "The best lotion. Smells great and has a smooth texture.",
+        "profile_image_url": "https://m.media-amazon.com/images/I/61b5cOb+5QL._CR0,0,854,853_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/rachelbgoss",
+        "public_name": "Rachel Goss",
+        "vendor_code": "rachelbgoss:shop",
+        "vendor_name": "Rachel Goss",
+        "vendor_tracking_id": "onamzrac0b468-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/61UZ1OiNtsL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61UZ1OiNtsL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1137",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f228bc04-d2fa-45f1-8069-ec251b74957f/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d1100ef2-eb2c-4489-9e3e-fb691e9e8301/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d1100ef2-eb2c-4489-9e3e-fb691e9e8301/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:20",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/1d2174b8-2973-4f45-8bec-66422b5fe737.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.019c803e0bc14c24b1ab81b4741d1cdd",
+        "product_asin": "B08KT2Z93D",
+        "parent_asin": "B0CZ4NMVD6",
+        "related_products": "B08KT2Z93D",
+        "title": "bayybeee... see how this transforms my skin ",
+        "profile_image_url": "https://images-na.ssl-images-amazon.com/images/S/influencer-profile-image-prod/logo/influencer-fd0e2fc8_1638244361289_original._CR0,100,1286,1286_._FMjpg_._SL34_.jpeg",
+        "profile_link": "/shop/influencer-fd0e2fc8",
+        "public_name": "Dee",
+        "vendor_code": "influencer-fd0e2fc8:shop",
+        "vendor_name": "Dee",
+        "vendor_tracking_id": "onamzdjohnson-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/51etn0rCmKL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/51etn0rCmKL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1137",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/901dd4c3-c679-4d45-b1ce-6d64c6437e45/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/154d78b3-446d-405b-8f3c-b8027409673b/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/154d78b3-446d-405b-8f3c-b8027409673b/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:25",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/c31ab713-7fbd-4646-beb9-747b45a5e487.vtt"
+      }
+    ],
+    "is_bundle": false,
+    "feature_bullets": [
+      "eos VANILLA CASHMERE BODY LOTION: Liberally apply eos lotion to just-cleaned skin - we'll do the rest. Pro tip: Layer this with your favorite fragrance for an enhanced experience",
+      "SUSTAINABLE SKIN CARE: Protect and moisturize with eos Shea Butter Body Lotion that includes 7 nourishing oils + butters, like natural shea butter and shea oil. Enjoy delightful fragrances that last all day on skin",
+      "24 HOUR MOISTURIZING BODY LOTION: Soothe and protect your skin with our lightweight, non-greasy hydrating body lotion. No sticky residue or heaviness, just all-day hydration and smooth skin",
+      "ALL-NATURAL SHEA BUTTER: eos body lotion uses 100% natural shea butter for a hydrating body lotion that makes skin soft. eos products are paraben, phthalate, and gluten free. Dermatologist-recommended. Vegan. Hypoallergenic. Cruelty-free",
+      "VANILLA CASHMERE: Our sweet and nuzzly Vanilla Cashmere scented body lotion contains fragrance notes of whipped vanilla, soft musk, and cozy caramel"
+    ],
+    "feature_bullets_count": 5,
+    "feature_bullets_flat": "VANILLA CASHMERE: Our sweet and nuzzly Vanilla Cashmere scented body lotion contains fragrance notes of whipped vanilla, soft musk, and cozy caramel. ALL-NATURAL SHEA BUTTER: eos body lotion uses 100% natural shea butter for a hydrating body lotion that makes skin soft. eos products are paraben, phthalate, and gluten free. Dermatologist-recommended. Vegan. Hypoallergenic. Cruelty-free. 24 HOUR MOISTURIZING BODY LOTION: Soothe and protect your skin with our lightweight, non-greasy hydrating body lotion. No sticky residue or heaviness, just all-day hydration and smooth skin. SUSTAINABLE SKIN CARE: Protect and moisturize with eos Shea Butter Body Lotion that includes 7 nourishing oils + butters, like natural shea butter and shea oil. Enjoy delightful fragrances that last all day on skin. eos VANILLA CASHMERE BODY LOTION: Liberally apply eos lotion to just-cleaned skin - we'll do the rest. Pro tip: Layer this with your favorite fragrance for an enhanced experience.",
+    "top_reviews": [
+      {
+        "id": "RMXUTTVUVN8U7",
+        "title": "On My 4th Bottle — That Says It All!!",
+        "body": "This is officially my fourth bottle, so that should tell you everything. I keep coming back to this lotion because it delivers every time. The texture is creamy but absorbs quickly without feeling greasy, and it leaves my skin soft and smooth for hours.The scent is sweet and fresh without being overpowering, and it lingers just enough to feel noticeable but not overwhelming. It layers well with perfume and doesn’t clash with other products.If you’re looking for a dependable everyday lotion that smells amazing and keeps your skin hydrated, this one is a repeat purchase for a reason.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on February 28, 2026"
+        },
+        "profile": {
+          "name": "Jenn"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 19,
+        "link": "https://www.amazon.com/gp/customer-reviews/RMXUTTVUVN8U7/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R2XGI8VXJ7IXXC",
+        "title": "Great Quality Lotion",
+        "body": "I’m very happy with this EOS lotion. It arrived well packaged and in perfect condition, which I really appreciated. The product was exactly what I expected, and the quality did not disappoint. The lotion feels very smooth and moisturizing on my skin, and it absorbs nicely without feeling greasy.I also love the scent it’s pleasant and not overpowering. A little goes a long way, so the bottle should last a good while. Overall, this was a great purchase and I would definitely recommend it to anyone looking for a nice, hydrating lotion. I would happily buy it again!",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on March 11, 2026"
+        },
+        "profile": {
+          "name": "Mechela Barrett"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 4,
+        "link": "https://www.amazon.com/gp/customer-reviews/R2XGI8VXJ7IXXC/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R3S29CVRR8HYNQ",
+        "title": "Soft skin and beautiful vanilla scent",
+        "body": "I really like this lotion the vanilla cashmere scent smells sweet and warm but not too strong It makes my skin feel very soft and hydrated for a long time the texture is smooth and absorbs quickly so it doesn’t feel greasy I’ve been using it every day and my skin feels much better I would definitely buy it again",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on March 4, 2026"
+        },
+        "profile": {
+          "name": "Asheley"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 9,
+        "link": "https://www.amazon.com/gp/customer-reviews/R3S29CVRR8HYNQ/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R273KSBWKJE0ZP",
+        "title": "Most Amazing Lotion",
+        "body": "I came on here to write a sincere review about this EOS lotion. I am not being paid to write this review, although after I dwell on it, you may think I am. A couple of weeks ago I was at a friend’s and washed my hands and used the lotion by the sink. I noticed how smooth my hands were for the rest of the day. I called her and asked her to send a picture of the lotion, because I wanted to make SURE I ordered the exact same one. First of all, it surprisingly arrived in two days! But the real test was using it on my entire body after a shower.I’m telling you the truth, it made my crepey skin smooth until my next shower. My skin stayed hydrated and felt so smooth for 24 hours as promised. I am 65 years old, and my skin was really dry. Every lotion I’ve ever tried (hundreds of dollars worth) made my skin itchy and red, so I just stopped using all lotions.I noticed that there are several different scents. I got the fresh + cozy. It says “made for sensitive skin”. This is a product that stood behind what it says it will do. It says it is Dermotology-tested, Pathan & phthalate-free, gluten-free and it’s vegan. It says it has shea oil and shea butter. I mention all that, because some of you might say “well duh”! But I’ve tried many other lotions promising some of the same. None of them did my skin the way this has. I am going to try other scents to see if they deliver like fresh + cozy. I hope this helps septics that don’t believe in product labels anymore like me. Remember I tried this on my hands at a friend’s house, then ordered after seeing and feeling the results. Well worth every penny to me!!!",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on February 22, 2026"
+        },
+        "profile": {
+          "name": "cyndy hancock"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 71,
+        "link": "https://www.amazon.com/gp/customer-reviews/R273KSBWKJE0ZP/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R2USGL4JFTEBSF",
+        "title": "Our favorite lotion!",
+        "body": "I got my husband hooked on these eos lotions! Well specifically the caramel cashmere christmas version, but after that got discontinued, he just couldn't live without them!I like the creamy texture of this lotion, and that it soaks into skin quickly, without leaving skin feeling greasy! It always leaves my skin smelling nice after I use it! Especially right after the shower, it really sticks to my skin and makes me smell sooooo good!The bottle it comes in for the price is standard! If it was a bigger size bottle, or a little bit cheaper, I would say that this is a good amount for your money!Either way its my husband (and mine!) Favorite lotion! It leaves my skin hydrated and soft without the need for constant reapplication!Oh, and by the way, this Pistachio scent is splendid!P.s. EOS! PLEASE bring back Caramel Cashmere! It smelled so yummy, and we need it back!",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on February 28, 2026"
+        },
+        "profile": {
+          "name": "Krista killman"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 11,
+        "link": "https://www.amazon.com/gp/customer-reviews/R2USGL4JFTEBSF/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R16IZKNC3AHKVD",
+        "title": "I want to eat the delicious smell—edit: smells different",
+        "body": "I love this lotion, it feels so soft and smells ridiculously delicious! My skin can be quite sensitive but it didn’t cause me any irritation. I love the smell but if you are not a fan of lotions that have sweet or dessert-like scents, this is not for you — but if you do, this is totally for you! The lotion isn’t watery, instead it has quite a thick consistency which I prefer.I do wish there was an easy way to use up (or take out) all the remaining lotion once nothing comes out from pressing the pump dispenser because there is still a lot of lotion stuck at the bottom (and I hate wasting product)!Anyway, it is overall a high quality product that smells amazing. I recommend this if you like sweet scents.Edit: I recently ordered this and it smells noticeably different from the last time I bought one from Amazon. It doesn’t smell like you would want to eat it, it’s not sweet! It has a more simple smell which makes me think the recipe changed and lost what sold it for me. I don’t if I would buy again after this since it is not the same as before.Seems like the scent changed from sweet to cozy; it lost its appeal for me.",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in the United States on January 22, 2026"
+        },
+        "profile": {
+          "name": "Sandra"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 11,
+        "link": "https://www.amazon.com/gp/customer-reviews/R16IZKNC3AHKVD/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R1LKEJJBDYXJH",
+        "title": "eos shea better lotion corporal vanilla cashmere",
+        "body": "I bought the eos Shea Better Body Lotion Vanilla Cashmere and overall I really like it. The scent is warm, sweet, and cozy, and it lasts for a long time without needing to reapply. The texture is thick but absorbs quickly, so it doesn’t leave my skin feeling greasy. It keeps my skin soft and moisturized, especially on dry areas.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on March 12, 2026"
+        },
+        "profile": {
+          "name": "Guillermina Felix"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 2,
+        "link": "https://www.amazon.com/gp/customer-reviews/R1LKEJJBDYXJH/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R10U2S6MJDB7FU",
+        "body": "جدا لطيف ع البشره",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Saudi Arabia on February 5, 2026"
+        },
+        "profile": {
+          "name": "Nashrah"
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "R11U99U7167V3S",
+        "title": "Unreal 100 stars",
+        "body": "Absolutely amazing, smells so.good and makes my skin so soft and perfect for laying under a nice perfume to make you smell unreal and last",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Ireland on January 17, 2026"
+        },
+        "profile": {
+          "name": "Zach johnson"
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "R1694X48HB87HR",
+        "title": "It’s a lotion!",
+        "body": "Love the smell of it, really good for body. Would not recommend for hands it feels too oily on hands.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Canada on February 4, 2026"
+        },
+        "profile": {
+          "name": "Clara"
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "R17KOQQNX86EHD",
+        "body": "Good lukt",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Sweden on March 5, 2026"
+        },
+        "profile": {
+          "name": "laura josefson"
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "R17ODII80Z2MEZ",
+        "title": "Read my review fully. From a self care & skincare dry girl snob",
+        "body": "I bought 5 scents eos lotions, I paid a lot😅 but oh my they’re perfect. It’s so hard to find such a good cream, for dry skin, blends well, feels amazing & smell fantastic.I have tried our drugstore & they either smell like vanilla with playdough, and not great consistency, or a fragrance lotion that does not give me enough moisture. Very few choices we have here. And the good choices we have are all expensive, mono scented and less product. I’m tired of the body shop single scent, bath & body works for 25€ less product.I just had to make the choice to stop wasting my money on lotions that aren’t cutting it. I got 5 different scents to my collection & I have great body mists & fragrances! Expensive but for such quality, scent & 400ml+ I am very excited to receive the rest of my order!Highly recommend!",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Germany on June 24, 2025"
+        },
+        "profile": {
+          "name": "Tima"
+        },
+        "verified_purchase": true
+      }
+    ],
+    "bestsellers_rank": [
+      {
+        "rank": 2,
+        "category": "Beauty & Personal Care",
+        "link": "https://www.amazon.com/gp/bestsellers/beauty/ref=pd_zg_ts_beauty"
+      },
+      {
+        "rank": 1,
+        "category": "Body Lotions",
+        "link": "https://www.amazon.com/gp/bestsellers/beauty/14024031/ref=pd_zg_hrsr_beauty"
+      }
+    ],
+    "a_plus_content": {
+      "has_a_plus_content": true,
+      "has_brand_story": true,
+      "brand_story": {
+        "hero_image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7e125709-ab28-4695-a262-b336655bb37a.__CR0,0,2012,859_PT0_SX1464_V1___.jpg",
+        "brand_store": {
+          "link": "/stores/page/4B23CF70-7626-4369-8178-57DB9B745715",
+          "id": "4B23CF70-7626-4369-8178-57DB9B745715"
+        },
+        "images": [
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7e125709-ab28-4695-a262-b336655bb37a.__CR0,0,2012,859_PT0_SX1464_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/fcd2d5f8-9c80-4fc6-8801-52fa77a3309b.__CR0,0,1508,1887_PT0_SX362_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b4b0c400-41a2-47d8-91c7-0781723b3e1c.__CR0,0,1508,1887_PT0_SX362_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/68085766-7a78-4903-a36d-de533a0f5728.__CR0,0,754,944_PT0_SX362_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c7042e82-8df7-42aa-8020-7a3f64ef9a59.__CR0,0,1508,1887_PT0_SX362_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/68050c57-3e9b-4f06-b2c7-064817efa342.__CR0,0,1508,1887_PT0_SX362_V1___.jpg"
+        ]
+      },
+      "all_images": [
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3615220d-1615-4ed6-a532-67a2d5dc2c74.__CR0,0,4043,1250_PT0_SX970_V1___.jpg",
+          "name": "eos 24H Moisture Body Lotion collection"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e9a378bd-3328-4372-b7b5-2b785f39b108.__CR0,0,4042,2500_PT0_SX970_V1___.png",
+          "name": "eos body lotion collection fragrances"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c2d84da5-8560-455b-b3ab-fe57ec57e02c.__CR0,0,4042,2500_PT0_SX970_V1___.jpg",
+          "name": "eos body lotion benefits"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/82c53192-0fdf-44d1-911c-1d615630f4b3.__CR0,0,4042,2500_PT0_SX970_V1___.jpg",
+          "name": "eos body layering experience"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/05c13630-7e70-4df0-8393-91c9cf786f6c.__AC_SR150,300___.jpg",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/512f5aed-5af6-4fe8-900a-6c3b2cafb8ec.__AC_SR150,300___.jpg",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ec828b9d-08b0-4ac0-bf34-97a07a0c6e37.__AC_SR150,300___.jpg",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f260ebac-ffbb-49e6-8a5f-c05aeb754a1f.__AC_SR150,300___.jpg",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/49211d0d-cf47-4d5c-b641-c995d8829cd4.__AC_SR150,300___.jpg",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8e511e3d-1790-4b33-a226-fbb161cd2688.__AC_SR150,300___.jpg",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7e125709-ab28-4695-a262-b336655bb37a.__CR0,0,2012,859_PT0_SX1464_V1___.jpg",
+          "name": "eos vanilla cashmere collection"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/fcd2d5f8-9c80-4fc6-8801-52fa77a3309b.__CR0,0,1508,1887_PT0_SX362_V1___.jpg",
+          "name": "About us"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b4b0c400-41a2-47d8-91c7-0781723b3e1c.__CR0,0,1508,1887_PT0_SX362_V1___.jpg",
+          "name": "our ingredients"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/68085766-7a78-4903-a36d-de533a0f5728.__CR0,0,754,944_PT0_SX362_V1___.jpg",
+          "name": "customer review"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c7042e82-8df7-42aa-8020-7a3f64ef9a59.__CR0,0,1508,1887_PT0_SX362_V1___.jpg",
+          "name": "sustainability"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/68050c57-3e9b-4f06-b2c7-064817efa342.__CR0,0,1508,1887_PT0_SX362_V1___.jpg",
+          "name": "our promises"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f3ac80a6-325f-4e4e-8838-0591b86f3511.__CR0,0,691,758_PT0_SX166_V1___.jpg",
+          "name": "eos vanilla cashmere body lotion"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/fa90f386-525d-43ec-9d1d-e6afc8088d52.__CR0,0,691,758_PT0_SX166_V1___.jpg",
+          "name": "eos vanilla cashmere body wash"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/94a5ca37-328d-4e6e-8efc-496afb07197d.__CR0,0,691,758_PT0_SX166_V1___.jpg",
+          "name": "vanilla cashmere body oil"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/22ca802b-32f2-48ce-b568-cd457faae980.__CR0,0,691,758_PT0_SX166_V1___.jpg",
+          "name": "whipped oil butter"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/76301fe1-a5de-4485-80dc-371bd502f27b.__CR0,0,691,758_PT0_SX166_V1___.jpg",
+          "name": "eos lip balm"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5b0dc45b-db61-4b2a-bc06-c8879352fbbc.__CR0,0,691,758_PT0_SX166_V1___.jpg",
+          "name": "eos lip butter"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/fffbafc6-641a-4400-a791-0f5b57c7948c.__CR0,0,691,758_PT0_SX166_V1___.jpg",
+          "name": "watermelon frose stick"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/cc0965f5-74a8-4ab6-aa08-c25cf791bac7.__CR0,0,691,758_PT0_SX166_V1___.jpg",
+          "name": "eos vanilla cashmere shave oil"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/aef72c74-7b85-4198-8691-4459b2bc2c5a.__CR0,0,691,758_PT0_SX166_V1___.jpg",
+          "name": "eos shave cream"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/905d65b9-efcb-4bb9-a61d-27d62a4de518.__CR0,0,691,758_PT0_SX166_V1___.jpg",
+          "name": "eos shave butter"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a3154ee5-5a8d-41da-8a24-844ca14f6dff.__CR0,0,691,758_PT0_SX166_V1___.jpg",
+          "name": "eos sensitive skin shave cream"
+        }
+      ],
+      "third_party": false
+    },
+    "buybox_winner": {
+      "maximum_order_quantity": {
+        "value": 27,
+        "hard_maximum": true
+      },
+      "subscribe_and_save": {
+        "base_discount_percentage": 5,
+        "tiered_discount_percentage": 15,
+        "delivery_message": "Save 5% now and up to 15% on repeat deliveries.  No fees Cancel anytime",
+        "default_delivery": "3 months (Most common)",
+        "base_price": {
+          "value": 9.47,
+          "currency": "USD",
+          "symbol": "$",
+          "raw": "9.47"
+        },
+        "tiered_price": {
+          "value": 8.47,
+          "currency": "USD",
+          "symbol": "$",
+          "raw": "8.47"
+        }
+      },
+      "price_only_available_in_cart": false,
+      "new_offers_count": 7,
+      "new_offers_from": {
+        "raw": "New"
+      },
+      "trade_in_and_save": true,
+      "return_policy": {
+        "duration_days": 30,
+        "type": "refund/replacement",
+        "seller": "Amazon"
+      },
+      "is_prime": true,
+      "is_prime_exclusive_deal": false,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "In Stock",
+        "dispatch_days": 1
+      },
+      "fulfillment": {
+        "type": "p1",
+        "standard_delivery": {
+          "date": "Thursday, March 26",
+          "name": "FREE"
+        },
+        "fastest_delivery": {
+          "date": "Monday, March 23",
+          "name": "Or fastest delivery Monday, March 23. Order within 13 hrs 24 mins"
+        },
+        "is_sold_by_amazon": true,
+        "amazon_seller": {
+          "name": "Amazon"
+        },
+        "is_fulfilled_by_amazon": true,
+        "is_fulfilled_by_third_party": false,
+        "is_sold_by_third_party": false
+      },
+      "price": {
+        "symbol": "$",
+        "value": 9.97,
+        "currency": "USD",
+        "raw": "$9.97"
+      },
+      "rrp": {
+        "symbol": "$",
+        "value": 10.99,
+        "currency": "USD",
+        "raw": "$10.99"
+      },
+      "unit_price": {
+        "symbol": "$",
+        "value": 0.62,
+        "currency": "USD",
+        "raw": "$0.62 / fluid ounce"
+      },
+      "shipping": {
+        "raw": "FREE"
+      }
+    },
+    "specifications": [
+      {
+        "name": "Product Dimensions",
+        "value": "3.9 x 1.8 x 8 inches; 1 Pounds"
+      },
+      {
+        "name": "Item model number",
+        "value": "2040701"
+      },
+      {
+        "name": "UPC",
+        "value": "840044714668 840044707011"
+      },
+      {
+        "name": "Manufacturer",
+        "value": "AmazonUs/EOSAW"
+      },
+      {
+        "name": "ASIN",
+        "value": "B08KT2Z93D"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "See Top 100 in Beauty & Personal Care"
+      },
+      {
+        "name": "Brand Name",
+        "value": "eos"
+      },
+      {
+        "name": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "name": "Skin Type",
+        "value": "All"
+      },
+      {
+        "name": "Number of Items",
+        "value": "1"
+      },
+      {
+        "name": "Item Form",
+        "value": "Lotion"
+      },
+      {
+        "name": "Target Use Body Part",
+        "value": "Whole Body"
+      },
+      {
+        "name": "Product Benefits",
+        "value": "Hydrating, Moisturizing, Nourishing, Smoothening, Softening"
+      },
+      {
+        "name": "Specific Uses For Product",
+        "value": "Chafing, Dryness"
+      },
+      {
+        "name": "Country as Labeled",
+        "value": "United States"
+      },
+      {
+        "name": "Model Name",
+        "value": "Shea Better Body Lotion 24-Hour Moisture Skin Care"
+      },
+      {
+        "name": "Container Type",
+        "value": "Bottle"
+      },
+      {
+        "name": "Recommended Uses For Product",
+        "value": "Dryness"
+      },
+      {
+        "name": "Skin Care Application Time",
+        "value": "Anytime"
+      },
+      {
+        "name": "Global Trade Identification Number",
+        "value": "00840044707011"
+      },
+      {
+        "name": "Manufacturer Part Number",
+        "value": "FJFIEJFOK2148"
+      },
+      {
+        "name": "Model Number",
+        "value": "2040701"
+      },
+      {
+        "name": "Item Type Name",
+        "value": "Body Lotion"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "#2 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #1 in Body Lotions"
+      },
+      {
+        "name": "Customer Reviews",
+        "value": "4.7    4.7 out of 5 stars         (66,306)           4.7 out of 5 stars"
+      },
+      {
+        "name": "Item Volume",
+        "value": "16 Fluid Ounces"
+      },
+      {
+        "name": "Item Dimensions",
+        "value": "3.9 x 1.8 x 8 inches"
+      },
+      {
+        "name": "Unit Count",
+        "value": "16.0 Fluid Ounces"
+      },
+      {
+        "name": "Item Weight",
+        "value": "1 Pounds"
+      },
+      {
+        "name": "Active Ingredients",
+        "value": "capric carbonate,glycerin"
+      },
+      {
+        "name": "Special Ingredients",
+        "value": "Shea Butter"
+      },
+      {
+        "name": "Material Type Free",
+        "value": "Gluten Free, Paraben Free, Phthalate Free"
+      },
+      {
+        "name": "Material Features",
+        "value": "Cruelty Free, Natural, Vegan"
+      },
+      {
+        "name": "Other Special Features of the Product",
+        "value": "Aromatherapy, Lightweight"
+      },
+      {
+        "name": "Scent Name",
+        "value": "Vanilla Cashmere"
+      },
+      {
+        "name": "GTIN",
+        "value": "840044714668 840044707011"
+      }
+    ],
+    "specifications_flat": "GTIN: 840044714668 840044707011. Scent Name: Vanilla Cashmere. Other Special Features of the Product: Aromatherapy, Lightweight. Material Features: Cruelty Free, Natural, Vegan. Material Type Free: Gluten Free, Paraben Free, Phthalate Free. Special Ingredients: Shea Butter. Active Ingredients: capric carbonate,glycerin. Item Weight: 1 Pounds. Unit Count: 16.0 Fluid Ounces. Item Dimensions: 3.9 x 1.8 x 8 inches. Item Volume: 16 Fluid Ounces. Customer Reviews: 4.7    4.7 out of 5 stars         (66,306)           4.7 out of 5 stars. Best Sellers Rank: #2 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #1 in Body Lotions. Item Type Name: Body Lotion. Model Number: 2040701. Manufacturer Part Number: FJFIEJFOK2148. Global Trade Identification Number: 00840044707011. Skin Care Application Time: Anytime. Recommended Uses For Product: Dryness. Container Type: Bottle. Model Name: Shea Better Body Lotion 24-Hour Moisture Skin Care. Country as Labeled: United States. Specific Uses For Product: Chafing, Dryness. Product Benefits: Hydrating, Moisturizing, Nourishing, Smoothening, Softening. Target Use Body Part: Whole Body. Item Form: Lotion. Number of Items: 1. Skin Type: All. Age Range Description: Adult. Brand Name: eos. Best Sellers Rank: See Top 100 in Beauty & Personal Care. ASIN: B08KT2Z93D. Manufacturer: AmazonUs/EOSAW. UPC: 840044714668 840044707011. Item model number: 2040701. Product Dimensions: 3.9 x 1.8 x 8 inches; 1 Pounds.",
+    "recent_sales": "100K+ bought in past month",
+    "gift_guide_badge": {
+      "badge_text": "100K+ bought in past month"
+    },
+    "ingredients": [
+      "Water/Eau",
+      "Glycerin",
+      "Caprylic/Capric Triglyceride",
+      "Cetyl Alcohol",
+      "Isopropyl Palmitate",
+      "Dicaprylyl Carbonate",
+      "Glyceryl Stearate SE",
+      "Dimethicone",
+      "Fragrance/Parfum",
+      "Butyrospermum Parkii (Shea) Butter",
+      "Butyrospermum Parkii (Shea) Oil",
+      "Helianthus Annuus (Sunflower) Seed Oil",
+      "Vanilla Planifolia Fruit Extract",
+      "Petrolatum",
+      "Mineral Oil (Huile Minérale)",
+      "Carbomer",
+      "Caprylyl Glycol",
+      "Hexylene Glycol",
+      "Phenoxyethanol",
+      "Stearic Acid",
+      "Dimethiconol",
+      "Disodium EDTA",
+      "Sodium Hydroxide",
+      "Tocopheryl Acetate",
+      "Citric AcidApply liberally to just-cleaned skin",
+      "paying special attention to dry",
+      "rough areas. Relax -- we'll do the rest."
+    ],
+    "ingredients_flat": "Water/Eau, Glycerin, Caprylic/Capric Triglyceride, Cetyl Alcohol, Isopropyl Palmitate, Dicaprylyl Carbonate, Glyceryl Stearate SE, Dimethicone, Fragrance/Parfum, Butyrospermum Parkii (Shea) Butter, Butyrospermum Parkii (Shea) Oil, Helianthus Annuus (Sunflower) Seed Oil, Vanilla Planifolia Fruit Extract, Petrolatum, Mineral Oil (Huile Minérale), Carbomer, Caprylyl Glycol, Hexylene Glycol, Phenoxyethanol, Stearic Acid, Dimethiconol, Disodium EDTA, Sodium Hydroxide, Tocopheryl Acetate, Citric AcidApply liberally to just-cleaned skin, paying special attention to dry, rough areas. Relax -- we'll do the rest.",
+    "label": "United States",
+    "material": "Cruelty Free, Natural, Vegan",
+    "manufacturer": "AmazonUs/EOSAW",
+    "weight": "1 Pounds",
+    "item_volume": "16 Fluid Ounces",
+    "dimensions": "3.9 x 1.8 x 8 inches; 1 Pounds",
+    "model_number": "FJFIEJFOK2148",
+    "bestsellers_rank_flat": "Category: Beauty & Personal Care | Rank: 2, Category: Body Lotions | Rank: 1"
+  },
+  "brand_store": {
+    "id": "93EADE0D-F5E1-496B-9A38-50F0CA6D4FDA",
+    "link": "https://www.amazon.com/stores/eosproducts/page/93EADE0D-F5E1-496B-9A38-50F0CA6D4FDA"
+  }
+}

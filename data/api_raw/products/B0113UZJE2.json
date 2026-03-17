@@ -1,0 +1,1265 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 10,
+    "credits_remaining": 90,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "type": "product",
+    "asin": "B0113UZJE2",
+    "amazon_domain": "amazon.com"
+  },
+  "request_metadata": {
+    "created_at": "2026-03-17T15:37:09.813Z",
+    "processed_at": "2026-03-17T15:37:16.189Z",
+    "total_time_taken": 6.38,
+    "amazon_url": "https://www.amazon.com/dp/B0113UZJE2?th=1&psc=1"
+  },
+  "product": {
+    "title": "Etekcity Food Kitchen Scale, Digital Grams and Ounces for Weight Loss, Baking, Cooking, Keto and Meal Prep, LCD Display, Medium, 304 Stainless Steel",
+    "search_alias": {
+      "title": "Home & Kitchen",
+      "value": "search-alias=garden"
+    },
+    "keywords": "Etekcity Food Kitchen Scale, Digital Grams and Ounces for Weight Loss, Baking, Cooking, Keto and Meal Prep, LCD Display, Medium, 304 Stainless Steel",
+    "keywords_list": [
+      "Etekcity Food Kitchen Scale",
+      "Digital Grams and Ounces for Weight Loss",
+      "Baking",
+      "Cooking",
+      "Keto and Meal Prep",
+      "LCD Display",
+      "Medium",
+      "304 Stainless Steel"
+    ],
+    "is_collection": false,
+    "asin": "B0113UZJE2",
+    "parent_asin": "B0CXQ5DVS1",
+    "gtin": "‎679113377950",
+    "link": "https://www.amazon.com/Etekcity-Multifunction-Stainless-Batteries-Included/dp/B0113UZJE2",
+    "brand": "‎Etekcity",
+    "sell_on_amazon": false,
+    "bestseller_badge": {
+      "link": "https://www.amazon.com/gp/bestsellers/kitchen/678508011/ref=zg_b_bs_678508011_1",
+      "category": "Digital Kitchen Scales",
+      "badge_text": "#1 Best Seller"
+    },
+    "variants": [
+      {
+        "asin": "B0113UZJE2",
+        "title": "304 Stainless Steel",
+        "is_current_product": true,
+        "link": "https://www.amazon.com/dp/B0113UZJE2?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "304 Stainless Steel"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/91YrLTBnMcL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/91YrLTBnMcL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0BB761912",
+        "title": "Black",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0BB761912?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Black"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71RHqb6up5L._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71RHqb6up5L._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0B2QX6ZDQ",
+        "title": "White",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0B2QX6ZDQ?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "White"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/61kZetdWjpL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/61kZetdWjpL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B07FCZSC41",
+        "title": "Smart Stainless Steel",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B07FCZSC41?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Smart Stainless Steel"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71h1DcDREBL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71h1DcDREBL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0B2R8W1V1",
+        "title": "Large Green",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0B2R8W1V1?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Large Green"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/61aPftPiHiL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/61aPftPiHiL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B09HLZV4H9",
+        "title": "Silver",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09HLZV4H9?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Silver"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/81W1feWBdoL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/81W1feWBdoL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0B2R6VG5Z",
+        "title": "Matte Black",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0B2R6VG5Z?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Matte Black"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/81nhnXTHSeL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/81nhnXTHSeL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0BB6MBR9C",
+        "title": "Waterproof White",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0BB6MBR9C?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Waterproof White"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71xTA6Qo2ZL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71xTA6Qo2ZL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B09HM2TN5Z",
+        "title": "Stainless Steel-Silver",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09HM2TN5Z?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Stainless Steel-Silver"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/81HZY1Dn7sL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/81HZY1Dn7sL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0BBKDMMB7",
+        "title": "Medium Green",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0BBKDMMB7?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Medium Green"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71z3PT3ocEL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71z3PT3ocEL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0BBLJBWTH",
+        "title": "Pink",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0BBLJBWTH?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Pink"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71TTUSxRizL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71TTUSxRizL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0BBLJHCMS",
+        "title": "Medium White",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0BBLJHCMS?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Medium White"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/81R++sDXUXL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/81R++sDXUXL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B09NMBDLHR",
+        "title": "Luminary Stainless Steel",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09NMBDLHR?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Color",
+            "value": "Luminary Stainless Steel"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/81CBiWI77OL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/81CBiWI77OL._SL1500_.jpg"
+          }
+        ]
+      }
+    ],
+    "variant_asins_flat": "B0113UZJE2,B0BB761912,B0B2QX6ZDQ,B07FCZSC41,B0B2R8W1V1,B09HLZV4H9,B0B2R6VG5Z,B0BB6MBR9C,B09HM2TN5Z,B0BBKDMMB7,B0BBLJBWTH,B0BBLJHCMS,B09NMBDLHR",
+    "proposition_65_warning": true,
+    "has_size_guide": true,
+    "add_on_item": {
+      "is_add_on_item": true
+    },
+    "categories": [
+      {
+        "name": "Home & Kitchen",
+        "link": "https://www.amazon.com/home-garden-kitchen-furniture-bedding/b/ref=dp_bc_1?ie=UTF8&node=1055398",
+        "category_id": "1055398"
+      },
+      {
+        "name": "Kitchen & Dining",
+        "link": "https://www.amazon.com/kitchen-dining/b/ref=dp_bc_2?ie=UTF8&node=284507",
+        "category_id": "284507"
+      },
+      {
+        "name": "Kitchen Utensils & Gadgets",
+        "link": "https://www.amazon.com/tools-gadgets/b/ref=dp_bc_3?ie=UTF8&node=289754",
+        "category_id": "289754"
+      },
+      {
+        "name": "Measuring Tools & Scales",
+        "link": "https://www.amazon.com/measuring-tools-scales/b/ref=dp_bc_4?ie=UTF8&node=289785",
+        "category_id": "289785"
+      },
+      {
+        "name": "Scales",
+        "link": "https://www.amazon.com/Scales-Measuring-Tools-Cooks-Gadgets/b/ref=dp_bc_5?ie=UTF8&node=289787",
+        "category_id": "289787"
+      },
+      {
+        "name": "Digital Scales",
+        "link": "https://www.amazon.com/Digital-Kitchen-Scales/b/ref=dp_bc_6?ie=UTF8&node=678508011",
+        "category_id": "678508011"
+      }
+    ],
+    "categories_flat": "Home & Kitchen > Kitchen & Dining > Kitchen Utensils & Gadgets > Measuring Tools & Scales > Scales > Digital Scales",
+    "description": "This Etekcity digital scale has endless uses for personal or commercial environments - great for homes, kitchens, offices, and more. The scale has an easy-to-read LCD display with beautiful clear backlit. With a capacity of 11lb (5kg), you can weigh a variety of items with ease. You will be surprised at all the uses you will have for this product. Weighing Functions You can easily choose among measurement in oz, lb:oz, g, ml (Milk & Water), fl'oz (Milk/Water). This digital scale measures in precise increments of 0.05oz (1 g) to accurately weigh your items. Power is provided by 2 AAA batteries (included), making the scale portable and ensuring that you can easily acquire replacement batteries. Tare Function The tare function allows the user to deduct the weight of a container from the total weight in order to determine the net weight of the contents excluding the weight of the container which holds them. Clear Display and Auto-off The scale has an easy-to-read backlit display, staying 30 seconds for easily reading. To save energy, the scale also features an auto-off function, allowing the scale to turn off after 2 minutes inactivity. Do not mix new and used batteries to power the device Specifications Weight Capacity: 176oz / 5000g / 11 lbs Units: g / oz / lb:oz /ml (Milk & Water) /fl'oz (Milk/Water). Measurement Increments: 1 g Minimum Measurement: 2 g Auto-Off: 2 Minutes Power: 2 x AAA 1.5V DC Dimensions: 7.3 x 5.7 x 0.6 inches Package Contents 1 x Digital Kitchen Scale 1 x Quick Start Guide 2 x AAA 1.5V DC batteries Do not mix new and used batteries to power the device.",
+    "sub_title": {
+      "text": "Visit the Etekcity Store",
+      "link": "https://www.amazon.com/stores/Etekcity/page/FE2C24BC-D9E9-4F14-B751-39E11DB5EAFF?lp_asin=B0113UZJE2&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto"
+    },
+    "amazons_choice": {
+      "link": "https://www.amazon.com/Etekcity-Multifunction-Stainless-Batteries-Included/dp/B0113UZJE2"
+    },
+    "marketplace_id": "ATVPDKIKX0DER",
+    "promotions": [
+      {
+        "name": "Limited time deal"
+      }
+    ],
+    "rating": 4.6,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 79,
+        "count": 114015
+      },
+      "four_star": {
+        "percentage": 13,
+        "count": 18762
+      },
+      "three_star": {
+        "percentage": 4,
+        "count": 5773
+      },
+      "two_star": {
+        "percentage": 1,
+        "count": 1443
+      },
+      "one_star": {
+        "percentage": 3,
+        "count": 4330
+      }
+    },
+    "ratings_total": 144323,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/91YrLTBnMcL.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/81AXvY2L6TL._SL1500_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81dTW-0UieL._SL1500_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/815uj0opQIL._SL1500_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/91eL2n8445L._SL1500_.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81yllzil5BL._SL1500_.jpg",
+        "variant": "PT05"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81GJkHAQnWL._SL1500_.jpg",
+        "variant": "PT06"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81T7JECw+cL._SL1500_.jpg",
+        "variant": "PT07"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81SabBKl5AL._SL1500_.jpg",
+        "variant": "PT08"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/91l74gDUxaL._SL1500_.jpg",
+        "variant": "PT09"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/719K91sXKPL._SL1500_.jpg",
+        "variant": "PT10"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71BxG+F0xGL._SL1500_.jpg",
+        "variant": "PT11"
+      }
+    ],
+    "images_count": 11,
+    "images_flat": "https://m.media-amazon.com/images/I/81AXvY2L6TL._SL1500_.jpg,https://m.media-amazon.com/images/I/81dTW-0UieL._SL1500_.jpg,https://m.media-amazon.com/images/I/815uj0opQIL._SL1500_.jpg,https://m.media-amazon.com/images/I/91eL2n8445L._SL1500_.jpg,https://m.media-amazon.com/images/I/81yllzil5BL._SL1500_.jpg,https://m.media-amazon.com/images/I/81GJkHAQnWL._SL1500_.jpg,https://m.media-amazon.com/images/I/81T7JECw+cL._SL1500_.jpg,https://m.media-amazon.com/images/I/81SabBKl5AL._SL1500_.jpg,https://m.media-amazon.com/images/I/91l74gDUxaL._SL1500_.jpg,https://m.media-amazon.com/images/I/719K91sXKPL._SL1500_.jpg,https://m.media-amazon.com/images/I/71BxG+F0xGL._SL1500_.jpg",
+    "videos_count": 7,
+    "videos_additional": [
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.018ed461fa294e589be0c21aee3e0aaf",
+        "product_asin": "B0113UZJE2",
+        "parent_asin": "B0CXQ5DVS1",
+        "related_products": "B0113UZJE2",
+        "title": "Honest review of Digital Kitchen Scale",
+        "profile_image_url": "https://m.media-amazon.com/images/I/A1E-UTNwq4L._CR0,0,2208,2208_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/julie.grote",
+        "public_name": "Busy Mama 3",
+        "vendor_code": "julie.grote:shop",
+        "vendor_name": "Busy Mama 3",
+        "vendor_tracking_id": "onamzjuli0fa2-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/91tKAoI1lFL._CR2,0,1276,720_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/91tKAoI1lFL.png",
+        "video_image_width": "1280",
+        "video_image_height": "720",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/82d4fd78-5852-4be8-864a-063bfb58acea/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/64266464-9696-4af6-a50b-f75daf4419dd/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/64266464-9696-4af6-a50b-f75daf4419dd/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:55",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/ce58634e-b245-47e3-8777-9ed348f30ea2.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.057d22140a194ec8a20f9beb0ff9908d",
+        "product_asin": "B0113UZJE2",
+        "parent_asin": "B0CXQ5DVS1",
+        "related_products": "B0113UZJE2",
+        "title": "I did not know it could be this easy!",
+        "profile_image_url": "https://m.media-amazon.com/images/I/61TJttfbtrL._CR0,0,595,596_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/sweetlife.sarah",
+        "public_name": "Reviews with Sarah",
+        "vendor_code": "sweetlife.sarah:shop",
+        "vendor_name": "Reviews with Sarah",
+        "vendor_tracking_id": "onamzsar0b59f-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/91nRnbVHZlL._CR0,0,2316,1307_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/91nRnbVHZlL.jpg",
+        "video_image_width": "2316",
+        "video_image_height": "3088",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/28f29af3-cbd8-42f8-9079-acaef158bada/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/9d194da7-e817-4ccc-b183-de8fea24ae8e/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/9d194da7-e817-4ccc-b183-de8fea24ae8e/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:00",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/1aebe035-e51d-43ab-87d8-6fa9f06cb6d6.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0a36c80988c04648a7fa76952a5541c9",
+        "product_asin": "B0113UZJE2",
+        "parent_asin": "B0CXQ5DVS1",
+        "related_products": "B0113UZJE2",
+        "title": "Features to know about before purchasing this scale",
+        "profile_image_url": "https://m.media-amazon.com/images/I/B1riT9ZlslL._CR0,0,3648,3648_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/abbythompson_03",
+        "public_name": "Abby’s Everyday Amazon Finds",
+        "vendor_code": "abbythompson_03:shop",
+        "vendor_name": "Abby’s Everyday Amazon Finds",
+        "vendor_tracking_id": "onamzabbyrtho-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/B1JqTkP6F9L._CR0,0,1536,867_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/B1JqTkP6F9L.png",
+        "video_image_width": "1536",
+        "video_image_height": "2048",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/72f8dd6e-b946-429e-9a0b-82a7bc1384ea/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/bccc85ab-c70b-4a7f-8fc1-6643f25098a2/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/bccc85ab-c70b-4a7f-8fc1-6643f25098a2/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:50",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/30747cf7-7c81-4dda-92d7-a0a69fbfc99c.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0e6f1cad19964ac098a765b5cc013171",
+        "product_asin": "B0113UZJE2",
+        "parent_asin": "B0CXQ5DVS1",
+        "related_products": "B09HM2TN5Z",
+        "title": "What I Love About Etekcity Digital Food Scale",
+        "profile_image_url": "https://m.media-amazon.com/images/I/915ZTFi15sL._CR0,0,1716,1716_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/heatherwenzel",
+        "public_name": "Heather Wenzel",
+        "vendor_code": "heatherwenzel:shop",
+        "vendor_name": "Heather Wenzel",
+        "vendor_tracking_id": "onamzheat009d-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/A1IMVXHTyUL._CR2,0,1276,720_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/A1IMVXHTyUL.png",
+        "video_image_width": "1280",
+        "video_image_height": "720",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/43215e0d-9b33-4c60-9538-45f989109f20/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/45604362-af2e-4142-9bec-5ae3ce23bc6a/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/45604362-af2e-4142-9bec-5ae3ce23bc6a/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:30",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/da451207-96a7-4d9c-b1bc-10e38d8b4072.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0e97a1cacd39449eb991f1ec066c98d5",
+        "product_asin": "B0113UZJE2",
+        "parent_asin": "B0CXQ5DVS1",
+        "related_products": "B0113UZJE2",
+        "title": "Perfect Small scale",
+        "profile_image_url": "https://m.media-amazon.com/images/I/A1BKnuQx6GL._CR0,0,3057,3057_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/ambermoney163",
+        "public_name": "Amber",
+        "vendor_code": "ambermoney163:shop",
+        "vendor_name": "Amber",
+        "vendor_tracking_id": "onamzamb0fd4c-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/710qO1NrPJL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/710qO1NrPJL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1137",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/4988cf6a-85bb-4869-bfd7-81533aa48d02/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/11e31030-66f1-4414-b983-e6af596216ab/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/11e31030-66f1-4414-b983-e6af596216ab/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:42",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/b69fe6aa-9cc6-4910-a6ac-c3e960fc5633.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.09bf03c49df1464f96f96873dfdd00d2",
+        "product_asin": "B0113UZJE2",
+        "parent_asin": "B0CXQ5DVS1",
+        "related_products": "B0113UZJE2",
+        "title": "Deciding on which food scale to purchase? Watch this!",
+        "profile_image_url": "https://m.media-amazon.com/images/I/91UeN-8lqpL._CR0,347,828,828_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/influencer-f1b1a2b4",
+        "public_name": "Jenny Indelicato",
+        "vendor_code": "influencer-f1b1a2b4:shop",
+        "vendor_name": "Jenny Indelicato",
+        "vendor_tracking_id": "onamzjen0b889-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/41ugvQ25H5L._CR1,0,638,360_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/41ugvQ25H5L.jpg",
+        "video_image_width": "640",
+        "video_image_height": "360",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/544bc622-abd6-45b8-8b44-e6523bf67e9d/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/be04c5e6-3311-4af2-ae52-ffd0d445f4a6/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/be04c5e6-3311-4af2-ae52-ffd0d445f4a6/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:48",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/b294c0a3-12cb-473f-8c2e-64b6b268c4d6.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0bf564b1dfac4d1b925c617028315f75",
+        "product_asin": "B0113UZJE2",
+        "parent_asin": "B0CXQ5DVS1",
+        "related_products": "B0113UZJE2",
+        "title": "Scale says two items weigh differently and weigh the same.",
+        "profile_image_url": "https://m.media-amazon.com/images/S/amazon-avatars-global/f75ee029-9812-4abd-a559-6f7f0300f3d2._CR0%2C0%2C411%2C411_UX460_._SL34_.jpg",
+        "profile_link": "/gp/profile/amzn1.account.AG7VANP3OJ5L6EMQZJAHSTRGCS3Q",
+        "public_name": "He Said ~ She Said",
+        "vendor_code": "AOD60",
+        "vendor_name": "He Said ~ She Said",
+        "video_image_url": "https://m.media-amazon.com/images/I/7173PAMG48L._CR3,0,1914,1080_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/7173PAMG48L.jpg",
+        "video_image_width": "1920",
+        "video_image_height": "1080",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/467354af-a6bd-4b9a-bc4c-aab906841d7e/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/b45104d3-6688-4c03-b835-4afe0a5d02f7/videopreview.jobtemplate.mp4.342X192P_20HZ_350KBPS_VER_1_0.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:27"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.079fe8ae72ed4940a68643bf2b4febd5",
+        "product_asin": "B0113UZJE2",
+        "parent_asin": "B0CXQ5DVS1",
+        "related_products": "B0113UZJE2",
+        "title": "HONEST Review Etekcity Food Kitchen Scale",
+        "profile_image_url": "https://m.media-amazon.com/images/I/A14mmmdPq-L._CR0,679,1066,1066_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/presleedayfilm",
+        "public_name": "Preslee Day",
+        "vendor_code": "presleedayfilm:shop",
+        "vendor_name": "Preslee Day",
+        "vendor_tracking_id": "onamzpresleeg-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/A15Ny4et74L._CR0,0,2479,1399_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/A15Ny4et74L.jpg",
+        "video_image_width": "2479",
+        "video_image_height": "3099",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/86990a0c-0521-4508-a3e5-c31464e5a617/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/28fc4e46-f06b-4587-9208-63feaaf05533/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/28fc4e46-f06b-4587-9208-63feaaf05533/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:56",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/ef78aacd-7168-424b-895e-737db0770be2.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0a1a93a605bb4ff185ba5ea054bc0e78",
+        "product_asin": "B0113UZJE2",
+        "parent_asin": "B0CXQ5DVS1",
+        "related_products": "B0113UZJE2",
+        "title": "Food scale",
+        "profile_image_url": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SL34_.png",
+        "profile_link": "/gp/profile/amzn1.account.AG5SYTRMOZO5V35F3GGAY342GOTQ",
+        "public_name": "Julissa izaguirre",
+        "vendor_code": "AOD60",
+        "vendor_name": "Julissa izaguirre",
+        "video_image_url": "https://m.media-amazon.com/images/I/61CBujezfoL._CR0,0,1080,609_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61CBujezfoL.jpg",
+        "video_image_width": "1080",
+        "video_image_height": "1920",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/03f8f260-b016-4c3e-91eb-3b024900d32e/embedded.cc.default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/83509cc7-954c-4fdf-9582-404565577fe1/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/83509cc7-954c-4fdf-9582-404565577fe1/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:37",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/d46a525e-43db-41ef-96c6-8c416094eacd.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0c28aaa9d1754edabf8c54bf718ef940",
+        "product_asin": "B0113UZJE2",
+        "parent_asin": "B0CXQ5DVS1",
+        "related_products": "B0113UZJE2",
+        "title": "Food Scale plus Small Package Scale - Dual Purpose review",
+        "profile_image_url": "https://m.media-amazon.com/images/I/A1+2g3Kjf5L._CR0,0,2316,2316_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/kels_2026_",
+        "public_name": "Kelly Anne Jones",
+        "vendor_code": "kels_2026_:shop",
+        "vendor_name": "Kelly Anne Jones",
+        "vendor_tracking_id": "onamzkell0093-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/81vYud2TBPL._CR2,0,1276,720_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/81vYud2TBPL.png",
+        "video_image_width": "1280",
+        "video_image_height": "720",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/622370b1-0fb3-48e6-b955-8c6a41f7e577/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e5f6b13e-a471-4ae2-b2a5-ba7504f0856b/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e5f6b13e-a471-4ae2-b2a5-ba7504f0856b/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:50",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/a8d8a61a-2ada-49b6-aca4-92c8b8c70ebd.vtt"
+      }
+    ],
+    "is_bundle": false,
+    "feature_bullets": [
+      "𝗘𝗳𝗳𝗼𝗿𝘁𝗹𝗲𝘀𝘀 𝗪𝗲𝗶𝗴𝗵𝗶𝗻𝗴: Supports 5 units (oz/lb:oz/fl'oz/g/mL), tare function, and includes 2 AAA batteries for hassle-free operation",
+      "𝗣𝗿𝗲𝗰𝗶𝘀𝗲 𝗥𝗲𝘀𝘂𝗹𝘁𝘀: Accurately weighs up to 11 lb/5 kg with 1 g increments",
+      "𝗦𝗶𝗺𝗽𝗹𝗲 & 𝗖𝗼𝗺𝗽𝗮𝗰𝘁: The small and sleek scale is a perfect fit for most kitchens, occupying little space and easily storable in cabinets",
+      "𝗘𝗮𝘀𝘆 𝘁𝗼 𝗖𝗹𝗲𝗮𝗻: Just wipe down the 304 food-grade stainless steel surfaces to keep clean",
+      "𝗟𝗖𝗗 𝗗𝗶𝘀𝗽𝗹𝗮𝘆: Backlit LCD screen with large fonts for easy reading"
+    ],
+    "feature_bullets_count": 5,
+    "feature_bullets_flat": "𝗟𝗖𝗗 𝗗𝗶𝘀𝗽𝗹𝗮𝘆: Backlit LCD screen with large fonts for easy reading. 𝗘𝗮𝘀𝘆 𝘁𝗼 𝗖𝗹𝗲𝗮𝗻: Just wipe down the 304 food-grade stainless steel surfaces to keep clean. 𝗦𝗶𝗺𝗽𝗹𝗲 & 𝗖𝗼𝗺𝗽𝗮𝗰𝘁: The small and sleek scale is a perfect fit for most kitchens, occupying little space and easily storable in cabinets. 𝗣𝗿𝗲𝗰𝗶𝘀𝗲 𝗥𝗲𝘀𝘂𝗹𝘁𝘀: Accurately weighs up to 11 lb/5 kg with 1 g increments. 𝗘𝗳𝗳𝗼𝗿𝘁𝗹𝗲𝘀𝘀 𝗪𝗲𝗶𝗴𝗵𝗶𝗻𝗴: Supports 5 units (oz/lb:oz/fl'oz/g/mL), tare function, and includes 2 AAA batteries for hassle-free operation.",
+    "top_reviews": [
+      {
+        "id": "R2IF979V5JWKLU",
+        "title": "Bread scale",
+        "body": "Product works very well,very accurate too. very sleek but very small, and thin .simple if that’s what you’re looking for.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on March 12, 2026"
+        },
+        "profile": {
+          "name": "Scott A."
+        },
+        "verified_purchase": true,
+        "helpful_votes": 2,
+        "link": "https://www.amazon.com/gp/customer-reviews/R2IF979V5JWKLU/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R1CSEMQT2BMY1E",
+        "title": "Precise and easy to use",
+        "body": "I bought this kitchen scale and it has worked very well. It is easy to use and the measurements are clear on the clear on the screen. I like that it is quite precise to weigh ingredients when I cook or prepare recipes. In addition, the design is compact and does not take up much space in the kitchen. The guality feels good and so far it has worked perfectly. I recommend it for anyone who needs a practical and reliable scale.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on March 10, 2026"
+        },
+        "profile": {
+          "name": "Yunier cos"
+        },
+        "verified_purchase": true,
+        "link": "https://www.amazon.com/gp/customer-reviews/R1CSEMQT2BMY1E/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R243W5FHYP2AC6",
+        "title": "Nice scale.",
+        "body": "Nice little scale.  Works fine.  Easy to operate.  Great value, presuming it lasts (have only had this item for three weeks, but have no reason to think it won't last for years).",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on February 26, 2026"
+        },
+        "profile": {
+          "name": "Zola"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 2,
+        "link": "https://www.amazon.com/gp/customer-reviews/R243W5FHYP2AC6/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R3TYKC99VFWXRN",
+        "title": "Small and decent food kitchen scale",
+        "body": "The Etekcity Food Kitchen Scale is compact—about the size of a palm—and very lightweight, making it easy to store or move around the kitchen. It does a solid job measuring ingredients and is useful for everyday cooking, baking, or tracking portions for weight loss.The maximum capacity is 5 lbs, so keep that in mind before purchasing, especially if you plan to weigh heavier items. One drawback is that it doesn’t come with a protective cover, which makes it more vulnerable to damage from spills. If liquid or food gets on it, cleaning can be a bit tricky.The weighing surface is also on the smaller side, so larger bowls or plates may not fit comfortably.Overall, this is a decent, budget-friendly scale for measuring smaller quantities. I’d recommend it for light kitchen use, but it may not be ideal for heavy or frequent use.",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in the United States on February 8, 2026"
+        },
+        "profile": {
+          "name": "Raj"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 11,
+        "link": "https://www.amazon.com/gp/customer-reviews/R3TYKC99VFWXRN/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R2QBKZHLO600VV",
+        "title": "Simple, Accurate, and Handy",
+        "body": "The Eternity Food Kitchen Scale is a small tool that makes a big difference in the kitchen. It’s accurate, easy to use, and the display is clear and quick to read. I like how slim it is—it stores easily and doesn’t take up counter space. A simple, reliable scale that just works",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on March 10, 2026"
+        },
+        "profile": {
+          "name": "Magda"
+        },
+        "verified_purchase": true,
+        "helpful_votes": null,
+        "link": "https://www.amazon.com/gp/customer-reviews/R2QBKZHLO600VV/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "RJPQSS4M601YF",
+        "title": "Airborne 82",
+        "body": "The product works great. This is a good bang for you buck. I food prep every meal with no issues on oversized bowls. Long story short this is a good product.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on March 7, 2026"
+        },
+        "profile": {
+          "name": "Daniel Hammer"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 2,
+        "link": "https://www.amazon.com/gp/customer-reviews/RJPQSS4M601YF/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R1SHI20PW8M199",
+        "title": "Highly recommend.",
+        "body": "I started using the Etekcity food scale when I began tracking my meals more seriously, and it honestly made a big difference. Before this, I was just guessing portions. Now I actually know what I’m eating.It’s very accurate and easy to use. I switch between grams and ounces depending on what I’m measuring, and the tare function makes it simple to weigh food in containers. The stainless steel top looks clean and wipes down easily after cooking.It’s compact but feels solid. If you’re trying to be disciplined with meal prep or bodybuilding, this isn’t optional  it’s necessary.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on March 2, 2026"
+        },
+        "profile": {
+          "name": "Stanley francois"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 3,
+        "link": "https://www.amazon.com/gp/customer-reviews/R1SHI20PW8M199/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R1HMB8SFYBQG57",
+        "title": "Why didn’t I buy this sooner?",
+        "body": "This is an excellent little scale. I had another scale that was a little bigger and it accidentally fell on the floor. It was damaged but still worked so I kept using it. I finally decided to get a replacement and tried this little gem. It is small enough to sit on my counter without my husband complaining that it’s clutter. It easily switches between grams, ounces, ml etc. it tares quickly so I can track items as I add the to a bowl. The display is very easy to read and Measurements are extremely accurate. I already had the app because I have an etekcity smart scale (which is also great).",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on February 15, 2026"
+        },
+        "profile": {
+          "name": "Tamara"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 6,
+        "link": "https://www.amazon.com/gp/customer-reviews/R1HMB8SFYBQG57/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R1DRP3BZCKF0C2",
+        "title": "Fast delivery, great product.",
+        "body": "High accuracy. Easy to use. Eassy to store away.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Singapore on November 26, 2019"
+        },
+        "profile": {
+          "name": "YBL"
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "R1KK8TMLJNF7WM",
+        "title": "Good",
+        "body": "Good",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in the United Arab Emirates on October 21, 2019"
+        },
+        "profile": {
+          "name": "A K"
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "R2FIN4BIN50VNP",
+        "body": "Perfeita, tenho a cerca de 1 ano, é precisa e prática",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Brazil on February 10, 2026"
+        },
+        "profile": {
+          "name": "Marília dos Santos Dourado"
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "R2IDZKNY6SDZGA",
+        "body": "Muy buena báscula marca el peso correcto aveces si acaso 1 gramo se diferencia",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Mexico on November 11, 2025"
+        },
+        "profile": {
+          "name": "martin gastelum lara"
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "R2U08S69BT4IIA",
+        "title": "Works well and full surface can be used. Good size!",
+        "body": "Great value, the whole top surface works for weighing so if you have long items like a coffee portafilter it works well",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Australia on April 23, 2020"
+        },
+        "profile": {
+          "name": "Angelo"
+        },
+        "verified_purchase": true
+      }
+    ],
+    "bestsellers_rank": [
+      {
+        "rank": 3,
+        "category": "Kitchen & Dining",
+        "link": "https://www.amazon.com/gp/bestsellers/kitchen/ref=pd_zg_ts_kitchen"
+      },
+      {
+        "rank": 1,
+        "category": "Digital Kitchen Scales",
+        "link": "https://www.amazon.com/gp/bestsellers/kitchen/678508011/ref=pd_zg_hrsr_kitchen"
+      }
+    ],
+    "a_plus_content": {
+      "has_a_plus_content": true,
+      "has_brand_story": true,
+      "brand_story": {
+        "brand_logo": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/054141b3-3e4d-4f89-89cb-677b7eed62ac.__CR0,0,315,145_PT0_SX315_V1___.jpg",
+        "hero_image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/90591c4e-ec5a-4604-b81a-838f7aef0e84.__CR0,0,1464,625_PT0_SX1464_V1___.jpg",
+        "description": "Etekcityempowersanactivelifestylethroughyourphysicalandmentalwell-being,transformingfitnessandhealthroutineswithproductsthatdon’tcutcorners.",
+        "brand_store": {
+          "link": "/stores/page/FE2C24BC-D9E9-4F14-B751-39E11DB5EAFF",
+          "id": "FE2C24BC-D9E9-4F14-B751-39E11DB5EAFF"
+        },
+        "images": [
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/90591c4e-ec5a-4604-b81a-838f7aef0e84.__CR0,0,1464,625_PT0_SX1464_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f25b0b4b-f355-4c5b-8804-6e04e455d067.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f76bc92f-97b2-4d7a-a0f0-7716f2d4ce1b.__CR0,0,362,453_PT0_SX362_V1___.jpg"
+        ]
+      },
+      "all_images": [
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/22cdad08-532f-420d-bed7-1aa44bf6b400.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "Measure food, small items, and liquids, designed to simplify and enhance your kitchen routine."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3510bb06-3d4e-46a0-b499-2ab373ecd9b0.__CR0,0,650,350_PT0_SX650_V1___.jpg",
+          "name": "Etekcity food scale can measure up to 11 pounds accurately."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/11abfbae-36fe-429f-b1f8-c5aa5bb03c1b.__CR0,0,650,350_PT0_SX650_V1___.jpg",
+          "name": "You can change units and tare the container weight easily via simple clicks."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2aa8f4a4-66ca-4807-83a6-ebeaa65dc12e.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "Unit Conversion"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ed7c72ab-f5e5-4490-94d3-ceb7bf9fea54.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "tare function"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/85aa2194-46e2-4dd0-a2e4-e7bb76367714.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "Bright display with backlit"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b0ab3937-7887-4b92-8196-e999773332f8.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "A perfect size to put it on your counter top or drawer without taking too much space."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a524a8b9-1437-4b99-bcab-f811ae806211.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "Easy to Clean"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/65a6f434-827c-4518-bffd-ea6ceda3387a.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "Baking &amp;amp; Cooking"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ebe85f44-98e5-469b-b94d-999ddd0b9e5d.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "Keep Goals"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/21389cfb-1cb1-491f-8bc5-2524b427fded.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "DIY Crafts"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8cf8f536-db7d-4ecf-8136-a8e15750c611.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "Give your pets the perfect amount of  food with every meal"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2e7404c2-ab0e-4d3d-9627-e838d23756cc.__CR100,0,1600,1800_PT0_SX200_V1___.jpg",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/548c397c-3e63-47b5-a2b0-9559a718c3a0.__CR89,0,1422,1600_PT0_SX200_V1___.jpg",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/781897ea-1fbb-47e6-b1d9-e3482da54e86.__CR1,0,1183,1331_PT0_SX200_V1___.jpg",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/40ecbd9c-5497-4b0b-ba8a-ce1565c757cc.__CR0,0,1183,1331_PT0_SX200_V1___.png",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/bf350e15-cb8a-411c-8921-a0a0f99c8496.__CR111,0,1778,2000_PT0_SX200_V1___.jpg",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a3465334-9b46-4245-914d-3b2599066244.__CR167,0,2667,3000_PT0_SX200_V1___.jpg",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/bcabbc19-c39d-4936-a786-9107595ec617.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/90591c4e-ec5a-4604-b81a-838f7aef0e84.__CR0,0,1464,625_PT0_SX1464_V1___.jpg",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/054141b3-3e4d-4f89-89cb-677b7eed62ac.__CR0,0,315,145_PT0_SX315_V1___.jpg",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/bc55fae4-2ad8-4f26-b3e1-8af916a3c073.__AC_SR166,182___.jpg",
+          "name": "人体秤"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9c8e8282-ebb8-4291-9803-0adc5aae5395.__AC_SR166,182___.jpg",
+          "name": "cobra"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5bab3f06-a20c-4df0-b0f0-f8619f441b2d.__AC_SR166,182___.jpg",
+          "name": "egret"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a408908b-6f71-4502-8895-f5660c8cd78d.__AC_SR166,182___.jpg",
+          "name": "esn00"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f25b0b4b-f355-4c5b-8804-6e04e455d067.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+          "name": "etekcity"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f76bc92f-97b2-4d7a-a0f0-7716f2d4ce1b.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+          "name": "etekcity"
+        }
+      ],
+      "third_party": true,
+      "company_logo": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/054141b3-3e4d-4f89-89cb-677b7eed62ac.__CR0,0,315,145_PT0_SX315_V1___.jpg",
+      "company_description_text": "Etekcity empowers an active lifestyle through your physical and mental well-being, transforming fitness and health routines with products that don’t cut corners. We take a personal approach to wellness, defying one-size-fits-all standards for a custom experience supported by premium home appliances."
+    },
+    "buybox_winner": {
+      "maximum_order_quantity": {
+        "value": 30,
+        "hard_maximum": true
+      },
+      "secondary_buybox": {
+        "offer_id": "TnrGehgvc14dcDYBSUh%2FkcCX8mR4onH0%2FaeN8yY%2Ffjcj0UPvDTlJDB5PtCA4W16iXzPAPXr8%2B6aXo2XbArmhtfrJ0nRyyODkBvRdzJ%2FkqPniYBeE2zIFSkNp23bGLNIAOo4hPtoPNQM%2FN%2FVBCyM1l6jdQo2aAC4KZxcPkYe6iYTYGjTdPazs9rZXwo3fQRJo",
+        "caption": "Save with Used - Like New",
+        "availability": {
+          "raw": "Only 2 left in stock - order soon.",
+          "type": "in_stock"
+        },
+        "product_condition": "Screen is like new with no visible scratches. Item will come in original packaging.",
+        "condition": {
+          "raw": "Save with Used - Like New",
+          "isNew": false
+        },
+        "price": {
+          "symbol": "$",
+          "value": 9.87,
+          "currency": "USD",
+          "raw": "$9.87"
+        },
+        "maximum_order_quantity": {
+          "value": 2
+        },
+        "fulfillment": {
+          "standard_delivery": {
+            "date": "March 25 - 31",
+            "name": "FREE"
+          },
+          "fastest_delivery": {
+            "date": "March 25 - 27",
+            "name": "Or fastest delivery March 25 - 27"
+          },
+          "amazon_seller": {
+            "name": "Amazon Resale"
+          },
+          "is_sold_by_amazon": true,
+          "is_sold_by_third_party": false,
+          "fulfilled_by": "Fulfilled by Amazon",
+          "is_fulfilled_by_amazon": true,
+          "is_fulfilled_by_third_party": false,
+          "fulfillment_type": "p1"
+        },
+        "ship_details": "Sold by Amazon Resale and Fulfilled by Amazon.",
+        "accept_free_return": true
+      },
+      "price_only_available_in_cart": false,
+      "offer_id": "TnrGehgvc14dcDYBSUh/kcCX8mR4onH0/aeN8yY/fjcj0UPvDTlJDB5PtCA4W16iXzPAPXr8+6aXo2XbArmhtfrJ0nRyyODkBvRdzJ/kqPniYBeE2zIFSkNp23bGLNIAOo4hPtoPNQM/N/VBCyM1l6jdQo2aAC4KZxcPkYe6iYTYGjTdPazs9rZXwo3fQRJo",
+      "mixed_offers_count": 4,
+      "mixed_offers_from": {
+        "symbol": "$",
+        "value": 35,
+        "currency": "USD",
+        "raw": "FREE Shipping on orders over $35.00 shipped by Amazon."
+      },
+      "trade_in_and_save": true,
+      "return_policy": {
+        "duration_days": 30,
+        "type": "refund/replacement",
+        "seller": "Amazon"
+      },
+      "is_prime": true,
+      "is_prime_exclusive_deal": false,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "In Stock",
+        "dispatch_days": 1
+      },
+      "fulfillment": {
+        "type": "p1",
+        "standard_delivery": {
+          "date": "Monday, March 23",
+          "name": "FREE"
+        },
+        "fastest_delivery": {
+          "date": "March 25 - 27",
+          "name": "Or fastest delivery March 25 - 27"
+        },
+        "is_sold_by_amazon": true,
+        "amazon_seller": {
+          "name": "Amazon",
+          "link": "https://www.amazon.com/b?node=10158976011"
+        },
+        "is_fulfilled_by_amazon": true,
+        "is_fulfilled_by_third_party": false,
+        "is_sold_by_third_party": false
+      },
+      "price": {
+        "symbol": "$",
+        "value": 10.97,
+        "currency": "USD",
+        "raw": "$10.97"
+      },
+      "rrp": {
+        "symbol": "$",
+        "value": 13.99,
+        "currency": "USD",
+        "raw": "$13.99"
+      },
+      "shipping": {
+        "raw": "FREE"
+      }
+    },
+    "specifications": [
+      {
+        "name": "Brand",
+        "value": "‎Etekcity"
+      },
+      {
+        "name": "Color",
+        "value": "‎304 Stainless Steel"
+      },
+      {
+        "name": "Recommended Uses For Product",
+        "value": "‎Envelopes, Food, Fruits, Jewellery, Medicines, Packages, Pets, Vegetables"
+      },
+      {
+        "name": "Special Feature",
+        "value": "‎Backlit Display"
+      },
+      {
+        "name": "Display Type",
+        "value": "‎LCD"
+      },
+      {
+        "name": "Weight Limit",
+        "value": "‎11 Pounds"
+      },
+      {
+        "name": "Form Factor",
+        "value": "‎Mini"
+      },
+      {
+        "name": "Material",
+        "value": "‎Stainless Steel"
+      },
+      {
+        "name": "Readout Accuracy",
+        "value": "‎1 Grams"
+      },
+      {
+        "name": "Item Weight",
+        "value": "‎200 Grams"
+      },
+      {
+        "name": "Weigh Scale Type",
+        "value": "‎Counter Scale"
+      },
+      {
+        "name": "Manufacturer",
+        "value": "‎Etekcity"
+      },
+      {
+        "name": "Unit Count",
+        "value": "‎1.0 Count"
+      },
+      {
+        "name": "UPC",
+        "value": "‎679113377950"
+      },
+      {
+        "name": "Global Trade Identification Number",
+        "value": "‎00679113377950, 08907758013509"
+      },
+      {
+        "name": "Product Dimensions",
+        "value": "‎7.56 x 6.18 x 0.75 inches"
+      },
+      {
+        "name": "Item Weight",
+        "value": "‎7.1 ounces"
+      },
+      {
+        "name": "ASIN",
+        "value": "‎B0113UZJE2"
+      },
+      {
+        "name": "Item model number",
+        "value": "‎EK6015"
+      },
+      {
+        "name": "Batteries",
+        "value": "‎2 AAA batteries required. (included)"
+      },
+      {
+        "name": "Is Discontinued By Manufacturer",
+        "value": "‎No"
+      },
+      {
+        "name": "Date First Available",
+        "value": "‎July 7, 2015"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "#3 in Kitchen & Dining (See Top 100 in Kitchen & Dining) #1 in Digital Kitchen Scales"
+      },
+      {
+        "name": "Brand",
+        "value": "Etekcity"
+      },
+      {
+        "name": "Color",
+        "value": "304 Stainless Steel"
+      },
+      {
+        "name": "Recommended Uses For Product",
+        "value": "Envelopes, Food, Fruits, Jewellery, Medicines, Packages, Pets, Vegetables"
+      },
+      {
+        "name": "Special Feature",
+        "value": "Backlit Display"
+      },
+      {
+        "name": "Display Type",
+        "value": "LCD"
+      },
+      {
+        "name": "GTIN",
+        "value": "‎679113377950"
+      }
+    ],
+    "specifications_flat": "GTIN: ‎679113377950. Display Type: LCD. Special Feature: Backlit Display. Recommended Uses For Product: Envelopes, Food, Fruits, Jewellery, Medicines, Packages, Pets, Vegetables. Color: 304 Stainless Steel. Brand: Etekcity. Best Sellers Rank: #3 in Kitchen & Dining (See Top 100 in Kitchen & Dining) #1 in Digital Kitchen Scales. Date First Available: ‎July 7, 2015. Is Discontinued By Manufacturer: ‎No. Batteries: ‎2 AAA batteries required. (included). Item model number: ‎EK6015. ASIN: ‎B0113UZJE2. Item Weight: ‎7.1 ounces. Product Dimensions: ‎7.56 x 6.18 x 0.75 inches. Global Trade Identification Number: ‎00679113377950, 08907758013509. UPC: ‎679113377950. Unit Count: ‎1.0 Count. Manufacturer: ‎Etekcity. Weigh Scale Type: ‎Counter Scale. Item Weight: ‎200 Grams. Readout Accuracy: ‎1 Grams. Material: ‎Stainless Steel. Form Factor: ‎Mini. Weight Limit: ‎11 Pounds. Display Type: ‎LCD. Special Feature: ‎Backlit Display. Recommended Uses For Product: ‎Envelopes, Food, Fruits, Jewellery, Medicines, Packages, Pets, Vegetables. Color: ‎304 Stainless Steel. Brand: ‎Etekcity.",
+    "recent_sales": "50K+ bought in past month",
+    "gift_guide_badge": {
+      "badge_text": "50K+ bought in past month"
+    },
+    "deal_badge": "Limited time deal",
+    "product_deal": {
+      "badge_text": "Limited time deal",
+      "percentage_off": 22,
+      "raw": "-22%"
+    },
+    "color": "‎304 Stainless Steel",
+    "material": "‎Stainless Steel",
+    "manufacturer": "‎Etekcity",
+    "weight": "‎7.1 ounces",
+    "first_available": {
+      "raw": "July 7, 2015",
+      "utc": "2015-07-07T00:00:00.000Z"
+    },
+    "dimensions": "‎7.56 x 6.18 x 0.75 inches",
+    "model_number": "‎EK6015",
+    "bestsellers_rank_flat": "Category: Kitchen & Dining | Rank: 3, Category: Digital Kitchen Scales | Rank: 1",
+    "whats_in_the_box": [
+      "1 x Digital Kitchen Scale; 2 x 1.5V AAA Batteries (Pre-Installed); 1 x QSG"
+    ]
+  },
+  "brand_store": {
+    "id": "FE2C24BC-D9E9-4F14-B751-39E11DB5EAFF",
+    "link": "https://www.amazon.com/stores/Etekcity/page/FE2C24BC-D9E9-4F14-B751-39E11DB5EAFF"
+  },
+  "newer_model": {
+    "title": "Etekcity Digital Food Kitchen Scale, Grams and Oz for Weight Loss, Baking and Cooking, 0.05oz/1g Precise Graduation,5 Weight Units, IPX6 Waterproof, USB Rechargeable,304 Stainless Steel-Silver, 22lb (7,388)",
+    "asin": "B09HM2TN5Z",
+    "link": "https://www.amazon.com/Etekcity-Waterproof-Rechargeable-Graduation-Stainless-dp-B09HM2TN5Z/dp/B09HM2TN5Z/ref=dp_ob_image_def",
+    "image": "https://m.media-amazon.com/images/I/81HZY1Dn7sL._SR75,75_.jpg"
+  }
+}

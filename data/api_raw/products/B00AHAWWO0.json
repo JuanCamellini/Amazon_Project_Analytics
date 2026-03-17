@@ -1,0 +1,794 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 5,
+    "credits_remaining": 95,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "type": "product",
+    "asin": "B00AHAWWO0",
+    "amazon_domain": "amazon.com"
+  },
+  "request_metadata": {
+    "created_at": "2026-03-17T15:35:55.952Z",
+    "processed_at": "2026-03-17T15:36:01.973Z",
+    "total_time_taken": 6.02,
+    "amazon_url": "https://www.amazon.com/dp/B00AHAWWO0?th=1&psc=1"
+  },
+  "product": {
+    "title": "Crest 3D Whitestrips Professional Effects – Teeth Whitening Kit, 22 Treatments (20 + 2 Bonus), Each with 1 Upper/1Lower, 44 Strips – Crest 3DWhite Teeth Whitening Strips",
+    "search_alias": {
+      "title": "Beauty & Personal Care",
+      "value": "search-alias=beauty"
+    },
+    "keywords": "Crest 3D Whitestrips Professional Effects – Teeth Whitening Kit, 22 Treatments (20 + 2 Bonus), Each with 1 Upper/1Lower, 44 Strips – Crest 3DWhite Teeth Whitening Strips",
+    "keywords_list": [
+      "Crest 3D Whitestrips Professional Effects – Teeth Whitening Kit",
+      "22 Treatments (20 + 2 Bonus)",
+      "Each with 1 Upper/1Lower",
+      "44 Strips – Crest 3DWhite Teeth Whitening Strips"
+    ],
+    "is_collection": false,
+    "asin": "B00AHAWWO0",
+    "parent_asin": "B00AHAWWO0",
+    "gtin": "037000857785",
+    "link": "https://www.amazon.com/Crest-Professional-Whitestrips-Whitening-Treatments/dp/B00AHAWWO0",
+    "brand": "Crest",
+    "sell_on_amazon": false,
+    "proposition_65_warning": false,
+    "has_size_guide": true,
+    "add_on_item": {
+      "is_add_on_item": true
+    },
+    "categories": [
+      {
+        "name": "Beauty & Personal Care"
+      },
+      {
+        "name": "Health & Household",
+        "link": "https://www.amazon.com/health-personal-care-nutrition-fitness/b/ref=dp_bc_1?ie=UTF8&node=3760901",
+        "category_id": "3760901"
+      },
+      {
+        "name": "Oral Care",
+        "link": "https://www.amazon.com/Oral-Care-Products/b/ref=dp_bc_2?ie=UTF8&node=10079992011",
+        "category_id": "10079992011"
+      },
+      {
+        "name": "Teeth Whitening",
+        "link": "https://www.amazon.com/Teeth-Whitening-Products/b/ref=dp_bc_3?ie=UTF8&node=3778441",
+        "category_id": "3778441"
+      },
+      {
+        "name": "Strips",
+        "link": "https://www.amazon.com/b/ref=dp_bc_4?ie=UTF8&node=21193189011",
+        "category_id": "21193189011"
+      }
+    ],
+    "categories_flat": "Beauty & Personal Care > Health & Household > Oral Care > Teeth Whitening > Strips",
+    "description": "Want to your whiten teeth at home? Crest 3DWhitestrips Professional Effects + 1 Hour Express bonus offering is designed to whiten like a professional-level teeth whitening treatment at-home. The Advanced Seal Technology�s comfortable, no-slip grip means the strips stay put until you take them off, allowing you to talk and even drink water while whitening your teeth. Made by the #1 dentist-recommended at-home teeth whitening brand, Crest 3DWhitestrips Professional Effects will give you a 100% noticeably whiter smile, guaranteed. Using the same hydrogen peroxide whitening ingredient as dentists, this enamel safe at-home teeth whitening kit will make your teeth 20 levels whiter. Simply apply 20 treatments of Crest 3DWhitestrips Professional Effects for 45 minutes a day and 2 treatments of 1 Hour Express for 60 minutes. This pack includes 44 teeth whitening strips, 22 for your top teeth and 22 for your bottom teeth, to be used over the course of 22 days.",
+    "sub_title": {
+      "text": "Visit the Crest Store",
+      "link": "https://www.amazon.com/stores/Crest/page/BFCAC29E-D887-42C7-826B-FEDABF96B8DF?lp_asin=B00AHAWWO0&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto"
+    },
+    "amazons_choice": {
+      "link": "https://www.amazon.com/Crest-Professional-Whitestrips-Whitening-Treatments/dp/B00AHAWWO0",
+      "badge_text": "Amazon's  Choice"
+    },
+    "marketplace_id": "ATVPDKIKX0DER",
+    "rating": 4.6,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 77,
+        "count": 79260
+      },
+      "four_star": {
+        "percentage": 13,
+        "count": 13382
+      },
+      "three_star": {
+        "percentage": 6,
+        "count": 6176
+      },
+      "two_star": {
+        "percentage": 1,
+        "count": 1029
+      },
+      "one_star": {
+        "percentage": 3,
+        "count": 3088
+      }
+    },
+    "ratings_total": 102935,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/715rFhZpV0L.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/61uEVxwWWdL._SL1000_.jpg",
+        "variant": "FRNT"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81e3mxrZaqL._SL1500_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81oyxKOjnPL._SL1500_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/710Vhb-pWKL._SL1500_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81WNpXDlW4L._SL1500_.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81K-2E8vtoL._SL1500_.jpg",
+        "variant": "PT05"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81NiUra4zaL._SL1500_.jpg",
+        "variant": "PT07"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71aSryYWNcL._SL1500_.jpg",
+        "variant": "PT08"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81bhcUJKKyL._SL1500_.jpg",
+        "variant": "PT09"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71GJ2CuW4uL._SL1500_.jpg",
+        "variant": "PT10"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71c82Ajoh8L._SL1500_.jpg",
+        "variant": "PT11"
+      }
+    ],
+    "images_count": 11,
+    "images_flat": "https://m.media-amazon.com/images/I/61uEVxwWWdL._SL1000_.jpg,https://m.media-amazon.com/images/I/81e3mxrZaqL._SL1500_.jpg,https://m.media-amazon.com/images/I/81oyxKOjnPL._SL1500_.jpg,https://m.media-amazon.com/images/I/710Vhb-pWKL._SL1500_.jpg,https://m.media-amazon.com/images/I/81WNpXDlW4L._SL1500_.jpg,https://m.media-amazon.com/images/I/81K-2E8vtoL._SL1500_.jpg,https://m.media-amazon.com/images/I/81NiUra4zaL._SL1500_.jpg,https://m.media-amazon.com/images/I/71aSryYWNcL._SL1500_.jpg,https://m.media-amazon.com/images/I/81bhcUJKKyL._SL1500_.jpg,https://m.media-amazon.com/images/I/71GJ2CuW4uL._SL1500_.jpg,https://m.media-amazon.com/images/I/71c82Ajoh8L._SL1500_.jpg",
+    "videos_count": 6,
+    "videos_additional": [
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0da59b51760e40cbbf3eacdb0a34fb60",
+        "product_asin": "B00AHAWWO0",
+        "parent_asin": "B00AHAWWO0",
+        "related_products": "B09MHHTXG7",
+        "title": "3d white strips review",
+        "profile_image_url": "https://images-na.ssl-images-amazon.com/images/S/influencer-profile-image-prod/logo/ziggyroll_1675447568295_original._FMjpg_._SL34_.jpeg",
+        "profile_link": "/shop/ziggyroll",
+        "public_name": "Danielle & Ziggy",
+        "vendor_code": "ziggyroll:shop",
+        "vendor_name": "Danielle & Ziggy",
+        "vendor_tracking_id": "onamzdan0701c-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/51D8vnd+9aL._CR1,0,638,360_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/51D8vnd+9aL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "360",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c0f69b55-ea45-46f2-8cb9-c889054765bf/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/83a6a54b-7ed1-471c-9582-14ab0dc31129/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/83a6a54b-7ed1-471c-9582-14ab0dc31129/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:18",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/435720e1-f956-446d-ab03-6f059c3863f3.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.07793c04f8804579b44db22bb0a6b946",
+        "product_asin": "B00AHAWWO0",
+        "parent_asin": "B00AHAWWO0",
+        "title": "Crest 3D Whitening Strips Review",
+        "profile_image_url": "https://m.media-amazon.com/images/I/A1B3NmhSZ3L._CR133,307,766,766_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/ronig",
+        "public_name": "Roni Grushkevich",
+        "vendor_code": "ronig:shop",
+        "vendor_name": "Roni Grushkevich",
+        "vendor_tracking_id": "onamzronigrus-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/51j1sKATjcL._CR1,0,638,360_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/51j1sKATjcL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "360",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/32066dcb-2082-4287-b09b-3cfd85f72462/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/eedb4fa3-3fd6-4b06-8fca-086025fffe7e/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/eedb4fa3-3fd6-4b06-8fca-086025fffe7e/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/eedb4fa3-3fd6-4b06-8fca-086025fffe7e/dc8115be-64ac-40b1-ba26-05e12f77ba6b/07793c04f8804579b44db22bb0a6b946_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:55",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/200b3be0-9c73-42ea-9877-b0e117a4701e.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0e1026a7449a40d2b6f99ccaa50d05ea",
+        "product_asin": "B00AHAWWO0",
+        "parent_asin": "B00AHAWWO0",
+        "title": "Quickest Way To Whiter Teeth | Crest Whitestrips",
+        "profile_image_url": "https://m.media-amazon.com/images/I/A1XQbv9gK+L._CR182,86,796,797_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/thebrookeblend",
+        "public_name": "The Brooke Blend",
+        "vendor_code": "thebrookeblend:shop",
+        "vendor_name": "The Brooke Blend",
+        "vendor_tracking_id": "onamzthebr026-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/81y7cN8e14L._CR0,0,1290,728_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/81y7cN8e14L.jpg",
+        "video_image_width": "1290",
+        "video_image_height": "1955",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ec75ed1d-c041-4e70-ba6e-e6bb55689d0a/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/b05803bb-43a0-46ae-88b1-0c150a19f085/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/b05803bb-43a0-46ae-88b1-0c150a19f085/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:16",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/07b60f8d-45af-454d-aae7-7069c65dccf1.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0ea2a0a5c5fe49f494e454b9f18077dd",
+        "product_asin": "B00AHAWWO0",
+        "parent_asin": "B00AHAWWO0",
+        "related_products": "B00YPBHU5S,B09M5PXJ86",
+        "title": "Honest Review of crest whiting strips ",
+        "profile_image_url": "https://m.media-amazon.com/images/I/81I4OoqQ3zL._CR0,58,1112,1112_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/ghost_vs_meowsers",
+        "public_name": "Cindle the music mom",
+        "vendor_code": "ghost_vs_meowsers:shop",
+        "vendor_name": "Cindle the music mom",
+        "vendor_tracking_id": "onamzcindleva-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/51xZ91ih0ML._CR1,0,638,360_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/51xZ91ih0ML.jpg",
+        "video_image_width": "640",
+        "video_image_height": "360",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/06d83332-b8d3-4d68-bf01-109d972ba0c4/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/6f2cef05-1c1a-4b07-b42a-5571a84330da/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/6f2cef05-1c1a-4b07-b42a-5571a84330da/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/6f2cef05-1c1a-4b07-b42a-5571a84330da/8635ae12-7bdc-48eb-b021-40cab6478b14/0ea2a0a5c5fe49f494e454b9f18077dd_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:47",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/f56ada35-987d-4889-92b7-e38d2a1180d7.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.075e8586bb334959afc84baa1ad8174d",
+        "product_asin": "B00AHAWWO0",
+        "parent_asin": "B00AHAWWO0",
+        "related_products": "B09M5PXJ86,B0D7VFW3T4",
+        "title": "Crest 3d whitestrips",
+        "profile_image_url": "https://m.media-amazon.com/images/I/A1Fe4VDqRtL._CR0,0,3219,3219_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/missanyela7",
+        "public_name": "Miss Anyela",
+        "vendor_code": "missanyela7:shop",
+        "vendor_name": "Miss Anyela",
+        "vendor_tracking_id": "onamzanyelava-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/A1nw9+u-BfL._CR0,0,1290,728_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/A1nw9+u-BfL.jpg",
+        "video_image_width": "1290",
+        "video_image_height": "1700",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2c0253a8-e20d-47e8-8fd5-6767f92f24f5/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/916b5f2c-76c7-4938-8d4f-1fea77f7f4a8/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/916b5f2c-76c7-4938-8d4f-1fea77f7f4a8/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/916b5f2c-76c7-4938-8d4f-1fea77f7f4a8/da2cbd10-275b-4c05-b4dd-c4da9c9f4966/075e8586bb334959afc84baa1ad8174d_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:34",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/f74be49e-be48-4fe2-97fd-064ad87be463.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.07455b92d68c4765a96cb4bca492aadf",
+        "product_asin": "B00AHAWWO0",
+        "parent_asin": "B00AHAWWO0",
+        "title": "Professional level teeth whitening results easily at home",
+        "profile_image_url": "https://images-na.ssl-images-amazon.com/images/S/influencer-profile-image-prod/logo/influencer-3e648abf_1686281068779_original._FMjpg_._SL34_.jpeg",
+        "profile_link": "/shop/influencer-3e648abf",
+        "public_name": "One Minute Reviews",
+        "vendor_code": "influencer-3e648abf:shop",
+        "vendor_name": "One Minute Reviews",
+        "vendor_tracking_id": "onamzjoesmute-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/61GH7tbVB8L._CR1,0,638,360_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61GH7tbVB8L.jpg",
+        "video_image_width": "640",
+        "video_image_height": "360",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/09a16276-aec0-425c-a325-0e0de5ede251/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a8d5766d-69b2-4621-8c16-c0376aef9ecb/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a8d5766d-69b2-4621-8c16-c0376aef9ecb/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a8d5766d-69b2-4621-8c16-c0376aef9ecb/3474e81b-5e7c-4650-9f2c-1bc69026119e/07455b92d68c4765a96cb4bca492aadf_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:10",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/35878ebd-95be-4916-97f2-99fecc855a42.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0d9debd472794dd582fac9968fabf83e",
+        "product_asin": "B00AHAWWO0",
+        "parent_asin": "B00AHAWWO0",
+        "related_products": "B077YCC84H,B0CK2S9LST",
+        "title": "10/10 whitening strips for THAT smile!! ",
+        "profile_image_url": "https://m.media-amazon.com/images/I/C1ER0pWEgvL._CR0,140,2490,2490_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/guesshowmany",
+        "public_name": "Rachel Reviews It",
+        "vendor_code": "guesshowmany:shop",
+        "vendor_name": "Rachel Reviews It",
+        "vendor_tracking_id": "onamzclai0e48-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/81UhNaFjgPL._CR0,0,1170,660_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/81UhNaFjgPL.jpg",
+        "video_image_width": "1170",
+        "video_image_height": "760",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/0ed7b070-5017-43e6-8b0c-d2b5df117b48/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/957885af-1bed-4847-8d30-cf39b348d0a8/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/957885af-1bed-4847-8d30-cf39b348d0a8/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/957885af-1bed-4847-8d30-cf39b348d0a8/86bb2f16-cdd5-4f3b-9316-9a7ef5d8a884/0d9debd472794dd582fac9968fabf83e_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:14",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/1a6bca23-b659-4ff1-9710-f9f3089ca4d2.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0fd37f5156f245a39835f26930dd255a",
+        "product_asin": "B00AHAWWO0",
+        "parent_asin": "B00AHAWWO0",
+        "title": "Review - Crest 3D Whitestrips",
+        "profile_image_url": "https://m.media-amazon.com/images/I/B1iLlCD8FEL._CR205,1209,2000,2000_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/brianabuttars",
+        "public_name": "Briana Buttars",
+        "vendor_code": "brianabuttars:shop",
+        "vendor_name": "Briana Buttars",
+        "vendor_tracking_id": "onamzbri0383c-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/A1GVRK2a0QL._CR2,0,1276,720_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/A1GVRK2a0QL.png",
+        "video_image_width": "1280",
+        "video_image_height": "720",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ab0b775d-88f4-4372-b109-dfef93dfc6dc/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/0203a0ea-ca55-460e-b744-7b2df6340fea/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/0203a0ea-ca55-460e-b744-7b2df6340fea/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/0203a0ea-ca55-460e-b744-7b2df6340fea/5b7fffcd-7ab2-4e20-b181-f2ff186a0afd/0fd37f5156f245a39835f26930dd255a_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:31",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/1ba73764-29c1-4bbf-9079-ced8902c87f1.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0226ca56ee7547c1a912b9c8c10fbe05",
+        "product_asin": "B00AHAWWO0",
+        "parent_asin": "B00AHAWWO0",
+        "title": "Honest Review - wait until you see the before and after!",
+        "profile_image_url": "https://m.media-amazon.com/images/I/71DHrWRT-mL._CR0,0,939,939_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/sarahvshopwithme",
+        "public_name": "Sarah Venters",
+        "vendor_code": "sarahvshopwithme:shop",
+        "vendor_name": "Sarah Venters",
+        "vendor_tracking_id": "onamzsarahvsh-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/A1XKwNbRMhL._CR0,0,2316,1307_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/A1XKwNbRMhL.jpg",
+        "video_image_width": "2316",
+        "video_image_height": "3088",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/48d98715-64c3-44fc-bf36-91561345ce3e/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e53d2a0c-bc8e-446e-96f8-ba4f84be8152/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e53d2a0c-bc8e-446e-96f8-ba4f84be8152/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "3:06",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/01a3391b-187e-4cde-9d5a-1287aeb639ad.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0ead596da4834e42bbfe5f1718def062",
+        "product_asin": "B00AHAWWO0",
+        "parent_asin": "B00AHAWWO0",
+        "related_products": "B09JBV84D6",
+        "title": " Crest vs HiSmile Strips Which One Wins?",
+        "profile_image_url": "https://m.media-amazon.com/images/I/61XfqbG23VL._CR0,0,802,802_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/influencer-feaf66d7",
+        "public_name": "The Parent Game",
+        "vendor_code": "influencer-feaf66d7:shop",
+        "vendor_name": "The Parent Game",
+        "vendor_tracking_id": "onamzlittledi-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/61vxBDaBtEL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61vxBDaBtEL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1137",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/1758e35f-dcc6-410c-a715-53bf3b1727b5/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/12df8ab4-566e-4a5a-9261-cd4339fb053d/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/12df8ab4-566e-4a5a-9261-cd4339fb053d/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/12df8ab4-566e-4a5a-9261-cd4339fb053d/f21acc28-c923-4cac-b59a-4ee1f7d01fe2/0ead596da4834e42bbfe5f1718def062_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:14",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/4430d511-ac91-4481-a464-60aed2b63b4d.vtt"
+      }
+    ],
+    "is_bundle": false,
+    "feature_bullets": [
+      "PROFESSIONAL LEVEL WHITENING: Achieve 19 levels whiter teeth with Crest 3D Whitestrips Professional Effects teeth whitening kit, providing whitening results like a $400 professional level treatment. Perfect for wedding day essentials.",
+      "ENAMEL SAFE AND EFFECTIVE: From the #1 dentist recommended at home teeth whitening brand, Crest 3D Whitestrips use the same teeth whitening ingredient that dentists use, are enamel safe, and are highly effective.",
+      "ADVANCED TECHNOLOGY: Crest 3D Whitestrips feature Advanced Seal Technology's no slip grip, allowing you to talk and drink water while whitening teeth.",
+      "COMPLETE TREATMENT: Includes 20 teeth whitening treatments, each with 1 upper and 1 lower whitening strip, plus 2 bonus whitening treatments."
+    ],
+    "feature_bullets_count": 4,
+    "feature_bullets_flat": "COMPLETE TREATMENT: Includes 20 teeth whitening treatments, each with 1 upper and 1 lower whitening strip, plus 2 bonus whitening treatments. ADVANCED TECHNOLOGY: Crest 3D Whitestrips feature Advanced Seal Technology's no slip grip, allowing you to talk and drink water while whitening teeth. ENAMEL SAFE AND EFFECTIVE: From the #1 dentist recommended at home teeth whitening brand, Crest 3D Whitestrips use the same teeth whitening ingredient that dentists use, are enamel safe, and are highly effective. PROFESSIONAL LEVEL WHITENING: Achieve 19 levels whiter teeth with Crest 3D Whitestrips Professional Effects teeth whitening kit, providing whitening results like a $400 professional level treatment. Perfect for wedding day essentials.",
+    "top_reviews": [
+      {
+        "id": "R3JVE6F9QARNR7",
+        "title": "These whitening strips actually worked on my coffee-stained teeth",
+        "body": "Finally found something that actually works for my coffee-stained teeth!Okay, so I'm one of those people who can't function without my morning coffee (sometimes afternoon coffee too, let's be honest). Add in the occasional glass of red wine, and my teeth... well, let's just say they weren't exactly photo-ready.I've been down this road before with whitening products. Tried those messy gels that never stayed put, those pen things that felt like I was coloring my teeth, and don't even get me started on the charcoal trend. Nothing really stuck or gave me results I could actually see.But these Crest 3D Whitestrips? Game changer.What you get and how it worksThe box comes with 44 strips total - that's enough for 22 treatments since you need one for top teeth and one for bottom. They're all individually wrapped, which is nice because I actually took some with me on a work trip.I committed to using them once a day for two weeks straight. And honestly? I was skeptical at first. But by day 4, I caught myself doing a double-take in the bathroom mirror. My teeth actually looked... brighter? By day 10, even my coworker asked if I'd gotten my teeth professionally done.The difference was pretty dramatic - maybe 2 or 3 shades lighter. Even some old stains from my college years (when I drank way too much coffee) seemed to fade.The actual experienceUsing them is pretty straightforward - peel off the backing, stick them on, wait 30 minutes, then peel them off. The strips actually stay put, which was a pleasant surprise after dealing with other products that would slide around.They're thin enough that I could still talk normally, though I probably sounded a little funny. I usually just put them on while catching up on Netflix or scrolling through my phone.The only downside? Around day 6, I started getting these little zings of sensitivity in a couple of my teeth. Nothing unbearable, but definitely noticeable. Switching to Sensodyne for a few days helped a lot. If you've got sensitive teeth to begin with, you might want to do every other day instead.Random tips I learned the hard wayDry your teeth with a tissue first - the strips stick way betterDon't brush right before using them (learned this one the painful way)Keep them somewhere cool - I left mine in my hot car once and the adhesive got weirdYou get 8 extra treatments beyond the 14-day program, which is perfect for touch-upsBottom lineLook, I've dropped serious money on professional whitening before, and honestly? These worked just as well for a fraction of the cost. Are they perfect? No - the sensitivity thing is real, and you do have to plan around that 30-minute commitment. But if you want results you can actually see without breaking the bank or sitting in a dentist's chair, these are legit.I'm definitely ordering another box for maintenance - probably every few months or so.The good stuff:Actually works (saw results by day 4)Easy to use once you get the hang of itStrips don't slide around like other brandsWay cheaper than professional treatmentsThe not-so-great:Some tooth sensitivity (but manageable)Half an hour is kind of a commitmentCan't drink anything while wearing themHope this helps if you're on the fence! Happy to answer questions if you have any.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on June 5, 2025"
+        },
+        "profile": {
+          "name": "Amazon Customer"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 641,
+        "link": "https://www.amazon.com/gp/customer-reviews/R3JVE6F9QARNR7/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R1M5R3EBUM1XM1",
+        "title": "Excellent results that are maintaining",
+        "body": "I've worn Crest white strips about once a year for decades. I had my teeth whitened professionally after my  normally white teeth inexplicably become sort of grayish tinted when I was in my late twenties. (And yes, I know they say you can't whiten gray teeth but I guess I'm an exception). I then started using the Crest White strips annually to maintain my white teeth. I had always been happy with the results until last year when I got a dud version even though it was one of the more expensive versions and it said to only use it once a year, whereas the usual advice on the Crest White strips is that you can use them twice a year.  I took the once a year recommendation to mean that it would be a stronger formulation then the typical white strips. It was actually my worst experience with white strips by far. There was very little improvement.So this summer I bought white strips with some trepidation, even though this version has a bazillion five-star reviews. I was wondering if it was the white strips that I had problems with last year, or was it maybe that I was getting older and my teeth just wouldn't get as white. Well, the answer is that my teeth will get white with good quality white strips like these 3D professional effects strips. The two days of the more powerful whitening strips that are in the package does a good job of jump starting the whitening. My results were excellent and the results are maintaining well 6 weeks after I finished the strips.Details:I don't have much problem with sensitivity but if I do, I try to brush more gently, and I might skip a day.I use a whitening toothpaste in the morning and a gentle toothpaste at night. I don't use mouthwash for the duration.I avoid food and drinks that stain my teeth except for coffee in the morning. You might want to do some research because a lot of food and drinks that you might not suspect actually do stain your teeth. An example is some clear sodas. Even some toothpastes stain your teeth. You can actually find that statement on some very ordinary, major brand, mainstream tubes of toothpaste!I wait 30 minutes after eating or drinking in the morning and then floss and brush my teeth. I then wait a solid 30-40 minutes before using the white strips.After I've used the box of white strips, I go back to using the Crest whitening mouthwash and the same whitening toothpaste in the morning / gentle toothpaste at night routine. In my personal experience, the mouthwash doesn't do much to whiten teeth, but it is very helpful in maintaining white teeth. Be sure to follow the directions and don't eat or drink for 30 minutes after you have swished with the mouthwash for 1 minute.Try to swish with some water afterward if you do eat/drink foods that stain teeth.Maintain brushing twice a day. This really is a difference-maker for me.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on July 17, 2025"
+        },
+        "profile": {
+          "name": "Patilu"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 281,
+        "link": "https://www.amazon.com/gp/customer-reviews/R1M5R3EBUM1XM1/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R14S0YTERMVDOS",
+        "title": "Very Effective!!",
+        "body": "Very effective whitening. I’m 77 and was blessed with good skin and teeth. I go for cleanings every 6 months. I started the whitestrips after my last cleaning. My teeth were getting yellowish. I drink coffee daily. I just completed 20 days and am pleased with the results. I had some sensitivity the first week. Sensodyne toothpaste took care of sensitivity. I did not wear the whitestrips 20 consecutive days. I took a day off a couple times. My dentist was eager to talk me into an expensive set of trays and professional in-office whitening. God bless my hygienist who said to try Crest Whitestrips. I couldn't be happier. I still drink coffee daily, but swish with water after my last cup. I’ll do a maintenance refresh in a month or so.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on March 5, 2026"
+        },
+        "profile": {
+          "name": "Sarah"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 7,
+        "link": "https://www.amazon.com/gp/customer-reviews/R14S0YTERMVDOS/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "RUCKR7DOFTNB0",
+        "title": "Great whitening but sensitivity",
+        "body": "The results with these strips were noticeable, my teeth definitely looked brighter after a few uses. They stay in place well and are easy to apply, which makes the whole process pretty simple. The only downside for me was the sensitivity. By the 2nd application my teeth started feeling a bit tender, so I had to space out the applications. The whitening still worked, just needed to go slower than recommended. Overall, they’re effective if you want a quick boost in brightness, just be mindful if you’re prone to sensitivity.",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in the United States on January 11, 2026"
+        },
+        "profile": {
+          "name": "Jessie C."
+        },
+        "verified_purchase": true,
+        "helpful_votes": 47,
+        "link": "https://www.amazon.com/gp/customer-reviews/RUCKR7DOFTNB0/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R1HQ9ESTK6AC6G",
+        "body": "Buen valor",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Mexico on January 21, 2026"
+        },
+        "profile": {
+          "name": "ann mahaney price"
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "R1C1BKNSMROU1K",
+        "body": "Al día 10 ví mucho cambio. Quedé muy contenta. Compré otros 2 para la familia.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Mexico on May 25, 2024"
+        },
+        "profile": {
+          "name": "mayela wong"
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "R2SLJH8C4XT2C6",
+        "body": "De verdad notas la diferencia al usarlo",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Mexico on July 12, 2023"
+        },
+        "profile": {
+          "name": "Reds"
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "R2ITZAT7R1F22",
+        "body": "No pude ver los resultados dado que a partir del segundo uso me provocó hipersensibilidad y las dejé de usar.",
+        "rating": 3,
+        "date": {
+          "raw": "Reviewed in Mexico on August 8, 2020"
+        },
+        "profile": {
+          "name": "Diego"
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "R1T8PNRFS3LYAS",
+        "body": "Llego tarde el pedido (3 días después)La caja aplastadaNo coincide con la imagen de la publicación",
+        "rating": 2,
+        "date": {
+          "raw": "Reviewed in Mexico on December 11, 2025"
+        },
+        "profile": {
+          "name": "Michelle"
+        },
+        "verified_purchase": true
+      }
+    ],
+    "bestsellers_rank": [
+      {
+        "rank": 121,
+        "category": "Health & Household",
+        "link": "https://www.amazon.com/gp/bestsellers/hpc/ref=pd_zg_ts_hpc"
+      },
+      {
+        "rank": 1,
+        "category": "Teeth Whitening Strips",
+        "link": "https://www.amazon.com/gp/bestsellers/hpc/21193189011/ref=pd_zg_hrsr_hpc"
+      }
+    ],
+    "a_plus_content": {
+      "has_a_plus_content": true,
+      "has_brand_story": false,
+      "all_images": [
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/50d7ce4c-0121-4601-821a-d351b26c271a.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "Reflection of woman in mirror smiling and peeling a Crest 3DWhitestrip."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/44cb4c1d-6889-4460-ba3c-255292af90a3.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "Professional-level whitening. Apply one treatment daily for 45 minutes over 20 days."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ea26a272-9dc6-4a7f-b290-a1f90bf3d29f.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "How To Use Crest 3DWhitestrips. Step 1 - Peel. Step 2 - Apply. Step 3 - Reveal."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a96fd688-f209-4174-a79a-07871bf6aca4.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "How It Works. Crest 3DWhitestrip floating next to hydrogen peroxide bubbles on a blue background."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/71ab0732-c3c9-422c-aab8-535fc228434f.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "22 Treatments Included. Pack of Crest 3DWhitestrips next to 3 sachets on a counter."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/31143ce9-772d-427d-8aca-d985e5934fa4.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "Woman smiling holding pack. Brighten Your Smile with the #1 Dentist Recommended Brand in America."
+        }
+      ],
+      "third_party": false
+    },
+    "buybox_winner": {
+      "maximum_order_quantity": {
+        "value": 2,
+        "hard_maximum": true
+      },
+      "subscribe_and_save": {
+        "base_discount_percentage": 5,
+        "delivery_message": "Save 5% on all deliveries.",
+        "default_delivery": "6 months (Most common)",
+        "base_price": {
+          "value": 43.69,
+          "currency": "USD",
+          "symbol": "$",
+          "raw": "43.69"
+        },
+        "tiered_price": {
+          "value": 43.69,
+          "currency": "USD",
+          "symbol": "$",
+          "raw": "43.69"
+        }
+      },
+      "price_only_available_in_cart": false,
+      "trade_in_and_save": true,
+      "return_policy": {
+        "duration_days": 30,
+        "type": "refund/replacement",
+        "seller": "Amazon"
+      },
+      "is_prime": true,
+      "is_prime_exclusive_deal": false,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "In Stock",
+        "dispatch_days": 1
+      },
+      "fulfillment": {
+        "type": "p1",
+        "standard_delivery": {
+          "date": "Sunday, March 22",
+          "name": "FREE"
+        },
+        "fastest_delivery": {
+          "date": "Thursday, March 19",
+          "name": "Or Prime members get FREE delivery Thursday, March 19. Order within 13 hrs 24 mins. Join Prime"
+        },
+        "is_sold_by_amazon": true,
+        "amazon_seller": {
+          "name": "Amazon"
+        },
+        "is_fulfilled_by_amazon": true,
+        "is_fulfilled_by_third_party": false,
+        "is_sold_by_third_party": false
+      },
+      "price": {
+        "symbol": "$",
+        "value": 45.99,
+        "currency": "USD",
+        "raw": "$45.99"
+      },
+      "rrp": {
+        "symbol": "$",
+        "value": 45.99,
+        "currency": "USD",
+        "raw": "$45.99"
+      },
+      "unit_price": {
+        "symbol": "$",
+        "value": 2.09,
+        "currency": "USD",
+        "raw": "$2.09 / count"
+      },
+      "shipping": {
+        "raw": "FREE"
+      }
+    },
+    "specifications": [
+      {
+        "name": "Is Discontinued By Manufacturer",
+        "value": "No"
+      },
+      {
+        "name": "Product Dimensions",
+        "value": "5.43 x 1.81 x 5.9 inches; 1.76 ounces"
+      },
+      {
+        "name": "Item model number",
+        "value": "3116194"
+      },
+      {
+        "name": "UPC",
+        "value": "037000857785"
+      },
+      {
+        "name": "Manufacturer",
+        "value": "Procter & Gamble"
+      },
+      {
+        "name": "ASIN",
+        "value": "B00AHAWWO0"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "See Top 100 in Health & Household"
+      },
+      {
+        "name": "Brand Name",
+        "value": "Crest"
+      },
+      {
+        "name": "Product Benefits",
+        "value": "Whitening"
+      },
+      {
+        "name": "Item Form",
+        "value": "Strip"
+      },
+      {
+        "name": "Included Components",
+        "value": "Whitening Strip"
+      },
+      {
+        "name": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "name": "Global Trade Identification Number",
+        "value": "00037000857785"
+      },
+      {
+        "name": "Set Name",
+        "value": "22 Treatments"
+      },
+      {
+        "name": "Manufacturer Part Number",
+        "value": "3116194"
+      },
+      {
+        "name": "Model Number",
+        "value": "3116194"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "#121 in Health & Household (See Top 100 in Health & Household) #1 in Teeth Whitening Strips"
+      },
+      {
+        "name": "Customer Reviews",
+        "value": "4.6    4.6 out of 5 stars         (102,935)           4.6 out of 5 stars"
+      },
+      {
+        "name": "Number of Items",
+        "value": "1"
+      },
+      {
+        "name": "Item Dimensions",
+        "value": "5.43 x 1.81 x 5.9 inches"
+      },
+      {
+        "name": "Unit Count",
+        "value": "22 Count"
+      },
+      {
+        "name": "Item Weight",
+        "value": "1.76 Ounces"
+      },
+      {
+        "name": "Active Ingredients",
+        "value": "Hydrogen Peroxide"
+      },
+      {
+        "name": "Material Type Free",
+        "value": "Gluten Free"
+      },
+      {
+        "name": "Allergen Information",
+        "value": "Nut Free, Soy Free"
+      },
+      {
+        "name": "Material Features",
+        "value": "Lasts for 12 Months, Removes 14 Years of Stains, Professional-Level Teeth Whitening Results, No Slip Grip"
+      },
+      {
+        "name": "Flavor",
+        "value": "Flavorless"
+      },
+      {
+        "name": "GTIN",
+        "value": "037000857785"
+      }
+    ],
+    "specifications_flat": "GTIN: 037000857785. Flavor: Flavorless. Material Features: Lasts for 12 Months, Removes 14 Years of Stains, Professional-Level Teeth Whitening Results, No Slip Grip. Allergen Information: Nut Free, Soy Free. Material Type Free: Gluten Free. Active Ingredients: Hydrogen Peroxide. Item Weight: 1.76 Ounces. Unit Count: 22 Count. Item Dimensions: 5.43 x 1.81 x 5.9 inches. Number of Items: 1. Customer Reviews: 4.6    4.6 out of 5 stars         (102,935)           4.6 out of 5 stars. Best Sellers Rank: #121 in Health & Household (See Top 100 in Health & Household) #1 in Teeth Whitening Strips. Model Number: 3116194. Manufacturer Part Number: 3116194. Set Name: 22 Treatments. Global Trade Identification Number: 00037000857785. Age Range Description: Adult. Included Components: Whitening Strip. Item Form: Strip. Product Benefits: Whitening. Brand Name: Crest. Best Sellers Rank: See Top 100 in Health & Household. ASIN: B00AHAWWO0. Manufacturer: Procter & Gamble. UPC: 037000857785. Item model number: 3116194. Product Dimensions: 5.43 x 1.81 x 5.9 inches; 1.76 ounces. Is Discontinued By Manufacturer: No.",
+    "recent_sales": "80K+ bought in past month",
+    "gift_guide_badge": {
+      "badge_text": "80K+ bought in past month"
+    },
+    "ingredients": [
+      "When using this product do not use for sensitivity longer than four weeks unless recommended by a dentist. Stop use and ask a dentist if the sensitivity problem persists or worsens. Sensitive teeth may indicate a serious problem that may need prompt care. Keep out of reach of children. If more than used for brushing is accidentally swallowed",
+      "get medical help or contact a Poison Control Center right away.Read and follow product labels for more information. Dist. by Procter & Gamble",
+      "Cincinnati",
+      "OH 45202.PVP",
+      "PEG-8",
+      "Water",
+      "Hydrogen Peroxide",
+      "Acrylates Copolymer",
+      "Sodium Hydroxide",
+      "Sodium SaccharinApply the strip to clean",
+      "dry teeth",
+      "following contour of teeth. Do not apply gums or other soft tissue. Leave on for recommended time (45 minutes Professional Effects and 60 1 Hour Express). Remove discard. Brush teeth gently remove any residual gel. Use as directed",
+      "be used more than 22 days. If sensitivity irritation occurs",
+      "discontinue use consult a dentist."
+    ],
+    "ingredients_flat": "When using this product do not use for sensitivity longer than four weeks unless recommended by a dentist. Stop use and ask a dentist if the sensitivity problem persists or worsens. Sensitive teeth may indicate a serious problem that may need prompt care. Keep out of reach of children. If more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center right away.Read and follow product labels for more information. Dist. by Procter & Gamble, Cincinnati, OH 45202.PVP, PEG-8, Water, Hydrogen Peroxide, Acrylates Copolymer, Sodium Hydroxide, Sodium SaccharinApply the strip to clean, dry teeth, following contour of teeth. Do not apply gums or other soft tissue. Leave on for recommended time (45 minutes Professional Effects and 60 1 Hour Express). Remove discard. Brush teeth gently remove any residual gel. Use as directed, be used more than 22 days. If sensitivity irritation occurs, discontinue use consult a dentist.",
+    "material": "Lasts for 12 Months, Removes 14 Years of Stains, Professional-Level Teeth Whitening Results, No Slip Grip",
+    "manufacturer": "Procter & Gamble",
+    "weight": "1.76 Ounces",
+    "dimensions": "5.43 x 1.81 x 5.9 inches; 1.76 ounces",
+    "model_number": "3116194",
+    "bestsellers_rank_flat": "Category: Health & Household | Rank: 121, Category: Teeth Whitening Strips | Rank: 1"
+  },
+  "brand_store": {
+    "id": "BFCAC29E-D887-42C7-826B-FEDABF96B8DF",
+    "link": "https://www.amazon.com/stores/Crest/page/BFCAC29E-D887-42C7-826B-FEDABF96B8DF"
+  }
+}

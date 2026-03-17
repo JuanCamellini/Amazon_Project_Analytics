@@ -1,0 +1,1061 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 8,
+    "credits_remaining": 92,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "type": "product",
+    "asin": "B0BK2SC18T",
+    "amazon_domain": "amazon.com"
+  },
+  "request_metadata": {
+    "created_at": "2026-03-17T15:36:31.779Z",
+    "processed_at": "2026-03-17T15:36:38.138Z",
+    "total_time_taken": 6.36,
+    "amazon_url": "https://www.amazon.com/dp/B0BK2SC18T?th=1&psc=1"
+  },
+  "product": {
+    "title": "GuruNanda Teeth Whitening Strips - 7-Day Treatment with Non-Slip, Dry Strip Technology - Whitening Designed with Care for a Brighter Smile 14 Count (Pack of 1)",
+    "search_alias": {
+      "title": "Beauty & Personal Care",
+      "value": "search-alias=beauty"
+    },
+    "title_excluding_variant_name": "GuruNanda Teeth Whitening Strips - 7-Day Treatment with Non-Slip, Dry Strip Technology - Whitening Designed with Care for a Brighter Smile",
+    "keywords": "GuruNanda Teeth Whitening Strips - 7-Day Treatment with Non-Slip, Dry Strip Technology - Whitening Designed with Care for a Brighter Smile 14 Count (Pack of 1)",
+    "keywords_list": [
+      "GuruNanda Teeth Whitening Strips - 7-Day Treatment with Non-Slip",
+      "Dry Strip Technology - Whitening Designed with Care for a Brighter Smile 14 Count (Pack of 1)"
+    ],
+    "is_collection": false,
+    "asin": "B0BK2SC18T",
+    "parent_asin": "B0DBRRV1G9",
+    "link": "https://www.amazon.com/GuruNanda-Express-Whitening-Natural-Sensitive/dp/B0BK2SC18T",
+    "brand": "GuruNanda",
+    "sell_on_amazon": false,
+    "variants": [
+      {
+        "asin": "B0GPQ7B2NY",
+        "title": "60 Count (Pack of 1)",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0GPQ7B2NY?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "60 Count (Pack of 1)"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/81IfwRcVPwL._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/81IfwRcVPwL._AC_SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0DBQG28PV",
+        "title": "32 Count (Pack of 1)",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0DBQG28PV?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "32 Count (Pack of 1)"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71IU-vWJ3iL._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71IU-vWJ3iL._AC_SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0BK2SC18T",
+        "title": "14 Count (Pack of 1)",
+        "is_current_product": true,
+        "link": "https://www.amazon.com/dp/B0BK2SC18T?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "14 Count (Pack of 1)"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71EybBZ-jpL._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71EybBZ-jpL._AC_SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0GGLTQFD2",
+        "title": "32 Count (Pack of 2)",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0GGLTQFD2?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "32 Count (Pack of 2)"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/81QAsdGE3BL._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/81QAsdGE3BL._AC_SL1500_.jpg"
+          }
+        ]
+      }
+    ],
+    "variant_asins_flat": "B0GPQ7B2NY,B0DBQG28PV,B0BK2SC18T,B0GGLTQFD2",
+    "proposition_65_warning": false,
+    "has_size_guide": true,
+    "add_on_item": {
+      "is_add_on_item": true
+    },
+    "categories": [
+      {
+        "name": "Beauty & Personal Care"
+      },
+      {
+        "name": "Health & Household",
+        "link": "https://www.amazon.com/health-personal-care-nutrition-fitness/b/ref=dp_bc_1?ie=UTF8&node=3760901",
+        "category_id": "3760901"
+      },
+      {
+        "name": "Oral Care",
+        "link": "https://www.amazon.com/Oral-Care-Products/b/ref=dp_bc_2?ie=UTF8&node=10079992011",
+        "category_id": "10079992011"
+      },
+      {
+        "name": "Teeth Whitening",
+        "link": "https://www.amazon.com/Teeth-Whitening-Products/b/ref=dp_bc_3?ie=UTF8&node=3778441",
+        "category_id": "3778441"
+      },
+      {
+        "name": "Strips",
+        "link": "https://www.amazon.com/b/ref=dp_bc_4?ie=UTF8&node=21193189011",
+        "category_id": "21193189011"
+      }
+    ],
+    "categories_flat": "Beauty & Personal Care > Health & Household > Oral Care > Teeth Whitening > Strips",
+    "sub_title": {
+      "text": "Visit the GuruNanda Store",
+      "link": "https://www.amazon.com/stores/Gurunanda/page/D37AFDF8-043E-4168-95F1-5E4A94E6ADDB?lp_asin=B0BK2SC18T&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto"
+    },
+    "amazons_choice": {
+      "link": "https://www.amazon.com/GuruNanda-Express-Whitening-Natural-Sensitive/dp/B0BK2SC18T",
+      "badge_text": "Amazon's  Choice"
+    },
+    "marketplace_id": "ATVPDKIKX0DER",
+    "has_coupon": true,
+    "coupon_text": "Save 10%: Coupon available when you select Subscribe & Save .",
+    "rating": 4.4,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 72,
+        "count": 12830
+      },
+      "four_star": {
+        "percentage": 13,
+        "count": 2316
+      },
+      "three_star": {
+        "percentage": 7,
+        "count": 1247
+      },
+      "two_star": {
+        "percentage": 3,
+        "count": 535
+      },
+      "one_star": {
+        "percentage": 5,
+        "count": 891
+      }
+    },
+    "ratings_total": 17819,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/71EybBZ-jpL.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/81WjxXGHOJL._AC_SL1500_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81VQ0JqBHHL._AC_SL1500_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81gdze16ctL._AC_SL1500_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71Jn6MpGoFL._AC_SL1500_.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71OpH8A4K-L._AC_SL1500_.jpg",
+        "variant": "PT05"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81fqEBNGNFL._AC_SL1500_.jpg",
+        "variant": "PT06"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81wfU-1V-YL._AC_SL1500_.jpg",
+        "variant": "PT07"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81aKLqF8lvL._AC_SL1500_.jpg",
+        "variant": "PT08"
+      }
+    ],
+    "images_count": 8,
+    "images_flat": "https://m.media-amazon.com/images/I/81WjxXGHOJL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81VQ0JqBHHL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81gdze16ctL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71Jn6MpGoFL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71OpH8A4K-L._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81fqEBNGNFL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81wfU-1V-YL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81aKLqF8lvL._AC_SL1500_.jpg",
+    "videos_count": 10,
+    "videos_additional": [
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0119b56d72cf42f1b6654c0046097c76",
+        "product_asin": "B0BK2SC18T",
+        "parent_asin": "B0DBRRV1G9",
+        "related_products": "B0BK2SC18T",
+        "title": "Does what it say",
+        "profile_image_url": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SL34_.png",
+        "profile_link": "/gp/profile/amzn1.account.AHJQLKNLSPVYIH7LNXZQMPLCWNFQ",
+        "public_name": "JoJo Absolam",
+        "vendor_code": "AOD60",
+        "vendor_name": "JoJo Absolam",
+        "video_image_url": "https://m.media-amazon.com/images/I/61cC+VgaCPL._CR0,0,1080,609_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61cC+VgaCPL.jpg",
+        "video_image_width": "1080",
+        "video_image_height": "1920",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/748402d0-df4d-4d60-990b-c401f03aa311/embedded.cc.default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a569898e-330f-43b4-9e5a-b329840fb716/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a569898e-330f-43b4-9e5a-b329840fb716/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:13",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/814b4b31-e463-4163-b1e3-cf78414956be.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.07a16b19375942f8a18927f21b92fd10",
+        "product_asin": "B0BK2SC18T",
+        "parent_asin": "B0DBRRV1G9",
+        "related_products": "B0BK2SC18T",
+        "title": "GuruNanda Teeth Whitening Strips",
+        "profile_image_url": "https://m.media-amazon.com/images/I/51Rz0NdAq4L._CR0,0,477,477_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/believeandachievefitbody",
+        "public_name": "Anne Talbot",
+        "vendor_code": "believeandachievefitbody:shop",
+        "vendor_name": "Anne Talbot",
+        "vendor_tracking_id": "onamzand00926-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/715q8DWix4L._CR0,0,1170,660_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/715q8DWix4L.jpg",
+        "video_image_width": "1170",
+        "video_image_height": "1599",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/25d2fce9-35c2-4275-b6c1-cd3b0b4b052e/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/987cb706-81ce-4f25-93bb-fcb842bf796f/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/987cb706-81ce-4f25-93bb-fcb842bf796f/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:30",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/f5606365-45da-485e-b449-4ffa8f200ff1.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0e2853fde1ed4cd3af4e52ecf00cf508",
+        "product_asin": "B0BK2SC18T",
+        "parent_asin": "B0DBRRV1G9",
+        "related_products": "B0BK2SC18T",
+        "title": "Affordable and great ingredients for whitening strips",
+        "profile_image_url": "https://m.media-amazon.com/images/I/B1e6VxPi5ML._CR0,237,1932,1932_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/micaart14",
+        "public_name": "Micaart14",
+        "vendor_code": "micaart14:shop",
+        "vendor_name": "Micaart14",
+        "vendor_tracking_id": "onamzmicahart-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/51W46Xc8YFL._CR1,0,638,360_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/51W46Xc8YFL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "360",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/8afc32f2-5629-41d2-a1c9-206dcd8ff2e9/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/fb05bfa7-1bde-45e4-8837-dfc53823cd82/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/fb05bfa7-1bde-45e4-8837-dfc53823cd82/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "2:03",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/22bec2b7-21d2-4030-91bf-891c3f165df7.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.01e02814eccc401ebb30ffe228aa688e",
+        "product_asin": "B0BK2SC18T",
+        "parent_asin": "B0DBRRV1G9",
+        "related_products": "B0DBQG28PV",
+        "title": "Honest Review of Whitening Strips! Worth It?!",
+        "profile_image_url": "https://m.media-amazon.com/images/I/A17rQbaL4qL._CR0,0,2761,2761_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/bluecolbysamm",
+        "public_name": "✅ Honest Reviews by Samm",
+        "vendor_code": "bluecolbysamm:shop",
+        "vendor_name": "✅ Honest Reviews by Samm",
+        "vendor_tracking_id": "onamzsamman01-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/D1Y1S271EjL._CR0,0,4032,2275_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/D1Y1S271EjL.jpg",
+        "video_image_width": "4032",
+        "video_image_height": "3024",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/b0938aac-4754-4c43-b3d3-b42f32d2e0dd/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c6922ac8-7ab8-42bc-8dee-c94679a62eeb/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c6922ac8-7ab8-42bc-8dee-c94679a62eeb/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:19",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/26912ecf-e96e-498d-af70-bfe5d88c7c01.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.03fb32e8a994409292cf0ad8ac4e79d8",
+        "product_asin": "B0BK2SC18T",
+        "parent_asin": "B0DBRRV1G9",
+        "related_products": "B0BK2SC18T",
+        "title": "GuruNanda Whitening Strips are selling like crazy!",
+        "profile_image_url": "https://m.media-amazon.com/images/I/61qKHPjsYGL._CR0,0,752,752_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/iampuneetnanda",
+        "public_name": "Puneet Nanda",
+        "vendor_code": "iampuneetnanda:shop",
+        "vendor_name": "Puneet Nanda",
+        "vendor_tracking_id": "onamzpuneet02-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/61gCRW818DL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61gCRW818DL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1137",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c6e46205-268f-4507-a30a-96a3ae533578/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/967416e3-e6ff-43fb-9b6d-cf76e8ef2bdd/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/967416e3-e6ff-43fb-9b6d-cf76e8ef2bdd/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:50",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/4b4788c3-cca2-405f-8c4b-7908d70dcce2.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0424f343ae7f4f11ab4a59ea30ab00f7",
+        "product_asin": "B0BK2SC18T",
+        "parent_asin": "B0DBRRV1G9",
+        "related_products": "B0BK2SC18T,B0DBRRV1G9",
+        "title": "Watch Before Buying These For Your Teeth!",
+        "profile_image_url": "https://m.media-amazon.com/images/I/51eb0Fde8RL._CR0,0,452,452_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/thenotoriousjg",
+        "public_name": "Stephanie Gray",
+        "vendor_code": "thenotoriousjg:shop",
+        "vendor_name": "Stephanie Gray",
+        "vendor_tracking_id": "onamzste01d2f-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/81dBNyaTbrL._CR3,0,1914,1080_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/81dBNyaTbrL.jpg",
+        "video_image_width": "1920",
+        "video_image_height": "1080",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f1fe4713-f55d-4419-bd21-1c4055c467e6/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/811d6f33-f51c-46cf-b081-9b04c20eddf3/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/811d6f33-f51c-46cf-b081-9b04c20eddf3/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:23",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/f6916919-8d6e-45af-ada6-d13c5cb0605b.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.00d473e12f314e128375ea2d16079d90",
+        "product_asin": "B0BK2SC18T",
+        "parent_asin": "B0DBRRV1G9",
+        "related_products": "B0BK2SC18T",
+        "title": "Great for sensitive teeth! Noticed a difference after 1 treatment",
+        "profile_image_url": "https://m.media-amazon.com/images/I/91vn2QljwdL._CR0,0,1849,1849_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/influencer-7a5bbeb0",
+        "public_name": "Heather Marie",
+        "vendor_code": "influencer-7a5bbeb0:shop",
+        "vendor_name": "Heather Marie",
+        "vendor_tracking_id": "onamzfarmh09d-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/A1v-an9+weL._CR0,0,1439,812_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/A1v-an9+weL.jpg",
+        "video_image_width": "1439",
+        "video_image_height": "1806",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/9484c009-81e2-4fc4-9322-c0b3f2c1908c/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/622cf929-9feb-40cb-b51d-0c227531c91f/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/622cf929-9feb-40cb-b51d-0c227531c91f/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:33",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/b3763517-54ff-4e95-a19d-3b4f438101ba.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0938a3f992c642229ec27dec35a738fa",
+        "product_asin": "B0BK2SC18T",
+        "parent_asin": "B0DBRRV1G9",
+        "related_products": "B0BK2SC18T",
+        "title": "Can GuruNanda Teeth Whitening Strips Really Transform Your Smile?",
+        "profile_image_url": "https://m.media-amazon.com/images/I/51pcC65c0oL._CR0,0,1024,1024_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/thestoriesofbaseball",
+        "public_name": "Cain Brands Reviews",
+        "vendor_code": "thestoriesofbaseball:shop",
+        "vendor_name": "Cain Brands Reviews",
+        "vendor_tracking_id": "onamzcainbr02-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/51U7SOg9sSL._CR1,0,638,360_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/51U7SOg9sSL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "360",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ba2a53db-c7b1-404d-b6c4-7e21bfc33057/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/37631022-4ab9-4226-990d-0356d809bc50/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/37631022-4ab9-4226-990d-0356d809bc50/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:49",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/99a91a15-5f51-44d1-a185-0ed0ae1374ec.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0ec89a35c97d425781a1913a6d3f73e1",
+        "product_asin": "B0BK2SC18T",
+        "parent_asin": "B0DBRRV1G9",
+        "related_products": "B0DBQG28PV,B0DBRRV1G9",
+        "title": "Tips You Need To Know About Guru Nanda Teeth Whitening",
+        "profile_image_url": "https://m.media-amazon.com/images/I/714EE8z1mEL._CR0,0,1112,1112_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/influencer-7dd825ff",
+        "public_name": "🌟TOP RATED REVIEW🌟",
+        "vendor_code": "influencer-7dd825ff:shop",
+        "vendor_name": "🌟TOP RATED REVIEW🌟",
+        "vendor_tracking_id": "onamdoitllc-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/71sFMxgviTL._CR34,0,1253,707_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/71sFMxgviTL.jpg",
+        "video_image_width": "1320",
+        "video_image_height": "707",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ae17379e-f95e-4c0f-919d-d34b1ec4821a/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/cdc5c780-e1aa-44b8-af55-48482b0fde10/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/cdc5c780-e1aa-44b8-af55-48482b0fde10/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:54",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/c470b397-c84c-45f3-a0df-b5914b55ee29.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.01beb047d8dc45bfb53c67cba5a7a425",
+        "product_asin": "B0BK2SC18T",
+        "parent_asin": "B0DBRRV1G9",
+        "related_products": "B0BK2SC18T",
+        "title": "Easy apply and effective Whitening. 2 kinds of strips.",
+        "profile_image_url": "https://m.media-amazon.com/images/I/B1UG8BT8KwL._CR0,0,4306,4306_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/theranchmama_",
+        "public_name": "Kaitlyn Pestarino-Pestarino Ranch/The Ranch Mama",
+        "vendor_code": "theranchmama_:shop",
+        "vendor_name": "Kaitlyn Pestarino-Pestarino Ranch/The Ranch Mama",
+        "vendor_tracking_id": "onamzranchmam-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/91qtPpaVMkL._CR3,0,1074,606_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/91qtPpaVMkL.png",
+        "video_image_width": "1079",
+        "video_image_height": "606",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2535ffd2-e9d0-4fd7-8241-0cfd15bd4880/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c3dbeb23-23c0-4382-9413-854258f88f67/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c3dbeb23-23c0-4382-9413-854258f88f67/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:05",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/9c0a023e-1ac0-4000-b466-42c73fe7d782.vtt"
+      }
+    ],
+    "is_bundle": false,
+    "feature_bullets": [
+      "Reveal a brighter smile with GuruNanda Teeth Whitening Strips. Our dry-strip formula combines hydrogen peroxide with soothing coconut extracts, helping to break down stains & whiten teeth.",
+      "Our strips offer superior adhesion for hassle-free application & stay put for up to 60 minutes for effectively whiter teeth. For best results, avoid eating, sleeping, or smoking while using the strips.",
+      "Our kit consists of 7 treatments (5 professional, 2 express). Each treatment has two strips covering both upper & lower teeth.",
+      "Experience noticeable effects quickly with our express treatment! Apply regularly to brighten your smile. Use at home, office, during travel—anytime, anywhere.",
+      "Our easy-to-peel-off strips helps to remove hard stains from coffee, wine, and smoking. Our product is vegan, and crafted in an FDA-registered facility for a secure dental care routine."
+    ],
+    "feature_bullets_count": 5,
+    "feature_bullets_flat": "Our easy-to-peel-off strips helps to remove hard stains from coffee, wine, and smoking. Our product is vegan, and crafted in an FDA-registered facility for a secure dental care routine. Experience noticeable effects quickly with our express treatment! Apply regularly to brighten your smile. Use at home, office, during travel—anytime, anywhere. Our kit consists of 7 treatments (5 professional, 2 express). Each treatment has two strips covering both upper & lower teeth. Our strips offer superior adhesion for hassle-free application & stay put for up to 60 minutes for effectively whiter teeth. For best results, avoid eating, sleeping, or smoking while using the strips. Reveal a brighter smile with GuruNanda Teeth Whitening Strips. Our dry-strip formula combines hydrogen peroxide with soothing coconut extracts, helping to break down stains & whiten teeth.",
+    "top_reviews": [
+      {
+        "id": "R3MDY9WAB0JN76",
+        "title": "Teeth Actually Get Whiter",
+        "body": "These whitening strips actually work! After just 3 days I noticed my teeth were visibly whiter. The dry strip technology means they stay in place really well - no slipping like other brands. They're thin and comfortable to wear for the full 30 minutes. No sensitivity issues which I've had with other whitening products. The mint flavor is pleasant. Having a full 7-day treatment gives great results without breaking the bank. Individually wrapped strips are convenient. My teeth look noticeably brighter and I get compliments. Will definitely purchase again!",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on February 6, 2026"
+        },
+        "profile": {
+          "name": "John Degen"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 44,
+        "link": "https://www.amazon.com/gp/customer-reviews/R3MDY9WAB0JN76/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R3SWMZBUHNQIL1",
+        "title": "Good for missing teeth!",
+        "body": "Great I recommend highly.Better than crest. Great whitening results even after 1 strip.I'm missing a tooth and it didn't slide off like the crest one does. I'm missing my middle tooth. Stays stuck on!! Really great!! Highly recommend. Leaves no white spots on my gums. Whitens good and is for people who have missing teeth!! Perfect product. Buy it!!Only downside as your teeth will be really sensitive afterwards",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on February 14, 2026"
+        },
+        "profile": {
+          "name": "Natasha Klug"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 12,
+        "link": "https://www.amazon.com/gp/customer-reviews/R3SWMZBUHNQIL1/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R3Q8VQMZU8H3S9",
+        "title": "Visible Results Without the Ache: A Gentle & Effective Approach to Home Whitening",
+        "body": "I have tried numerous whitening systems over the years, and the GuruNanda Teeth Whitening Strips are a refreshing change of pace, particularly for someone with sensitive enamel. Often, home whitening kits come with a significant amount of \"zing\" or post-application sensitivity, but GuruNanda has formulated a product that feels both professional and gentle.Application & Comfort: The strips are incredibly thin and have a \"no-slip\" grip that actually works. Once applied, they stay exactly where you put them, allowing you to go about your morning routine without them sliding around or causing excessive salivation. I also appreciate the subtle coconut oil infusion, which seems to soothe the gums during the 30-minute wear time.Whitening Efficacy: After completing a full 7-day cycle, I noticed a clear, multi-shade improvement in the brightness of my smile. It effectively lifted surface stains from coffee and tea without making my teeth feel porous or sensitive to cold liquids afterward. It’s a very natural-looking white—bright and clean without looking artificial.Final Verdict: If you want a mess-free, sensitive-friendly whitening solution that delivers on its promises, GuruNanda is a fantastic option. It provides the perfect balance of efficacy and comfort, making it easy to maintain a bright smile without the dreaded dental sensitivity.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on February 20, 2026"
+        },
+        "profile": {
+          "name": "Steven"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 15,
+        "link": "https://www.amazon.com/gp/customer-reviews/R3Q8VQMZU8H3S9/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "RH3DCKFT12ZPB",
+        "title": "Good product",
+        "body": "This item is very good quality and works for me. Close to crest white strips.",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in the United States on March 3, 2026"
+        },
+        "profile": {
+          "name": "Ebony Eyes"
+        },
+        "verified_purchase": true,
+        "helpful_votes": null,
+        "link": "https://www.amazon.com/gp/customer-reviews/RH3DCKFT12ZPB/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R97TQ390CHAIB",
+        "title": "Good product",
+        "body": "I’ve been really impressed with the whitening strips I’ve been using lately. One of my favorite things about them is that they’re made from a natural, coconut-based formula. I love knowing that I’m putting something gentle and more naturally derived on my teeth instead of a harsh chemical product. They’re especially great for people with sensitive teeth because they don’t cause that sharp, uncomfortable feeling that some whitening products can. Even after using them, I haven’t experienced any lingering sensitivity, which is a huge plus for me.The only downside is that the whitening period can feel a little long, but if you’re patient and stick with it, it’s definitely worth it. In my personal opinion, I notice my teeth looking up to a shade lighter with each use. That gradual brightening makes the wait feel worthwhile. I’m still waiting to try the express strips, and I plan to update my review once I’ve used them to compare the results. On top of everything else, they’re reasonably priced and the delivery is efficient, which makes the whole experience even better.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on February 11, 2026"
+        },
+        "profile": {
+          "name": "Amber"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 12,
+        "link": "https://www.amazon.com/gp/customer-reviews/R97TQ390CHAIB/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "RNI438Z3F4A7H",
+        "title": "No Sensitivity - Works Great!",
+        "body": "I purchased these strips after reading reviews from people with sensitive teeth who said they had no problems—and they were right! I have extremely sensitive teeth, and other brands have caused pain for me in the past.The first time I used them, I left the strips on for 30 minutes to test my sensitivity. I had no discomfort at all, and my teeth already looked brighter after the first use.The second time, I tried using them a little differently. I applied the top strip for an hour, removed it, and then applied the bottom strip for another hour. I personally found this more comfortable than wearing both strips at the same time—especially if you have the extra time.The results after the second use looked great—noticeably whiter and brighter. As the instructions mention, the longer you leave them on, the more they adhere to your teeth. Before removing them, I rinsed my mouth with water, which made them come off more easily. I also brushed to remove any remaining residue.Another thing I appreciate is that they don’t leave the gooey mess that some other brand-name strips do.Overall, these strips are excellent and a great option for anyone with sensitive teeth. I’m looking forward to even brighter teeth with continued use. Cheers to whiter teeth!",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on March 7, 2026"
+        },
+        "profile": {
+          "name": "SpringEssence"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 9,
+        "link": "https://www.amazon.com/gp/customer-reviews/RNI438Z3F4A7H/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R1A5BJRK8XBA6M",
+        "title": "Good buy agree with other reviews",
+        "body": "Works fast. Easy to use. Noticed a difference after a couple of days. Tastes okay. Very little to no sensitivity. Would rec. & purchase again",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on March 5, 2026"
+        },
+        "profile": {
+          "name": "staci"
+        },
+        "verified_purchase": true,
+        "helpful_votes": null,
+        "link": "https://www.amazon.com/gp/customer-reviews/R1A5BJRK8XBA6M/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R130HBTFASZKTK",
+        "body": "جميل جدا والنتيجه من اول استخدام شريته مره ثانيه",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Saudi Arabia on February 2, 2026"
+        },
+        "profile": {
+          "name": "Noura Turki"
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "R1QCT25ZJM101P",
+        "title": "Dont put it at the back of ur teeth only front",
+        "body": "Super awesome comes with everything u need and more",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Canada on June 15, 2025"
+        },
+        "profile": {
+          "name": "Maria"
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "R35WHZ3FNZ7F0K",
+        "title": "Works great",
+        "body": "Works great. I’m buying again.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United Arab Emirates on September 12, 2025"
+        },
+        "profile": {
+          "name": "Benjie"
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "RF5HO5ATD5ZQW",
+        "body": "Me encantaron, he usado varias y he visto gran diferencia en mi sonrisa, muy feliz con este producto.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Mexico on December 24, 2025"
+        },
+        "profile": {
+          "name": "Cori Lju"
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "R11RH9UBRI2JHC",
+        "body": "ممتاز",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United Arab Emirates on January 19, 2026"
+        },
+        "profile": {
+          "name": "Wafa"
+        },
+        "verified_purchase": true
+      }
+    ],
+    "bestsellers_rank": [
+      {
+        "rank": 138,
+        "category": "Health & Household",
+        "link": "https://www.amazon.com/gp/bestsellers/hpc/ref=pd_zg_ts_hpc"
+      },
+      {
+        "rank": 2,
+        "category": "Teeth Whitening Strips",
+        "link": "https://www.amazon.com/gp/bestsellers/hpc/21193189011/ref=pd_zg_hrsr_hpc"
+      }
+    ],
+    "a_plus_content": {
+      "has_a_plus_content": true,
+      "has_brand_story": true,
+      "brand_story": {
+        "hero_image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/bd99c11e-411d-4122-85b1-f967fd8b2515.__CR0,0,1464,625_PT0_SX1464_V1___.jpg",
+        "brand_store": {
+          "link": "/stores/page/D37AFDF8-043E-4168-95F1-5E4A94E6ADDB",
+          "id": "D37AFDF8-043E-4168-95F1-5E4A94E6ADDB"
+        },
+        "images": [
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/bd99c11e-411d-4122-85b1-f967fd8b2515.__CR0,0,1464,625_PT0_SX1464_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/be9a8072-ae9f-45ba-925e-4b699cfb82e7.__CR0,0,362,453_PT0_SX362_V1___.png",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3a8e6795-1d81-4b38-8dc1-a7a900e03c38.__CR0,0,362,453_PT0_SX362_V1___.png",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/625b0c02-f431-4f11-890e-a02391124603.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/52812af5-dd7a-49a8-908f-ec4e1ee52e92.__CR0,0,362,453_PT0_SX362_V1___.jpg"
+        ]
+      },
+      "all_images": [
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d267a531-fc91-4286-a931-6a6bfd4fd001.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "Teeth Whitening Strips"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/de22cd00-9b5f-41d5-ab20-391fd2ddb599.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "Whitening strips sachets"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0d391ce2-9496-4919-87ce-ea595bbc80ed.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "Whitening Strips ingredients"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/eda99461-4a78-4717-8609-44ab93d7c496.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+          "name": "whitening strips"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d5dc253b-cd36-4327-8f0e-3330b98a6449.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "whitening strips"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ea421059-677d-488d-a019-e11f189a13e6.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "Whitening strips"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d003b314-c1aa-46b5-9ee6-3419cc671e22.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "Whitening Strips How to Use"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e775b6d6-18fb-435a-a149-fab5ebd2f4f7.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "Whitening Strips How to Use Contd"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e45519c1-b506-4d90-8dcc-4a196302c24f.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "whitening strips"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/bd99c11e-411d-4122-85b1-f967fd8b2515.__CR0,0,1464,625_PT0_SX1464_V1___.jpg",
+          "name": "Brand Story"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/be9a8072-ae9f-45ba-925e-4b699cfb82e7.__CR0,0,362,453_PT0_SX362_V1___.png",
+          "name": "Who we are - Gurunanda"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3a8e6795-1d81-4b38-8dc1-a7a900e03c38.__CR0,0,362,453_PT0_SX362_V1___.png",
+          "name": "No. 1 oil pulling brand - GuruNanda"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a0c456e3-6722-465c-8d81-3eae953efe7b.__AC_SR166,182___.jpg",
+          "name": "Advanced OP"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4b944f5a-73be-4a12-90df-332ca1396ad8.__AC_SR166,182___.jpg",
+          "name": "Ashwagandha OP"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d7cce33d-b3ff-4053-88d6-d3dda7038156.__AC_SR166,182___.jpg",
+          "name": "CocoMint OP"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c1d10a8e-52a8-47dd-a764-b3a5a96e6aa6.__AC_SR166,182___.jpg",
+          "name": "Original OP"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ebd11134-942d-46ab-a1f6-d169690269e0.__AC_SR166,182___.jpg",
+          "name": "toothpaste"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/77dee653-1bd4-48bb-8566-c95b146891d0.__AC_SR166,182___.jpg",
+          "name": "toothpaste"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a17064ca-794a-4409-a463-9bc36597b480.__AC_SR166,182___.jpg",
+          "name": "toothpaste"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1cd40d20-5c9f-4759-91cf-5e47f87325ab.__AC_SR166,182___.jpg",
+          "name": "toothpaste"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c4265875-5bd8-4698-b525-9393cd2cc1ae.__AC_SR166,182___.jpg",
+          "name": "Breath harmonizer mouthwash"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/100ae441-4bdd-4f4e-92de-877fc380b6bf.__AC_SR166,182___.jpg",
+          "name": "Oral rinse mouthwash"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9b2ec61b-12a8-4fec-889e-640ea09ca701.__AC_SR166,182___.jpg",
+          "name": "Oil Pull"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7fb649d9-1a10-4fc2-be82-1c46fa6f1d51.__AC_SR166,182___.jpg",
+          "name": "Oil pull"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/60c616c8-9005-4a40-bde4-2f1c3985d873.__AC_SR166,182___.jpg",
+          "name": "Lion &amp;amp; Lamb 2.0"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/58cb0a96-451f-4437-89a4-7080af71f171.__AC_SR166,182___.jpg",
+          "name": "XL Water Flosser"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/03d4a4b5-2b48-4fd3-b228-a753ae6c32bf.__AC_SR166,182___.jpg",
+          "name": "UV Flosser"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/cfd9b4e6-bbeb-4f76-bdf9-4cddc4df1648.__AC_SR166,182___.jpg",
+          "name": "Compact Flosser"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a7098a61-6a91-4578-9eb3-922b6e1552b3.__AC_SR166,182___.jpg",
+          "name": "Kids Water Flosser"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/fc7fe735-5b05-446f-afd2-e181b2ef3d3a.__AC_SR166,182___.jpg",
+          "name": "Kids Oil Pulling"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1f63d290-51be-48fc-8023-6ccfd6181aef.__AC_SR166,182___.jpg",
+          "name": "Kids BOG toothbrush"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/be6201b3-6632-4214-a5eb-588a165184aa.__AC_SR166,182___.jpg",
+          "name": "Kids toothpaste"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c3ba0f9a-cab9-4597-9021-eb82475f4ca0.__AC_SR166,182___.jpg",
+          "name": "Castor Oil"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/478b838c-f0ff-4d3b-a55a-c306b77a17d1.__AC_SR166,182___.jpg",
+          "name": "Vitamin E"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/77d73da2-4739-4ba7-bc4f-062382b3f1d7.__AC_SR166,182___.jpg",
+          "name": "Hair Oil"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/56b23ac9-a386-4275-bcaf-91e2c6c3b210.__AC_SR166,182___.jpg",
+          "name": "Navel oil"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/cbc35fbb-7d65-4cc4-85ce-03e519e490c3.__AC_SR166,182___.jpg",
+          "name": "Whitening Wonder"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3f2544e1-592f-4217-bd02-b2184dc88384.__AC_SR166,182___.jpg",
+          "name": "Gums of Steel"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8b3cb553-724a-4e33-82d5-6d3df68acc1b.__AC_SR166,182___.jpg",
+          "name": "Whitening wireless kit"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/aff608ba-c283-4c0f-8286-f04580a717e4.__AC_SR166,182___.jpg",
+          "name": "Total Smile Makeover"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0206c741-5a8d-4e42-b4b9-7f0f4a98d749.__AC_SR166,182___.jpg",
+          "name": "Gutcleanse"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4b903e5d-e011-4dd8-8d5a-3ec3a7174ac3.__AC_SR166,182___.jpg",
+          "name": "BSO"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0b81dedf-491b-4d57-a98d-2c347e1e6424.__AC_SR166,182___.jpg",
+          "name": "Digestiva"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/226af8b9-2cc7-44be-88c7-69a1af67aee5.__AC_SR166,182___.jpg",
+          "name": "BSO"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/625b0c02-f431-4f11-890e-a02391124603.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+          "name": "Gurunanda certifications"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/52812af5-dd7a-49a8-908f-ec4e1ee52e92.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+          "name": "Experience GN"
+        }
+      ],
+      "third_party": false
+    },
+    "buybox_winner": {
+      "maximum_order_quantity": {
+        "value": 20,
+        "hard_maximum": true
+      },
+      "subscribe_and_save": {
+        "base_discount_percentage": 5,
+        "tiered_discount_percentage": 10,
+        "delivery_message": "Save 5% now and up to 10% on repeat deliveries.  No fees Cancel anytime",
+        "default_delivery": "3 months (Most common)",
+        "base_price": {
+          "value": 9.47,
+          "currency": "USD",
+          "symbol": "$",
+          "raw": "9.47"
+        },
+        "tiered_price": {
+          "value": 8.97,
+          "currency": "USD",
+          "symbol": "$",
+          "raw": "8.97"
+        }
+      },
+      "price_only_available_in_cart": false,
+      "trade_in_and_save": true,
+      "return_policy": {
+        "duration_days": 30,
+        "type": "refund/replacement"
+      },
+      "is_prime": true,
+      "is_prime_exclusive_deal": false,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "In Stock",
+        "dispatch_days": 1
+      },
+      "fulfillment": {
+        "type": "p2",
+        "standard_delivery": {
+          "date": "Wednesday, March 25",
+          "name": "FREE"
+        },
+        "fastest_delivery": {
+          "date": "Monday, March 23",
+          "name": "Or fastest delivery Monday, March 23. Order within 13 hrs 23 mins"
+        },
+        "is_sold_by_amazon": false,
+        "is_fulfilled_by_amazon": true,
+        "is_fulfilled_by_third_party": false,
+        "is_sold_by_third_party": true,
+        "third_party_seller": {
+          "name": "GuruNanda LLC"
+        }
+      },
+      "price": {
+        "symbol": "$",
+        "value": 9.97,
+        "currency": "USD",
+        "raw": "$9.97"
+      },
+      "rrp": {
+        "symbol": "$",
+        "value": 9.97,
+        "currency": "USD",
+        "raw": "$9.97"
+      },
+      "unit_price": {
+        "symbol": "$",
+        "value": 0.71,
+        "currency": "USD",
+        "raw": "$0.71 / count"
+      },
+      "shipping": {
+        "raw": "FREE"
+      }
+    },
+    "specifications": [
+      {
+        "name": "Product Dimensions",
+        "value": "2.5 x 0.1 x 4.5 inches; 1.13 ounces"
+      },
+      {
+        "name": "Date First Available",
+        "value": "October 21, 2022"
+      },
+      {
+        "name": "Manufacturer",
+        "value": "GuruNanda"
+      },
+      {
+        "name": "ASIN",
+        "value": "B0BK2SC18T"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "See Top 100 in Health & Household"
+      },
+      {
+        "name": "Brand Name",
+        "value": "GuruNanda"
+      },
+      {
+        "name": "Product Benefits",
+        "value": "Whitening"
+      },
+      {
+        "name": "Item Form",
+        "value": "Strip"
+      },
+      {
+        "name": "Included Components",
+        "value": "Whitening Strip"
+      },
+      {
+        "name": "Age Range Description",
+        "value": "Adult"
+      },
+      {
+        "name": "Global Trade Identification Number",
+        "value": "00810051082814"
+      },
+      {
+        "name": "Set Name",
+        "value": "14 Count"
+      },
+      {
+        "name": "UPC",
+        "value": "810051083606 810051082814"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "#138 in Health & Household (See Top 100 in Health & Household) #2 in Teeth Whitening Strips"
+      },
+      {
+        "name": "Customer Reviews",
+        "value": "4.4    4.4 out of 5 stars         (17,819)           4.4 out of 5 stars"
+      },
+      {
+        "name": "Number of Items",
+        "value": "1"
+      },
+      {
+        "name": "Item Dimensions",
+        "value": "2.5 x 0.1 x 4.5 inches"
+      },
+      {
+        "name": "Unit Count",
+        "value": "14 Count"
+      },
+      {
+        "name": "Active Ingredients",
+        "value": "Coconut Oil, Hydrogen Peroxide"
+      },
+      {
+        "name": "Material Type Free",
+        "value": "Harmful Chemical Free, Preservative Free, Artificial Dye Free, Artificial Flavor Free"
+      },
+      {
+        "name": "Flavor",
+        "value": "Mint"
+      }
+    ],
+    "specifications_flat": "Flavor: Mint. Material Type Free: Harmful Chemical Free, Preservative Free, Artificial Dye Free, Artificial Flavor Free. Active Ingredients: Coconut Oil, Hydrogen Peroxide. Unit Count: 14 Count. Item Dimensions: 2.5 x 0.1 x 4.5 inches. Number of Items: 1. Customer Reviews: 4.4    4.4 out of 5 stars         (17,819)           4.4 out of 5 stars. Best Sellers Rank: #138 in Health & Household (See Top 100 in Health & Household) #2 in Teeth Whitening Strips. UPC: 810051083606 810051082814. Set Name: 14 Count. Global Trade Identification Number: 00810051082814. Age Range Description: Adult. Included Components: Whitening Strip. Item Form: Strip. Product Benefits: Whitening. Brand Name: GuruNanda. Best Sellers Rank: See Top 100 in Health & Household. ASIN: B0BK2SC18T. Manufacturer: GuruNanda. Date First Available: October 21, 2022. Product Dimensions: 2.5 x 0.1 x 4.5 inches; 1.13 ounces.",
+    "recent_sales": "50K+ bought in past month",
+    "gift_guide_badge": {
+      "badge_text": "50K+ bought in past month"
+    },
+    "ingredients": [
+      "Keep out of reach of children. These strips are intended for use on teeth only. Avoid contact with eyes or other sensitive areas. Do not apply whitening strips directly after brushing; allow some time to pass to prevent gum irritation. Temporary white spots might appear on your teeth",
+      "which is a normal reaction after using whitening strips.PVP K30",
+      "Glycerin",
+      "Hydroxypropyl cellulose",
+      "PVP K90",
+      "Water",
+      "Alcohol",
+      "Hydrogen peroxide",
+      "Menthol",
+      "Coconut Oil.Tear open foil packet. Remove strips with dry hands and peel away from backing film. Looking in a mirror",
+      "fit strips",
+      "applying sticky gel side against your teeth. Line up with edge of gum and apply gentle pressure to mold and strip securely to the teeth. Product is designed to be used for 60 minutes. Leave in place for at least 30 minutes for easier removal. For optimal experience leave in place for 60 minutes.Statements regarding dietary supplements have not been evaluated by the FDA and are not intended to diagnose",
+      "treat",
+      "cure",
+      "or prevent any disease or health condition."
+    ],
+    "ingredients_flat": "Keep out of reach of children. These strips are intended for use on teeth only. Avoid contact with eyes or other sensitive areas. Do not apply whitening strips directly after brushing; allow some time to pass to prevent gum irritation. Temporary white spots might appear on your teeth, which is a normal reaction after using whitening strips.PVP K30, Glycerin, Hydroxypropyl cellulose, PVP K90, Water, Alcohol, Hydrogen peroxide, Menthol, Coconut Oil.Tear open foil packet. Remove strips with dry hands and peel away from backing film. Looking in a mirror, fit strips, applying sticky gel side against your teeth. Line up with edge of gum and apply gentle pressure to mold and strip securely to the teeth. Product is designed to be used for 60 minutes. Leave in place for at least 30 minutes for easier removal. For optimal experience leave in place for 60 minutes.Statements regarding dietary supplements have not been evaluated by the FDA and are not intended to diagnose, treat, cure, or prevent any disease or health condition.",
+    "material": "Harmful Chemical Free, Preservative Free, Artificial Dye Free, Artificial Flavor Free",
+    "manufacturer": "GuruNanda",
+    "first_available": {
+      "raw": "October 21, 2022",
+      "utc": "2022-10-21T00:00:00.000Z"
+    },
+    "dimensions": "2.5 x 0.1 x 4.5 inches; 1.13 ounces",
+    "bestsellers_rank_flat": "Category: Health & Household | Rank: 138, Category: Teeth Whitening Strips | Rank: 2"
+  },
+  "brand_store": {
+    "id": "D37AFDF8-043E-4168-95F1-5E4A94E6ADDB",
+    "link": "https://www.amazon.com/stores/Gurunanda/page/D37AFDF8-043E-4168-95F1-5E4A94E6ADDB"
+  }
+}

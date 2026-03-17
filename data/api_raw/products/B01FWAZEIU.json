@@ -1,0 +1,920 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 23,
+    "credits_remaining": 77,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "type": "product",
+    "asin": "B01FWAZEIU",
+    "amazon_domain": "amazon.com"
+  },
+  "request_metadata": {
+    "created_at": "2026-03-17T15:40:00.165Z",
+    "processed_at": "2026-03-17T15:40:06.998Z",
+    "total_time_taken": 6.83,
+    "amazon_url": "https://www.amazon.com/dp/B01FWAZEIU?th=1&psc=1"
+  },
+  "product": {
+    "title": "APC UPS 600VA / 330W UPS Battery Backup & Surge Protector, 7 Outlets (NEMA 5-15R), USB Charging Port, BE600M1 Uninterruptible Power Supply for Computers, Wi-Fi Routers, and Home Office Electronics UPS 600VA+USB",
+    "search_alias": {
+      "title": "Electronics",
+      "value": "search-alias=electronics"
+    },
+    "title_excluding_variant_name": "APC UPS 600VA / 330W UPS Battery Backup & Surge Protector, 7 Outlets (NEMA 5-15R), USB Charging Port, BE600M1 Uninterruptible Power Supply for Computers, Wi-Fi Routers, and Home Office Electronics",
+    "keywords": "APC UPS 600VA / 330W UPS Battery Backup & Surge Protector, 7 Outlets (NEMA 5-15R), USB Charging Port, BE600M1 Uninterruptible Power Supply for Computers, Wi-Fi Routers, and Home Office Electronics UPS 600VA+USB",
+    "keywords_list": [
+      "APC UPS 600VA / 330W UPS Battery Backup & Surge Protector",
+      "7 Outlets (NEMA 5-15R)",
+      "USB Charging Port",
+      "BE600M1 Uninterruptible Power Supply for Computers",
+      "Wi-Fi Routers",
+      "and Home Office Electronics UPS 600VA+USB"
+    ],
+    "is_collection": false,
+    "asin": "B01FWAZEIU",
+    "parent_asin": "B0F8H1YQYN",
+    "link": "https://www.amazon.com/APC-Battery-Protector-Back-UPS-BE600M1/dp/B01FWAZEIU",
+    "brand": "APC",
+    "protection_plans": [
+      {
+        "name": "2-Year Protection Plan",
+        "duration_months": 24,
+        "price": {
+          "value": "8.99",
+          "billing_type": "one_time"
+        }
+      },
+      {
+        "name": "3-Year Protection Plan",
+        "duration_months": 36,
+        "price": {
+          "value": "11.99",
+          "billing_type": "one_time"
+        }
+      },
+      {
+        "name": "NEW Complete Protect",
+        "description": "One plan covers all eligible past and future purchases",
+        "price": {
+          "value": "16.99",
+          "billing_type": "monthly"
+        }
+      }
+    ],
+    "sell_on_amazon": false,
+    "variants": [
+      {
+        "asin": "B01FWAZEIU",
+        "title": "UPS 600VA+USB",
+        "is_current_product": true,
+        "link": "https://www.amazon.com/dp/B01FWAZEIU?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Style",
+            "value": "UPS 600VA+USB"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/61-O0p1npOL._AC_SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/61-O0p1npOL._AC_SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B0019804U8",
+        "title": "UPS 550VA",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B0019804U8?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Style",
+            "value": "UPS 550VA"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/51zj+EOH9XL._AC_SL1280_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/51zj+EOH9XL._AC_SL1280_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B005GZRUZW",
+        "title": "UPS 650VA",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B005GZRUZW?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Style",
+            "value": "UPS 650VA"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/519-UyLjS+L._AC_SL1280_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/519-UyLjS+L._AC_SL1280_.jpg"
+          }
+        ]
+      }
+    ],
+    "variant_asins_flat": "B01FWAZEIU,B0019804U8,B005GZRUZW",
+    "proposition_65_warning": true,
+    "has_size_guide": true,
+    "add_on_item": {
+      "is_add_on_item": true
+    },
+    "categories": [
+      {
+        "name": "Electronics",
+        "link": "https://www.amazon.com/electronics-store/b/ref=dp_bc_1?ie=UTF8&node=172282",
+        "category_id": "172282"
+      },
+      {
+        "name": "Computers & Accessories",
+        "link": "https://www.amazon.com/computer-pc-hardware-accessories-add-ons/b/ref=dp_bc_2?ie=UTF8&node=541966",
+        "category_id": "541966"
+      },
+      {
+        "name": "Computer Accessories & Peripherals",
+        "link": "https://www.amazon.com/Computer-Accessories-Supplies/b/ref=dp_bc_3?ie=UTF8&node=172456",
+        "category_id": "172456"
+      },
+      {
+        "name": "Uninterruptible Power Supply (UPS)",
+        "link": "https://www.amazon.com/Computer-Uninterruptible-Power-Supply-Units/b/ref=dp_bc_4?ie=UTF8&node=764572",
+        "category_id": "764572"
+      }
+    ],
+    "categories_flat": "Electronics > Computers & Accessories > Computer Accessories & Peripherals > Uninterruptible Power Supply (UPS)",
+    "description": "This APC 600VA battery backup power supply offers guaranteed power and surge protection for wireless networks, computers, and other small electronics in your home or business. This backup battery power supply is designed for use during outages and unsafe voltage fluctuations, and acts as a surge protector with battery backup in the event of damaging power surges and spikes. The APC Back-UPS BE600M1 is the ideal battery backup for computers and routers to keep you and your smart devices connected.",
+    "sub_title": {
+      "text": "Visit the APC Store",
+      "link": "https://www.amazon.com/stores/APCbySchneiderElectric/page/EFF29AC1-601F-45AD-88C0-9F28AEA85953?lp_asin=B01FWAZEIU&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto"
+    },
+    "amazons_choice": {
+      "link": "https://www.amazon.com/APC-Battery-Protector-Back-UPS-BE600M1/dp/B01FWAZEIU",
+      "badge_text": "Amazon's  Choice"
+    },
+    "marketplace_id": "ATVPDKIKX0DER",
+    "rating": 4.5,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 77,
+        "count": 22077
+      },
+      "four_star": {
+        "percentage": 12,
+        "count": 3441
+      },
+      "three_star": {
+        "percentage": 4,
+        "count": 1147
+      },
+      "two_star": {
+        "percentage": 1,
+        "count": 287
+      },
+      "one_star": {
+        "percentage": 6,
+        "count": 1720
+      }
+    },
+    "ratings_total": 28671,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/61-O0p1npOL.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/51x0R8h4+aL._AC_SL1080_.jpg",
+        "variant": "FRNT"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71qTDP91qdL._AC_SL1500_.jpg",
+        "variant": "SIDE"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/712kX4oaBLL._AC_SL1500_.jpg",
+        "variant": "BACK"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71FXn5M6yqL._AC_SL1500_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81UORg2l3BL._AC_SL1500_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81Blg9pbNHL._AC_SL1500_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81BVvZiAEnL._AC_SL1500_.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81XRH234ZTL._AC_SL1500_.jpg",
+        "variant": "PT05"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81q0SZLNYUL._AC_SL1500_.jpg",
+        "variant": "PT06"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/814UyfXRNmL._AC_SL1500_.jpg",
+        "variant": "PT07"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/91Ty2-un21L._AC_SL1500_.jpg",
+        "variant": "PT08"
+      }
+    ],
+    "images_count": 11,
+    "images_flat": "https://m.media-amazon.com/images/I/51x0R8h4+aL._AC_SL1080_.jpg,https://m.media-amazon.com/images/I/71qTDP91qdL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/712kX4oaBLL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71FXn5M6yqL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81UORg2l3BL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81Blg9pbNHL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81BVvZiAEnL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81XRH234ZTL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81q0SZLNYUL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/814UyfXRNmL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/91Ty2-un21L._AC_SL1500_.jpg",
+    "videos_count": 8,
+    "videos_additional": [
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.061d278d2d5e4ec1a9fdf8570cc6914e",
+        "product_asin": "B01FWAZEIU",
+        "parent_asin": "B0F8H1YQYN",
+        "related_products": "B01FWAZEIU,B09VTSX1MB",
+        "title": "APC UPS / Surge Protector..",
+        "profile_image_url": "https://images-na.ssl-images-amazon.com/images/S/influencer-profile-image-prod/logo/shouldigetit_1639285092809_original._CR475,0,1634,1634_._FMjpg_._SL34_.jpeg",
+        "profile_link": "/shop/shouldigetit",
+        "public_name": "Should I Get It Reviews ",
+        "vendor_code": "shouldigetit:shop",
+        "vendor_name": "Should I Get It Reviews ",
+        "vendor_tracking_id": "onamzyou0f552-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/51dzIPg5bOL._CR1,0,638,360_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/51dzIPg5bOL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "360",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/298b750e-eb55-4a95-a744-fb50fb5880fd/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/dce0be01-185b-44bc-b60d-ccc2293c12a9/videopreview.jobtemplate.mp4.342X192P_20HZ_350KBPS_VER_1_0.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/dce0be01-185b-44bc-b60d-ccc2293c12a9/af0fa824-1342-4df4-b484-67aa173dd4d4/061d278d2d5e4ec1a9fdf8570cc6914e_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "2:28",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/46444faa-66de-4b79-9791-dfa73390ef47.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0c08e158ad3540e09f893e800a5e8148",
+        "product_asin": "B01FWAZEIU",
+        "parent_asin": "B0F8H1YQYN",
+        "related_products": "B01FWAZEIU,B08PTBR9MB",
+        "title": "APC UPS, This Works Great",
+        "profile_image_url": "https://images-na.ssl-images-amazon.com/images/S/influencer-profile-image-prod/logo/themathsorcerer_1609608788740_original._CR0,0,277,277_._FMjpg_._SL34_.png",
+        "profile_link": "/shop/themathsorcerer",
+        "public_name": "The Math Sorcerer's Lair",
+        "vendor_code": "themathsorcerer:shop",
+        "vendor_name": "The Math Sorcerer's Lair",
+        "vendor_tracking_id": "mathsorcerero-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/B16vxAWv19S._CR4,0,2552,1440_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/B16vxAWv19S.png",
+        "video_image_width": "2560",
+        "video_image_height": "1440",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/32e87cee-db6f-40c0-9bf0-71d596759b18/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f01e33f5-28c6-49ab-98f8-305690fdde6e/videopreview.jobtemplate.mp4.342X192P_20HZ_350KBPS_VER_1_0.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f01e33f5-28c6-49ab-98f8-305690fdde6e/90d5f510-cf3d-47eb-a03f-e89e17a80b4b/0c08e158ad3540e09f893e800a5e8148_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "3:35",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/d0912e4f-ba07-461a-b020-d9e9167d7d8d.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0cfa68a0fa8d46dda73401efccc27a2f",
+        "product_asin": "B01FWAZEIU",
+        "parent_asin": "B0F8H1YQYN",
+        "related_products": "B01FWAZEIU,B01HDC236Q,B06ZXRH6CM,B09VTSX1MB,B094RWC8WD",
+        "title": "APC UPS Battery Backup & Surge Protector - Review",
+        "profile_image_url": "https://images-na.ssl-images-amazon.com/images/S/influencer-profile-image-prod/logo/influencer-d06e3c82_1636450862655_original._CR653,0,2448,2448_._FMjpg_._SL34_.jpeg",
+        "profile_link": "/shop/influencer-d06e3c82",
+        "public_name": "Aish",
+        "vendor_code": "influencer-d06e3c82:shop",
+        "vendor_name": "Aish",
+        "vendor_tracking_id": "onamzalphazin-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/71uCe0RDluL._CR2,0,1276,720_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/71uCe0RDluL.jpg",
+        "video_image_width": "1280",
+        "video_image_height": "720",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/eb68d3e0-209a-4d96-a752-6c851b031492/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/8a1757a8-6a43-49f2-a168-37b994c5f91d/videopreview.jobtemplate.mp4.342X192P_20HZ_350KBPS_VER_1_0.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/8a1757a8-6a43-49f2-a168-37b994c5f91d/0cc31072-b4c7-446d-a369-9ad52048eef8/0cfa68a0fa8d46dda73401efccc27a2f_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "2:40",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/e1e55d48-e7af-422c-8611-88f3bf0cfb06.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0e049e23fde2412493d40dcb0e887c1f",
+        "product_asin": "B01FWAZEIU",
+        "parent_asin": "B0F8H1YQYN",
+        "related_products": "B01FWAZEIU,B0BZ5KPQZK",
+        "title": "APC UPS Battery Backup & Surge Protector (Video Review)",
+        "profile_image_url": "https://m.media-amazon.com/images/I/61g+CO3sl5L._CR0,0,794,794_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/kevinchambers",
+        "public_name": "Kevin Chambers",
+        "vendor_code": "kevinchambers:shop",
+        "vendor_name": "Kevin Chambers",
+        "vendor_tracking_id": "onamzkcsteedl-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/A1Nlu2rj-1L._CR3,0,1914,1080_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/A1Nlu2rj-1L.png",
+        "video_image_width": "1920",
+        "video_image_height": "1080",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3693292c-90c5-4bd6-a12c-5f6da83f33dd/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/6acbb350-a09a-4c8a-b812-d028f936c7e6/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/6acbb350-a09a-4c8a-b812-d028f936c7e6/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/6acbb350-a09a-4c8a-b812-d028f936c7e6/eb976c58-6867-41b5-aaf4-33e321aee195/0e049e23fde2412493d40dcb0e887c1f_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:17",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/ee8fcd02-65fc-4c57-ac62-0063aa511002.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0b3c6427002e453786a5995c4f947252",
+        "product_asin": "B01FWAZEIU",
+        "parent_asin": "B0F8H1YQYN",
+        "related_products": "B01MQOZLQY,B01HDC236Q,B001BTWQDS,B01FWAZEIU,B0092KP8BA",
+        "title": "Does it keep my network stuff up during storms?",
+        "profile_image_url": "https://m.media-amazon.com/images/I/91NgPZ3Ws2L._CR0,0,2320,2320_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/calledtomothering",
+        "public_name": "Gregg and Marisa",
+        "vendor_code": "calledtomothering:shop",
+        "vendor_name": "Gregg and Marisa",
+        "vendor_tracking_id": "onamzvertica0-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/B1f-3UvKY3L._CR3,0,1914,1080_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/B1f-3UvKY3L.png",
+        "video_image_width": "1920",
+        "video_image_height": "1080",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3dfe7ff0-ac45-4818-b1e0-8103b51f1a5c/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ee628303-3f0b-47fe-9a77-883e12088d97/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ee628303-3f0b-47fe-9a77-883e12088d97/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ee628303-3f0b-47fe-9a77-883e12088d97/efc195d2-8dd1-4ae9-88d7-3b37473e673b/0b3c6427002e453786a5995c4f947252_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:19",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/fd93c08f-d073-4a22-a09d-b4ed0fe4ba12.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.02fe5d354b4a4bf3a412f148ce9ed1e2",
+        "product_asin": "B01FWAZEIU",
+        "parent_asin": "B0F8H1YQYN",
+        "related_products": "B01FWAZEIU,B0BZ5KPQZK",
+        "title": "Watch This Before you Buy... Is it Worth it?",
+        "profile_image_url": "https://images-na.ssl-images-amazon.com/images/S/influencer-profile-image-prod/logo/tynicholstinyhabitscoach_1683342899009_original._FMjpg_._SL34_.jpeg",
+        "profile_link": "/shop/tynicholstinyhabitscoach",
+        "public_name": "Ty Nichols✅✅",
+        "vendor_code": "tynicholstinyhabitscoach:shop",
+        "vendor_name": "Ty Nichols✅✅",
+        "vendor_tracking_id": "onamztyroneni-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/719hVTSmyYL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/719hVTSmyYL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1137",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/de5d8701-a4a0-461e-869c-2f728cf57897/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/4af337cc-e479-4409-8364-4e034a274537/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/4af337cc-e479-4409-8364-4e034a274537/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/4af337cc-e479-4409-8364-4e034a274537/31df5f5d-cf93-4582-a8b4-162822d1845d/02fe5d354b4a4bf3a412f148ce9ed1e2_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:37",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/2cf8b34c-a243-4ad9-8659-b947907321cf.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.033db529fa1840f48fd9f4121a962375",
+        "product_asin": "B01FWAZEIU",
+        "parent_asin": "B0F8H1YQYN",
+        "related_products": "B01FWAZEIU",
+        "title": "Does not last!",
+        "profile_image_url": "https://m.media-amazon.com/images/S/amazon-avatars-global/0e258d95-013e-4f53-a5ab-4d454817eacf._CR41%2C0%2C418%2C418_SX460_._SL34_.jpg",
+        "profile_link": "/gp/profile/amzn1.account.AH6RA4MFAYQQCB2SVOAJFZYXJC7A",
+        "public_name": "SecretShopper",
+        "vendor_code": "AOD60",
+        "vendor_name": "SecretShopper",
+        "video_image_url": "https://m.media-amazon.com/images/I/61nshDZQnxL._CR0,0,1080,609_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61nshDZQnxL.jpg",
+        "video_image_width": "1080",
+        "video_image_height": "1920",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e54cf8d3-41e4-4473-8b81-0b15c3fb3683/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/514d6cba-b6d2-4eb4-98bb-97cb98cf1102/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/514d6cba-b6d2-4eb4-98bb-97cb98cf1102/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:05",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/a05bc807-dad9-4772-9f41-aadb217d2715.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0333fc2075a142d19ad031bc266671ee",
+        "product_asin": "B01FWAZEIU",
+        "parent_asin": "B0F8H1YQYN",
+        "related_products": "B01FWAZEIU",
+        "title": "Blocked Ports!!",
+        "profile_image_url": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SL34_.png",
+        "profile_link": "/gp/profile/amzn1.account.AFXFOD4KYQM5K6TKYNIK6VEATUGQ",
+        "public_name": "Dez Willy",
+        "vendor_code": "AOD60",
+        "vendor_name": "Dez Willy",
+        "video_image_url": "https://m.media-amazon.com/images/I/41oTxFYCV5L._CR0,0,720,406_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/41oTxFYCV5L.jpg",
+        "video_image_width": "720",
+        "video_image_height": "1280",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/35ca8623-dfac-4d59-82c7-08431d54e395/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d5b84d0a-b7f8-4b58-a062-cfad238df050/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d5b84d0a-b7f8-4b58-a062-cfad238df050/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:52",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/1fec526d-5700-40e2-b656-0f99d4def9f0.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.021cfd4bbcf142c59eca665e3d9656b8",
+        "product_asin": "B01FWAZEIU",
+        "parent_asin": "B0F8H1YQYN",
+        "related_products": "B01HDC236Q,B01FWAZEIU,B085JJZDFK,B08SH8B7MT",
+        "title": "Connecting the battery in a BE Series UPS by APC",
+        "public_name": "APC",
+        "vendor_code": "137GO",
+        "vendor_name": "APC",
+        "video_image_url": "https://m.media-amazon.com/images/I/51JEh+BG+jL._CR1,0,638,360_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/51JEh+BG+jL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "360",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/b5578eee-41a9-400d-9547-4b519488385e/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2e414195-facd-40de-98a0-b02ab2de86e9/videopreview.jobtemplate.mp4.342X192P_20HZ_350KBPS_VER_1_0.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2e414195-facd-40de-98a0-b02ab2de86e9/91534be9-50c7-4df3-8222-64aa914ea344/021cfd4bbcf142c59eca665e3d9656b8_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:09",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/5d4294f2-ded6-4531-abf2-3aa4b5105d46.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0a2478759c4d4f568b5163908c8059e7",
+        "product_asin": "B01FWAZEIU",
+        "parent_asin": "B0F8H1YQYN",
+        "related_products": "B01FWAZEIU",
+        "title": "Failed on first use",
+        "profile_image_url": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SL34_.png",
+        "profile_link": "/gp/profile/amzn1.account.AGJIZJYBCVCT3MAXRK5SMJZFHOCQ",
+        "public_name": "Sam",
+        "vendor_code": "AOD60",
+        "vendor_name": "Sam",
+        "video_image_url": "https://m.media-amazon.com/images/I/417xJTcKMjL._CR0,0,360,203_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/417xJTcKMjL.jpg",
+        "video_image_width": "360",
+        "video_image_height": "480",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/6e68eb75-2c96-4612-a01a-a72e932b8d24/embedded.cc.default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/6f8fcd27-13cb-454f-aa91-52bdb3633d13/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/6f8fcd27-13cb-454f-aa91-52bdb3633d13/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:09",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/9212237a-7756-4a53-8688-f03d7238ebd8.vtt"
+      }
+    ],
+    "is_bundle": false,
+    "feature_bullets": [
+      "600VA / 330W RELIABLE BACKUP POWER: Supplies short‑term battery power during outages to maintain internet connectivity and allow safe shutdown of computer and other devices during power interruptions.",
+      "STAY CONNECTED WHEN IT MATTERS MOST: Delivers up to 23 minutes of runtime when powering a 100W load. Mid-Size battery backup for computers, Wi‑Fi routers, modems, external drives, NAS, and Smart-Home IoT devices",
+      "POWER & CHARGE ALL YOUR ESSENTIAL DEVICES: 7 well‑spaced outlets (5 battery backup + surge protection, 2 surge‑only), plus a USB‑A charging port (1.5A), provide reliable protection and fast charging for multiple devices",
+      "INSTANT UPS STATUS & EASY BATTERY REPLACEMENT: Clear indicators and mutable audible alerts give quick UPS status updates. The battery is User‑replaceable with genuine APC replacement battery Model APCRBC154 (sold separately)",
+      "ENHANCED PROTECTION FOR CONNECTED ELECTRONICS: Supported by a 3‑Year Warranty and $75,000 Equipment Protection, offering enhanced coverage for connected devices and added assurance against power‑related damage"
+    ],
+    "feature_bullets_count": 5,
+    "feature_bullets_flat": "ENHANCED PROTECTION FOR CONNECTED ELECTRONICS: Supported by a 3‑Year Warranty and $75,000 Equipment Protection, offering enhanced coverage for connected devices and added assurance against power‑related damage. INSTANT UPS STATUS & EASY BATTERY REPLACEMENT: Clear indicators and mutable audible alerts give quick UPS status updates. The battery is User‑replaceable with genuine APC replacement battery Model APCRBC154 (sold separately). POWER & CHARGE ALL YOUR ESSENTIAL DEVICES: 7 well‑spaced outlets (5 battery backup + surge protection, 2 surge‑only), plus a USB‑A charging port (1.5A), provide reliable protection and fast charging for multiple devices. STAY CONNECTED WHEN IT MATTERS MOST: Delivers up to 23 minutes of runtime when powering a 100W load. Mid-Size battery backup for computers, Wi‑Fi routers, modems, external drives, NAS, and Smart-Home IoT devices. 600VA / 330W RELIABLE BACKUP POWER: Supplies short‑term battery power during outages to maintain internet connectivity and allow safe shutdown of computer and other devices during power interruptions.",
+    "top_reviews": [
+      {
+        "id": "RY9B36PSNAU02",
+        "title": "Great back up 120 volt power supply for power outages.",
+        "body": "This company is famous for good products. I bought this one to operate my wifes recliner when the power goes off. The little 9 volt system that came with the recliner always had a dead battery when the power went off. This device is big enough to power more than just a recliner. It stays plugged up so it is always at full charge. Tested with two recliners and lamp all at the same time and functioned as needed.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on March 9, 2026"
+        },
+        "profile": {
+          "name": "Bow Bender"
+        },
+        "verified_purchase": true,
+        "link": "https://www.amazon.com/gp/customer-reviews/RY9B36PSNAU02/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R1VRFWZUXEXQMF",
+        "title": "Reliable Backup Power That Helped Reveal a Hidden Issue",
+        "body": "This APC backup battery has been extremely useful, not only for protecting my electronics but also for identifying a problem I did not realize I had. It kept clicking on and off, which at first I thought was a defect, but it turned out to be a voltage issue in the wall outlet. Once I fixed that, the UPS has worked flawlessly. The unit is compact, easy to set up, and provides peace of mind by keeping my computer and equipment protected during power dips and outages. It also gives enough time to safely shut things down if the power goes out completely.The build quality feels solid, and the indicator lights make it easy to monitor its status at a glance. I have tested it during short outages, and it switches over instantly without any interruption. It runs quietly, and the included outlets are spaced well for larger plugs. Overall, it is a reliable and well-built UPS that not only protects devices but can even help you spot electrical issues before they become bigger problems.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on October 16, 2025"
+        },
+        "profile": {
+          "name": "Josh M"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 17,
+        "link": "https://www.amazon.com/gp/customer-reviews/R1VRFWZUXEXQMF/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R38XZLVJGUD7ZT",
+        "title": "Backup For Home Network Devices.",
+        "body": "Bought this device several years ago and it’s still working great. I use it in my garage where it is supplying power to my Amplifi  router and Ethernet switch. I use the hard wired Ethernet connections for my home backup batteries and access to the internet. The garage router is also hardwired Ethernet connection to the other routers for the best reliability. I found that even though the router and switch are on a critical circuit powered by the home backup batteries the switchover time is right on the edge to keep the router and switch continuously powered. So the suspenders and belt backup works great and I haven’t had any connection problems during power outages. Since the unit is powered by the backup batteries the short time for switchover that there maybe in a power outage is amply covered by the units capacity. Very pleased with its operation. I use similar units for the other routers and WiFi extension devices on my home network. The main electronics closet is also backed up with larger APC UPS devices.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on February 21, 2026"
+        },
+        "profile": {
+          "name": "BraneTraveler"
+        },
+        "verified_purchase": true,
+        "helpful_votes": null,
+        "link": "https://www.amazon.com/gp/customer-reviews/R38XZLVJGUD7ZT/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R1MDA8OIHL85ML",
+        "title": "good low-cost basic UPS",
+        "body": "Pros:Easy to replace batteryUSB monitoringUSB charging port that works off battery or utility powerWall-mountable (though screw keyholes are 213 mm or 8.39\" apart, not sure where they got this odd dimension)Entry-level costCons:No LCD displayNo mute buttonI'm not crazy about this form factorBattery is expensiveI have two of these.  They don't have huge capacity so they won't run anything with a lot of power draw for very long, but if you want surge protection and a computer or other device to not instant-off with a 2-second interruption in power, these work great.  There is an easy-to-access, toolless battery compartment though a replacement battery is more than half the cost of the unit, which is not typical.  It has a USB-A charging port and a USB-B port to plug into a computer (it comes with a cable) to monitor the power status.  I'm not crazy about this form factor and it doesn't have an LCD screen or mute button (it only has one button) so you have to refer to the manual for the color and blink pattern to determine what it's telling you and will need monitoring software to know what the load and available battery power are.  It's a good entry-level UPS.",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in the United States on June 3, 2025"
+        },
+        "profile": {
+          "name": "M. Floros"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 24,
+        "link": "https://www.amazon.com/gp/customer-reviews/R1MDA8OIHL85ML/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R1P3673G34QARZ",
+        "title": "Works well, even allows some use during a power outage",
+        "body": "I originally purchased 2 of these to help protect some of my more expensive equipment from surges (1 each in my home office & front room) after my electric company gave me the proverbial finger when I filed a claim on a $350 video surveillance system that had the hard drive controller get fried after a surge that happened when they were repeatedly turning the power on & off; I later bought a 3rd one & am expecting I may purchase a 4th in the future.So far, I've seen very little issue with them, even getting some usage on the devices that are plugged into them during a power outage (although I usually unplug those devices from them to preserve the battery life in case the power is out for 3 or more days again, intending on using that battery life to charge my phone if necessary).  I'm impressed with their performance so far & really have nothing to say negative about them for the time being.  The only thing I can really say is to watch what outlets you plug your devices into if you want battery backup on them; 2 of the outlets on the device do NOT provide battery backup, only surge protection.UPDATE: I have purchased 6 of these since July 09, 2021, I had my first one conk out tonight (early morning) on December 17, 2023, resulting in a shrill, never-ending beep & not powering anything. This was one of the first ones I purchased, which has had heavy use on it from a gaming computer that is almost never turned off. It worked well while I was using it, although I will point out it don't last long when the power is out with the computer using power off of it (normally the PC is turned off in a power outage). I moved one of the newer ones from my bedroom into the office to replace the one that went out for my computer & have ordered another to replace it (this being my seventh one).UPDATE: The earliest I have had one of these conk out was a little over 6 months (another one going out tonight on 2/2/2024), so life of this device varies; I think I might start getting the extended warranty when I purchase a new one (I probably could have gotten a free replacement on this last one to go out)...",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on March 25, 2022"
+        },
+        "profile": {
+          "name": "WonderGamer"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 124,
+        "link": "https://www.amazon.com/gp/customer-reviews/R1P3673G34QARZ/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "RZUCEKI4RXBG7",
+        "title": "Been using this for over a week and its been great. Its good for like routers or modems",
+        "body": "The UPS is great, been using it for over a week and throughout power outages and its been nothing but good. Its not the most powerful or not the most in battery life but its certainly enough for the average joe with their router. Its even good for a small amount of mobile power despite not being made for it, i wouldn't suggest it as you can risj damage to your unit but as for me i am careful so i am fine (i am not responsible for any and all damages made to your unit(s). Any and all careless acts carried out by you is yours and your fault only.) Ease of use is great, just connect the battery, plug it in and hit the power button. Turns right on and starts working immediately, some things to note. In the event of a long term outage, i would recommend checking in on it every now and then as the default alarm doesn't sound untie the battery is quite low. I would suggest either changing it or just checking in on it after a while. Other than that its a great little UPS and i would recommend it to others. One thing id like to see added is the ability for the ups to change the power button color depending on the SOC (state of charge) would be great to see that instead of a blinking green button till it starts beeping at you.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Canada on August 15, 2022"
+        },
+        "profile": {
+          "name": "Wonder"
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "R29XCEF6I3SI47",
+        "title": "APC is the way to go for a UPS",
+        "body": "Exactly what I was looking for. It's now powering my home network and Internet, VoIP adapter, home security and surveillance, and being managed by a Raspberry Pi. I'm very pleased with this purchase, as it's my second APC UPS, and the first one is still going for about 20 years with periodic battery replacements.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Canada on January 16, 2026"
+        },
+        "profile": {
+          "name": "itsjustme"
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "RHYIU87AFC2VT",
+        "body": "Excelente producto. funciona bien.Si no tiene cable de tierra de su casa o apartamento, indicador va a encender como rojo, pero no afecta la función de UPS",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Mexico on February 20, 2025"
+        },
+        "profile": {
+          "name": "Kindle Customer"
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "R21BYQV73KDFU4",
+        "title": "Great little UPS",
+        "body": "Very happy with this one. Bought it to replace a larger Tripp Lite AVR750 unit that gave me more issues than it solved.The Good:Works great and kept my work computer and LTE internet service and router going for appx 90 mins into a power failure.Also has an audible sound to indicate when battery is getting low so you are not surprised when it gets drained.I do recommend this unit.Update: after using this for over 2 years now, it has been flawless.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Canada on April 20, 2025"
+        },
+        "profile": {
+          "name": "Greg M"
+        },
+        "verified_purchase": true
+      },
+      {
+        "id": "R1W255LTV5XC9B",
+        "body": "Compact, bonne disposition des prises, batterie très facile à changer !",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Canada on October 31, 2025"
+        },
+        "profile": {
+          "name": "DC"
+        },
+        "verified_purchase": true
+      }
+    ],
+    "bestsellers_rank": [
+      {
+        "rank": 1,
+        "category": "Computer Uninterruptible Power Supply Units",
+        "link": "https://www.amazon.com/gp/bestsellers/pc/764572/ref=pd_zg_hrsr_pc"
+      }
+    ],
+    "a_plus_content": {
+      "has_a_plus_content": true,
+      "has_brand_story": true,
+      "brand_story": {
+        "hero_image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0722770a-e3b6-4d4b-aa41-e491fec29c05.__CR0,0,1464,625_PT0_SX1464_V1___.png",
+        "brand_store": {
+          "link": "/stores/page/EFF29AC1-601F-45AD-88C0-9F28AEA85953",
+          "id": "EFF29AC1-601F-45AD-88C0-9F28AEA85953"
+        },
+        "images": [
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0722770a-e3b6-4d4b-aa41-e491fec29c05.__CR0,0,1464,625_PT0_SX1464_V1___.png",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/830b2b5a-0381-4d79-b2df-ccbe70265de7.__CR0,0,362,453_PT0_SX362_V1___.png",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/20f8e0ff-7587-4032-83ac-3d92450b937c.__CR0,0,362,453_PT0_SX362_V1___.png",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2455c42e-e2d8-4387-a307-81556c6fa560.__CR0,0,362,453_PT0_SX362_V1___.png",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/71528b79-3da5-49fa-92e9-653badf576ce.__CR0,0,362,453_PT0_SX362_V1___.png",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/36fdda3f-1be0-4b37-8e8b-57507531fae9.__CR0,0,362,453_PT0_SX362_V1___.png",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e025982f-3472-41d5-8493-69d5f24918a2.__CR0,0,362,453_PT0_SX362_V1___.png",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/08e57394-8c06-47c7-a4ad-0045e29cdb73.__CR0,0,362,453_PT0_SX362_V1___.png",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/eb512cd6-3cbc-4930-8cd8-8d1703c05ee9.__CR0,0,362,453_PT0_SX362_V1___.png",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f0aa2cc8-521a-4b95-abb6-6515d01f9700.__CR0,0,362,453_PT0_SX362_V1___.png"
+        ]
+      },
+      "all_images": [
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8a95aa31-771e-4336-a5ee-c8e6cec97ae0.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "APC Back-UPS Intro"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/21440f1c-a40e-4edc-b556-598fbfa34175.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "Certainty in a connected world"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0082414f-9990-4d93-87fa-9c8625cd0db6.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "Stay connected to what matters"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4e6a7789-9e72-4325-a63d-7fcede4088da.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "Robust battery"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/aa380aa3-c4dc-47bf-9f43-5106135be2d7.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/85b2368d-3fca-4ba5-870f-f99ee0ba8e9f.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+          "name": "Compact, lightweight design"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/48784f54-e4d9-418e-9c35-6b654a3b9c36.__CR0,0,300,225_PT0_SX300_V1___.png",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/725b4f65-f58a-428a-a2d2-638950943871.__CR0,0,300,225_PT0_SX300_V1___.png",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4e09dbb4-75b6-470c-984d-1426f43e1faa.__CR0,0,300,225_PT0_SX300_V1___.png",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0722770a-e3b6-4d4b-aa41-e491fec29c05.__CR0,0,1464,625_PT0_SX1464_V1___.png",
+          "name": "Brand Story Background"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/782b5e64-f59f-4b63-a9b5-fe02318be1f6.__AC_SR166,182___.jpg",
+          "name": "APC Back-UPS Delivers clean battery power"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/88a6758e-73da-4fe7-96b1-6cb3e39f3d0f.__AC_SR166,182___.jpg",
+          "name": "APC Back-UPS Delivers clean battery power"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d798f42c-67de-47eb-8193-2ab2e7d130e0.__AC_SR166,182___.jpg",
+          "name": "APC UPS 1500VA Sine Wave UPS Battery Backup, BR1500MS2 Backup Battery Power Supply, AVR, 10 Outle..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/fb19b3e5-c2d7-4c7b-addf-e4de5722b572.__AC_SR166,182___.jpg",
+          "name": "APC UPS BE850M2, 850VA UPS Battery Backup &amp; Surge Protector, Backup Battery Uninterruptible Power..."
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/830b2b5a-0381-4d79-b2df-ccbe70265de7.__CR0,0,362,453_PT0_SX362_V1___.png",
+          "name": "Back-UPS pro Sinewave UPS"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/20f8e0ff-7587-4032-83ac-3d92450b937c.__CR0,0,362,453_PT0_SX362_V1___.png",
+          "name": "Back-UPS Pro Sinewave UPS"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2455c42e-e2d8-4387-a307-81556c6fa560.__CR0,0,362,453_PT0_SX362_V1___.png",
+          "name": "Report Energy"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/71528b79-3da5-49fa-92e9-653badf576ce.__CR0,0,362,453_PT0_SX362_V1___.png",
+          "name": "PowerChute management"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/36fdda3f-1be0-4b37-8e8b-57507531fae9.__CR0,0,362,453_PT0_SX362_V1___.png",
+          "name": "No single use plastics"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e025982f-3472-41d5-8493-69d5f24918a2.__CR0,0,362,453_PT0_SX362_V1___.png",
+          "name": "Sinewave output"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/08e57394-8c06-47c7-a4ad-0045e29cdb73.__CR0,0,362,453_PT0_SX362_V1___.png",
+          "name": "Protected equipment means less plastic waste"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/eb512cd6-3cbc-4930-8cd8-8d1703c05ee9.__CR0,0,362,453_PT0_SX362_V1___.png",
+          "name": "Powerchute serial shutdown"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f0aa2cc8-521a-4b95-abb6-6515d01f9700.__CR0,0,362,453_PT0_SX362_V1___.png",
+          "name": "Premium power "
+        }
+      ],
+      "third_party": false
+    },
+    "buybox_winner": {
+      "maximum_order_quantity": {
+        "value": 30,
+        "hard_maximum": true
+      },
+      "price_only_available_in_cart": false,
+      "new_offers_count": 48,
+      "new_offers_from": {
+        "raw": "New"
+      },
+      "trade_in_and_save": true,
+      "protection_plans": [
+        {
+          "name": "2-Year Protection Plan",
+          "duration_months": 24,
+          "price": {
+            "value": "8.99",
+            "billing_type": "one_time",
+            "currency": "USD"
+          }
+        },
+        {
+          "name": "3-Year Protection Plan",
+          "duration_months": 36,
+          "price": {
+            "value": "11.99",
+            "billing_type": "one_time",
+            "currency": "USD"
+          }
+        },
+        {
+          "name": "NEW Complete Protect",
+          "description": "One plan covers all eligible past and future purchases",
+          "price": {
+            "value": "16.99",
+            "billing_type": "monthly",
+            "currency": "USD"
+          }
+        }
+      ],
+      "return_policy": {
+        "duration_days": 30,
+        "type": "refund/replacement",
+        "seller": "Amazon"
+      },
+      "is_prime": true,
+      "is_prime_exclusive_deal": false,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "In Stock",
+        "dispatch_days": 1
+      },
+      "fulfillment": {
+        "type": "p1",
+        "standard_delivery": {
+          "date": "Monday, March 23",
+          "name": "FREE"
+        },
+        "is_sold_by_amazon": true,
+        "amazon_seller": {
+          "name": "Amazon"
+        },
+        "is_fulfilled_by_amazon": true,
+        "is_fulfilled_by_third_party": false,
+        "is_sold_by_third_party": false
+      },
+      "price": {
+        "symbol": "$",
+        "value": 83.99,
+        "currency": "USD",
+        "raw": "$83.99"
+      },
+      "shipping": {
+        "raw": "FREE"
+      }
+    },
+    "specifications": [
+      {
+        "name": "Product Dimensions",
+        "value": "10.79 x 4.13 x 5.47 inches"
+      },
+      {
+        "name": "Item Weight",
+        "value": "7.5 pounds"
+      },
+      {
+        "name": "ASIN",
+        "value": "B01FWAZEIU"
+      },
+      {
+        "name": "Item model number",
+        "value": "BE600M1"
+      },
+      {
+        "name": "Batteries",
+        "value": "1 Lithium Polymer batteries required. (included)"
+      },
+      {
+        "name": "Customer Reviews",
+        "value": "4.5    4.5 out of 5 stars         (28,671)           4.5 out of 5 stars"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "#1 in Computer Uninterruptible Power Supply Units"
+      },
+      {
+        "name": "Is Discontinued By Manufacturer",
+        "value": "No"
+      },
+      {
+        "name": "Date First Available",
+        "value": "June 10, 2016"
+      },
+      {
+        "name": "Manufacturer",
+        "value": "APC"
+      },
+      {
+        "name": "Brand",
+        "value": "APC"
+      },
+      {
+        "name": "Battery Cell Composition",
+        "value": "Sealed Lead Acid"
+      },
+      {
+        "name": "Product Dimensions",
+        "value": "4.13\"D x 10.79\"W x 5.47\"H"
+      },
+      {
+        "name": "Voltage",
+        "value": "120 Volts"
+      },
+      {
+        "name": "Color",
+        "value": "Black"
+      }
+    ],
+    "specifications_flat": "Color: Black. Voltage: 120 Volts. Product Dimensions: 4.13\"D x 10.79\"W x 5.47\"H. Battery Cell Composition: Sealed Lead Acid. Brand: APC. Manufacturer: APC. Date First Available: June 10, 2016. Is Discontinued By Manufacturer: No. Best Sellers Rank: #1 in Computer Uninterruptible Power Supply Units. Customer Reviews: 4.5    4.5 out of 5 stars         (28,671)           4.5 out of 5 stars. Batteries: 1 Lithium Polymer batteries required. (included). Item model number: BE600M1. ASIN: B01FWAZEIU. Item Weight: 7.5 pounds. Product Dimensions: 10.79 x 4.13 x 5.47 inches.",
+    "recent_sales": "10K+ bought in past month",
+    "gift_guide_badge": {
+      "badge_text": "10K+ bought in past month"
+    },
+    "ingredients": [
+      "This unit have battery that can only be shipped within 48 states and shipped by ground due to Federal regulation."
+    ],
+    "ingredients_flat": "This unit have battery that can only be shipped within 48 states and shipped by ground due to Federal regulation.",
+    "color": "Black",
+    "manufacturer": "APC",
+    "weight": "7.5 pounds",
+    "first_available": {
+      "raw": "June 10, 2016",
+      "utc": "2016-06-10T00:00:00.000Z"
+    },
+    "dimensions": "10.79 x 4.13 x 5.47 inches",
+    "model_number": "BE600M1",
+    "bestsellers_rank_flat": "Category: Computer Uninterruptible Power Supply Units | Rank: 1",
+    "whats_in_the_box": [
+      "UPS^User Manual^USB Cable"
+    ]
+  },
+  "brand_store": {
+    "id": "EFF29AC1-601F-45AD-88C0-9F28AEA85953",
+    "link": "https://www.amazon.com/stores/APCbySchneiderElectric/page/EFF29AC1-601F-45AD-88C0-9F28AEA85953"
+  }
+}

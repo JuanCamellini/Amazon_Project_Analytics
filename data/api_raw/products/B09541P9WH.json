@@ -1,0 +1,744 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 4,
+    "credits_remaining": 96,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "type": "product",
+    "asin": "B09541P9WH",
+    "amazon_domain": "amazon.com"
+  },
+  "request_metadata": {
+    "created_at": "2026-03-17T15:35:45.805Z",
+    "processed_at": "2026-03-17T15:35:50.656Z",
+    "total_time_taken": 4.85,
+    "amazon_url": "https://www.amazon.com/dp/B09541P9WH?th=1&psc=1"
+  },
+  "product": {
+    "title": "Amazon Basics Double-Tipped Cotton Swabs for Personal Hygiene and Baby Care, 100% Cotton, Versatile, Baby Safe, 500 Count 500 Count (Pack of 1)",
+    "search_alias": {
+      "title": "Health, Household & Baby Care",
+      "value": "search-alias=hpc"
+    },
+    "title_excluding_variant_name": "Amazon Basics Double-Tipped Cotton Swabs for Personal Hygiene and Baby Care, 100% Cotton, Versatile, Baby Safe, 500 Count",
+    "keywords": "Amazon Basics Double-Tipped Cotton Swabs for Personal Hygiene and Baby Care, 100% Cotton, Versatile, Baby Safe, 500 Count 500 Count (Pack of 1)",
+    "keywords_list": [
+      "Amazon Basics Double-Tipped Cotton Swabs for Personal Hygiene and Baby Care",
+      "100% Cotton",
+      "Versatile",
+      "Baby Safe",
+      "500 Count 500 Count (Pack of 1)"
+    ],
+    "is_collection": false,
+    "asin": "B09541P9WH",
+    "parent_asin": "B0B6C7WSJR",
+    "gtin": "195515011501 195515011723",
+    "link": "https://www.amazon.com/Amazon-Basics-Cotton-Swabs-500ct/dp/B09541P9WH",
+    "brand": "Amazon Basics",
+    "sell_on_amazon": false,
+    "variants": [
+      {
+        "asin": "B09541P9WH",
+        "title": "500 Count (Pack of 1)",
+        "is_current_product": true,
+        "link": "https://www.amazon.com/dp/B09541P9WH?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "500 Count (Pack of 1)"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/612HeyYXOnL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/612HeyYXOnL._SL1500_.jpg"
+          }
+        ]
+      },
+      {
+        "asin": "B09498GV6R",
+        "title": "4 Pack",
+        "is_current_product": false,
+        "link": "https://www.amazon.com/dp/B09498GV6R?th=1&psc=1",
+        "dimensions": [
+          {
+            "name": "Size",
+            "value": "4 Pack"
+          }
+        ],
+        "main_image": "https://m.media-amazon.com/images/I/71I8KZp5bdL._SL1500_.jpg",
+        "images": [
+          {
+            "variant": "MAIN",
+            "link": "https://m.media-amazon.com/images/I/71I8KZp5bdL._SL1500_.jpg"
+          }
+        ]
+      }
+    ],
+    "variant_asins_flat": "B09541P9WH,B09498GV6R",
+    "proposition_65_warning": false,
+    "has_size_guide": true,
+    "add_on_item": {
+      "is_add_on_item": true
+    },
+    "categories": [
+      {
+        "name": "Health, Household & Baby Care"
+      },
+      {
+        "name": "Beauty & Personal Care",
+        "link": "https://www.amazon.com/Beauty-Makeup-Skin-Hair-Products/b/ref=dp_bc_1?ie=UTF8&node=3760911",
+        "category_id": "3760911"
+      },
+      {
+        "name": "Tools & Accessories",
+        "link": "https://www.amazon.com/Tools-Accessories-Hair-Makeup/b/ref=dp_bc_2?ie=UTF8&node=11062741",
+        "category_id": "11062741"
+      },
+      {
+        "name": "Cotton Balls & Swabs",
+        "link": "https://www.amazon.com/Cotton-Balls-Swabs/b/ref=dp_bc_3?ie=UTF8&node=3784921",
+        "category_id": "3784921"
+      },
+      {
+        "name": "Cotton Swabs",
+        "link": "https://www.amazon.com/Cotton-Swabs/b/ref=dp_bc_4?ie=UTF8&node=3784941",
+        "category_id": "3784941"
+      }
+    ],
+    "categories_flat": "Health, Household & Baby Care > Beauty & Personal Care > Tools & Accessories > Cotton Balls & Swabs > Cotton Swabs",
+    "description": "Amazon Basics Cotton Swabs are double-tipped with 100% cotton making them soft yet strong enough for your beauty and skincare needs. Cotton tips are gentle enough for baby’s soft skin.",
+    "sub_title": {
+      "text": "Visit the Amazon Basics Store",
+      "link": "https://www.amazon.com/stores/AmazonBasics/page/947C6949-CF8E-4BD3-914A-B411DD3E4433?lp_asin=B09541P9WH&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto"
+    },
+    "amazons_choice": {
+      "link": "https://www.amazon.com/Amazon-Basics-Cotton-Swabs-500ct/dp/B09541P9WH"
+    },
+    "marketplace_id": "ATVPDKIKX0DER",
+    "rating": 4.7,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 82,
+        "count": 59063
+      },
+      "four_star": {
+        "percentage": 12,
+        "count": 8643
+      },
+      "three_star": {
+        "percentage": 4,
+        "count": 2881
+      },
+      "two_star": {
+        "percentage": 1,
+        "count": 720
+      },
+      "one_star": {
+        "percentage": 1,
+        "count": 720
+      }
+    },
+    "ratings_total": 72028,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/612HeyYXOnL.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/613MHKKzVLL._SL1500_.jpg",
+        "variant": "BACK"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61yxTevVNRL._SL1500_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/514N+ZNhoiL._SL1019_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/7144hTIkwwL._SL1500_.jpg",
+        "variant": "EV01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81S--iF73fL._SL1500_.jpg",
+        "variant": "EV02"
+      }
+    ],
+    "images_count": 5,
+    "images_flat": "https://m.media-amazon.com/images/I/613MHKKzVLL._SL1500_.jpg,https://m.media-amazon.com/images/I/61yxTevVNRL._SL1500_.jpg,https://m.media-amazon.com/images/I/514N+ZNhoiL._SL1019_.jpg,https://m.media-amazon.com/images/I/7144hTIkwwL._SL1500_.jpg,https://m.media-amazon.com/images/I/81S--iF73fL._SL1500_.jpg",
+    "videos_additional": [
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0af05a4f58b649668f7478b37e8706fb",
+        "product_asin": "B09541P9WH",
+        "parent_asin": "B0B6C7WSJR",
+        "related_products": "B09541P9WH",
+        "title": "Bravo, Amazon, basic Q-tips",
+        "profile_image_url": "https://m.media-amazon.com/images/S/amazon-avatars-global/877b9359-4e92-4ad0-9853-7926bdad7263._CR0%2C26%2C281%2C281_UX460_._SL34_.jpg",
+        "profile_link": "/gp/profile/amzn1.account.AENEY5GIL57HHEWJV2IXUQN7NCEQ",
+        "public_name": "Mario",
+        "vendor_code": "AOD60",
+        "vendor_name": "Mario",
+        "video_image_url": "https://m.media-amazon.com/images/I/51tox9js-tL._CR0,0,720,406_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/51tox9js-tL.jpg",
+        "video_image_width": "720",
+        "video_image_height": "1280",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/45f15d16-8111-4d32-94d6-4546e353df7d/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/b6ef0afb-740a-4039-b7ad-0fb1462a6a97/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/b6ef0afb-740a-4039-b7ad-0fb1462a6a97/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:22",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/25f299c6-8fb4-4ab1-8d38-0215c1f601b9.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.004503ca42ee49f39725c8f45091a895",
+        "product_asin": "B09541P9WH",
+        "parent_asin": "B0B6C7WSJR",
+        "related_products": "B0BDHWDR12,B09541P9WH",
+        "title": "Pros and cons AirPods Pro -how to clean",
+        "profile_image_url": "https://m.media-amazon.com/images/I/91DC2XWO71L._CR0,182,1170,1170_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/amberdelusionalmillionaire",
+        "public_name": "Amber’s Must Haves",
+        "vendor_code": "amberdelusionalmillionaire:shop",
+        "vendor_name": "Amber’s Must Haves",
+        "vendor_tracking_id": "onamzambe0f06-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/61d6HlRT2FL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61d6HlRT2FL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1137",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/bc595601-c073-46bc-9799-85c3d6b8698c/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/525f6071-8972-42af-b1d4-090b1523ac61/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/525f6071-8972-42af-b1d4-090b1523ac61/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/525f6071-8972-42af-b1d4-090b1523ac61/f88aa3d9-8664-49d3-862d-0382e2bf067a/004503ca42ee49f39725c8f45091a895_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:28",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/f056958b-3140-4c6e-98c3-a819c8f0bdf1.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.09fe0483c5614e22a9a0d5e3538ac328",
+        "product_asin": "B09541P9WH",
+        "parent_asin": "B0B6C7WSJR",
+        "related_products": "B09541P9WH",
+        "title": "Why I love these Amazon Cotton Swabs!",
+        "profile_image_url": "https://m.media-amazon.com/images/I/71ktlVl877L._CR70,0,420,420_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/influencer-2f440500",
+        "public_name": "Divine Queens of Healing",
+        "vendor_code": "influencer-2f440500:shop",
+        "vendor_name": "Divine Queens of Healing",
+        "vendor_tracking_id": "onamzdiviquee-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/61Fh2GEdZuL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61Fh2GEdZuL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1137",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/22feabd9-5fde-4050-8572-4112c772eadc/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d8731277-534e-416a-b8d8-38edcc74895a/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d8731277-534e-416a-b8d8-38edcc74895a/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:27",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/6be2a1af-cd61-42cf-b665-92f8c32ef3b3.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.033e6a96f00345249c31d28905b8582e",
+        "product_asin": "B09541P9WH",
+        "parent_asin": "B0B6C7WSJR",
+        "related_products": "B09541P9WH",
+        "title": "Amazon Basic Cotton Swabs - Do they hold up?",
+        "profile_image_url": "https://m.media-amazon.com/images/I/B12tlmQhjkL._CR177,172,2015,2015_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/healthyinsideout",
+        "public_name": "Busy Life, Great Finds: Mom Edition",
+        "vendor_code": "healthyinsideout:shop",
+        "vendor_name": "Busy Life, Great Finds: Mom Edition",
+        "vendor_tracking_id": "onamzjuli0b94-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/91X3PXLW6FL._CR0,0,1080,609_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/91X3PXLW6FL.png",
+        "video_image_width": "1080",
+        "video_image_height": "1080",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/8444a39d-538a-4ae2-ba99-8e1475ff0820/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/09fb0318-2b91-48c1-ba7f-c7670f23b7ce/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/09fb0318-2b91-48c1-ba7f-c7670f23b7ce/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:27",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/d41bd13a-d46b-4f77-97b4-8fae975103a9.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0279ec4407084da28cd7840782e7ea26",
+        "product_asin": "B09541P9WH",
+        "parent_asin": "B0B6C7WSJR",
+        "related_products": "B09541P9WH",
+        "title": "Essentials with a pretty price point",
+        "profile_image_url": "https://m.media-amazon.com/images/I/91aRXvDo6eL._CR0,534,1080,1080_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/influencer-b0c91825",
+        "public_name": "✅K&T Reviews ⭐⭐⭐⭐⭐",
+        "vendor_code": "influencer-b0c91825:shop",
+        "vendor_name": "✅K&T Reviews ⭐⭐⭐⭐⭐",
+        "vendor_tracking_id": "onamztanawink-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/91gz-Z148CL._CR0,0,2556,1442_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/91gz-Z148CL.jpg",
+        "video_image_width": "2556",
+        "video_image_height": "3408",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/71639fe8-8dda-4c21-844a-9a7c99a9cb12/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/1897c7a0-250a-4347-8c54-ee8d7b3703e4/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/1897c7a0-250a-4347-8c54-ee8d7b3703e4/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:15",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/ebdbc63e-45d4-4261-81c6-e91fbdb11330.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.04ac69b852c4411e9f9f6d2bb58e841b",
+        "product_asin": "B09541P9WH",
+        "parent_asin": "B0B6C7WSJR",
+        "related_products": "B09541P9WH",
+        "title": "Watch for what I use these cotton swabs for!",
+        "profile_image_url": "https://m.media-amazon.com/images/I/91sO6mvRWoL._CR311,0,889,889_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/freshfamilyreviews",
+        "public_name": "Emily",
+        "vendor_code": "freshfamilyreviews:shop",
+        "vendor_name": "Emily",
+        "vendor_tracking_id": "onamzemi03f71-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/61avIRqcfyL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61avIRqcfyL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1130",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/1cf049b5-1908-4a4f-8fa1-79265d1ece11/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/5cb3004e-9f26-4867-8300-201f53c67fa6/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/5cb3004e-9f26-4867-8300-201f53c67fa6/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:13",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/484fc46b-3768-4804-accb-aa78c5a3b332.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.02e9301d111d47c499e4c325e560166e",
+        "product_asin": "B09541P9WH",
+        "parent_asin": "B0B6C7WSJR",
+        "related_products": "B09541P9WH",
+        "title": "My Thoughts On Cotton Swabs",
+        "profile_image_url": "https://m.media-amazon.com/images/I/91YS1HNFFYL._CR0,0,2316,2316_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/influencer-b73bec14",
+        "public_name": "✨ Kerry Shops ✨",
+        "vendor_code": "influencer-b73bec14:shop",
+        "vendor_name": "✨ Kerry Shops ✨",
+        "vendor_tracking_id": "onamzkerrycle-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/61BtJnUtw2L._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61BtJnUtw2L.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1137",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/97b06dac-cc1e-45fe-bb61-b5da46d11901/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/95993cdd-170a-4b6e-ba3e-c6cca15d6062/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/95993cdd-170a-4b6e-ba3e-c6cca15d6062/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:17",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/f5198821-798d-4c95-b3bc-f41f9d48effd.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.00217bc0f940449d9672e2040e61ffa8",
+        "product_asin": "B09541P9WH",
+        "parent_asin": "B0B6C7WSJR",
+        "related_products": "B09541P9WH",
+        "title": "Old Skool Cotton Swabs are the Best ",
+        "profile_image_url": "https://m.media-amazon.com/images/I/514R-9my6IL._CR0,0,501,501_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/aligntrust",
+        "public_name": "⭐️ ⭐️ ⭐️ ⭐️ ⭐️ by M",
+        "vendor_code": "aligntrust:shop",
+        "vendor_name": "⭐️ ⭐️ ⭐️ ⭐️ ⭐️ by M",
+        "vendor_tracking_id": "onamzmich0ea6-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/61PpHAnjdQL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61PpHAnjdQL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1137",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/696e80e5-ed3c-423f-b45d-bb0222b76da7/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/030c85cc-0c5c-423e-82c5-19d1b125074a/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/030c85cc-0c5c-423e-82c5-19d1b125074a/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/030c85cc-0c5c-423e-82c5-19d1b125074a/1251ebf6-63b0-4f42-8c5a-a2de2bd3ca06/00217bc0f940449d9672e2040e61ffa8_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:16",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/25f1a2bf-8437-485e-9d09-858673da58e5.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.00464f1ce36346adb44e27d0b678c91b",
+        "product_asin": "B09541P9WH",
+        "parent_asin": "B0B6C7WSJR",
+        "related_products": "B09541P9WH",
+        "title": "The Amazon Basics Cotton Swabs are great to have on hand!",
+        "profile_image_url": "https://m.media-amazon.com/images/I/91i5RzfVSiL._CR319,0,951,951_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/brittanycauble",
+        "public_name": "Brittany Cauble",
+        "vendor_code": "brittanycauble:shop",
+        "vendor_name": "Brittany Cauble",
+        "vendor_tracking_id": "onamzbri0e184-20",
+        "video_image_url": "https://m.media-amazon.com/images/I/71IMh8kMC-L._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/71IMh8kMC-L.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1137",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/646127e0-dfe4-4c65-a022-e959d3a6d3ff/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/614f3482-6740-402d-8043-e63fc8fe1454/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/614f3482-6740-402d-8043-e63fc8fe1454/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:10",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/cfbff34a-57e2-471b-a0a9-166f68acc9c7.vtt"
+      },
+      {
+        "type": "videos_for_this_product",
+        "id": "amzn1.vse.video.0637ecec23934dd6b7022820b5db658b",
+        "product_asin": "B09541P9WH",
+        "parent_asin": "B0B6C7WSJR",
+        "related_products": "B09541P9WH",
+        "title": "Cotton Swabs: Reliable but with Some Reservations",
+        "profile_image_url": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SL34_.png",
+        "profile_link": "/gp/profile/amzn1.account.AFDC7QFPBC4QXXN7ZKV3ONIO4JZA",
+        "public_name": "Carmen",
+        "vendor_code": "AOD60",
+        "vendor_name": "Carmen",
+        "video_image_url": "https://m.media-amazon.com/images/I/41LSfZYMKDL._CR0,0,480,271_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/41LSfZYMKDL.jpg",
+        "video_image_width": "480",
+        "video_image_height": "848",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ae40c27b-416f-49e7-a173-d45419feb4ee/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d5710545-d2fe-4d97-af90-fec6d978edb2/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d5710545-d2fe-4d97-af90-fec6d978edb2/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:35",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/5c8f2eb1-8cc1-4723-80f5-bcbaf750d035.vtt"
+      }
+    ],
+    "is_bundle": false,
+    "feature_bullets": [
+      "Cotton swabs (500-count)",
+      "Double tipped 100% cotton",
+      "Soft and gentle for baby's skin",
+      "Great for beauty, baby, and home",
+      "If you like Q-Tip cotton swabs, we invite you to try Amazon Basics Cotton Swabs",
+      "Running low? Use your Echo device or Alexa on the Amazon app to reorder by voice. Just say \"Alexa, reorder Amazon Basics Cotton Swabs.\""
+    ],
+    "feature_bullets_count": 6,
+    "feature_bullets_flat": "Running low? Use your Echo device or Alexa on the Amazon app to reorder by voice. Just say \"Alexa, reorder Amazon Basics Cotton Swabs.\". If you like Q-Tip cotton swabs, we invite you to try Amazon Basics Cotton Swabs. Great for beauty, baby, and home. Soft and gentle for baby's skin. Double tipped 100% cotton. Cotton swabs (500-count).",
+    "top_reviews": [
+      {
+        "id": "R10LXHKQUDCMCQ",
+        "title": "Just like the name brand",
+        "body": "I always keep a pack of Amazon Basics Cotton Swabs on hand, and they’ve quickly become a household staple. The cotton tips are soft yet firm enough to use for a variety of things — from personal hygiene to cleaning small nooks around the house.I love that they’re sturdy and don’t fall apart when you’re using them, and the amount you get in a pack is great value. They’re simple, reliable, and exactly what you expect from basic cotton swabs — just good quality without paying extra.Perfect for everyday use in bathrooms, first‑aid kits, or travel!",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on February 17, 2026"
+        },
+        "profile": {
+          "name": "Merely A Mom"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 4,
+        "link": "https://www.amazon.com/gp/customer-reviews/R10LXHKQUDCMCQ/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "RXW7VXQN51RBR",
+        "title": "Best Money Saver on Cotton Swabs – Way Cheaper Than Dollar Tree/99 Cent Store!",
+        "body": "If you go through cotton swabs regularly (ears, baby care, crafts, cleaning small spots), grab this Amazon Basics 500-count pack—it's a no-brainer for saving money. For around $4–$5 (often on sale), you get 500 sturdy, soft-tipped swabs that do the job just as well as Q-tips or store brands.At the Dollar Tree or 99 Cent Store, you're lucky to get 100 for $1–$1.25—meaning you'd pay 5x more for the same amount here. These are thicker, hold together better (no loose cotton falling off), and feel premium without the premium price. Great for everyday use, gentle on skin/babies, and the box lasts forever.No complaints on quality—I've switched permanently from the tiny dollar-store packs. If you want to save cash and still get reliable swabs, this is the way to go. Highly recommend stocking up!",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on February 9, 2026"
+        },
+        "profile": {
+          "name": "Niche"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 6,
+        "link": "https://www.amazon.com/gp/customer-reviews/RXW7VXQN51RBR/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R1Y2R3ESXEX7DP",
+        "title": "Perfect for Everyday Use!",
+        "body": "I’ve been using Amazon Basics Cotton Swabs for a while now, and they never disappoint! The cotton tips are soft yet sturdy, and they don’t unravel like some other brands. The sticks are strong and flexible enough for all kinds of tasks—cleaning small spaces, applying skincare, or touch-ups. The packaging is convenient and keeps them clean and organized.Great quality at such an affordable price. Highly recommend!",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on March 7, 2026"
+        },
+        "profile": {
+          "name": "Ms Strawberry Shortcake"
+        },
+        "verified_purchase": true,
+        "link": "https://www.amazon.com/gp/customer-reviews/R1Y2R3ESXEX7DP/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "RKU68TN13XQFL",
+        "title": "practical, functional and budget friendly",
+        "body": "These are basic white Q-tips. Most hold up well and won’t bend easily with slight pressure, though a few may flex if too much pressure is applied (which you shouldn’t do in the ear anyway). The tips aren’t as soft as some name brands but are still soft enough for safe use.Overall, they are a great value for the money.Pros:Affordable and good valueMost Q-tips are sturdy and hold their shapeSoft enough for everyday useCons:Some tips may bend under pressureNot as soft as premium brandsConclusion:Overall, these Q-tips are practical, functional, and budget-friendly. They work well for everyday use, though a few may bend if handled roughly.",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in the United States on January 1, 2026"
+        },
+        "profile": {
+          "name": "Michael"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 3,
+        "link": "https://www.amazon.com/gp/customer-reviews/RKU68TN13XQFL/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R1JFEG58K53JC5",
+        "title": "I couldn't be happier with my choice!",
+        "body": "This 500-count pack is perfect for personal hygiene and baby care. The quality is excellent; the cotton tips are soft and absorbent, making them gentle on the skin. They’re versatile, too—I use them for everything from cleaning to makeup application. The packaging is convenient, allowing easy access while keeping the swabs clean. It's a fantastic value for the price. I highly recommend these cotton swabs to anyone looking for reliable and high-quality personal care items!",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on February 26, 2026"
+        },
+        "profile": {
+          "name": "Kimberly Johana Lux lux"
+        },
+        "verified_purchase": true,
+        "link": "https://www.amazon.com/gp/customer-reviews/R1JFEG58K53JC5/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "RUI0U1JSI278V",
+        "title": "I absolutely love these basic cotton swabs!",
+        "body": "They are soft, absorbent, and perfect for personal hygiene and baby care. The 500-pack is an incredible value, ensuring I always have enough on hand. I've used them for everything from cleaning my ears to applying ointments on my baby. They do not leave any cotton residue and feel gentle on the skin. Highly recommend these cotton swabs for anyone looking for reliable and versatile hygiene products! A must-have in every household!",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on February 27, 2026"
+        },
+        "profile": {
+          "name": "Melinda Feliciano"
+        },
+        "verified_purchase": true,
+        "link": "https://www.amazon.com/gp/customer-reviews/RUI0U1JSI278V/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R3OMT5FQSWW9GI",
+        "title": "Simple, Reliable Cotton Swabs That Get the Job Done!",
+        "body": "These cotton swabs are eco-friendly, stay securely on the stick, and don’t unravel easily, making them reliable for everyday use. They have good absorbency and work well for basic applications, whether it’s personal care or quick cleanups.They also do a solid job with lint removal without falling apart like cheaper options. Overall, they’re a good value and something I keep stocked regularly. No frills, just consistent quality that does what it’s supposed to do.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on February 6, 2026"
+        },
+        "profile": {
+          "name": "Niesha"
+        },
+        "verified_purchase": true,
+        "helpful_votes": 2,
+        "link": "https://www.amazon.com/gp/customer-reviews/R3OMT5FQSWW9GI/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      },
+      {
+        "id": "R2455U070P7P1X",
+        "title": "Soft, Sturdy, and a Great Value for Everyday Use",
+        "body": "These Amazon Basics cotton swabs are exactly what you’d want for everyday use. The tips are soft and well-formed, and they don’t feel flimsy or loosely wrapped. They hold together well without unraveling, which makes them much easier to use.The sticks themselves are sturdy enough that they don’t bend immediately with light pressure, but they’re still flexible enough to be comfortable. I’ve used them for basic hygiene, small clean-ups, and general household tasks, and they perform just like you’d expect.The 500-count pack is also a great value. It lasts a long time and makes it easy to keep extras in the bathroom or first aid kit without running out quickly.Overall, these are simple, dependable cotton swabs that get the job done. Affordable, consistent quality, and perfect for everyday needs.",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on February 17, 2026"
+        },
+        "profile": {
+          "name": "Beth"
+        },
+        "verified_purchase": true,
+        "helpful_votes": null,
+        "link": "https://www.amazon.com/gp/customer-reviews/R2455U070P7P1X/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8"
+      }
+    ],
+    "bestsellers_rank": [
+      {
+        "rank": 41,
+        "category": "Beauty & Personal Care",
+        "link": "https://www.amazon.com/gp/bestsellers/beauty/ref=pd_zg_ts_beauty"
+      },
+      {
+        "rank": 2,
+        "category": "Cotton Swabs",
+        "link": "https://www.amazon.com/gp/bestsellers/beauty/3784941/ref=pd_zg_hrsr_beauty"
+      }
+    ],
+    "a_plus_content": {
+      "has_a_plus_content": true,
+      "has_brand_story": true,
+      "brand_story": {
+        "hero_image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/57a77d70-23c0-42c5-908a-ccda50e1c917.__CR0,0,1464,625_PT0_SX1464_V1___.jpg",
+        "brand_store": {
+          "link": "/stores/page/9BEB45BF-40E9-4F00-B9CE-0CF425F0A935",
+          "id": "9BEB45BF-40E9-4F00-B9CE-0CF425F0A935"
+        },
+        "images": [
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/57a77d70-23c0-42c5-908a-ccda50e1c917.__CR0,0,1464,625_PT0_SX1464_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6936d59a-14a7-4c2f-9fd4-e12047495080.__CR0,0,724,906_PT0_SX362_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3157072c-fbac-4207-b742-4d761b5c3f1d.__CR0,0,724,906_PT0_SX362_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c51c8e73-a79a-499c-9104-b7aee50c70e6.__CR0,0,724,906_PT0_SX362_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2a3e9b41-e776-42c0-aae6-eaaca4ad1cde.__CR0,0,724,906_PT0_SX362_V1___.jpg"
+        ]
+      },
+      "all_images": [
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/57a77d70-23c0-42c5-908a-ccda50e1c917.__CR0,0,1464,625_PT0_SX1464_V1___.jpg",
+          "name": "fr343r"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6936d59a-14a7-4c2f-9fd4-e12047495080.__CR0,0,724,906_PT0_SX362_V1___.jpg",
+          "name": ""
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0436cd37-bb9b-4c6b-b9d4-94160b783e7e.__CR0,0,332,364_PT0_SX166_V1___.jpg",
+          "name": "Amazon Basics Upright Bagless Vacuum Cleaner for Carpet and Hard Floors"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/72afabb2-372b-4ee6-b00b-bafd4bd113dd.__CR0,0,332,364_PT0_SX166_V1___.jpg",
+          "name": "Amazon Basics 2-Ply Flex-Sheets Paper Towels, 12 Basics Rolls = 32 Regular Rolls, Everyday Value"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d0599c03-4897-4415-b965-2e8b4186ceed.__CR0,0,332,364_PT0_SX166_V1___.jpg",
+          "name": "Amazon Basics Clarifying Pink Grapefruit Body Wash, 2% Salicylic Acid Acne Treatment"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0cc324fe-fcf4-4475-b708-852c09229a1f.__CR0,0,332,364_PT0_SX166_V1___.jpg",
+          "name": "Amazon Basics 2-Ply Toilet Paper, 30 Rolls = 120 Regular Rolls, 350 Sheets, (Pack of 30), Unscented"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3157072c-fbac-4207-b742-4d761b5c3f1d.__CR0,0,724,906_PT0_SX362_V1___.jpg",
+          "name": "Fitness"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f1543079-e0f5-4152-8af6-9542b98b1400.__CR0,0,332,364_PT0_SX166_V1___.jpg",
+          "name": "Amazon Basics 15W Qi Certified Wireless Phone Charger Pad"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/adcf7d69-4d7e-4e9c-b89b-fd8737c42112.__CR0,0,332,364_PT0_SX166_V1___.jpg",
+          "name": "Amazon Basics USB-C to USB-A 2.0 Fast Charger Cable"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/130b21d5-971f-44a7-b897-137ffeaefbf1.__CR0,0,332,364_PT0_SX166_V1___.jpg",
+          "name": "Amazon Basics Stereo 2.0 Speakers for PC or Laptop, 3.5mm Aux input, USB-Powered, 1 Pair, Black"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7df483ea-0afb-4a7d-8721-dba282b845e3.__CR0,0,332,364_PT0_SX166_V1___.jpg",
+          "name": "Amazon Basics Portable Suitcase Vinyl Turntable Record Player"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c51c8e73-a79a-499c-9104-b7aee50c70e6.__CR0,0,724,906_PT0_SX362_V1___.jpg",
+          "name": "Office"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/62ad9bad-1d46-424f-956a-cdbba333b228.__CR0,0,332,364_PT0_SX166_V1___.jpg",
+          "name": "Amazon Basics Foldable Metal Octagonal, Square, Rectangle Exercise Pet Playpen for Dogs"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0f4bdd9c-0d42-4409-a9c2-502d4b9799be.__CR0,0,332,364_PT0_SX166_V1___.jpg",
+          "name": "Amazon Basics Stainless Steel Dog Bowl, Single"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/04145eee-cbe1-4e65-bfd0-8345cc75c3a6.__CR0,1,332,364_PT0_SX166_V1___.jpg",
+          "name": "Amazon Basics Cactus Cat Scratching Post with Dangling Ball, 25.6 Inches, Green"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/151142d8-9cdf-4531-97b7-2682a5418483.__CR0,0,332,364_PT0_SX166_V1___.jpg",
+          "name": "Amazon Basics Donut Pet Bolster Faux Fur Bed for Dog, Grey, 23&amp;#34; x 23&amp;#34;"
+        },
+        {
+          "link": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2a3e9b41-e776-42c0-aae6-eaaca4ad1cde.__CR0,0,724,906_PT0_SX362_V1___.jpg",
+          "name": "Garden and Outdoor"
+        }
+      ],
+      "third_party": false
+    },
+    "buybox_winner": {
+      "price_only_available_in_cart": false,
+      "unqualified_buy_box": true,
+      "trade_in_and_save": true,
+      "is_prime": false,
+      "is_prime_exclusive_deal": false,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "not_in_stock",
+        "raw": "Temporarily out of stock."
+      }
+    },
+    "specifications": [
+      {
+        "name": "Product Dimensions",
+        "value": "2.19 x 4.25 x 9.68 inches; 8.15 ounces"
+      },
+      {
+        "name": "UPC",
+        "value": "195515011501 195515011723"
+      },
+      {
+        "name": "Manufacturer",
+        "value": "Amazon.com Services LLC."
+      },
+      {
+        "name": "ASIN",
+        "value": "B09541P9WH"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "See Top 100 in Beauty & Personal Care"
+      },
+      {
+        "name": "Brand Name",
+        "value": "Amazon Basics"
+      },
+      {
+        "name": "Product Benefits",
+        "value": "Soft, gentle care for baby's skin at great value"
+      },
+      {
+        "name": "Global Trade Identification Number",
+        "value": "00195515011501"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "#41 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #2 in Cotton Swabs"
+      },
+      {
+        "name": "Customer Reviews",
+        "value": "4.7    4.7 out of 5 stars         (72,028)           4.7 out of 5 stars"
+      },
+      {
+        "name": "Size",
+        "value": "500 Count (Pack of 1)"
+      },
+      {
+        "name": "Unit Count",
+        "value": "500 Count"
+      },
+      {
+        "name": "Material Type",
+        "value": "Cotton"
+      },
+      {
+        "name": "Material Features",
+        "value": "Natural"
+      },
+      {
+        "name": "Item Shape",
+        "value": "Rectangular"
+      },
+      {
+        "name": "GTIN",
+        "value": "195515011501 195515011723"
+      }
+    ],
+    "specifications_flat": "GTIN: 195515011501 195515011723. Item Shape: Rectangular. Material Features: Natural. Material Type: Cotton. Unit Count: 500 Count. Size: 500 Count (Pack of 1). Customer Reviews: 4.7    4.7 out of 5 stars         (72,028)           4.7 out of 5 stars. Best Sellers Rank: #41 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #2 in Cotton Swabs. Global Trade Identification Number: 00195515011501. Product Benefits: Soft, gentle care for baby's skin at great value. Brand Name: Amazon Basics. Best Sellers Rank: See Top 100 in Beauty & Personal Care. ASIN: B09541P9WH. Manufacturer: Amazon.com Services LLC. UPC: 195515011501 195515011723. Product Dimensions: 2.19 x 4.25 x 9.68 inches; 8.15 ounces.",
+    "ingredients": [
+      "Gently use these cotton swabs on baby's skin as needed100% cotton tips",
+      "paper sticks “CAUTION: Do not enter ear canal. Use only as directed. Entering the ear canal could cause injury. Keep out of reach of children.1.Personal Care - Makeup application",
+      "makeup removal",
+      "skin care. 2.Baby Care - Gentle ear cleaning",
+      "nose cleaning. 3.Nail Care - Nail polish corrections",
+      "clean up excess polish."
+    ],
+    "ingredients_flat": "Gently use these cotton swabs on baby's skin as needed100% cotton tips, paper sticks “CAUTION: Do not enter ear canal. Use only as directed. Entering the ear canal could cause injury. Keep out of reach of children.1.Personal Care - Makeup application, makeup removal, skin care. 2.Baby Care - Gentle ear cleaning, nose cleaning. 3.Nail Care - Nail polish corrections, clean up excess polish.",
+    "material": "Natural",
+    "manufacturer": "Amazon.com Services LLC.",
+    "dimensions": "2.19 x 4.25 x 9.68 inches; 8.15 ounces",
+    "bestsellers_rank_flat": "Category: Beauty & Personal Care | Rank: 41, Category: Cotton Swabs | Rank: 2"
+  },
+  "brand_store": {
+    "id": "947C6949-CF8E-4BD3-914A-B411DD3E4433",
+    "link": "https://www.amazon.com/stores/AmazonBasics/page/947C6949-CF8E-4BD3-914A-B411DD3E4433"
+  }
+}
