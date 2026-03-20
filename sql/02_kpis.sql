@@ -15,17 +15,21 @@ WHERE recent_sales_approx IS NOT NULL
 ORDER BY recent_sales_approx DESC
 LIMIT 10;
 -- 1.2 Top 10 Products per Category by approximate sales
-SELECT
-    asin,
-    RANK() OVER (PARTITION BY category ORDER BY recent_sales_approx DESC) AS rank_sales,
-    recent_sales_approx,
-    title, 
-    price_primary,
-    category,
-    page
-FROM products_search
-WHERE recent_sales_approx IS NOT NULL AND rank_sales <= 10;
-
+SELECT *
+FROM (
+    SELECT
+        category,
+        asin,
+        RANK() OVER (PARTITION BY category ORDER BY recent_sales_approx DESC) AS rank_sales,
+        recent_sales_approx,
+        title, 
+        price_primary,
+        page
+    FROM products_search
+    WHERE recent_sales_approx IS NOT NULL 
+) ranked
+WHERE rank_sales <= 10
+ORDER BY category, rank_sales;
 
 /*  Insight: Beauty & Personal Care leads the top 10 products by sales
     The top 3 products have +100.000 sales in the last month, the lowest in 
@@ -108,6 +112,26 @@ WHERE recent_sales_approx IS NOT NULL
 AND search_position IS NOT NULL
 GROUP BY category, position_range
 ORDER BY category, position_range;
+
+-- 6. Products above their average sales
+SELECT 
+    ps.asin,
+    ps.title,
+    ps.category,
+    ps.recent_sales_approx,
+    ROUND(cat_avg.avg_sales, 0) AS category_avg_sales
+FROM products_search AS ps
+JOIN (
+    SELECT 
+        category,
+        AVG(recent_sales_approx) AS avg_sales
+    FROM products_search
+    WHERE recent_sales_approx IS NOT NULL
+    GROUP BY category
+) AS cat_avg ON ps.category = cat_avg.category
+WHERE ps.recent_sales_approx > cat_avg.avg_sales
+ORDER BY ps.category, ps.recent_sales_approx DESC;
+
 ---- ===================================
 ---- Queries with the table Products Top
 ---- ___________________________________
