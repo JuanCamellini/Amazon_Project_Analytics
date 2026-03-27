@@ -20,13 +20,14 @@ vw_brand_performance — métricas por marca (las que tienen más de 1 producto)
 vw_revenue_by_category — revenue estimado por categoría con rank
 */
 
--- 1. Category KPIs
+-- 1.1 Category KPIs
 CREATE OR REPLACE VIEW vw_category_summary AS
 SELECT 
     category,
     COUNT(*) AS product_count,
     ROUND(AVG(price_primary), 2) AS avg_price,
     SUM(recent_sales_approx) AS total_sales,
+    SUM(price_primary * recent_sales_approx) AS revenue_estimated,
     ROUND(AVG(rating),2) AS avg_rating,
     ROUND(AVG(review_count),0) AS avg_review,
     SUM(CASE WHEN price_rrp IS NOT NULL THEN 1 ELSE 0 END) AS discounted_products,
@@ -38,6 +39,28 @@ ORDER BY total_sales DESC;
 
 SELECT * FROM vw_category_summary;
 
+-- 1.2 Global KPIs
+CREATE OR REPLACE VIEW vw_global_kpis AS
+SELECT 
+    COUNT(*) AS product_count,
+    ROUND(AVG(price_primary), 2) AS avg_price,
+    SUM(recent_sales_approx) AS total_sales,
+    SUM(price_primary * recent_sales_approx) AS revenue_estimated,
+    ROUND(AVG(rating),2) AS avg_rating,
+    ROUND(AVG(review_count),0) AS avg_review
+FROM products_search
+WHERE recent_sales_approx IS NOT NULL
+ORDER BY total_sales DESC;
+
+SELECT * FROM vw_global_kpis;
+
+SELECT
+    ROUND(AVG(price_primary), 2) AS avg_price,
+    SUM(recent_sales_approx) AS total_sales,
+    SUM(price_primary * recent_sales_approx) AS revenue_estimated
+FROM products_search
+WHERE recent_sales_approx IS NOT NULL
+ORDER BY revenue_estimated DESC;
 -- 2. Discount analysis by categories
 CREATE OR REPLACE VIEW vw_discount_analysis AS
 SELECT 
@@ -102,6 +125,23 @@ GROUP BY category, CASE
 ORDER BY category, price_range;
 
 SELECT * FROM vw_price_ranges;
+
+-- 5. Revenue by Category
+DROP VIEW IF EXISTS vw_revenue_search_by_category;
+CREATE OR REPLACE VIEW vw_revenue_search_by_category AS
+SELECT
+    category,
+    SUM(price_primary * recent_sales_approx) AS revenue_estimated,
+    ROUND(AVG(search_position),0) AS avg_search_position,
+    RANK() OVER (ORDER BY SUM(price_primary * recent_sales_approx) DESC) AS revenue_rank,
+    ROUND(
+        SUM(price_primary * recent_sales_approx) * 100.0 / 
+        SUM(SUM(price_primary * recent_sales_approx)) OVER (), 1
+    ) AS revenue_pct
+FROM products_search
+GROUP BY category;
+
+SELECT * FROM vw_revenue_search_by_category;
 
 -- =============================================
 -- SECTION 2: products_top — Top Products Dashboard

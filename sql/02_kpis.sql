@@ -143,14 +143,15 @@ SELECT DISTINCT asin
     bsr_sub,
     recent_sales_approx,
     brand,
+    seller_name,
     category,
     subcategory,
     review_count,
     rating
 FROM products_top
 WHERE recent_sales_approx IS NOT NULL
-ORDER BY bsr_main ASC, bsr_sub ASC
-LIMIT 10;
+ORDER BY bsr_main ASC, bsr_sub ASC, brand
+LIMIT 20;
 /* Insight: Low BSR correlates with higher monthly sales — BSR #2 leads with 100K units.
    Top BSR products span all categories, as BSR ranks within subcategories not globally.
    High review counts (65K-144K) among top products suggest sales and social proof reinforce each other.
@@ -192,6 +193,7 @@ ORDER BY product_count DESC, avg_sales DESC;
 -- 4.1. Top products by engagement score (sales volume x rating)
 SELECT
     asin,
+     ALTER 
     title,
     brand,
     category,
